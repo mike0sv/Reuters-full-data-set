@@ -1,5 +1,5 @@
 # Reuters-full-data-set
-Full unofficial data set of Reuters composed of 8,551,441 news titles, links and timestamps (Jan 2007- Aug 2016).
+Full unofficial data set of Reuters composed of 8,551,441 news titles, links and timestamps (Jan 2007 - Aug 2016).
 
 ```
 git clone https://github.com/philipperemy/Reuters-full-data-set.git
