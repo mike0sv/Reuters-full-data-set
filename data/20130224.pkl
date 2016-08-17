@@ -1,0 +1,4645 @@
+(lp0
+(dp1
+S'href'
+p2
+S'http://www.reuters.com/article/2013/02/25/idUSnMKW86019a+1c0+MKW20130225'
+p3
+sS'ts'
+p4
+S'20130224\xc2\xa011:59PM UTC'
+p5
+sS'title'
+p6
+S'Corning to Showcase Latest Wireless Solutions at Mobile World Congress'
+p7
+sa(dp8
+g2
+S'http://www.reuters.com/article/2013/02/25/markets-hongkong-china-stocks-idUSL4N0BP0KU20130225'
+p9
+sg4
+S'20130224\xc2\xa011:58PM UTC'
+p10
+sg6
+S'Hong Kong shares linger at 2013 low, China pares gains after flash PMI'
+p11
+sa(dp12
+g2
+S'http://www.reuters.com/article/2013/02/25/oscar-bestpicture-idUSW1N0BO01E20130225'
+p13
+sg4
+S'20130224\xc2\xa011:55PM UTC'
+p14
+sg6
+S"'Argo' wins Oscar for Best Picture"
+p15
+sa(dp16
+g2
+S'http://www.reuters.com/article/2013/02/25/oscars-bond-idUSL1N0BP0LD20130225'
+p17
+sg4
+S'20130224\xc2\xa011:54PM UTC'
+p18
+sg6
+S'UPDATE 2-Shirley Bassey leads Oscars 50th birthday tribute to James Bond'
+p19
+sa(dp20
+g2
+S'http://www.reuters.com/article/2013/02/25/oscars-bestactor-idUSW1N0BO01C20130225'
+p21
+sg4
+S'20130224\xc2\xa011:48PM UTC'
+p22
+sg6
+S"Daniel Day-Lewis wins Best Actor Oscar for 'Lincoln'"
+p23
+sa(dp24
+g2
+S'http://www.reuters.com/article/2013/02/25/oscars-bestactress-idUSW1N0BO01D20130225'
+p25
+sg4
+S'20130224\xc2\xa011:43PM UTC'
+p26
+sg6
+S"Jennifer Lawrence wins Best Actress Oscar for 'Silver Linings'"
+p27
+sa(dp28
+g2
+S'http://www.reuters.com/article/2013/02/25/hkproperty-shares-idUSL4N0BP0R920130225'
+p29
+sg4
+S'20130224\xc2\xa011:34PM UTC'
+p30
+sg6
+S'Hong Kong property shares fall on fresh housing curbs'
+p31
+sa(dp32
+g2
+S'http://www.reuters.com/article/2013/02/25/oscars-bestdirector-idUSW1N0BO01A20130225'
+p33
+sg4
+S'20130224\xc2\xa011:34PM UTC'
+p34
+sg6
+S"Ang Lee wins second directing Oscar for 'Life of Pi'"
+p35
+sa(dp36
+g2
+S'http://www.reuters.com/article/2013/02/25/japan-economy-mof-adb-idUST9N0B501W20130225'
+p37
+sg4
+S'20130224\xc2\xa011:33PM UTC'
+p38
+sg6
+S'CORRECTED-Japan mulls nominating its FX tsar Nakao to succeed ADB post-Jiji'
+p39
+sa(dp40
+g2
+S'http://www.reuters.com/article/2013/02/25/entertainment-us-oscars-fashion-idUSBRE91O03720130225'
+p41
+sg4
+S'20130224\xc2\xa011:30PM UTC'
+p42
+sg6
+S'Pale blush, sparkle and gold grace Oscars red carpet'
+p43
+sa(dp44
+g2
+S'http://www.reuters.com/article/2013/02/25/zte-idUSnBw8DpZkLa+12a+BSW20130225'
+p45
+sg4
+S'20130224\xc2\xa011:24PM UTC'
+p46
+sg6
+S'ZTE to Increase Smartphone Revenues by 30% in 2013'
+p47
+sa(dp48
+g2
+S'http://www.reuters.com/article/2013/02/25/market-chatter-idUSL4N0BP11S20130225'
+p49
+sg4
+S'20130224\xc2\xa011:23PM UTC'
+p50
+sg6
+S'Market Chatter-Corporate finance press digest'
+p51
+sa(dp52
+g2
+S'http://www.reuters.com/article/2013/02/25/entertainment-us-oscars-show-idUSBRE91O05320130225'
+p53
+sg4
+S'20130224\xc2\xa011:22PM UTC'
+p54
+sg6
+S'Rookie Oscar host Seth MacFarlane lives up to provocative image'
+p55
+sa(dp56
+g2
+S'http://www.reuters.com/article/2013/02/25/antasports-results-idUSH9N0B000J20130225'
+p57
+sg4
+S'20130224\xc2\xa011:19PM UTC'
+p58
+sg6
+S'ANTA Sports says 2012 net profit down 21.5 pct'
+p59
+sa(dp60
+g2
+S'http://www.reuters.com/article/2013/02/25/oscars-show-idUSL1N0BP0FI20130225'
+p61
+sg4
+S'20130224\xc2\xa011:18PM UTC'
+p62
+sg6
+S'REFILE-Rookie Oscar host Seth MacFarlane lives up to provocative image'
+p63
+sa(dp64
+g2
+S'http://www.reuters.com/article/2013/02/25/us-samsung-apple-idUSBRE91O04U20130225'
+p65
+sg4
+S'20130224\xc2\xa011:14PM UTC'
+p66
+sg6
+S"Samsung to unveil its next Galaxy S smartphone on Apple's turf"
+p67
+sa(dp68
+g2
+S'http://www.reuters.com/article/2013/02/25/lovegold-oscars-gold-idUSnPnNY65406+160+PRN20130225'
+p69
+sg4
+S'20130224\xc2\xa011:11PM UTC'
+p70
+sg6
+S'Gold Reigns Supreme At The 85th Annual Academy Awards'
+p71
+sa(dp72
+g2
+S'http://www.reuters.com/article/2013/02/25/india-snapshot-idUSL4N0BP19K20130225'
+p73
+sg4
+S'20130224\xc2\xa011:10PM UTC'
+p74
+sg6
+S'SNAPSHOT-India stocks, bonds, rupee, swaps, call at 0405GMT'
+p75
+sa(dp76
+g2
+S'http://www.reuters.com/article/2013/02/25/markets-oil-idUSL4N0BP12Q20130225'
+p77
+sg4
+S'20130224\xc2\xa011:03PM UTC'
+p78
+sg6
+S'Brent slips below $114 as China factory output retreats from 2-yr high'
+p79
+sa(dp80
+g2
+S'http://www.reuters.com/article/2013/02/25/idUSnPreDjpNha+124+PRN20130225'
+p81
+sg4
+S'20130224\xc2\xa011:00PM UTC'
+p82
+sg6
+S"Marvell Introduces Consumable Security Chip Using Cryptography Research's CryptoFirewall Anti-counterfeiting Technology"
+p83
+sa(dp84
+g2
+S'http://www.reuters.com/article/2013/02/25/idUSnPresG5N8a+114+PRN20130225'
+p85
+sg4
+S'20130224\xc2\xa011:00PM UTC'
+p86
+sg6
+S"Chinese Internet Giant Baidu Rolls Out World's First Commercial Deployment of Marvell's ARM Processor-based Server"
+p87
+sa(dp88
+g2
+S'http://www.reuters.com/article/2013/02/25/oscars-supportingactress-idUSL1N0BG0M320130225'
+p89
+sg4
+S'20130224\xc2\xa010:51PM UTC'
+p90
+sg6
+S"UPDATE 1-Anne Hathaway wins Supporting Actress Oscar for 'Les Miserables'"
+p91
+sa(dp92
+g2
+S'http://www.reuters.com/article/2013/02/25/japan-economy-boj-idUST9N0B501Z20130225'
+p93
+sg4
+S'20130224\xc2\xa010:49PM UTC'
+p94
+sg6
+S'BOJ nominees largely in lines with Komeito demand-Japan coalition head'
+p95
+sa(dp96
+g2
+S'http://www.reuters.com/article/2013/02/25/oscars-bond-idUSL1N0BP0GX20130225'
+p97
+sg4
+S'20130224\xc2\xa010:47PM UTC'
+p98
+sg6
+S'CORRECTED-Shirley Bassey leads Oscars 50th birthday tribute to James Bond'
+p99
+sa(dp100
+g2
+S'http://www.reuters.com/article/2013/02/25/markets-forex-idUSL4N0BP0ZA20130225'
+p101
+sg4
+S'20130224\xc2\xa010:46PM UTC'
+p102
+sg6
+S'FOREX-Yen & sterling slump, euro eyes Italy elections'
+p103
+sa(dp104
+g2
+S'http://www.reuters.com/article/2013/02/25/idUSnGNXUXFMKa+1fe+GNW20130225'
+p105
+sg4
+S'20130224\xc2\xa010:45PM UTC'
+p106
+sg6
+S"Pilgrim's Pride of Mexico Takes Affirmative Steps to Protect Breeder Supply in Mexico"
+p107
+sa(dp108
+g2
+S'http://www.reuters.com/article/2013/02/25/chinatrust-yuan-bond-idUST8N0B700H20130225'
+p109
+sg4
+S'20130224\xc2\xa010:43PM UTC'
+p110
+sg6
+S'Chinatrust to issue 3-yr yuan bond at 2.9 pct yield-source'
+p111
+sa(dp112
+g2
+S'http://www.reuters.com/article/2013/02/25/us-pakistan-sectarian-idUSBRE91N00G20130225'
+p113
+sg4
+S'20130224\xc2\xa010:39PM UTC'
+p114
+sg6
+S"Insight: Spiral of Karachi killings widens Pakistan's sectarian divide"
+p115
+sa(dp116
+g2
+S'http://www.reuters.com/article/2013/02/25/samsung-apple-idUSL4N0BP05Q20130225'
+p117
+sg4
+S'20130224\xc2\xa010:32PM UTC'
+p118
+sg6
+S"Samsung to unveil its next Galaxy S smartphone on Apple's turf"
+p119
+sa(dp120
+g2
+S'http://www.reuters.com/article/2013/02/25/idUSnMKW119a+70+MKW20130225'
+p121
+sg4
+S'20130224\xc2\xa010:32PM UTC'
+p122
+sg6
+S'Kilimanjaro Capital Ltd. Signs Strategic Technology Alliance with Northern Oil Research Technologies Inc.'
+p123
+sa(dp124
+g2
+S'http://www.reuters.com/article/2013/02/25/idUSnCCNsT4JZa+1d6+MKW20130225'
+p125
+sg4
+S'20130224\xc2\xa010:32PM UTC'
+p126
+sg6
+S'Kilimanjaro Capital Ltd. Signs Strategic Technology Alliance with Northern Oil Research Technologies Inc.'
+p127
+sa(dp128
+g2
+S'http://www.reuters.com/article/2013/02/25/markets-japan-jgb-idUSL4N0BP10520130225'
+p129
+sg4
+S'20130224\xc2\xa010:31PM UTC'
+p130
+sg6
+S'JGBs soar on expectations of aggressive BOJ easing under Kuroda'
+p131
+sa(dp132
+g2
+S'http://www.reuters.com/article/2013/02/25/oscars-animation-idUSL1N0BP0GR20130225'
+p133
+sg4
+S'20130224\xc2\xa010:29PM UTC'
+p134
+sg6
+S"UPDATE 2-'Brave' wins Best Animated Feature Oscar"
+p135
+sa(dp136
+g2
+S'http://www.reuters.com/article/2013/02/25/ca-platinum-guild-idUSnPnAQ65402+160+PRN20130225'
+p137
+sg4
+S'20130224\xc2\xa010:27PM UTC'
+p138
+sg6
+S"Hollywood's Biggest Stars Wear Platinum Jewelry To The 85th Annual Academy Awards"
+p139
+sa(dp140
+g2
+S'http://www.reuters.com/article/2013/02/25/markets-japan-stocks-idUSL4N0BP0KD20130225'
+p141
+sg4
+S'20130224\xc2\xa010:26PM UTC'
+p142
+sg6
+S'Nikkei soars to 4-1/2-yr high; Kuroda seen likely next BOJ governor'
+p143
+sa(dp144
+g2
+S'http://www.reuters.com/article/2013/02/25/india-ratnakar-idUSL4N0BP11O20130225'
+p145
+sg4
+S'20130224\xc2\xa010:23PM UTC'
+p146
+sg6
+S'RPT-Indian bank finds profits where others fear to tread'
+p147
+sa(dp148
+g2
+S'http://www.reuters.com/article/2013/02/25/oscars-supportingactress-idUSW1N0BO01920130225'
+p149
+sg4
+S'20130224\xc2\xa010:22PM UTC'
+p150
+sg6
+S"Anne Hathaway wins Supporting Actress Oscar for 'Les Miserables'"
+p151
+sa(dp152
+g2
+S'http://www.reuters.com/article/2013/02/25/japan-economy-boj-idUST9N0B501Y20130225'
+p153
+sg4
+S'20130224\xc2\xa010:08PM UTC'
+p154
+sg6
+S"Japan PM to nominate BOJ's Nakaso as one of 2 deputy BOJ heads-NHK"
+p155
+sa(dp156
+g2
+S'http://www.reuters.com/article/2013/02/25/us-oscars-foreignlanguage-idUSBRE91O03N20130225'
+p157
+sg4
+S'20130224\xc2\xa010:07PM UTC'
+p158
+sg6
+S'Austria\'s "Amour" wins Oscar for Best Foreign Language Film'
+p159
+sa(dp160
+g2
+S'http://www.reuters.com/article/2013/02/25/india-press-autos-idUSL4N0BP0ZZ20130225'
+p161
+sg4
+S'20130224\xc2\xa010:06PM UTC'
+p162
+sg6
+S'INDIA PRESS-Watchdog likely to pull up companies for high auto parts prices - Business Standard'
+p163
+sa(dp164
+g2
+S'http://www.reuters.com/article/2013/02/25/blackrock-etf-copper-idUSL4N0BP0W920130225'
+p165
+sg4
+S'20130224\xc2\xa010:05PM UTC'
+p166
+sg6
+S"US regulator approves BlackRock's copper ETF plan"
+p167
+sa(dp168
+g2
+S'http://www.reuters.com/article/2013/02/25/oscars-foreignlanguage-idUSL1E9CIJEC20130225'
+p169
+sg4
+S'20130224\xc2\xa010:04PM UTC'
+p170
+sg6
+S"UPDATE 1-Austria's 'Amour' wins Oscar for Best Foreign Language Film"
+p171
+sa(dp172
+g2
+S'http://www.reuters.com/article/2013/02/25/ca-openwave-mobility-idUSnBw11JyXna+114+BSW20130225'
+p173
+sg4
+S'20130224\xc2\xa010:00PM UTC'
+p174
+sg6
+S'Openwave Mobility Launches Integra4, Establishes New Industry Performance Benchmark for Value-Added Services in LTE Mobile Broadband Networks'
+p175
+sa(dp176
+g2
+S'http://www.reuters.com/article/2013/02/25/tn-scripps-networks-idUSnBw4zdY1Ba+10a+BSW20130225'
+p177
+sg4
+S'20130224\xc2\xa010:00PM UTC'
+p178
+sg6
+S'Scripps Networks Interactive Names Managing Director to Guide International Expansion Efforts in Asia Pacific'
+p179
+sa(dp180
+g2
+S'http://www.reuters.com/article/2013/02/25/india-press-gmrinfra-idUSL4N0BP0UL20130225'
+p181
+sg4
+S'20130224\xc2\xa09:51PM UTC'
+p182
+sg6
+S'INDIA PRESS-GMR wants to sell Singapore power venture; company denies - Economic Times'
+p183
+sa(dp184
+g2
+S'http://www.reuters.com/article/2013/02/25/oscars-foreignlanguage-idUSW1N0BO01420130225'
+p185
+sg4
+S'20130224\xc2\xa09:50PM UTC'
+p186
+sg6
+S"Austria's 'Amour' wins Oscar for Best Foreign Language Film"
+p187
+sa(dp188
+g2
+S'http://www.reuters.com/article/2013/02/25/markets-korea-stocks-idUSL4N0BP0A120130225'
+p189
+sg4
+S'20130224\xc2\xa09:49PM UTC'
+p190
+sg6
+S'Seoul shares flat, auto shares under pressure'
+p191
+sa(dp192
+g2
+S'http://www.reuters.com/article/2013/02/25/morning-call-india-idUSL4N0BP0RD20130225'
+p193
+sg4
+S'20130224\xc2\xa09:48PM UTC'
+p194
+sg6
+S'India Morning Call-Global markets'
+p195
+sa(dp196
+g2
+S'http://www.reuters.com/article/2013/02/25/india-press-bharti-tatacomm-idUSL4N0BP0RA20130225'
+p197
+sg4
+S'20130224\xc2\xa09:44PM UTC'
+p198
+sg6
+S'INDIA PRESS-CBI files case against Bharti Airtel, Tata Communications - Hindustan Times'
+p199
+sa(dp200
+g2
+S'http://www.reuters.com/article/2013/02/25/zte-corporation-idUSnBw6Z0HMGa+12e+BSW20130225'
+p201
+sg4
+S'20130224\xc2\xa09:44PM UTC'
+p202
+sg6
+S'ZTE Launches 4G Cloud Radio Solution at MWC'
+p203
+sa(dp204
+g2
+S'http://www.reuters.com/article/2013/02/25/japan-economy-boj-iwata-idUST9E8FA02B20130225'
+p205
+sg4
+S'20130224\xc2\xa09:35PM UTC'
+p206
+sg6
+S'Japan academic Iwata: been sounded out to be deputy BOJ governor'
+p207
+sa(dp208
+g2
+S'http://www.reuters.com/article/2013/02/25/markets-indonesia-stocks-idUSL4N0BP0PI20130225'
+p209
+sg4
+S'20130224\xc2\xa09:33PM UTC'
+p210
+sg6
+S'Indonesia - Market factors to watch on Feb 25'
+p211
+sa(dp212
+g2
+S'http://www.reuters.com/article/2013/02/25/usa-weather-snowstorm-idUSL1N0BP01A20130225'
+p213
+sg4
+S'20130224\xc2\xa09:32PM UTC'
+p214
+sg6
+S'UPDATE 1-Colorado snowstorm triggers blizzard warnings, slows air traffic'
+p215
+sa(dp216
+g2
+S'http://www.reuters.com/article/2013/02/25/markets-asia-foreign-idUSL4N0BP0PD20130225'
+p217
+sg4
+S'20130224\xc2\xa09:30PM UTC'
+p218
+sg6
+S'TABLE-Foreigners buy Japan shares in latest week-Nomura'
+p219
+sa(dp220
+g2
+S'http://www.reuters.com/article/2013/02/25/us-golf-pga-matchplay-kuchar-idUSBRE91O03420130225'
+p221
+sg4
+S'20130224\xc2\xa09:21PM UTC'
+p222
+sg6
+S'"Amazing feeling" for triumphant Kuchar'
+p223
+sa(dp224
+g2
+S'http://www.reuters.com/article/2013/02/25/australia-cyclone-idUSL4N0BP08V20130225'
+p225
+sg4
+S'20130224\xc2\xa09:20PM UTC'
+p226
+sg6
+S'UPDATE 1-Rio, BHP iron ore ports closing for Australia cyclone'
+p227
+sa(dp228
+g2
+S'http://www.reuters.com/article/2013/02/25/markets-malaysia-stocksnews-idUSL4N0BP0LG20130225'
+p229
+sg4
+S'20130224\xc2\xa09:20PM UTC'
+p230
+sg6
+S'STOCKS NEWS MALAYSIA-Affin raises target price for Bumi Armada'
+p231
+sa(dp232
+g2
+S'http://www.reuters.com/article/2013/02/25/pve-weekly-idUSL4N0BI09W20130225'
+p233
+sg4
+S'20130224\xc2\xa09:17PM UTC'
+p234
+sg6
+S'Asia Private Equity Weekly News, February 25, 2013'
+p235
+sa(dp236
+g2
+S'http://www.reuters.com/article/2013/02/25/lionic-corporation-idUSnBwbBQfv0a+130+BSW20130225'
+p237
+sg4
+S'20130224\xc2\xa09:16PM UTC'
+p238
+sg6
+S"Lionic to Demonstrate Their Unified Threat Management (UTM) Software Suite Running on Mindspeed's Comcerto 2000 Communications Processor at RSA 2013 Security Conference"
+p239
+sa(dp240
+g2
+S'http://www.reuters.com/article/2013/02/25/nissan-africa-idUSL4N0BP0DS20130225'
+p241
+sg4
+S'20130224\xc2\xa09:15PM UTC'
+p242
+sg6
+S'Nissan to sell Datsun cars in South Africa from next year'
+p243
+sa(dp244
+g2
+S'http://www.reuters.com/article/2013/02/25/us-motorracing-nascar-daytona-idUSBRE91L11L20130225'
+p245
+sg4
+S'20130224\xc2\xa09:13PM UTC'
+p246
+sg6
+S'Johnson wins Daytona 500, Patrick eighth'
+p247
+sa(dp248
+g2
+S'http://www.reuters.com/article/2013/02/25/brazil-economy-tombini-idUSL1N0BP0DX20130225'
+p249
+sg4
+S'20130224\xc2\xa09:10PM UTC'
+p250
+sg6
+S"Brazil's central bank says targeting inflation, not growth -WSJ"
+p251
+sa(dp252
+g2
+S'http://www.reuters.com/article/2013/02/25/motor-racing-nascar-daytona-idUSL4N0BO0GO20130225'
+p253
+sg4
+S'20130224\xc2\xa09:09PM UTC'
+p254
+sg6
+S'UPDATE 3-Motor racing-Johnson wins Daytona 500, Patrick eighth'
+p255
+sa(dp256
+g2
+S'http://www.reuters.com/article/2013/02/25/us-yum-china-measures-idUSBRE91O02R20130225'
+p257
+sg4
+S'20130224\xc2\xa09:09PM UTC'
+p258
+sg6
+S'Yum says to step up check on suppliers after China scare'
+p259
+sa(dp260
+g2
+S'http://www.reuters.com/article/2013/02/25/indonesia-economy-idUSL6N0BP02M20130225'
+p261
+sg4
+S'20130224\xc2\xa09:09PM UTC'
+p262
+sg6
+S'RPT-UPDATE 1-Indonesia finmin gets surprise nomination for cbank gov'
+p263
+sa(dp264
+g2
+S'http://www.reuters.com/article/2013/02/25/yum-china-measures-idUSB9N0B400R20130225'
+p265
+sg4
+S'20130224\xc2\xa09:07PM UTC'
+p266
+sg6
+S'Yum says to step up check on suppliers after China scare'
+p267
+sa(dp268
+g2
+S'http://www.reuters.com/article/2013/02/25/markets-ratings-radiumlifetech-idUSL4N0BP0KI20130225'
+p269
+sg4
+S'20130224\xc2\xa09:06PM UTC'
+p270
+sg6
+S"TEXT-Fitch Affirms and Withdraws Radium's 'BB+(twn)' Rating"
+p271
+sa(dp272
+g2
+S'http://www.reuters.com/article/2013/02/25/chevron-australia-shale-idUSL4N0BP0BP20130225'
+p273
+sg4
+S'20130224\xc2\xa09:05PM UTC'
+p274
+sg6
+S'Chevron Corp latest oil major to make Australian shale bet'
+p275
+sa(dp276
+g2
+S'http://www.reuters.com/article/2013/02/25/us-afghanistan-karzai-idUSBRE91N0G420130225'
+p277
+sg4
+S'20130224\xc2\xa09:04PM UTC'
+p278
+sg6
+S'Afghan president to expel U.S. special forces from key province'
+p279
+sa(dp280
+g2
+S'http://www.reuters.com/article/2013/02/25/us-oscars-animation-idUSBRE91O02D20130225'
+p281
+sg4
+S'20130224\xc2\xa09:03PM UTC'
+p282
+sg6
+S'"Brave" wins Best Animated Feature Oscar'
+p283
+sa(dp284
+g2
+S'http://www.reuters.com/article/2013/02/25/oscars-animation-idUSL1N0BJDHM20130225'
+p285
+sg4
+S'20130224\xc2\xa09:02PM UTC'
+p286
+sg6
+S"UPDATE 1-'Brave' wins Best Animated Feature Oscar"
+p287
+sa(dp288
+g2
+S'http://www.reuters.com/article/2013/02/25/entertainment-us-oscars-supportingactor-idUSBRE91O01X20130225'
+p289
+sg4
+S'20130224\xc2\xa09:00PM UTC'
+p290
+sg6
+S'Christoph Waltz wins Supporting Actor Oscar for "Django"'
+p291
+sa(dp292
+g2
+S'http://www.reuters.com/article/2013/02/25/idUSnGNXUXFSGa+1fe+GNW20130225'
+p293
+sg4
+S'20130224\xc2\xa09:00PM UTC'
+p294
+sg6
+S'Adept Technology Names Robert Cain as CEO'
+p295
+sa(dp296
+g2
+S'http://www.reuters.com/article/2013/02/25/oscars-animation-idUSW1N0BO00O20130225'
+p297
+sg4
+S'20130224\xc2\xa08:59PM UTC'
+p298
+sg6
+S"'Brave' wins Best Animated Feature Oscar"
+p299
+sa(dp300
+g2
+S'http://www.reuters.com/article/2013/02/25/press-digest-hongkong-idUSL4N0BP0FN20130225'
+p301
+sg4
+S'20130224\xc2\xa08:54PM UTC'
+p302
+sg6
+S'PRESS DIGEST - Hong Kong - Feb 25'
+p303
+sa(dp304
+g2
+S'http://www.reuters.com/article/2013/02/25/japan-economy-boj-idUST9E8GV00M20130225'
+p305
+sg4
+S'20130224\xc2\xa08:50PM UTC'
+p306
+sg6
+S'Japan opposition Democrats say Kuroda suitable as BOJ chief-media'
+p307
+sa(dp308
+g2
+S'http://www.reuters.com/article/2013/02/25/nc-bestpractices-hols-idUSnPnCL65390+160+PRN20130225'
+p309
+sg4
+S'20130224\xc2\xa08:49PM UTC'
+p310
+sg6
+S'Health Outcomes Liaisons (HOLs) Serve as Key Bridge between Pharmaceutical Sector and Managed Care Groups'
+p311
+sa(dp312
+g2
+S'http://www.reuters.com/article/2013/02/25/usa-fiscal-idUSL1N0BO20R20130225'
+p313
+sg4
+S'20130224\xc2\xa08:47PM UTC'
+p314
+sg6
+S'UPDATE 2-White House warns states of looming pain from March 1 budget cuts'
+p315
+sa(dp316
+g2
+S'http://www.reuters.com/article/2013/02/25/markets-australia-stocks-idUSL4N0BO0NP20130225'
+p317
+sg4
+S'20130224\xc2\xa08:31PM UTC'
+p318
+sg6
+S'Australia shares up 0.9 pct, eyes on China PMI'
+p319
+sa(dp320
+g2
+S'http://www.reuters.com/article/2013/02/25/markets-hongkong-stocks-open-idUSH9N0A800I20130225'
+p321
+sg4
+S'20130224\xc2\xa08:28PM UTC'
+p322
+sg6
+S'Hong Kong shares to open up 0.3 pct; Midland hit by property curbs'
+p323
+sa(dp324
+g2
+S'http://www.reuters.com/article/2013/02/25/press-digest-china-idUSL4N0BP04Y20130225'
+p325
+sg4
+S'20130224\xc2\xa08:23PM UTC'
+p326
+sg6
+S'PRESS DIGEST - China - Feb 25'
+p327
+sa(dp328
+g2
+S'http://www.reuters.com/article/2013/02/25/press-digest-britain-business-idUSL4N0BP07220130225'
+p329
+sg4
+S'20130224\xc2\xa08:22PM UTC'
+p330
+sg6
+S'PRESS DIGEST - British Business - Feb 25'
+p331
+sa(dp332
+g2
+S'http://www.reuters.com/article/2013/02/25/us-congo-democratic-un-idUSBRE91O01920130225'
+p333
+sg4
+S'20130224\xc2\xa08:21PM UTC'
+p334
+sg6
+S'African leaders sign deal aimed at peace in eastern Congo'
+p335
+sa(dp336
+g2
+S'http://www.reuters.com/article/2013/02/25/us-motor-racing-nascar-daytona-johnson-idUSBRE91O01620130225'
+p337
+sg4
+S'20130224\xc2\xa08:20PM UTC'
+p338
+sg6
+S'"Five Time" delights in being a Daytona "Two Timer"'
+p339
+sa(dp340
+g2
+S'http://www.reuters.com/article/2013/02/25/congo-democratic-un-idUSL6N0BO16X20130225'
+p341
+sg4
+S'20130224\xc2\xa08:19PM UTC'
+p342
+sg6
+S'UPDATE 4-African leaders sign deal aimed at peace in eastern Congo'
+p343
+sa(dp344
+g2
+S'http://www.reuters.com/article/2013/02/25/markets-japan-stocks-idUSL4N0BP06720130225'
+p345
+sg4
+S'20130224\xc2\xa08:18PM UTC'
+p346
+sg6
+S'Nikkei jumps to 53-month high as Kuroda seen likely next BOJ chief'
+p347
+sa(dp348
+g2
+S'http://www.reuters.com/article/2013/02/25/apple-india-idUSL4N0BM25L20130225'
+p349
+sg4
+S'20130224\xc2\xa08:15PM UTC'
+p350
+sg6
+S'CORRECTED-Apple signals emerging-market rethink with India push'
+p351
+sa(dp352
+g2
+S'http://www.reuters.com/article/2013/02/25/us-golf-pga-matchplay-mahan-idUSBRE91O00Y20130225'
+p353
+sg4
+S'20130224\xc2\xa08:12PM UTC'
+p354
+sg6
+S'Losing Match Play finalist Mahan proud of "great run"'
+p355
+sa(dp356
+g2
+S'http://www.reuters.com/article/2013/02/25/royalcaribb-chenoweth-idUSnPnCL65378+160+PRN20130225'
+p357
+sg4
+S'20130224\xc2\xa08:07PM UTC'
+p358
+sg6
+S'Royal Caribbean International Casts Kristin Chenoweth In New Starring Role For Quantum Of The Seas'
+p359
+sa(dp360
+g2
+S'http://www.reuters.com/article/2013/02/25/markets-ratings-japanmajorbanks-idUSWNB003B320130225'
+p361
+sg4
+S'20130224\xc2\xa08:03PM UTC'
+p362
+sg6
+S"TEXT-Fitch: Japan's Major Banks Better Positioned against Interest Rate Risk"
+p363
+sa(dp364
+g2
+S'http://www.reuters.com/article/2013/02/25/markets-precious-idUSL4N0BP03H20130225'
+p365
+sg4
+S'20130224\xc2\xa08:02PM UTC'
+p366
+sg6
+S'PRECIOUS-Gold eases on euro uncertainty, but above 7-month low'
+p367
+sa(dp368
+g2
+S'http://www.reuters.com/article/2013/02/25/us-lockheed-figher-bogdan-idUSBRE91O00X20130225'
+p369
+sg4
+S'20130224\xc2\xa08:02PM UTC'
+p370
+sg6
+S'Pentagon F-35 chief says grounding will not delay delivery'
+p371
+sa(dp372
+g2
+S'http://www.reuters.com/article/2013/02/25/lockheed-figher-bogdan-idUSS9N0B601920130225'
+p373
+sg4
+S'20130224\xc2\xa08:01PM UTC'
+p374
+sg6
+S'Pentagon F-35 chief says grounding will not delay delivery'
+p375
+sa(dp376
+g2
+S'http://www.reuters.com/article/2013/02/25/idUSnMKW89450a+1c0+MKW20130225'
+p377
+sg4
+S'20130224\xc2\xa08:00PM UTC'
+p378
+sg6
+S'Freelance Worker From Muntinlupa, Philippines Wins Elance "Work Differently" Contest'
+p379
+sa(dp380
+g2
+S'http://www.reuters.com/article/2013/02/25/wi-rockwell-automation-idUSnBw4mq3Gla+104+BSW20130225'
+p381
+sg4
+S'20130224\xc2\xa08:00PM UTC'
+p382
+sg6
+S'Rockwell Automation Names New President for Asia-Pacific Region'
+p383
+sa(dp384
+g2
+S'http://www.reuters.com/article/2013/02/25/press-digest-ft-business-idUSL4N0AZ6D220130225'
+p385
+sg4
+S'20130224\xc2\xa07:59PM UTC'
+p386
+sg6
+S'PRESS DIGEST - Financial Times - Feb 25'
+p387
+sa(dp388
+g2
+S'http://www.reuters.com/article/2013/02/25/yum-china-idUSL1N0BP01X20130225'
+p389
+sg4
+S'20130224\xc2\xa07:55PM UTC'
+p390
+sg6
+S'Yum to lay out plans to tighten China safety, bring back diners'
+p391
+sa(dp392
+g2
+S'http://www.reuters.com/article/2013/02/25/philippines-press-idUSL4N0BP05020130225'
+p393
+sg4
+S'20130224\xc2\xa07:55PM UTC'
+p394
+sg6
+S'PHILIPPINES PRESS-San Miguel sees 2-digit revenue growth in 2013 - Star'
+p395
+sa(dp396
+g2
+S'http://www.reuters.com/article/2013/02/25/australia-cyclone-idUSL4N0BP01Q20130225'
+p397
+sg4
+S'20130224\xc2\xa07:53PM UTC'
+p398
+sg6
+S'Australia cyclone to hit iron ore trade as ports close'
+p399
+sa(dp400
+g2
+S'http://www.reuters.com/article/2013/02/25/us-golf-pga-matchplay-idUSBRE91M0ET20130225'
+p401
+sg4
+S'20130224\xc2\xa07:53PM UTC'
+p402
+sg6
+S'Kuchar wins Match Play title'
+p403
+sa(dp404
+g2
+S'http://www.reuters.com/article/2013/02/25/philippines-press-idUSL4N0BP04320130225'
+p405
+sg4
+S'20130224\xc2\xa07:52PM UTC'
+p406
+sg6
+S'PHILIPPINES PRESS-Chevron eyes 100 more Philippine outlets - Inquirer'
+p407
+sa(dp408
+g2
+S'http://www.reuters.com/article/2013/02/25/markets-hongkong-stocks-preopen-idUSL4N0BP01D20130225'
+p409
+sg4
+S'20130224\xc2\xa07:48PM UTC'
+p410
+sg6
+S'Hong Kong shares may start weaker, developers in focus'
+p411
+sa(dp412
+g2
+S'http://www.reuters.com/article/2013/02/25/motorracing-nascar-daytona-crash-idUSL4N0BO0ED20130225'
+p413
+sg4
+S'20130224\xc2\xa07:47PM UTC'
+p414
+sg6
+S'UPDATE 2-Daytona 500 goes on despite crash that injured fans'
+p415
+sa(dp416
+g2
+S'http://www.reuters.com/article/2013/02/25/genting-vips-idUSL4N0BP04520130225'
+p417
+sg4
+S'20130224\xc2\xa07:43PM UTC'
+p418
+sg6
+S'REPEAT-Genting stakes Singapore gamblers to $775 mln in push for VIPs'
+p419
+sa(dp420
+g2
+S'http://www.reuters.com/article/2013/02/25/us-japan-politics-support-idUSBRE91O00L20130225'
+p421
+sg4
+S'20130224\xc2\xa07:42PM UTC'
+p422
+sg6
+S'Japan PM Abe keeps ratings high as he pushes reflation steps'
+p423
+sa(dp424
+g2
+S'http://www.reuters.com/article/2013/02/25/us-motor-racing-nascar-daytona-patrick-idUSBRE91O00H20130225'
+p425
+sg4
+S'20130224\xc2\xa07:40PM UTC'
+p426
+sg6
+S'Patrick will "make history" says Earnhardt Jr'
+p427
+sa(dp428
+g2
+S'http://www.reuters.com/article/2013/02/25/markets-philippines-stocks-idUSL4N0BM3O520130225'
+p429
+sg4
+S'20130224\xc2\xa07:39PM UTC'
+p430
+sg6
+S'Philippines - Market factors to watch on Feb 25'
+p431
+sa(dp432
+g2
+S'http://www.reuters.com/article/2013/02/25/motor-racing-nascar-daytona-patrick-idUSL4N0BP00X20130225'
+p433
+sg4
+S'20130224\xc2\xa07:38PM UTC'
+p434
+sg6
+S'Motor Racing-Patrick will "make history" says Earnhardt Jr'
+p435
+sa(dp436
+g2
+S'http://www.reuters.com/article/2013/02/25/us-nba-lakers-idUSBRE91N0GS20130225'
+p437
+sg4
+S'20130224\xc2\xa07:35PM UTC'
+p438
+sg6
+S"Bryant silences Cuban with 38 points in Lakers' win"
+p439
+sa(dp440
+g2
+S'http://www.reuters.com/article/2013/02/25/us-barnesnoble-riggio-idUSBRE91O00D20130225'
+p441
+sg4
+S'20130224\xc2\xa07:34PM UTC'
+p442
+sg6
+S"Barnes & Noble chairman may bid for company's bookstores: WSJ"
+p443
+sa(dp444
+g2
+S'http://www.reuters.com/article/2013/02/25/markets-singapore-stocks-preopener-idUSL4N0BO0O620130225'
+p445
+sg4
+S'20130224\xc2\xa07:33PM UTC'
+p446
+sg6
+S'Singapore Stocks - Factors to watch on Feb 25'
+p447
+sa(dp448
+g2
+S'http://www.reuters.com/article/2013/02/25/us-singapore-costs-idUSBRE91O00B20130225'
+p449
+sg4
+S'20130224\xc2\xa07:32PM UTC'
+p450
+sg6
+S'Southeast Asian margin squeeze snags Singapore Inc'
+p451
+sa(dp452
+g2
+S'http://www.reuters.com/article/2013/02/25/barnesnoble-riggio-idUSL1N0BO3PZ20130225'
+p453
+sg4
+S'20130224\xc2\xa07:32PM UTC'
+p454
+sg6
+S"UPDATE 1-Barnes & Noble chairman may bid for company's bookstores -WSJ"
+p455
+sa(dp456
+g2
+S'http://www.reuters.com/article/2013/02/25/az-iab-idUSnBw32Lv9Ja+112+BSW20130225'
+p457
+sg4
+S'20130224\xc2\xa07:30PM UTC'
+p458
+sg6
+S'24/7 Media, About.com & Triad Retail Media Institute Sales Recruitment Preference for Candidates with IAB Digital Media Sales Certification'
+p459
+sa(dp460
+g2
+S'http://www.reuters.com/article/2013/02/25/markets-korea-hot-idUSL4N0BP00420130225'
+p461
+sg4
+S'20130224\xc2\xa07:22PM UTC'
+p462
+sg6
+S'Korea Hot Stocks-STX Pan Ocean surges on report of POSCO interest'
+p463
+sa(dp464
+g2
+S'http://www.reuters.com/article/2013/02/25/entertainment-us-quvenzhanewallis-annie-idUSBRE91N0G620130225'
+p465
+sg4
+S'20130224\xc2\xa07:19PM UTC'
+p466
+sg6
+S'Quvenzhan\xc3\xa9 Wallis to play title role in "Annie" movie'
+p467
+sa(dp468
+g2
+S'http://www.reuters.com/article/2013/02/25/us-nokia-siemens-idUSBRE91O00820130225'
+p469
+sg4
+S'20130224\xc2\xa07:18PM UTC'
+p470
+sg6
+S'Siemens to speed up efforts to cut NSN stake: FT'
+p471
+sa(dp472
+g2
+S'http://www.reuters.com/article/2013/02/25/nc-golden-corral-kids-idUSnPnCL65367+160+PRN20130225'
+p473
+sg4
+S'20130224\xc2\xa07:15PM UTC'
+p474
+sg6
+S"Kids Eat Free At Golden Corral Thanks To JJ Yeley's Top 10 Finish At Daytona 500"
+p475
+sa(dp476
+g2
+S'http://www.reuters.com/article/2013/02/25/usa-fed-rosengren-idUSL1N0BO3PI20130225'
+p477
+sg4
+S'20130224\xc2\xa07:14PM UTC'
+p478
+sg6
+S"Capital surcharges for big banks may be too low -Fed's Rosengren"
+p479
+sa(dp480
+g2
+S'http://www.reuters.com/article/2013/02/25/us-cochlear-idUSBRE91O00620130225'
+p481
+sg4
+S'20130224\xc2\xa07:13PM UTC'
+p482
+sg6
+S'Cochlear implants aid adults with hearing loss: study'
+p483
+sa(dp484
+g2
+S'http://www.reuters.com/article/2013/02/25/health-cochlear-idUSL4N0BP00R20130225'
+p485
+sg4
+S'20130224\xc2\xa07:12PM UTC'
+p486
+sg6
+S'Cochlear implants aid adults with hearing loss: study'
+p487
+sa(dp488
+g2
+S'http://www.reuters.com/article/2013/02/25/markets-korea-stocks-idUSL4N0BO0NU20130225'
+p489
+sg4
+S'20130224\xc2\xa07:12PM UTC'
+p490
+sg6
+S'Seoul shares steadier as new president takes office'
+p491
+sa(dp492
+g2
+S'http://www.reuters.com/article/2013/02/25/markets-japan-jgb-yield-idUST9N09901C20130225'
+p493
+sg4
+S'20130224\xc2\xa07:10PM UTC'
+p494
+sg6
+S'Five-year JGB yield hits record low of 0.125 pct; Kuroda BOJ nomination talk'
+p495
+sa(dp496
+g2
+S'http://www.reuters.com/article/2013/02/25/nokia-siemens-idUSL4N0BO0MR20130225'
+p497
+sg4
+S'20130224\xc2\xa07:09PM UTC'
+p498
+sg6
+S'Siemens to speed up efforts to cut NSN stake -FT'
+p499
+sa(dp500
+g2
+S'http://www.reuters.com/article/2013/02/25/idUS372761919720130225'
+p501
+sg4
+S'20130224\xc2\xa07:08PM UTC'
+p502
+sg6
+S'Oscars night'
+p503
+sa(dp504
+g2
+S'http://www.reuters.com/article/2013/02/25/markets-japan-stocks-idUSL4N0BP00320130225'
+p505
+sg4
+S'20130224\xc2\xa07:05PM UTC'
+p506
+sg6
+S'Nikkei scales 53-month high on Kuroda BOJ nomination talk'
+p507
+sa(dp508
+g2
+S'http://www.reuters.com/article/2013/02/25/us-drinking-idUSBRE91N0IG20130225'
+p509
+sg4
+S'20130224\xc2\xa07:01PM UTC'
+p510
+sg6
+S'Study says too many Americans still drink too much'
+p511
+sa(dp512
+g2
+S'http://www.reuters.com/article/2013/02/25/north-sea-uk-economy-idUSL6N0BM4PQ20130225'
+p513
+sg4
+S'20130224\xc2\xa07:01PM UTC'
+p514
+sg6
+S'UK economy to take oil hit in 2013 before N.Sea recovery'
+p515
+sa(dp516
+g2
+S'http://www.reuters.com/article/2013/02/25/banks-britain-riskweightings-idUSL6N0AM7H820130225'
+p517
+sg4
+S'20130224\xc2\xa07:01PM UTC'
+p518
+sg6
+S'Banks wary as UK targets "gaming" of risk weights'
+p519
+sa(dp520
+g2
+S'http://www.reuters.com/article/2013/02/25/eu-energy-investment-idUSL6N0BN13O20130225'
+p521
+sg4
+S'20130224\xc2\xa07:00PM UTC'
+p522
+sg6
+S'European energy policy falters amid economic downturn'
+p523
+sa(dp524
+g2
+S'http://www.reuters.com/article/2013/02/25/az-iab-idUSnBw7hK7d5a+110+BSW20130225'
+p525
+sg4
+S'20130224\xc2\xa07:00PM UTC'
+p526
+sg6
+S'IAB Spotlights Outstanding Leaders in Interactive Advertising with Its Annual Sales & Service Excellence Awards'
+p527
+sa(dp528
+g2
+S'http://www.reuters.com/article/2013/02/25/sequans-idUSnBw2HckNqa+124+BSW20130225'
+p529
+sg4
+S'20130224\xc2\xa07:00PM UTC'
+p530
+sg6
+S'Sequans and Alcatel-Lucent Collaborate to Accelerate the Market for LTE Broadcast'
+p531
+sa(dp532
+g2
+S'http://www.reuters.com/article/2013/02/25/az-iab-idUSnBw2c0nr3a+100+BSW20130225'
+p533
+sg4
+S'20130224\xc2\xa07:00PM UTC'
+p534
+sg6
+S'Tremor Video`s Randy Kilgore Selected to Chair IAB Board of Directors'
+p535
+sa(dp536
+g2
+S'http://www.reuters.com/article/2013/02/24/us-baseball-yankees-granderson-idUSBRE91N0IP20130224'
+p537
+sg4
+S'20130224\xc2\xa06:56PM UTC'
+p538
+sg6
+S'Granderson fractures forearm, to miss Opening Day'
+p539
+sa(dp540
+g2
+S'http://www.reuters.com/article/2013/02/24/malaysia-corporate-earnings-idUSL4N0BO0O920130224'
+p541
+sg4
+S'20130224\xc2\xa06:56PM UTC'
+p542
+sg6
+S'DIARY-Malaysia 2013 corporate earnings'
+p543
+sa(dp544
+g2
+S'http://www.reuters.com/article/2013/02/24/us-golf-pga-matchplay-idUSBRE91M0ET20130224'
+p545
+sg4
+S'20130224\xc2\xa06:54PM UTC'
+p546
+sg6
+S'Kuchar wins Match Play title'
+p547
+sa(dp548
+g2
+S'http://www.reuters.com/article/2013/02/24/entertainment-us-oscars-idUSBRE91M07X20130224'
+p549
+sg4
+S'20130224\xc2\xa06:53PM UTC'
+p550
+sg6
+S'"Lincoln," "Argo" in tight race as Oscars roll out red carpet'
+p551
+sa(dp552
+g2
+S'http://www.reuters.com/article/2013/02/24/barnesnoble-riggio-idUSL1N0BO3PN20130224'
+p553
+sg4
+S'20130224\xc2\xa06:52PM UTC'
+p554
+sg6
+S"Barnes & Noble chairman may bid for company's bookstores -WSJ"
+p555
+sa(dp556
+g2
+S'http://www.reuters.com/article/2013/02/24/us-drinking-idUSBRE91N0IG20130224'
+p557
+sg4
+S'20130224\xc2\xa06:52PM UTC'
+p558
+sg6
+S'Study says too many Americans still drink too much'
+p559
+sa(dp560
+g2
+S'http://www.reuters.com/article/2013/02/24/japan-boj-kuroda-idUSL4N0BN07820130224'
+p561
+sg4
+S'20130224\xc2\xa06:50PM UTC'
+p562
+sg6
+S'NEWSMAKER-Kuroda, fan of detective novels, looks to solve BOJ mystery'
+p563
+sa(dp564
+g2
+S'http://www.reuters.com/article/2013/02/24/health-drinking-idUSL4N0BO0NQ20130224'
+p565
+sg4
+S'20130224\xc2\xa06:48PM UTC'
+p566
+sg6
+S'Study says too many Americans still drink too much'
+p567
+sa(dp568
+g2
+S'http://www.reuters.com/article/2013/02/24/us-portugal-review-idUSBRE91N0IC20130224'
+p569
+sg4
+S'20130224\xc2\xa06:46PM UTC'
+p570
+sg6
+S'Troika to review Portugal bailout, revisions seen'
+p571
+sa(dp572
+g2
+S'http://www.reuters.com/article/2013/02/24/us-italy-vote-idUSBRE91M0EB20130224'
+p573
+sg4
+S'20130224\xc2\xa06:43PM UTC'
+p574
+sg6
+S'Protest votes add to uncertainty in close Italy election'
+p575
+sa(dp576
+g2
+S'http://www.reuters.com/article/2013/02/24/us-cyprus-idUSBRE91N00220130224'
+p577
+sg4
+S'20130224\xc2\xa06:42PM UTC'
+p578
+sg6
+S'After election win, Anastasiades faces Cyprus bailout quagmire'
+p579
+sa(dp580
+g2
+S'http://www.reuters.com/article/2013/02/24/italy-vote-idUSL6N0BO5ET20130224'
+p581
+sg4
+S'20130224\xc2\xa06:41PM UTC'
+p582
+sg6
+S'Protest votes add to uncertainty in close Italy election'
+p583
+sa(dp584
+g2
+S'http://www.reuters.com/article/2013/02/24/cyprus-idUSL6N0BO5TO20130224'
+p585
+sg4
+S'20130224\xc2\xa06:41PM UTC'
+p586
+sg6
+S'After election win, Anastasiades faces Cyprus bailout quagmire'
+p587
+sa(dp588
+g2
+S'http://www.reuters.com/article/2013/02/24/luma-investments-idUSnBw8gqGLca+10c+BSW20130224'
+p589
+sg4
+S'20130224\xc2\xa06:38PM UTC'
+p590
+sg6
+S'James Gosart Appointed CEO of JK Yaming, International Leader in High-Powered, Energy-Efficient Induction Lighting Solutions'
+p591
+sa(dp592
+g2
+S'http://www.reuters.com/article/2013/02/24/us-motorracing-nascar-daytona-idUSBRE91L11L20130224'
+p593
+sg4
+S'20130224\xc2\xa06:37PM UTC'
+p594
+sg6
+S'Johnson wins Daytona 500, Patrick eighth'
+p595
+sa(dp596
+g2
+S'http://www.reuters.com/article/2013/02/24/us-cuba-parliament-fidel-idUSBRE91N09X20130224'
+p597
+sg4
+S'20130224\xc2\xa06:33PM UTC'
+p598
+sg6
+S'Fidel Castro surprises with parliament appearance amid leadership speculation'
+p599
+sa(dp600
+g2
+S'http://www.reuters.com/article/2013/02/24/us-japan-economy-boj-nikkei-idUSBRE91N0DD20130224'
+p601
+sg4
+S'20130224\xc2\xa06:32PM UTC'
+p602
+sg6
+S"Japan likely to nominate ADB's Kuroda as BOJ head: sources"
+p603
+sa(dp604
+g2
+S'http://www.reuters.com/article/2013/02/24/us-cuba-castro-idUSBRE91N0HB20130224'
+p605
+sg4
+S'20130224\xc2\xa06:30PM UTC'
+p606
+sg6
+S'Cuban leader Raul Castro announces he will retire in 2018'
+p607
+sa(dp608
+g2
+S'http://www.reuters.com/article/2013/02/24/japan-economy-amari-idUST9E8GV00J20130224'
+p609
+sg4
+S'20130224\xc2\xa06:30PM UTC'
+p610
+sg6
+S'Japan econmin signals ADB Kuroda meets criteria to head BOJ'
+p611
+sa(dp612
+g2
+S'http://www.reuters.com/article/2013/02/24/japan-economy-boj-nominee-idUSL4N0BO0CK20130224'
+p613
+sg4
+S'20130224\xc2\xa06:25PM UTC'
+p614
+sg6
+S"UPDATE 3-Japan likely to nominate ADB's Kuroda as BOJ head-sources"
+p615
+sa(dp616
+g2
+S'http://www.reuters.com/article/2013/02/24/markets-australia-stocks-idUSL4N0BO0LO20130224'
+p617
+sg4
+S'20130224\xc2\xa06:23PM UTC'
+p618
+sg6
+S'Australia shares edge up on Fed comments; Ten surges'
+p619
+sa(dp620
+g2
+S'http://www.reuters.com/article/2013/02/24/markets-korea-stocks-idUSL4N0BO0II20130224'
+p621
+sg4
+S'20130224\xc2\xa06:18PM UTC'
+p622
+sg6
+S'Seoul shares seen climbing as new president takes office'
+p623
+sa(dp624
+g2
+S'http://www.reuters.com/article/2013/02/24/markets-japan-stocks-idUSL4N0BO0KI20130224'
+p625
+sg4
+S'20130224\xc2\xa06:18PM UTC'
+p626
+sg6
+S'Nikkei seen testing 53-mth high on Kuroda BOJ nomination news'
+p627
+sa(dp628
+g2
+S'http://www.reuters.com/article/2013/02/24/avg-technologies-idUSnBw6QX52ma+130+BSW20130224'
+p629
+sg4
+S'20130224\xc2\xa06:12PM UTC'
+p630
+sg6
+S'AVG Technologies CEO J.R. Smith Headlines Mobile Security Forum at Mobile World Congress 2013'
+p631
+sa(dp632
+g2
+S'http://www.reuters.com/article/2013/02/24/us-prison-usa-startup-idUSBRE91N0GM20130224'
+p633
+sg4
+S'20130224\xc2\xa06:07PM UTC'
+p634
+sg6
+S'Inmates go high-tech as startup mania hits San Quentin'
+p635
+sa(dp636
+g2
+S'http://www.reuters.com/article/2013/02/24/markets-japan-stocks-orders-idUSL4N0BO0KJ20130224'
+p637
+sg4
+S'20130224\xc2\xa06:06PM UTC'
+p638
+sg6
+S'TABLE-Foreign brokers set to buy Japanese stocks'
+p639
+sa(dp640
+g2
+S'http://www.reuters.com/article/2013/02/24/us-italy-vote-markets-idUSBRE91N0HF20130224'
+p641
+sg4
+S'20130224\xc2\xa06:02PM UTC'
+p642
+sg6
+S'Markets brace for crucial Italy election test'
+p643
+sa(dp644
+g2
+S'http://www.reuters.com/article/2013/02/24/idUSnPre3Tvmja+110+PRN20130224'
+p645
+sg4
+S'20130224\xc2\xa06:01PM UTC'
+p646
+sg6
+S'Vserv.mobi Records Massive Growth in Southeast Asia, Mobile Ad Requests Jump 6 Times'
+p647
+sa(dp648
+g2
+S'http://www.reuters.com/article/2013/02/24/sequans-communications-idUSnBw4WzMpda+128+BSW20130224'
+p649
+sg4
+S'20130224\xc2\xa06:01PM UTC'
+p650
+sg6
+S'Sequans Introduces LTE-Advanced Chip'
+p651
+sa(dp652
+g2
+S'http://www.reuters.com/article/2013/02/24/ca-im-newbusinessunit-idUSnPnLA65215+160+PRN20130224'
+p653
+sg4
+S'20130224\xc2\xa06:00PM UTC'
+p654
+sg6
+S'Ingram Micro Unveils New Mobility Business Unit'
+p655
+sa(dp656
+g2
+S'http://www.reuters.com/article/2013/02/24/ca-jasper-wireless-idUSnBw8XWRF3a+13c+BSW20130224'
+p657
+sg4
+S'20130224\xc2\xa06:00PM UTC'
+p658
+sg6
+S'Optus Business and Jasper Wireless Partner to Power M2M in Australia'
+p659
+sa(dp660
+g2
+S'http://www.reuters.com/article/2013/02/24/italy-vote-markets-idUSL6N0BO3QJ20130224'
+p661
+sg4
+S'20130224\xc2\xa06:00PM UTC'
+p662
+sg6
+S'Markets brace for crucial Italy election test'
+p663
+sa(dp664
+g2
+S'http://www.reuters.com/article/2013/02/24/korea-markets-factors-idUSL4N0BO0H920130224'
+p665
+sg4
+S'20130224\xc2\xa05:59PM UTC'
+p666
+sg6
+S'S.Korea-Market Factors to watch on Feb 25'
+p667
+sa(dp668
+g2
+S'http://www.reuters.com/article/2013/02/24/japan-economy-boj-kuroda-idUST9E7HN02120130224'
+p669
+sg4
+S'20130224\xc2\xa05:58PM UTC'
+p670
+sg6
+S'Japan govt to nominate ADB Kuroda as next BOJ head -sources'
+p671
+sa(dp672
+g2
+S'http://www.reuters.com/article/2013/02/24/us-usa-newjersey-budget-preview-idUSBRE91N0H920130224'
+p673
+sg4
+S'20130224\xc2\xa05:57PM UTC'
+p674
+sg6
+S'New Jersey, its "comeback" derailed, sets another budget'
+p675
+sa(dp676
+g2
+S'http://www.reuters.com/article/2013/02/24/jpm-woolery-idUSL1N0BO3J020130224'
+p677
+sg4
+S'20130224\xc2\xa05:49PM UTC'
+p678
+sg6
+S'Top JP Morgan investment banker leaves for law firm'
+p679
+sa(dp680
+g2
+S'http://www.reuters.com/article/2013/02/24/motor-racing-nascar-daytona-idUSL4N0BO0GO20130224'
+p681
+sg4
+S'20130224\xc2\xa05:46PM UTC'
+p682
+sg6
+S'UPDATE 2-Motor racing-Johnson wins Daytona 500, Patrick eighth'
+p683
+sa(dp684
+g2
+S'http://www.reuters.com/article/2013/02/24/idUSnMKW118a+70+MKW20130224'
+p685
+sg4
+S'20130224\xc2\xa05:40PM UTC'
+p686
+sg6
+S'Health Hazard Alert: Certain Tea Products May Contain Salmonella Bacteria'
+p687
+sa(dp688
+g2
+S'http://www.reuters.com/article/2013/02/24/idUSnCCNvDKSta+1dc+MKW20130224'
+p689
+sg4
+S'20130224\xc2\xa05:40PM UTC'
+p690
+sg6
+S'Health Hazard Alert: Certain Tea Products May Contain Salmonella Bacteria'
+p691
+sa(dp692
+g2
+S'http://www.reuters.com/article/2013/02/24/us-syria-crisis-nuclear-idUSBRE91N0A420130224'
+p693
+sg4
+S'20130224\xc2\xa05:34PM UTC'
+p694
+sg6
+S'Syrian opposition says captures former nuclear site'
+p695
+sa(dp696
+g2
+S'http://www.reuters.com/article/2013/02/24/us-usa-education-wyoming-idUSBRE91N0BZ20130224'
+p697
+sg4
+S'20130224\xc2\xa05:29PM UTC'
+p698
+sg6
+S'In Wyoming, a bare-knuckle fight for control of education'
+p699
+sa(dp700
+g2
+S'http://www.reuters.com/article/2013/02/24/markets-australia-stocks-idUSL4N0BO0G420130224'
+p701
+sg4
+S'20130224\xc2\xa05:16PM UTC'
+p702
+sg6
+S'Australia shares seen opening up on Fed comments'
+p703
+sa(dp704
+g2
+S'http://www.reuters.com/article/2013/02/24/us-usa-kerry-idUSBRE91N02D20130224'
+p705
+sg4
+S'20130224\xc2\xa05:04PM UTC'
+p706
+sg6
+S'Kerry makes first foreign trip as top U.S. diplomat'
+p707
+sa(dp708
+g2
+S'http://www.reuters.com/article/2013/02/24/us-knight-stifel-idUSBRE91N0GX20130224'
+p709
+sg4
+S'20130224\xc2\xa05:03PM UTC'
+p710
+sg6
+S'Knight Capital to sell credit brokerage unit to Stifel: source'
+p711
+sa(dp712
+g2
+S'http://www.reuters.com/article/2013/02/24/us-usa-politics-sanford-idUSBRE91N0F120130224'
+p713
+sg4
+S'20130224\xc2\xa05:01PM UTC'
+p714
+sg6
+S'In South Carolina, disgraced former governor seeks a resurrection'
+p715
+sa(dp716
+g2
+S'http://www.reuters.com/article/2013/02/24/us-markets-forex-idUSBRE91514J20130224'
+p717
+sg4
+S'20130224\xc2\xa05:00PM UTC'
+p718
+sg6
+S'Yen & sterling both slump, euro eyes Italy elections'
+p719
+sa(dp720
+g2
+S'http://www.reuters.com/article/2013/02/24/knight-stifel-idUSL1N0BO3DE20130224'
+p721
+sg4
+S'20130224\xc2\xa05:00PM UTC'
+p722
+sg6
+S'Knight Capital to sell credit brokerage unit to Stifel -source'
+p723
+sa(dp724
+g2
+S'http://www.reuters.com/article/2013/02/24/us-nba-lakers-idUSBRE91N0GS20130224'
+p725
+sg4
+S'20130224\xc2\xa05:00PM UTC'
+p726
+sg6
+S"Bryant silences Cuban with 38 points in Lakers' win"
+p727
+sa(dp728
+g2
+S'http://www.reuters.com/article/2013/02/24/markets-forex-idUSL4N0BO0GG20130224'
+p729
+sg4
+S'20130224\xc2\xa04:59PM UTC'
+p730
+sg6
+S'FOREX-Yen & sterling both slump, euro eyes Italy elections'
+p731
+sa(dp732
+g2
+S'http://www.reuters.com/article/2013/02/24/idUS232641084120130224'
+p733
+sg4
+S'20130224\xc2\xa04:56PM UTC'
+p734
+sg6
+S'AirWatch raises $200M to help IT managers counter BYOD'
+p735
+sa(dp736
+g2
+S'http://www.reuters.com/article/2013/02/24/motor-racing-nascar-daytona-idUSL1N0BO32K20130224'
+p737
+sg4
+S'20130224\xc2\xa04:49PM UTC'
+p738
+sg6
+S'Motor racing-Johnson wins Daytona 500, Patrick eighth'
+p739
+sa(dp740
+g2
+S'http://www.reuters.com/article/2013/02/24/prison-usa-startup-idUSL1N0BO2DP20130224'
+p741
+sg4
+S'20130224\xc2\xa04:48PM UTC'
+p742
+sg6
+S'FEATURE-Inmates go high-tech as startup mania hits San Quentin'
+p743
+sa(dp744
+g2
+S'http://www.reuters.com/article/2013/02/24/us-hewlettpackard-tablet-idUSBRE91N0GF20130224'
+p745
+sg4
+S'20130224\xc2\xa04:42PM UTC'
+p746
+sg6
+S'HP eyes tablet comeback with Android-backed Slate 7'
+p747
+sa(dp748
+g2
+S'http://www.reuters.com/article/2013/02/24/us-tennis-men-argentina-idUSBRE91N0GD20130224'
+p749
+sg4
+S'20130224\xc2\xa04:40PM UTC'
+p750
+sg6
+S'Ferrer retains Buenos Aires title'
+p751
+sa(dp752
+g2
+S'http://www.reuters.com/article/2013/02/24/hewlettpackard-tablet-idUSL1N0BO2V920130224'
+p753
+sg4
+S'20130224\xc2\xa04:39PM UTC'
+p754
+sg6
+S'HP eyes tablet comeback with Android-backed Slate 7'
+p755
+sa(dp756
+g2
+S'http://www.reuters.com/article/2013/02/24/entertainment-us-quvenzhanewallis-annie-idUSBRE91N0G620130224'
+p757
+sg4
+S'20130224\xc2\xa04:38PM UTC'
+p758
+sg6
+S'Quvenzhan\xc3\xa9 Wallis to play title role in "Annie" movie'
+p759
+sa(dp760
+g2
+S'http://www.reuters.com/article/2013/02/24/us-afghanistan-karzai-idUSBRE91N0G420130224'
+p761
+sg4
+S'20130224\xc2\xa04:35PM UTC'
+p762
+sg6
+S'Afghan president to expel U.S. special forces from key province'
+p763
+sa(dp764
+g2
+S'http://www.reuters.com/article/2013/02/24/film-quvenzhanewallis-annie-idUSL1N0BO2WY20130224'
+p765
+sg4
+S'20130224\xc2\xa04:34PM UTC'
+p766
+sg6
+S"Quvenzhan\xc3\xa9 Wallis to play title role in 'Annie' movie"
+p767
+sa(dp768
+g2
+S'http://www.reuters.com/article/2013/02/24/indonesia-policy-consumers-idUSL4N0AN25620130224'
+p769
+sg4
+S'20130224\xc2\xa04:29PM UTC'
+p770
+sg6
+S'Indonesia eyes consumer sector with regulatory zeal'
+p771
+sa(dp772
+g2
+S'http://www.reuters.com/article/2013/02/24/india-ratnakar-idUSL4N0B14MC20130224'
+p773
+sg4
+S'20130224\xc2\xa04:29PM UTC'
+p774
+sg6
+S'Indian bank finds profits where others fear to tread'
+p775
+sa(dp776
+g2
+S'http://www.reuters.com/article/2013/02/24/media-australia-ten-idUSL6N0BO5TN20130224'
+p777
+sg4
+S'20130224\xc2\xa04:26PM UTC'
+p778
+sg6
+S"RPT-Australia's troubled Ten Network sacks chief executive"
+p779
+sa(dp780
+g2
+S'http://www.reuters.com/article/2013/02/24/motorracing-nascar-daytona-crash-idUSL4N0BO0ED20130224'
+p781
+sg4
+S'20130224\xc2\xa04:23PM UTC'
+p782
+sg6
+S'UPDATE 1-Daytona 500 goes on despite crash that injured fans'
+p783
+sa(dp784
+g2
+S'http://www.reuters.com/article/2013/02/24/us-apple-india-idUSBRE91N0FK20130224'
+p785
+sg4
+S'20130224\xc2\xa04:19PM UTC'
+p786
+sg6
+S'Apple signals emerging-market rethink with India push'
+p787
+sa(dp788
+g2
+S'http://www.reuters.com/article/2013/02/24/australia-cyclone-idUSL4N0BO0F520130224'
+p789
+sg4
+S'20130224\xc2\xa04:15PM UTC'
+p790
+sg6
+S'RPT-Australia Pilbara iron ore ports close, cyclone Rusty approaches'
+p791
+sa(dp792
+g2
+S'http://www.reuters.com/article/2013/02/24/us-itv-dividend-idUSBRE91N0FU20130224'
+p793
+sg4
+S'20130224\xc2\xa04:13PM UTC'
+p794
+sg6
+S'ITV to return 200 million pounds to shareholders: report'
+p795
+sa(dp796
+g2
+S'http://www.reuters.com/article/2013/02/24/us-china-economy-reform-idUSBRE91N0FR20130224'
+p797
+sg4
+S'20130224\xc2\xa04:12PM UTC'
+p798
+sg6
+S'Analysis: China central bank takes lead in economic reform push'
+p799
+sa(dp800
+g2
+S'http://www.reuters.com/article/2013/02/24/yen-forex-idUSS9E8MC00C20130224'
+p801
+sg4
+S'20130224\xc2\xa04:10PM UTC'
+p802
+sg6
+S'Yen dives on BOJ report, sterling hit by downgrade'
+p803
+sa(dp804
+g2
+S'http://www.reuters.com/article/2013/02/24/cyprus-idUSL6N0BO05I20130224'
+p805
+sg4
+S'20130224\xc2\xa04:08PM UTC'
+p806
+sg6
+S'UPDATE 7-Cypriot conservative romps to presidential victory'
+p807
+sa(dp808
+g2
+S'http://www.reuters.com/article/2013/02/24/ca-rentrak-idUSnPnLA64970+160+PRN20130224'
+p809
+sg4
+S'20130224\xc2\xa04:06PM UTC'
+p810
+sg6
+S'Rentrak Announces Worldwide Box Office Results For Weekend Of February 24, 2013'
+p811
+sa(dp812
+g2
+S'http://www.reuters.com/article/2013/02/24/itv-dividend-idUSL4N0BO0EZ20130224'
+p813
+sg4
+S'20130224\xc2\xa04:05PM UTC'
+p814
+sg6
+S'ITV to return 200 mln stg to shareholders -report'
+p815
+sa(dp816
+g2
+S'http://www.reuters.com/article/2013/02/24/korea-park-economy-idUSL4N0BM3SV20130224'
+p817
+sg4
+S'20130224\xc2\xa04:00PM UTC'
+p818
+sg6
+S"Weak yen adds to woes confronting South Korea's Park"
+p819
+sa(dp820
+g2
+S'http://www.reuters.com/article/2013/02/24/noc-australia-airshow-idUSnPnLA65050+160+PRN20130224'
+p821
+sg4
+S'20130224\xc2\xa04:00PM UTC'
+p822
+sg6
+S'Northrop Grumman Announces Media Briefing on Triton Unmanned Aircraft System at Australian International Air Show'
+p823
+sa(dp824
+g2
+S'http://www.reuters.com/article/2013/02/24/apple-india-idUSL4N0BM25L20130224'
+p825
+sg4
+S'20130224\xc2\xa03:59PM UTC'
+p826
+sg6
+S'Apple signals emerging-market rethink with India push'
+p827
+sa(dp828
+g2
+S'http://www.reuters.com/article/2013/02/24/us-sudan-fighting-idUSBRE91N0FE20130224'
+p829
+sg4
+S'20130224\xc2\xa03:59PM UTC'
+p830
+sg6
+S"Fighting in Sudan's Darfur region kills 51: government"
+p831
+sa(dp832
+g2
+S'http://www.reuters.com/article/2013/02/24/us-britain-clegg-allegations-idUSBRE91N0F520130224'
+p833
+sg4
+S'20130224\xc2\xa03:55PM UTC'
+p834
+sg6
+S"UK's Clegg on defensive as sexual harassment claims batter party"
+p835
+sa(dp836
+g2
+S'http://www.reuters.com/article/2013/02/24/cameronplace-miranda-idUSnPnLA65330+160+PRN20130224'
+p837
+sg4
+S'20130224\xc2\xa03:45PM UTC'
+p838
+sg6
+S"Q&A;: Claudio Miranda on Filming the 'Impossible' Film"
+p839
+sa(dp840
+g2
+S'http://www.reuters.com/article/2013/02/24/us-syris-crisis-usa-idUSBRE91N06620130224'
+p841
+sg4
+S'20130224\xc2\xa03:42PM UTC'
+p842
+sg6
+S'U.S. urges Syrian opposition to attend Rome talks'
+p843
+sa(dp844
+g2
+S'http://www.reuters.com/article/2013/02/24/entertainment-us-boxoffice-idUSBRE8BM08U20130224'
+p845
+sg4
+S'20130224\xc2\xa03:36PM UTC'
+p846
+sg6
+S'Comedy "Identity Thief" back on top of North American box office'
+p847
+sa(dp848
+g2
+S'http://www.reuters.com/article/2013/02/24/hellermanntyton-ipo-idUSL4N0BO0EU20130224'
+p849
+sg4
+S'20130224\xc2\xa03:35PM UTC'
+p850
+sg6
+S'Doughty Hanson preparing HellermannTyton float - report'
+p851
+sa(dp852
+g2
+S'http://www.reuters.com/article/2013/02/24/us-lockheed-fighter-australia-idUSBRE91N0EK20130224'
+p853
+sg4
+S'20130224\xc2\xa03:33PM UTC'
+p854
+sg6
+S'Grounding, budget woes cloud F-35 warplane sales push in Australia'
+p855
+sa(dp856
+g2
+S'http://www.reuters.com/article/2013/02/24/lockheed-fighter-australia-idUSL1N0BO1BH20130224'
+p857
+sg4
+S'20130224\xc2\xa03:29PM UTC'
+p858
+sg6
+S'Grounding, budget woes cloud F-35 warplane sales push in Australia'
+p859
+sa(dp860
+g2
+S'http://www.reuters.com/article/2013/02/24/santoni-milan-store-idUSnPnNY65329+160+PRN20130224'
+p861
+sg4
+S'20130224\xc2\xa03:26PM UTC'
+p862
+sg6
+S'Santoni Opens Flagship Boutique in Milan'
+p863
+sa(dp864
+g2
+S'http://www.reuters.com/article/2013/02/24/energy-gasoline-retail-idUSL1N0BO2DL20130224'
+p865
+sg4
+S'20130224\xc2\xa03:19PM UTC'
+p866
+sg6
+S'U.S. gasoline prices soar, but relief is in sight -survey'
+p867
+sa(dp868
+g2
+S'http://www.reuters.com/article/2013/02/24/us-palestinians-israel-idUSBRE91N08E20130224'
+p869
+sg4
+S'20130224\xc2\xa03:14PM UTC'
+p870
+sg6
+S'Palestinians say detainee tortured before death'
+p871
+sa(dp872
+g2
+S'http://www.reuters.com/article/2013/02/24/idUSnHUGySxMfa+1d4+ONE20130224'
+p873
+sg4
+S'20130224\xc2\xa03:14PM UTC'
+p874
+sg6
+S'First 2013 Zinc, lead and copper concentrates tender for Volcan Compa\xc3\xb1ia Minera'
+p875
+sa(dp876
+g2
+S'http://www.reuters.com/article/2013/02/24/usa-weather-snowstorm-idUSL1N0BO2OK20130224'
+p877
+sg4
+S'20130224\xc2\xa03:13PM UTC'
+p878
+sg6
+S'Colorado snowstorm triggers blizzard warnings, slows air traffic'
+p879
+sa(dp880
+g2
+S'http://www.reuters.com/article/2013/02/24/mexico-oil-idUSL1N0BO2RO20130224'
+p881
+sg4
+S'20130224\xc2\xa03:10PM UTC'
+p882
+sg6
+S"UPDATE 1-Mexico's Pemex says storage facility in Veracruz state caught fire"
+p883
+sa(dp884
+g2
+S'http://www.reuters.com/article/2013/02/24/chorus-results-idUSL4N0BO0EI20130224'
+p885
+sg4
+S'20130224\xc2\xa02:46PM UTC'
+p886
+sg6
+S"NZ's Chorus H1 profit better than f'cast, faces high costs"
+p887
+sa(dp888
+g2
+S'http://www.reuters.com/article/2013/02/24/boxoffice-idUSL1N0BO2DU20130224'
+p889
+sg4
+S'20130224\xc2\xa02:42PM UTC'
+p890
+sg6
+S"UPDATE 1-Comedy 'Identity Thief' back on top of North American box office"
+p891
+sa(dp892
+g2
+S'http://www.reuters.com/article/2013/02/24/italy-vote-berlusconi-idUSL1N0BO2PU20130224'
+p893
+sg4
+S'20130224\xc2\xa02:38PM UTC'
+p894
+sg6
+S"NEWSMAKER-Berlusconi's last throw of the dice in Italy election"
+p895
+sa(dp896
+g2
+S'http://www.reuters.com/article/2013/02/24/ca-genentech-idUSnBw1F8TBma+12c+BSW20130224'
+p897
+sg4
+S'20130224\xc2\xa02:37PM UTC'
+p898
+sg6
+S'Phase III Results Showed omalizumab Significantly Reduced Disease Severity in Patients with a Chronic Form of Hives who Failed Standard Therapy'
+p899
+sa(dp900
+g2
+S'http://www.reuters.com/article/2013/02/24/us-cyprus-anastasiades-work-idUSBRE91N0EB20130224'
+p901
+sg4
+S'20130224\xc2\xa02:35PM UTC'
+p902
+sg6
+S'Cypriot president-elect vows to work for swift bailout deal'
+p903
+sa(dp904
+g2
+S'http://www.reuters.com/article/2013/02/24/cyprus-anastasiades-idUSL6N0BO46I20130224'
+p905
+sg4
+S'20130224\xc2\xa02:32PM UTC'
+p906
+sg6
+S'Cypriot president-elect vows to work for swift bailout deal'
+p907
+sa(dp908
+g2
+S'http://www.reuters.com/article/2013/02/24/us-iran-drones-idUSBRE91N0E120130224'
+p909
+sg4
+S'20130224\xc2\xa02:31PM UTC'
+p910
+sg6
+S'Iran says it has brought down a mock spy drone'
+p911
+sa(dp912
+g2
+S'http://www.reuters.com/article/2013/02/24/iran-drones-idUSL6N0BN21N20130224'
+p913
+sg4
+S'20130224\xc2\xa02:31PM UTC'
+p914
+sg6
+S'CORRECTED-Iran says it has brought down a mock spy drone'
+p915
+sa(dp916
+g2
+S'http://www.reuters.com/article/2013/02/24/il-state-rifle-assoc-idUSnPnDC65325+160+PRN20130224'
+p917
+sg4
+S'20130224\xc2\xa02:29PM UTC'
+p918
+sg6
+S'ISRA Commends Artist Joe Fournier For Gun Safety Cartoon'
+p919
+sa(dp920
+g2
+S'http://www.reuters.com/article/2013/02/24/us-deutschebank-libor-jain-idUSBRE91N07W20130224'
+p921
+sg4
+S'20130224\xc2\xa02:24PM UTC'
+p922
+sg6
+S'Libor scandal no threat to Deutsche Bank co-chief Jain: sources'
+p923
+sa(dp924
+g2
+S'http://www.reuters.com/article/2013/02/24/ca-sony-annie-casted-idUSnPnLA65324+160+PRN20130224'
+p925
+sg4
+S'20130224\xc2\xa02:17PM UTC'
+p926
+sg6
+S'Quvenzhane Wallis to Play Annie for Overbrook Entertainment, Marcy Media and Sony Pictures Entertainment'
+p927
+sa(dp928
+g2
+S'http://www.reuters.com/article/2013/02/24/us-france-poll-idUSBRE91N0D820130224'
+p929
+sg4
+S'20130224\xc2\xa02:09PM UTC'
+p930
+sg6
+S'Hollande, Ayrault approval ratings rise slightly: poll'
+p931
+sa(dp932
+g2
+S'http://www.reuters.com/article/2013/02/24/us-usa-fiscal-idUSBRE91L00920130224'
+p933
+sg4
+S'20130224\xc2\xa02:08PM UTC'
+p934
+sg6
+S'Republicans, Democrats brace for impact of March 1 cuts'
+p935
+sa(dp936
+g2
+S'http://www.reuters.com/article/2013/02/24/us-banks-paydayloans-idUSBRE91N0DV20130224'
+p937
+sg4
+S'20130224\xc2\xa02:07PM UTC'
+p938
+sg6
+S'Regulators examine if big banks evade payday loan laws: NYT'
+p939
+sa(dp940
+g2
+S'http://www.reuters.com/article/2013/02/24/usa-fiscal-idUSL1N0BO20R20130224'
+p941
+sg4
+S'20130224\xc2\xa02:03PM UTC'
+p942
+sg6
+S'UPDATE 1-Republicans, Democrats brace for impact of March 1 U.S. cuts'
+p943
+sa(dp944
+g2
+S'http://www.reuters.com/article/2013/02/24/banks-paydayloans-idUSL1N0BO28C20130224'
+p945
+sg4
+S'20130224\xc2\xa02:03PM UTC'
+p946
+sg6
+S'US regulators examine if big banks evade payday loan laws-NYT'
+p947
+sa(dp948
+g2
+S'http://www.reuters.com/article/2013/02/24/entertainment-us-britain-charts-idUSBRE91N0DQ20130224'
+p949
+sg4
+S'20130224\xc2\xa02:03PM UTC'
+p950
+sg6
+S'One Direction channel Blondie to score third number one single'
+p951
+sa(dp952
+g2
+S'http://www.reuters.com/article/2013/02/24/idUSnGNXUXFSDa+1fe+GNW20130224'
+p953
+sg4
+S'20130224\xc2\xa02:02PM UTC'
+p954
+sg6
+S'FashionEyewear Now Retails Bench Eyewear To Their Customers'
+p955
+sa(dp956
+g2
+S'http://www.reuters.com/article/2013/02/24/az-iab-idUSnBw6LTY1Pa+13a+BSW20130224'
+p957
+sg4
+S'20130224\xc2\xa02:00PM UTC'
+p958
+sg6
+S'850 Interactive Advertising Industry Leaders Convene for the IAB Annual Leadership Meeting'
+p959
+sa(dp960
+g2
+S'http://www.reuters.com/article/2013/02/24/economy-global-weekahead-idUSL4N0BN07J20130224'
+p961
+sg4
+S'20130224\xc2\xa02:00PM UTC'
+p962
+sg6
+S'GLOBAL ECONOMY - Hoping for answers to three big questions'
+p963
+sa(dp964
+g2
+S'http://www.reuters.com/article/2013/02/24/newzealand-press-idUSL6N0BO55Z20130224'
+p965
+sg4
+S'20130224\xc2\xa01:51PM UTC'
+p966
+sg6
+S'PRESS DIGEST-New Zealand newspapers - Feb. 25'
+p967
+sa(dp968
+g2
+S'http://www.reuters.com/article/2013/02/24/us-golf-pga-matchplay-semis-idUSBRE91N0CZ20130224'
+p969
+sg4
+S'20130224\xc2\xa01:51PM UTC'
+p970
+sg6
+S'Mahan and Kuchar to meet in Match Play final'
+p971
+sa(dp972
+g2
+S'http://www.reuters.com/article/2013/02/24/us-congo-democratic-un-idUSBRE91N03H20130224'
+p973
+sg4
+S'20130224\xc2\xa01:42PM UTC'
+p974
+sg6
+S'African leaders sign deal aimed at peace in eastern Congo'
+p975
+sa(dp976
+g2
+S'http://www.reuters.com/article/2013/02/24/congo-democratic-un-idUSL6N0BO16X20130224'
+p977
+sg4
+S'20130224\xc2\xa01:41PM UTC'
+p978
+sg6
+S'UPDATE 3-African leaders sign deal aimed at peace in eastern Congo'
+p979
+sa(dp980
+g2
+S'http://www.reuters.com/article/2013/02/24/mexico-oil-idUSL1N0BO28E20130224'
+p981
+sg4
+S'20130224\xc2\xa01:39PM UTC'
+p982
+sg6
+S"Mexico's Pemex confirms fire at storage facility in Veracruz state"
+p983
+sa(dp984
+g2
+S'http://www.reuters.com/article/2013/02/24/boxoffice-chart-idUSL4N0BO00C20130224'
+p985
+sg4
+S'20130224\xc2\xa01:33PM UTC'
+p986
+sg6
+S'The top films at the North American box office'
+p987
+sa(dp988
+g2
+S'http://www.reuters.com/article/2013/02/24/us-affymax-takeda-recall-idUSBRE91N01Y20130224'
+p989
+sg4
+S'20130224\xc2\xa01:22PM UTC'
+p990
+sg6
+S'Affymax, Takeda recall anemia drug Omontys after deaths'
+p991
+sa(dp992
+g2
+S'http://www.reuters.com/article/2013/02/24/affymax-takeda-recall-idUSL4N0BO0C320130224'
+p993
+sg4
+S'20130224\xc2\xa01:21PM UTC'
+p994
+sg6
+S'UPDATE 1-Affymax, Takeda recall anemia drug Omontys after deaths'
+p995
+sa(dp996
+g2
+S'http://www.reuters.com/article/2013/02/24/colombia-cerrejon-attack-idUSL1N0BO1T020130224'
+p997
+sg4
+S'20130224\xc2\xa01:19PM UTC'
+p998
+sg6
+S"Attackers blow up trucks at Colombia's biggest coal exporter"
+p999
+sa(dp1000
+g2
+S'http://www.reuters.com/article/2013/02/24/nj-novartis-omalizuma-idUSnPnNY65314+160+PRN20130224'
+p1001
+sg4
+S'20130224\xc2\xa01:17PM UTC'
+p1002
+sg6
+S'Novartis Reports Omalizumab Significantly Improved Chronic Idiopathic Urticaria Symptoms in Patients Who Failed Standard Therapy'
+p1003
+sa(dp1004
+g2
+S'http://www.reuters.com/article/2013/02/24/us-mali-rebels-chad-idUSBRE91N09A20130224'
+p1005
+sg4
+S'20130224\xc2\xa01:14PM UTC'
+p1006
+sg6
+S'Ten Chadian soldiers killed fighting Islamists in Mali'
+p1007
+sa(dp1008
+g2
+S'http://www.reuters.com/article/2013/02/24/japan-economy-boj-nikkei-idUSL6N0BO4TP20130224'
+p1009
+sg4
+S'20130224\xc2\xa01:12PM UTC'
+p1010
+sg6
+S"Japan likely to nominate ADB's Kuroda as next BOJ head-Nikkei"
+p1011
+sa(dp1012
+g2
+S'http://www.reuters.com/article/2013/02/24/us-usa-fed-bonds-idUSBRE91L02I20130224'
+p1013
+sg4
+S'20130224\xc2\xa01:09PM UTC'
+p1014
+sg6
+S"Bernanke's challenge: prime markets for policy turn"
+p1015
+sa(dp1016
+g2
+S'http://www.reuters.com/article/2013/02/24/usa-fed-bonds-idUSL1N0BM0YR20130224'
+p1017
+sg4
+S'20130224\xc2\xa01:08PM UTC'
+p1018
+sg6
+S"FED FOCUS-Bernanke's challenge: prime markets for policy turn"
+p1019
+sa(dp1020
+g2
+S'http://www.reuters.com/article/2013/02/24/us-cyprus-anastasiades-idUSBRE91N0CV20130224'
+p1021
+sg4
+S'20130224\xc2\xa01:07PM UTC'
+p1022
+sg6
+S'Cypriot presidential victor turns "Nasty" to "Nice"'
+p1023
+sa(dp1024
+g2
+S'http://www.reuters.com/article/2013/02/24/us-climate-labor-idUSBRE91N0CN20130224'
+p1025
+sg4
+S'20130224\xc2\xa01:03PM UTC'
+p1026
+sg6
+S'Hotter, wetter climate slashes labor capacity by 10 percent: U.S. study'
+p1027
+sa(dp1028
+g2
+S'http://www.reuters.com/article/2013/02/24/alliancewirelesspower-idUSnPnNY65306+160+PRN20130224'
+p1029
+sg4
+S'20130224\xc2\xa01:02PM UTC'
+p1030
+sg6
+S'Alliance for Wireless Power (A4WP) Expands Board of Directors and Posts Certification Program Progress'
+p1031
+sa(dp1032
+g2
+S'http://www.reuters.com/article/2013/02/24/idUSnHUGg4C3ca+1c8+ONE20130224'
+p1033
+sg4
+S'20130224\xc2\xa01:01PM UTC'
+p1034
+sg6
+S'Novartis reports Phase III data showing omalizumab improved itch in patients with a chronic form of hives who failed standard therapy[1]'
+p1035
+sa(dp1036
+g2
+S'http://www.reuters.com/article/2013/02/24/idUSnCCNpDcR1a+1d4+MKW20130224'
+p1037
+sg4
+S'20130224\xc2\xa01:00PM UTC'
+p1038
+sg6
+S'Media Advisory/REMINDER: Minister Oliver to Announce New Milestone for Liquefied Natural Gas Industry'
+p1039
+sa(dp1040
+g2
+S'http://www.reuters.com/article/2013/02/24/idUSnMKW116a+70+MKW20130224'
+p1041
+sg4
+S'20130224\xc2\xa01:00PM UTC'
+p1042
+sg6
+S'Media Advisory/REMINDER: Minister Oliver to Announce New Milestone for Liquefied Natural Gas Industry'
+p1043
+sa(dp1044
+g2
+S'http://www.reuters.com/article/2013/02/24/climate-labor-idUSL1N0BN1P420130224'
+p1045
+sg4
+S'20130224\xc2\xa012:59PM UTC'
+p1046
+sg6
+S'Hotter, wetter climate slashes labor capacity by 10 pct - U.S. study'
+p1047
+sa(dp1048
+g2
+S'http://www.reuters.com/article/2013/02/24/usa-fiscal-idUSL1N0BO1RR20130224'
+p1049
+sg4
+S'20130224\xc2\xa012:50PM UTC'
+p1050
+sg6
+S'REFILE-Republicans and Democrats brace for impact of March 1 U.S. cuts'
+p1051
+sa(dp1052
+g2
+S'http://www.reuters.com/article/2013/02/24/us-soccer-england-idUSBRE91N08S20130224'
+p1053
+sg4
+S'20130224\xc2\xa012:50PM UTC'
+p1054
+sg6
+S'Toure and Tevez strike as City cling to hope'
+p1055
+sa(dp1056
+g2
+S'http://www.reuters.com/article/2013/02/24/us-suncor-shares-idUSBRE91N0CF20130224'
+p1057
+sg4
+S'20130224\xc2\xa012:49PM UTC'
+p1058
+sg6
+S"Suncor, Canadian Natural Resources shares could surge: Barron's"
+p1059
+sa(dp1060
+g2
+S'http://www.reuters.com/article/2013/02/24/idUSnPreZQyyxa+130+PRN20130224'
+p1061
+sg4
+S'20130224\xc2\xa012:46PM UTC'
+p1062
+sg6
+S'Mozilla Announces Global Expansion For Firefox OS'
+p1063
+sa(dp1064
+g2
+S'http://www.reuters.com/article/2013/02/24/us-germany-turkey-idUSBRE91N0CD20130224'
+p1065
+sg4
+S'20130224\xc2\xa012:44PM UTC'
+p1066
+sg6
+S"Merkel: China, Russia seeing Syrian president's time is up"
+p1067
+sa(dp1068
+g2
+S'http://www.reuters.com/article/2013/02/24/us-afghanistan-karzai-idUSBRE91N0C520130224'
+p1069
+sg4
+S'20130224\xc2\xa012:41PM UTC'
+p1070
+sg6
+S'Afghan president to expel U.S. special forces from key province'
+p1071
+sa(dp1072
+g2
+S'http://www.reuters.com/article/2013/02/24/mozilla-firefox-os-idUSnPnNY62904+160+PRN20130224'
+p1073
+sg4
+S'20130224\xc2\xa012:39PM UTC'
+p1074
+sg6
+S'Mozilla Announces Global Expansion For Firefox OS<030200.KS>'
+p1075
+sa(dp1076
+g2
+S'http://www.reuters.com/article/2013/02/24/us-coach-shares-idUSBRE91N0C120130224'
+p1077
+sg4
+S'20130224\xc2\xa012:37PM UTC'
+p1078
+sg6
+S"Coach shares are a bargain: Barron's"
+p1079
+sa(dp1080
+g2
+S'http://www.reuters.com/article/2013/02/24/us-dicks-shares-idUSBRE91N0BX20130224'
+p1081
+sg4
+S'20130224\xc2\xa012:35PM UTC'
+p1082
+sg6
+S"Dick's Sporting Goods shares could rise 23 pct in year: Barron's"
+p1083
+sa(dp1084
+g2
+S'http://www.reuters.com/article/2013/02/24/entertainment-us-boxoffice-idUSBRE91N0BU20130224'
+p1085
+sg4
+S'20130224\xc2\xa012:32PM UTC'
+p1086
+sg6
+S'Comedy "Identity Thief" back on top of North American box office'
+p1087
+sa(dp1088
+g2
+S'http://www.reuters.com/article/2013/02/24/us-adt-shares-idUSBRE91N0BQ20130224'
+p1089
+sg4
+S'20130224\xc2\xa012:29PM UTC'
+p1090
+sg6
+S"ADT shares could rise 20 pct within a year: Barron's"
+p1091
+sa(dp1092
+g2
+S'http://www.reuters.com/article/2013/02/24/boxoffice-idUSL1N0BO04120130224'
+p1093
+sg4
+S'20130224\xc2\xa012:27PM UTC'
+p1094
+sg6
+S"Comedy 'Identity Thief' back on top of North American box office"
+p1095
+sa(dp1096
+g2
+S'http://www.reuters.com/article/2013/02/24/us-globalpower-shares-idUSBRE91N0BL20130224'
+p1097
+sg4
+S'20130224\xc2\xa012:26PM UTC'
+p1098
+sg6
+S"Global Power Equipment may gain over 20 pct within year: Barron's"
+p1099
+sa(dp1100
+g2
+S'http://www.reuters.com/article/2013/02/24/us-cyprus-victory-idUSBRE91N0BJ20130224'
+p1101
+sg4
+S'20130224\xc2\xa012:15PM UTC'
+p1102
+sg6
+S'Cypriot conservative chief declares victory in runoff vote'
+p1103
+sa(dp1104
+g2
+S'http://www.reuters.com/article/2013/02/24/cyprus-victory-idUSL6N0BO4G520130224'
+p1105
+sg4
+S'20130224\xc2\xa012:10PM UTC'
+p1106
+sg6
+S'Cypriot conservative chief declares victory in runoff vote'
+p1107
+sa(dp1108
+g2
+S'http://www.reuters.com/article/2013/02/24/us-firefox-smartphones-idUSBRE91N0BF20130224'
+p1109
+sg4
+S'20130224\xc2\xa012:09PM UTC'
+p1110
+sg6
+S'Firefox takes on smartphone powers Apple, Google'
+p1111
+sa(dp1112
+g2
+S'http://www.reuters.com/article/2013/02/24/idUSnHUGNJ6bQa+1f2+ONE20130224'
+p1113
+sg4
+S'20130224\xc2\xa012:07PM UTC'
+p1114
+sg6
+S'Telenor to rollout Firefox OS smartphones in 2013'
+p1115
+sa(dp1116
+g2
+S'http://www.reuters.com/article/2013/02/24/idUSnPreSDYL4a+13c+PRN20130224'
+p1117
+sg4
+S'20130224\xc2\xa012:05PM UTC'
+p1118
+sg6
+S'Firefox OS Enables App Discovery without Download and Firefox Marketplace Unlocks the Power of Web Apps on Mobile Phones'
+p1119
+sa(dp1120
+g2
+S'http://www.reuters.com/article/2013/02/24/mozilla-firefoxos-app-idUSnPnNY62990+160+PRN20130224'
+p1121
+sg4
+S'20130224\xc2\xa012:05PM UTC'
+p1122
+sg6
+S'Firefox OS Enables App Discovery without Download and Firefox Marketplace Unlocks the Power of Web Apps on Mobile Phones'
+p1123
+sa(dp1124
+g2
+S'http://www.reuters.com/article/2013/02/24/firefox-smartphones-idUSL1N0BEF2O20130224'
+p1125
+sg4
+S'20130224\xc2\xa012:04PM UTC'
+p1126
+sg6
+S'Web browser-maker Firefox takes on smartphone powers Apple, Google'
+p1127
+sa(dp1128
+g2
+S'http://www.reuters.com/article/2013/02/24/us-usa-congress-lew-idUSBRE91N0BB20130224'
+p1129
+sg4
+S'20130224\xc2\xa012:04PM UTC'
+p1130
+sg6
+S'Senate panel to vote on U.S. Treasury nominee this week'
+p1131
+sa(dp1132
+g2
+S'http://www.reuters.com/article/2013/02/24/usa-congress-lew-idUSL1N0BO1S520130224'
+p1133
+sg4
+S'20130224\xc2\xa012:02PM UTC'
+p1134
+sg6
+S'Senate panel to vote on U.S. Treasury nominee this week'
+p1135
+sa(dp1136
+g2
+S'http://www.reuters.com/article/2013/02/24/us-syria-photographer-idUSBRE91N0B820130224'
+p1137
+sg4
+S'20130224\xc2\xa012:00PM UTC'
+p1138
+sg6
+S'French photographer dies of shrapnel wounds in Syria'
+p1139
+sa(dp1140
+g2
+S'http://www.reuters.com/article/2013/02/24/motor-racing-nascar-daytona-crash-idUSL4N0BO0BF20130224'
+p1141
+sg4
+S'20130224\xc2\xa012:00PM UTC'
+p1142
+sg6
+S'Motor racing-Daytona 500 to race despite crash, safety questions'
+p1143
+sa(dp1144
+g2
+S'http://www.reuters.com/article/2013/02/24/idUSnMKW89489a+1c0+MKW20130224'
+p1145
+sg4
+S'20130224\xc2\xa012:00PM UTC'
+p1146
+sg6
+S'HP Unveils Android Consumer Tablet'
+p1147
+sa(dp1148
+g2
+S'http://www.reuters.com/article/2013/02/24/co-otterbox-idUSnBw4dYZ5Ga+11a+BSW20130224'
+p1149
+sg4
+S'20130224\xc2\xa012:00PM UTC'
+p1150
+sg6
+S'Clearly Protected from OtterBox, a Complete Collection of Premium Screen Protection'
+p1151
+sa(dp1152
+g2
+S'http://www.reuters.com/article/2013/02/24/usa-stocks-weekahead-rep-idUSL1N0BMDX020130224'
+p1153
+sg4
+S'20130224\xc2\xa011:50AM UTC'
+p1154
+sg6
+S'RPT-Wall St Week Ahead: Investors face another Washington deadline'
+p1155
+sa(dp1156
+g2
+S'http://www.reuters.com/article/2013/02/24/us-cyprus-results-idUSBRE91N0AV20130224'
+p1157
+sg4
+S'20130224\xc2\xa011:46AM UTC'
+p1158
+sg6
+S'Early results show Cypriot conservative chief with strong lead'
+p1159
+sa(dp1160
+g2
+S'http://www.reuters.com/article/2013/02/24/us-vivendi-gvt-idUSBRE91N0AX20130224'
+p1161
+sg4
+S'20130224\xc2\xa011:44AM UTC'
+p1162
+sg6
+S'Vivendi nears sale of GVT with green light from Brazil: report'
+p1163
+sa(dp1164
+g2
+S'http://www.reuters.com/article/2013/02/24/us-usa-tabasco-obituary-idUSBRE91N0AO20130224'
+p1165
+sg4
+S'20130224\xc2\xa011:38AM UTC'
+p1166
+sg6
+S'Tabasco company CEO Paul McIlhenny dies at age 68'
+p1167
+sa(dp1168
+g2
+S'http://www.reuters.com/article/2013/02/24/us-obama-nominations-hagel-idUSBRE91N09F20130224'
+p1169
+sg4
+S'20130224\xc2\xa011:37AM UTC'
+p1170
+sg6
+S'Republican Senator McCain says Hagel "not qualified" as defense secretary'
+p1171
+sa(dp1172
+g2
+S'http://www.reuters.com/article/2013/02/24/us-usa-fiscal-healthcare-idUSBRE91N0AE20130224'
+p1173
+sg4
+S'20130224\xc2\xa011:35AM UTC'
+p1174
+sg6
+S'Latest Simpson-Bowles health plan stirs worry but lacks detail'
+p1175
+sa(dp1176
+g2
+S'http://www.reuters.com/article/2013/02/24/guinea-elections-opposition-idUSL6N0BO39F20130224'
+p1177
+sg4
+S'20130224\xc2\xa011:34AM UTC'
+p1178
+sg6
+S'CORRECTED-Guinea opposition pulls out of legislative elections process'
+p1179
+sa(dp1180
+g2
+S'http://www.reuters.com/article/2013/02/24/cyprus-results-idUSL6N0BO3V20130224'
+p1181
+sg4
+S'20130224\xc2\xa011:33AM UTC'
+p1182
+sg6
+S'Early results show Cypriot conservative chief with strong lead'
+p1183
+sa(dp1184
+g2
+S'http://www.reuters.com/article/2013/02/24/us-spain-protests-arrests-idUSBRE91N07720130224'
+p1185
+sg4
+S'20130224\xc2\xa011:31AM UTC'
+p1186
+sg6
+S'45 arrested in Madrid after mass demonstration'
+p1187
+sa(dp1188
+g2
+S'http://www.reuters.com/article/2013/02/24/usa-tabasco-obituary-idUSL1N0BO1OY20130224'
+p1189
+sg4
+S'20130224\xc2\xa011:30AM UTC'
+p1190
+sg6
+S'Tabasco company CEO Paul McIlhenny dies at age 68'
+p1191
+sa(dp1192
+g2
+S'http://www.reuters.com/article/2013/02/24/entertainment-us-usa-swordswallowers-idUSBRE91N0A720130224'
+p1193
+sg4
+S'20130224\xc2\xa011:26AM UTC'
+p1194
+sg6
+S"Steel on the menu at sword swallowers' Hollywood sideshow"
+p1195
+sa(dp1196
+g2
+S'http://www.reuters.com/article/2013/02/24/vivendi-gvt-idUSL1N0BO1L920130224'
+p1197
+sg4
+S'20130224\xc2\xa011:25AM UTC'
+p1198
+sg6
+S'Vivendi nears sale of GVT with green light from Brazil -report'
+p1199
+sa(dp1200
+g2
+S'http://www.reuters.com/article/2013/02/24/egypt-tourism-idUSL6N0BO41720130224'
+p1201
+sg4
+S'20130224\xc2\xa011:24AM UTC'
+p1202
+sg6
+S'Egypt seeks tourism boost after Ahmadinejad visit'
+p1203
+sa(dp1204
+g2
+S'http://www.reuters.com/article/2013/02/24/italy-vote-idUSL6N0BO0DN20130224'
+p1205
+sg4
+S'20130224\xc2\xa011:23AM UTC'
+p1206
+sg6
+S'UPDATE 4-Gloomy Italians vote in election crucial for euro zone'
+p1207
+sa(dp1208
+g2
+S'http://www.reuters.com/article/2013/02/24/scanbuy-mwc-idUSnPnLA65303+160+PRN20130224'
+p1209
+sg4
+S'20130224\xc2\xa011:17AM UTC'
+p1210
+sg6
+S'Scanbuy Provides Mobile Marketing Solution For Mobile World Live At Mobile World Congress 2013'
+p1211
+sa(dp1212
+g2
+S'http://www.reuters.com/article/2013/02/24/usa-fiscal-healthcare-idUSL1N0BM4Q620130224'
+p1213
+sg4
+S'20130224\xc2\xa011:15AM UTC'
+p1214
+sg6
+S'Latest Simpson-Bowles health plan stirs worry but lacks detail'
+p1215
+sa(dp1216
+g2
+S'http://www.reuters.com/article/2013/02/24/us-cyprus-exit-idUSBRE91N09V20130224'
+p1217
+sg4
+S'20130224\xc2\xa011:11AM UTC'
+p1218
+sg6
+S'Cypriot conservative chief leads in presidential runoff: exit poll'
+p1219
+sa(dp1220
+g2
+S'http://www.reuters.com/article/2013/02/24/us-pope-resignation-sunday-idUSBRE91N05320130224'
+p1221
+sg4
+S'20130224\xc2\xa011:10AM UTC'
+p1222
+sg6
+S"Pope, on last Sunday, says following God's wishes"
+p1223
+sa(dp1224
+g2
+S'http://www.reuters.com/article/2013/02/24/airwatch-idUSnBw4lnkvWa+102+BSW20130224'
+p1225
+sg4
+S'20130224\xc2\xa011:01AM UTC'
+p1226
+sg6
+S'AirWatch, Global Enterprise Mobile Management Leader, Secures $200 Million Series A Investment'
+p1227
+sa(dp1228
+g2
+S'http://www.reuters.com/article/2013/02/24/co-national-jewish-hlth-idUSnBwbGz77Fa+122+BSW20130224'
+p1229
+sg4
+S'20130224\xc2\xa011:00AM UTC'
+p1230
+sg6
+S'Royalty, Bond and a Ball - National Jewish Health Pulls It All Together for Benefit Gala'
+p1231
+sa(dp1232
+g2
+S'http://www.reuters.com/article/2013/02/24/us-egypt-food-idUSBRE91N09720130224'
+p1233
+sg4
+S'20130224\xc2\xa010:59AM UTC'
+p1234
+sg6
+S'Egypt insists food supply secure as wheat imports dive'
+p1235
+sa(dp1236
+g2
+S'http://www.reuters.com/article/2013/02/24/cycling-track-world-idUSL4N0BO0A220130224'
+p1237
+sg4
+S'20130224\xc2\xa010:56AM UTC'
+p1238
+sg6
+S'UPDATE 1-Cycling-Hammer, Botticher and James get second golds'
+p1239
+sa(dp1240
+g2
+S'http://www.reuters.com/article/2013/02/24/us-usa-crime-newyork-idUSBRE91N09020130224'
+p1241
+sg4
+S'20130224\xc2\xa010:51AM UTC'
+p1242
+sg6
+S'NY "cannibal cop" trial to spotlight violent sex fantasy subculture'
+p1243
+sa(dp1244
+g2
+S'http://www.reuters.com/article/2013/02/24/us-bulgaria-government-protests-idUSBRE91N06D20130224'
+p1245
+sg4
+S'20130224\xc2\xa010:49AM UTC'
+p1246
+sg6
+S'Bulgarian protests for cheaper energy intensify'
+p1247
+sa(dp1248
+g2
+S'http://www.reuters.com/article/2013/02/24/us-bulgaria-patriarch-idUSBRE91N08Z20130224'
+p1249
+sg4
+S'20130224\xc2\xa010:49AM UTC'
+p1250
+sg6
+S'New Bulgarian patriarch enthroned by tarnished Orthodox Church'
+p1251
+sa(dp1252
+g2
+S'http://www.reuters.com/article/2013/02/24/egypt-food-idUSL6N0BO2A820130224'
+p1253
+sg4
+S'20130224\xc2\xa010:46AM UTC'
+p1254
+sg6
+S'Egypt insists food supply secure as wheat imports dive'
+p1255
+sa(dp1256
+g2
+S'http://www.reuters.com/article/2013/02/24/us-pope-resignation-malaise-idUSBRE91N08W20130224'
+p1257
+sg4
+S'20130224\xc2\xa010:39AM UTC'
+p1258
+sg6
+S"Among pilgrims on pope's final Sunday, a sense of malaise"
+p1259
+sa(dp1260
+g2
+S'http://www.reuters.com/article/2013/02/24/ca-neonode-idUSnBw52PlLYa+116+BSW20130224'
+p1261
+sg4
+S'20130224\xc2\xa010:36AM UTC'
+p1262
+sg6
+S'Neonode Introduces Bluetooth Proximity Sensing Reference Designs for All Major Phone Brands'
+p1263
+sa(dp1264
+g2
+S'http://www.reuters.com/article/2013/02/24/us-siemens-osram-idUSBRE91N08Q20130224'
+p1265
+sg4
+S'20130224\xc2\xa010:31AM UTC'
+p1266
+sg6
+S'Siemens shareholders plan to challenge Osram spin-off: report'
+p1267
+sa(dp1268
+g2
+S'http://www.reuters.com/article/2013/02/24/us-mobile-world-valuation-idUSBRE91N08L20130224'
+p1269
+sg4
+S'20130224\xc2\xa010:30AM UTC'
+p1270
+sg6
+S'Divide between European and U.S. telcos widens'
+p1271
+sa(dp1272
+g2
+S'http://www.reuters.com/article/2013/02/24/canada-column-markets-idUSL1N0BKAC120130224'
+p1273
+sg4
+S'20130224\xc2\xa010:29AM UTC'
+p1274
+sg6
+S'BAY STREET-Slimmer Canadian bank profits seen as lending slows'
+p1275
+sa(dp1276
+g2
+S'http://www.reuters.com/article/2013/02/24/cqn-ma-village-fertility-idUSnBw5DMw4Ya+132+BSW20130224'
+p1277
+sg4
+S'20130224\xc2\xa010:26AM UTC'
+p1278
+sg6
+S'CORRECTING and REPLACING Massachusetts Specialty Pharmacy Announces Voluntary Recall'
+p1279
+sa(dp1280
+g2
+S'http://www.reuters.com/article/2013/02/24/siemens-osram-idUSL6N0BO3VH20130224'
+p1281
+sg4
+S'20130224\xc2\xa010:17AM UTC'
+p1282
+sg6
+S'Siemens shareholders plan to challenge Osram spin-off - report'
+p1283
+sa(dp1284
+g2
+S'http://www.reuters.com/article/2013/02/24/us-oscars-nominations-idUSBRE91N08A20130224'
+p1285
+sg4
+S'20130224\xc2\xa010:05AM UTC'
+p1286
+sg6
+S'Factbox: List of key Oscar nominations'
+p1287
+sa(dp1288
+g2
+S'http://www.reuters.com/article/2013/02/24/idUSnGNXUXFQRa+1fe+GNW20130224'
+p1289
+sg4
+S'20130224\xc2\xa010:00AM UTC'
+p1290
+sg6
+S'Groton Chiropractor Promotes Sustainable Weight Loss Program'
+p1291
+sa(dp1292
+g2
+S'http://www.reuters.com/article/2013/02/24/idUSnGNXUXFQSa+1fe+GNW20130224'
+p1293
+sg4
+S'20130224\xc2\xa010:00AM UTC'
+p1294
+sg6
+S'Integrated Care Key to Effective Pain Management Says Chesapeake Chiropractors'
+p1295
+sa(dp1296
+g2
+S'http://www.reuters.com/article/2013/02/24/idUSnGNXUXFQUa+1fe+GNW20130224'
+p1297
+sg4
+S'20130224\xc2\xa010:00AM UTC'
+p1298
+sg6
+S'South Valley Veterinarian Launches Heartworm Prevention Campaign'
+p1299
+sa(dp1300
+g2
+S'http://www.reuters.com/article/2013/02/24/idUSnGNXUXFQTa+1fe+GNW20130224'
+p1301
+sg4
+S'20130224\xc2\xa010:00AM UTC'
+p1302
+sg6
+S'Las Vegas Chiropractor Helps Runners Heal After Injury, Reduces Recovery Time'
+p1303
+sa(dp1304
+g2
+S'http://www.reuters.com/article/2013/02/24/idUSnGNXUXFQPa+1fe+GNW20130224'
+p1305
+sg4
+S'20130224\xc2\xa010:00AM UTC'
+p1306
+sg6
+S'San Antonio Chiropractor Focuses on Pain Management for Patients'
+p1307
+sa(dp1308
+g2
+S'http://www.reuters.com/article/2013/02/24/idUSnGNXUXFQOa+1fe+GNW20130224'
+p1309
+sg4
+S'20130224\xc2\xa010:00AM UTC'
+p1310
+sg6
+S'Animal Hospital Provides Care for Exotic and Pocket Pets in Toledo'
+p1311
+sa(dp1312
+g2
+S'http://www.reuters.com/article/2013/02/24/idUSnMKW89472a+1c0+MKW20130224'
+p1313
+sg4
+S'20130224\xc2\xa010:00AM UTC'
+p1314
+sg6
+S'Liquipel Announces Turnkey Retail Solution to Create WaterSafe Mobile Electronics in Minutes'
+p1315
+sa(dp1316
+g2
+S'http://www.reuters.com/article/2013/02/24/idUSnMKW89471a+1c0+MKW20130224'
+p1317
+sg4
+S'20130224\xc2\xa010:00AM UTC'
+p1318
+sg6
+S'Liquipel Expands Global Footprint By Opening Eight New Territories'
+p1319
+sa(dp1320
+g2
+S'http://www.reuters.com/article/2013/02/24/idUSnMKW89451a+1c0+MKW20130224'
+p1321
+sg4
+S'20130224\xc2\xa010:00AM UTC'
+p1322
+sg6
+S'Liquipel and JayBird Debut Moisture-Protected Headphones for Active Consumers'
+p1323
+sa(dp1324
+g2
+S'http://www.reuters.com/article/2013/02/24/novatel-wireless-idUSnBwBQr33a+b0+BSW20130224'
+p1325
+sg4
+S'20130224\xc2\xa010:00AM UTC'
+p1326
+sg6
+S'Novatel Wireless Next-Generation MiFi 2 Touchscreen Mobile Hotspot to Launch with Bell on Canada`s Largest 4G LTE Network This March'
+p1327
+sa(dp1328
+g2
+S'http://www.reuters.com/article/2013/02/24/ca-novatel-wireless-idUSnBw6RnBQ4a+12c+BSW20130224'
+p1329
+sg4
+S'20130224\xc2\xa010:00AM UTC'
+p1330
+sg6
+S'Novatel Wireless to Exhibit at Mobile World Congress 2013, Booth 2MR226, Feb. 25 - 28, 2013, in Barcelona, Spain'
+p1331
+sa(dp1332
+g2
+S'http://www.reuters.com/article/2013/02/24/nc-lenovo-ncta-idUSnBw6fBk9qa+110+BSW20130224'
+p1333
+sg4
+S'20130224\xc2\xa010:00AM UTC'
+p1334
+sg6
+S'Lenovo Announces New Android Tablets'
+p1335
+sa(dp1336
+g2
+S'http://www.reuters.com/article/2013/02/24/oscars-idUSL1N0BO0FG20130224'
+p1337
+sg4
+S'20130224\xc2\xa09:59AM UTC'
+p1338
+sg6
+S"WRAPUP 1-'Lincoln,' 'Argo' in tight race as Oscars roll out red carpet"
+p1339
+sa(dp1340
+g2
+S'http://www.reuters.com/article/2013/02/24/us-alpine-skiing-women-idUSBRE91N08520130224'
+p1341
+sg4
+S'20130224\xc2\xa09:49AM UTC'
+p1342
+sg6
+S'Maze wins race and overall World Cup'
+p1343
+sa(dp1344
+g2
+S'http://www.reuters.com/article/2013/02/24/us-guinea-elections-opposition-idUSBRE91N08220130224'
+p1345
+sg4
+S'20130224\xc2\xa09:47AM UTC'
+p1346
+sg6
+S'Guinea opposition pulls out of legislative elections process'
+p1347
+sa(dp1348
+g2
+S'http://www.reuters.com/article/2013/02/24/deutschebank-libor-jain-idUSL6N0BO3GP20130224'
+p1349
+sg4
+S'20130224\xc2\xa09:31AM UTC'
+p1350
+sg6
+S'Libor scandal no threat to Deutsche Bank co-chief Jain - sources'
+p1351
+sa(dp1352
+g2
+S'http://www.reuters.com/article/2013/02/24/us-usa-stocks-weekahead-idUSBRE91L1A520130224'
+p1353
+sg4
+S'20130224\xc2\xa09:28AM UTC'
+p1354
+sg6
+S'Investors face another Washington deadline'
+p1355
+sa(dp1356
+g2
+S'http://www.reuters.com/article/2013/02/24/us-rbs-india-layoffs-idUSBRE91N05H20130224'
+p1357
+sg4
+S'20130224\xc2\xa09:26AM UTC'
+p1358
+sg6
+S'RBS India to cut staff'
+p1359
+sa(dp1360
+g2
+S'http://www.reuters.com/article/2013/02/24/net-us-eads-thyssenkrupp-hacking-idUSBRE91N07M20130224'
+p1361
+sg4
+S'20130224\xc2\xa09:16AM UTC'
+p1362
+sg6
+S'EADS, ThyssenKrupp attacked by Chinese hackers: report'
+p1363
+sa(dp1364
+g2
+S'http://www.reuters.com/article/2013/02/24/press-digest-gb-idUSL6N0BO3CS20130224'
+p1365
+sg4
+S'20130224\xc2\xa09:15AM UTC'
+p1366
+sg6
+S'PRESS DIGEST - Sunday British business Feb. 24'
+p1367
+sa(dp1368
+g2
+S'http://www.reuters.com/article/2013/02/24/us-rbs-citizens-sale-idUSBRE91N07D20130224'
+p1369
+sg4
+S'20130224\xc2\xa09:09AM UTC'
+p1370
+sg6
+S'RBS plans IPO for U.S. arm Citizens in next two years'
+p1371
+sa(dp1372
+g2
+S'http://www.reuters.com/article/2013/02/24/rbs-citizens-sale-idUSL6N0BO2NT20130224'
+p1373
+sg4
+S'20130224\xc2\xa09:06AM UTC'
+p1374
+sg6
+S'RBS plans IPO for U.S. arm Citizens in next two years'
+p1375
+sa(dp1376
+g2
+S'http://www.reuters.com/article/2013/02/24/eads-thyssenkrupp-hacking-idUSL6N0BO2NI20130224'
+p1377
+sg4
+S'20130224\xc2\xa09:05AM UTC'
+p1378
+sg6
+S'EADS, ThyssenKrupp attacked by Chinese hackers-report'
+p1379
+sa(dp1380
+g2
+S'http://www.reuters.com/article/2013/02/24/idUSnMKW115a+70+MKW20130224'
+p1381
+sg4
+S'20130224\xc2\xa09:02AM UTC'
+p1382
+sg6
+S"The Fraser Institute: Media Advisory; What Canada Can Learn From Australia's Health Care System: Report Coming Monday, February 25"
+p1383
+sa(dp1384
+g2
+S'http://www.reuters.com/article/2013/02/24/idUSnCCNhJ0zJa+1d2+MKW20130224'
+p1385
+sg4
+S'20130224\xc2\xa09:02AM UTC'
+p1386
+sg6
+S"The Fraser Institute: Media Advisory; What Canada Can Learn From Australia's Health Care System: Report Coming Monday, February 25"
+p1387
+sa(dp1388
+g2
+S'http://www.reuters.com/article/2013/02/24/idUSnPrev9wDTa+106+PRN20130224'
+p1389
+sg4
+S'20130224\xc2\xa09:00AM UTC'
+p1390
+sg6
+S'Make it Possible: Huawei Device Unveils its Global Consumer Branding Campaign at Mobile World Congress'
+p1391
+sa(dp1392
+g2
+S'http://www.reuters.com/article/2013/02/24/idUSnPrel3RtNa+10a+PRN20130224'
+p1393
+sg4
+S'20130224\xc2\xa09:00AM UTC'
+p1394
+sg6
+S"Huawei Reveals the World's Fastest 4G LTE Smartphone"
+p1395
+sa(dp1396
+g2
+S'http://www.reuters.com/article/2013/02/24/idUSnMKW114a+70+MKW20130224'
+p1397
+sg4
+S'20130224\xc2\xa09:00AM UTC'
+p1398
+sg6
+S'Minister Paradis to Promote Canada as Premier Place to Invest at Mobile World Congress 2013'
+p1399
+sa(dp1400
+g2
+S'http://www.reuters.com/article/2013/02/24/us-britain-cardinal-idUSBRE91N07620130224'
+p1401
+sg4
+S'20130224\xc2\xa08:52AM UTC'
+p1402
+sg6
+S'British cardinal rejects "inappropriate behavior" allegations'
+p1403
+sa(dp1404
+g2
+S'http://www.reuters.com/article/2013/02/24/britain-cardinal-idUSL6N0BO2O620130224'
+p1405
+sg4
+S'20130224\xc2\xa08:50AM UTC'
+p1406
+sg6
+S'British cardinal rejects "inappropriate behaviour" allegations'
+p1407
+sa(dp1408
+g2
+S'http://www.reuters.com/article/2013/02/24/alpine-skiing-men-idUSL4N0BO0A020130224'
+p1409
+sg4
+S'20130224\xc2\xa08:48AM UTC'
+p1410
+sg6
+S'UPDATE 1-Alpine skiing-Maiden giant slalom win for Pinturault'
+p1411
+sa(dp1412
+g2
+S'http://www.reuters.com/article/2013/02/24/us-germany-gayrights-idUSBRE91N07020130224'
+p1413
+sg4
+S'20130224\xc2\xa08:43AM UTC'
+p1414
+sg6
+S"Merkel's conservatives mull U-turn on gay couples' rights"
+p1415
+sa(dp1416
+g2
+S'http://www.reuters.com/article/2013/02/24/us-cycling-track-world-idUSBRE91N06Y20130224'
+p1417
+sg4
+S'20130224\xc2\xa08:40AM UTC'
+p1418
+sg6
+S'Hammer and Botticher each win second world title'
+p1419
+sa(dp1420
+g2
+S'http://www.reuters.com/article/2013/02/24/cycling-track-world-idUSL4N0BO09W20130224'
+p1421
+sg4
+S'20130224\xc2\xa08:35AM UTC'
+p1422
+sg6
+S'Cycling-Hammer and Botticher each win second world title'
+p1423
+sa(dp1424
+g2
+S'http://www.reuters.com/article/2013/02/24/mideast-markets-idUSL6N0BO39H20130224'
+p1425
+sg4
+S'20130224\xc2\xa08:28AM UTC'
+p1426
+sg6
+S'MIDEAST STOCKS-Egypt drops to 3-wk low as political overhang weighs'
+p1427
+sa(dp1428
+g2
+S'http://www.reuters.com/article/2013/02/24/us-areva-fennovoima-idUSBRE91N04Y20130224'
+p1429
+sg4
+S'20130224\xc2\xa08:25AM UTC'
+p1430
+sg6
+S"Finland's Fennovoima to drop Areva from reactor talks"
+p1431
+sa(dp1432
+g2
+S'http://www.reuters.com/article/2013/02/24/areva-fennovoima-idUSL6N0BO2AS20130224'
+p1433
+sg4
+S'20130224\xc2\xa08:24AM UTC'
+p1434
+sg6
+S"UPDATE 1-Finland's Fennovoima to drop Areva from reactor talks"
+p1435
+sa(dp1436
+g2
+S'http://www.reuters.com/article/2013/02/24/us-italy-vote-topless-idUSBRE91N06V20130224'
+p1437
+sg4
+S'20130224\xc2\xa08:24AM UTC'
+p1438
+sg6
+S'Topless women protest against Berlusconi as he votes in election'
+p1439
+sa(dp1440
+g2
+S'http://www.reuters.com/article/2013/02/24/motorracing-nascar-daytona-corre-idUSL1N0BN1PC20130224'
+p1441
+sg4
+S'20130224\xc2\xa08:15AM UTC'
+p1442
+sg6
+S'CORRECTED-UPDATE 4-Daytona Speedway crash injures 28 fans'
+p1443
+sa(dp1444
+g2
+S'http://www.reuters.com/article/2013/02/24/us-britain-downgrade-markets-idUSBRE91N06N20130224'
+p1445
+sg4
+S'20130224\xc2\xa08:03AM UTC'
+p1446
+sg6
+S'Sterling vulnerable after UK downgrade, gilts underpinned'
+p1447
+sa(dp1448
+g2
+S'http://www.reuters.com/article/2013/02/24/newport-media-inc-idUSnBw4Z3fjga+120+BSW20130224'
+p1449
+sg4
+S'20130224\xc2\xa08:00AM UTC'
+p1450
+sg6
+S'Newport Media Introduces 802.11b/g/n Wi-Fi SoC to Address Rapidly Growing M2M Market'
+p1451
+sa(dp1452
+g2
+S'http://www.reuters.com/article/2013/02/24/bulgaria-government-protests-idUSL6N0BO2AI20130224'
+p1453
+sg4
+S'20130224\xc2\xa07:50AM UTC'
+p1454
+sg6
+S'Bulgarian protests for cheaper energy intensify'
+p1455
+sa(dp1456
+g2
+S'http://www.reuters.com/article/2013/02/24/us-britain-osborne-idUSBRE91M0BW20130224'
+p1457
+sg4
+S'20130224\xc2\xa07:50AM UTC'
+p1458
+sg6
+S'UK downgrade pressures reluctant Osborne to change course'
+p1459
+sa(dp1460
+g2
+S'http://www.reuters.com/article/2013/02/24/us-safrica-pistorius-brother-idUSBRE91N05V20130224'
+p1461
+sg4
+S'20130224\xc2\xa07:25AM UTC'
+p1462
+sg6
+S"Pistorius's brother faces trial in woman's road death"
+p1463
+sa(dp1464
+g2
+S'http://www.reuters.com/article/2013/02/24/safrica-pistorius-brother-idUSL6N0BO1FS20130224'
+p1465
+sg4
+S'20130224\xc2\xa07:23AM UTC'
+p1466
+sg6
+S"Pistorius's brother faces trial in woman's road death"
+p1467
+sa(dp1468
+g2
+S'http://www.reuters.com/article/2013/02/24/us-vietnam-blasts-idUSBRE91N05S20130224'
+p1469
+sg4
+S'20130224\xc2\xa07:15AM UTC'
+p1470
+sg6
+S'Blast in Vietnam film effects warehouse kills 10'
+p1471
+sa(dp1472
+g2
+S'http://www.reuters.com/article/2013/02/24/idUSnHUGbnJNBa+1ce+ONE20130224'
+p1473
+sg4
+S'20130224\xc2\xa07:08AM UTC'
+p1474
+sg6
+S'CORRECTION: Bergen Group : Invitation to the presentation of Q4 2012'
+p1475
+sa(dp1476
+g2
+S'http://www.reuters.com/article/2013/02/24/idUSnMKW113a+70+MKW20130224'
+p1477
+sg4
+S'20130224\xc2\xa07:00AM UTC'
+p1478
+sg6
+S"REPEAT-BMO Study: Mutual Funds Are Backbone of Canadians' RRSPs"
+p1479
+sa(dp1480
+g2
+S'http://www.reuters.com/article/2013/02/24/rbs-india-layoffs-idUSL4N0BO09A20130224'
+p1481
+sg4
+S'20130224\xc2\xa06:57AM UTC'
+p1482
+sg6
+S'RBS India to cut staff as winds down retail and commercial ops'
+p1483
+sa(dp1484
+g2
+S'http://www.reuters.com/article/2013/02/24/algeria-energy-tiguentourine-idUSL6N0BO1RN20130224'
+p1485
+sg4
+S'20130224\xc2\xa06:52AM UTC'
+p1486
+sg6
+S'UPDATE 1-Algerian gas plant resumes some production - CEO'
+p1487
+sa(dp1488
+g2
+S'http://www.reuters.com/article/2013/02/24/us-italy-vote-system-idUSBRE91N05B20130224'
+p1489
+sg4
+S'20130224\xc2\xa06:48AM UTC'
+p1490
+sg6
+S"Factbox: How Italy's election works"
+p1491
+sa(dp1492
+g2
+S'http://www.reuters.com/article/2013/02/24/lithuania-banks-idUSL6N0BO1J320130224'
+p1493
+sg4
+S'20130224\xc2\xa06:45AM UTC'
+p1494
+sg6
+S"Lithuania's Siauliu Bankas to take over troubled Ukio"
+p1495
+sa(dp1496
+g2
+S'http://www.reuters.com/article/2013/02/24/ca-accellera-systems-idUSnBw7bCgrwa+110+BSW20130224'
+p1497
+sg4
+S'20130224\xc2\xa06:37AM UTC'
+p1498
+sg6
+S'Accellera Systems Initiative Day Kicks off the 2013 Design and Verification Conference, February 25'
+p1499
+sa(dp1500
+g2
+S'http://www.reuters.com/article/2013/02/24/ca-mhl-consortium-idUSnBw6B4y7ka+120+BSW20130224'
+p1501
+sg4
+S'20130224\xc2\xa06:22AM UTC'
+p1502
+sg6
+S'MHL Consortium to Showcase Industry-Leading Mobile HD Connectivity Technology at 2013 Mobile World Congress'
+p1503
+sa(dp1504
+g2
+S'http://www.reuters.com/article/2013/02/24/idUSnMKW89500a+1c0+MKW20130224'
+p1505
+sg4
+S'20130224\xc2\xa06:16AM UTC'
+p1506
+sg6
+S'Ericsson, Mozilla and AT&T; demonstrate WebRTC solution to illustrate seamless web and mobile integration'
+p1507
+sa(dp1508
+g2
+S'http://www.reuters.com/article/2013/02/24/idUSnHUGCnlF7a+1e4+ONE20130224'
+p1509
+sg4
+S'20130224\xc2\xa06:09AM UTC'
+p1510
+sg6
+S'Ericsson, Mozilla and AT&T; demonstrate WebRTC solution to illustrate seamless web and mobile integration'
+p1511
+sa(dp1512
+g2
+S'http://www.reuters.com/article/2013/02/24/algeria-energy-tiguentourine-idUSL5N0BCCKR20130224'
+p1513
+sg4
+S'20130224\xc2\xa06:07AM UTC'
+p1514
+sg6
+S'CORRECTED-Algerian gas plant resumes some production after attack-minister'
+p1515
+sa(dp1516
+g2
+S'http://www.reuters.com/article/2013/02/24/idUSnPreRrFkZa+12a+PRN20130224'
+p1517
+sg4
+S'20130224\xc2\xa06:01AM UTC'
+p1518
+sg6
+S'P2i Launches Patent Infringement Lawsuit Against Europlasma NV'
+p1519
+sa(dp1520
+g2
+S'http://www.reuters.com/article/2013/02/24/bc-p2i-patent-lawsuit-idUSnPn2214932+100+PRN20130224'
+p1521
+sg4
+S'20130224\xc2\xa06:00AM UTC'
+p1522
+sg6
+S'P2i Launches Patent Infringement Lawsuit Against Europlasma NV'
+p1523
+sa(dp1524
+g2
+S'http://www.reuters.com/article/2013/02/24/us-cyprus-woes-idUSBRE91N04W20130224'
+p1525
+sg4
+S'20130224\xc2\xa05:54AM UTC'
+p1526
+sg6
+S'Factbox: Financial woes in tiny Cyprus are big euro zone headache'
+p1527
+sa(dp1528
+g2
+S'http://www.reuters.com/article/2013/02/24/idUSnGNXUXFRUa+1fe+GNW20130224'
+p1529
+sg4
+S'20130224\xc2\xa05:52AM UTC'
+p1530
+sg6
+S'Complete HDR Panorama Stitching Workflow for High Contrast Photos Released By HDRPhotographyPro.com'
+p1531
+sa(dp1532
+g2
+S'http://www.reuters.com/article/2013/02/24/raiffeisen-writedowns-idUSL6N0BO1UQ20130224'
+p1533
+sg4
+S'20130224\xc2\xa05:48AM UTC'
+p1534
+sg6
+S'Raiffeisen says may be more writedowns in H1 - CEO in paper'
+p1535
+sa(dp1536
+g2
+S'http://www.reuters.com/article/2013/02/24/ninedragons-results-h-idUSL4N0BK1A920130224'
+p1537
+sg4
+S'20130224\xc2\xa05:35AM UTC'
+p1538
+sg6
+S'Nine Dragons H1 net profit down 21 pct to 658.5 mln yuan'
+p1539
+sa(dp1540
+g2
+S'http://www.reuters.com/article/2013/02/24/us-italy-vote-vendola-idUSBRE91N04M20130224'
+p1541
+sg4
+S'20130224\xc2\xa05:12AM UTC'
+p1542
+sg6
+S'Leftist may hold key to stable rule in Italy'
+p1543
+sa(dp1544
+g2
+S'http://www.reuters.com/article/2013/02/24/us-italy-monti-newsmaker-idUSBRE91N04B20130224'
+p1545
+sg4
+S'20130224\xc2\xa05:06AM UTC'
+p1546
+sg6
+S'Battered Monti may still be key player in Italy vote'
+p1547
+sa(dp1548
+g2
+S'http://www.reuters.com/article/2013/02/24/italy-vote-vendola-idUSL6N0BO14120130224'
+p1549
+sg4
+S'20130224\xc2\xa05:00AM UTC'
+p1550
+sg6
+S'NEWSMAKER-Leftist may hold key to stable rule in Italy'
+p1551
+sa(dp1552
+g2
+S'http://www.reuters.com/article/2013/02/24/italy-monti-newsmaker-idUSL6N0BO13F20130224'
+p1553
+sg4
+S'20130224\xc2\xa04:57AM UTC'
+p1554
+sg6
+S'NEWSMAKER-Battered Monti may still be key player in Italy vote'
+p1555
+sa(dp1556
+g2
+S'http://www.reuters.com/article/2013/02/24/us-germany-schaeuble-france-idUSBRE91N04120130224'
+p1557
+sg4
+S'20130224\xc2\xa04:57AM UTC'
+p1558
+sg6
+S'German Finance Minister defends France from budget criticism'
+p1559
+sa(dp1560
+g2
+S'http://www.reuters.com/article/2013/02/24/italy-vote-grillo-idUSL6N0BO13Z20130224'
+p1561
+sg4
+S'20130224\xc2\xa04:49AM UTC'
+p1562
+sg6
+S'NEWSMAKER-Joker Grillo is wild card in Italian election'
+p1563
+sa(dp1564
+g2
+S'http://www.reuters.com/article/2013/02/24/egypt-wheat-idUSL6N0BO1GE20130224'
+p1565
+sg4
+S'20130224\xc2\xa04:49AM UTC'
+p1566
+sg6
+S"Egypt's Nomani expects sharply higher local wheat crop"
+p1567
+sa(dp1568
+g2
+S'http://www.reuters.com/article/2013/02/24/us-italy-vote-berlusconi-idUSBRE91N03W20130224'
+p1569
+sg4
+S'20130224\xc2\xa04:48AM UTC'
+p1570
+sg6
+S"Berlusconi's last throw of the dice in Italy election"
+p1571
+sa(dp1572
+g2
+S'http://www.reuters.com/article/2013/02/24/us-italy-vote-bersani-idUSBRE91N03S20130224'
+p1573
+sg4
+S'20130224\xc2\xa04:45AM UTC'
+p1574
+sg6
+S"Italy's Bersani on anti-glamour quest for power"
+p1575
+sa(dp1576
+g2
+S'http://www.reuters.com/article/2013/02/24/italy-vote-berlusconi-idUSL6N0BO13220130224'
+p1577
+sg4
+S'20130224\xc2\xa04:45AM UTC'
+p1578
+sg6
+S"NEWSMAKER-Berlusconi's last throw of the dice in Italy election"
+p1579
+sa(dp1580
+g2
+S'http://www.reuters.com/article/2013/02/24/italy-vote-bersani-idUSL6N0BO11N20130224'
+p1581
+sg4
+S'20130224\xc2\xa04:41AM UTC'
+p1582
+sg6
+S"NEWSMAKER-Italy's Bersani on anti-glamour quest for power"
+p1583
+sa(dp1584
+g2
+S'http://www.reuters.com/article/2013/02/24/us-afghanistan-attack-idUSBRE91N02Z20130224'
+p1585
+sg4
+S'20130224\xc2\xa04:38AM UTC'
+p1586
+sg6
+S"Bomber killed near Afghan capital's diplomatic zone: police"
+p1587
+sa(dp1588
+g2
+S'http://www.reuters.com/article/2013/02/24/us-japan-economy-boj-nominee-idUSBRE91M01H20130224'
+p1589
+sg4
+S'20130224\xc2\xa04:31AM UTC'
+p1590
+sg6
+S"ADB's Kuroda pulls ahead in race to lead Bank of Japan: media"
+p1591
+sa(dp1592
+g2
+S'http://www.reuters.com/article/2013/02/24/australia-cyclone-idUSL4N0BO08K20130224'
+p1593
+sg4
+S'20130224\xc2\xa04:30AM UTC'
+p1594
+sg6
+S'Australia Pilbara iron ore ports close, cyclone Rusty approaches'
+p1595
+sa(dp1596
+g2
+S'http://www.reuters.com/article/2013/02/24/japan-economy-boj-nominee-idUSL4N0BO06020130224'
+p1597
+sg4
+S'20130224\xc2\xa04:29AM UTC'
+p1598
+sg6
+S"UPDATE 1-ADB's Kuroda pulls ahead in race to lead BOJ - media"
+p1599
+sa(dp1600
+g2
+S'http://www.reuters.com/article/2013/02/24/us-china-investment-rqfii-idUSBRE91N03M20130224'
+p1601
+sg4
+S'20130224\xc2\xa04:28AM UTC'
+p1602
+sg6
+S'China to relax rules on foreign investment under RQFII: Xinhua'
+p1603
+sa(dp1604
+g2
+S'http://www.reuters.com/article/2013/02/24/congo-democratic-un-idUSL6N0BN11U20130224'
+p1605
+sg4
+S'20130224\xc2\xa04:03AM UTC'
+p1606
+sg6
+S'African leaders sign U.N.-mediated Congo peace deal'
+p1607
+sa(dp1608
+g2
+S'http://www.reuters.com/article/2013/02/24/idUSnMKW87920a+1c0+MKW20130224'
+p1609
+sg4
+S'20130224\xc2\xa04:00AM UTC'
+p1610
+sg6
+S'Comba Telecom Unveils Next Generation of Multi-System, Multi-Band Antennas and Subsystems Portfolio at the Mobile World Congress 2013'
+p1611
+sa(dp1612
+g2
+S'http://www.reuters.com/article/2013/02/24/us-alvarion-telrad-idUSBRE91N03E20130224'
+p1613
+sg4
+S'20130224\xc2\xa03:52AM UTC'
+p1614
+sg6
+S"Telrad Networks to buy Alvarion's wireless access business"
+p1615
+sa(dp1616
+g2
+S'http://www.reuters.com/article/2013/02/24/alvarion-telrad-idUSL6N0BO0YU20130224'
+p1617
+sg4
+S'20130224\xc2\xa03:44AM UTC'
+p1618
+sg6
+S"Telrad Networks to buy Alvarion's wireless access business"
+p1619
+sa(dp1620
+g2
+S'http://www.reuters.com/article/2013/02/24/us-iran-budget-idUSBRE91N03920130224'
+p1621
+sg4
+S'20130224\xc2\xa03:16AM UTC'
+p1622
+sg6
+S'Iran budget to reduce oil reliance and boost other exports'
+p1623
+sa(dp1624
+g2
+S'http://www.reuters.com/article/2013/02/24/us-cybersecurity-battle-idUSBRE91N03520130224'
+p1625
+sg4
+S'20130224\xc2\xa03:04AM UTC'
+p1626
+sg6
+S'Analysis: The near impossible battle against hackers everywhere'
+p1627
+sa(dp1628
+g2
+S'http://www.reuters.com/article/2013/02/24/idUSnPreC98HYa+126+PRN20130224'
+p1629
+sg4
+S'20130224\xc2\xa03:00AM UTC'
+p1630
+sg6
+S'CoPilot\xc2\xae Brings Full-Featured GPS Navigation to Windows Phone 8'
+p1631
+sa(dp1632
+g2
+S'http://www.reuters.com/article/2013/02/24/ca-symmetricom-lte-idUSnPnNY65192+160+PRN20130224'
+p1633
+sg4
+S'20130224\xc2\xa03:00AM UTC'
+p1634
+sg6
+S'Symmetricom Introduces a New Class of Products for Synchronizing Small Cells and LTE Networks'
+p1635
+sa(dp1636
+g2
+S'http://www.reuters.com/article/2013/02/24/ca-avg-technologies-idUSnBw6FZRpPa+13a+BSW20130224'
+p1637
+sg4
+S'20130224\xc2\xa03:00AM UTC'
+p1638
+sg6
+S'AVG Technologies CEO J.R. Smith to Deliver Keynote Speech at Mobile Security Forum'
+p1639
+sa(dp1640
+g2
+S'http://www.reuters.com/article/2013/02/24/iran-budget-idUSL6N0BO0AL20130224'
+p1641
+sg4
+S'20130224\xc2\xa02:59AM UTC'
+p1642
+sg6
+S'Iran budget to reduce oil reliance and boost other exports'
+p1643
+sa(dp1644
+g2
+S'http://www.reuters.com/article/2013/02/24/us-egypt-currency-cenbank-idUSBRE91N03320130224'
+p1645
+sg4
+S'20130224\xc2\xa02:59AM UTC'
+p1646
+sg6
+S'Egypt rate of forex reserve fall could slow - report'
+p1647
+sa(dp1648
+g2
+S'http://www.reuters.com/article/2013/02/24/us-nba-clippers-idUSBRE91N02K20130224'
+p1649
+sg4
+S'20130224\xc2\xa02:22AM UTC'
+p1650
+sg6
+S'Clippers rebound with big win over Jazz'
+p1651
+sa(dp1652
+g2
+S'http://www.reuters.com/article/2013/02/24/us-spiritawards-idUSBRE91N00N20130224'
+p1653
+sg4
+S'20130224\xc2\xa02:11AM UTC'
+p1654
+sg6
+S'"Silver Linings" wins four honors at indie film awards'
+p1655
+sa(dp1656
+g2
+S'http://www.reuters.com/article/2013/02/24/us-usa-court-votingrights-idUSBRE91N02S20130224'
+p1657
+sg4
+S'20130224\xc2\xa02:09AM UTC'
+p1658
+sg6
+S'Justices poised to query voting rights focus on South'
+p1659
+sa(dp1660
+g2
+S'http://www.reuters.com/article/2013/02/24/idUSnPrejGHbDa+11a+PRN20130224'
+p1661
+sg4
+S'20130224\xc2\xa02:00AM UTC'
+p1662
+sg6
+S'DocWallet -- The secure documents manager for iPad and PC'
+p1663
+sa(dp1664
+g2
+S'http://www.reuters.com/article/2013/02/24/atssa-okla-award-idUSnPnDC62804+160+PRN20130224'
+p1665
+sg4
+S'20130224\xc2\xa02:00AM UTC'
+p1666
+sg6
+S'Oklahoma Reporter Receives First-Ever National Award for Fair, Balanced and Informative Reporting on Transportation-Related Issues'
+p1667
+sa(dp1668
+g2
+S'http://www.reuters.com/article/2013/02/24/atssa-media-invite-idUSnPnDC62797+160+PRN20130224'
+p1669
+sg4
+S'20130224\xc2\xa02:00AM UTC'
+p1670
+sg6
+S'Lifesaving Roadway Safety Devices & New Inventions On Display in San Diego February 24 - 26'
+p1671
+sa(dp1672
+g2
+S'http://www.reuters.com/article/2013/02/24/us-genting-vips-idUSBRE91N02H20130224'
+p1673
+sg4
+S'20130224\xc2\xa01:43AM UTC'
+p1674
+sg6
+S'Genting stakes Singapore gamblers to $775 million in push for VIPs'
+p1675
+sa(dp1676
+g2
+S'http://www.reuters.com/article/2013/02/24/genting-vips-idUSL4N0BM2XQ20130224'
+p1677
+sg4
+S'20130224\xc2\xa01:33AM UTC'
+p1678
+sg6
+S'Genting stakes Singapore gamblers to $775 mln in push for VIPs'
+p1679
+sa(dp1680
+g2
+S'http://www.reuters.com/article/2013/02/24/la-mcilhenny-co-idUSnBw9W4fzVa+122+BSW20130224'
+p1681
+sg4
+S'20130224\xc2\xa01:28AM UTC'
+p1682
+sg6
+S'McIlhenny Company Sadly Announces the Loss of CEO and Chairman Paul McIlhenny'
+p1683
+sa(dp1684
+g2
+S'http://www.reuters.com/article/2013/02/24/us-usa-benghazi-pickering-idUSBRE91N02B20130224'
+p1685
+sg4
+S'20130224\xc2\xa01:08AM UTC'
+p1686
+sg6
+S'Former envoy Pickering on problems at Benghazi mission'
+p1687
+sa(dp1688
+g2
+S'http://www.reuters.com/article/2013/02/24/emirates-adcb-bond-idUSL6N0BO06120130224'
+p1689
+sg4
+S'20130224\xc2\xa012:42AM UTC'
+p1690
+sg6
+S'Abu Dhabi lender ADCB to issue two-tranche bond'
+p1691
+sa(dp1692
+g2
+S'http://www.reuters.com/article/2013/02/24/us-usa-catholics-abuse-idUSBRE91N02820130224'
+p1693
+sg4
+S'20130224\xc2\xa012:41AM UTC'
+p1694
+sg6
+S'Catholic activists petition LA cardinal not to join papal conclave'
+p1695
+sa(dp1696
+g2
+S'http://www.reuters.com/article/2013/02/24/us-usa-snowstorm-idUSBRE91K03820130224'
+p1697
+sg4
+S'20130224\xc2\xa012:30AM UTC'
+p1698
+sg6
+S'New England storm could pack less punch than feared'
+p1699
+sa(dp1700
+g2
+S'http://www.reuters.com/article/2013/02/24/qatar-holding-rating-idUSL6N0BO06220130224'
+p1701
+sg4
+S'20130224\xc2\xa012:30AM UTC'
+p1702
+sg6
+S'Qatar Holding to seek credit ratings this year'
+p1703
+sa(dp1704
+g2
+S'http://www.reuters.com/article/2013/02/24/usa-snowstorm-idUSL1N0BN19J20130224'
+p1705
+sg4
+S'20130224\xc2\xa012:29AM UTC'
+p1706
+sg6
+S'UPDATE 3-New England storm could pack less punch than feared'
+p1707
+sa(dp1708
+g2
+S'http://www.reuters.com/article/2013/02/24/us-pakistan-sectarian-idUSBRE91N00G20130224'
+p1709
+sg4
+S'20130224\xc2\xa012:28AM UTC'
+p1710
+sg6
+S"Insight: Spiral of Karachi killings widens Pakistan's sectarian divide"
+p1711
+sa(dp1712
+g2
+S'http://www.reuters.com/article/2013/02/24/co-frontier-airlines-idUSnBw69Ry4Xa+112+BSW20130224'
+p1713
+sg4
+S'20130224\xc2\xa012:26AM UTC'
+p1714
+sg6
+S'Frontier Airlines Provides Travelers with Flexibility Due to Winter Storm'
+p1715
+sa(dp1716
+g2
+S'http://www.reuters.com/article/2013/02/24/us-athletics-marathon-tokyo-idUSBRE91N02520130224'
+p1717
+sg4
+S'20130224\xc2\xa012:09AM UTC'
+p1718
+sg6
+S'Kimetto takes Tokyo record as Kenyans sweep podium'
+p1719
+sa(dp1720
+g2
+S'http://www.reuters.com/article/2013/02/24/us-nhl-canadiens-idUSBRE91N02320130224'
+p1721
+sg4
+S'20130224\xc2\xa012:02AM UTC'
+p1722
+sg6
+S'Canadiens go back top of East'
+p1723
+sa(dp1724
+g2
+S'http://www.reuters.com/article/2013/02/24/census-daily-feature-idUSnPnDC65081+160+PRN20130224'
+p1725
+sg4
+S'20130224\xc2\xa012:01AM UTC'
+p1726
+sg6
+S'U.S. Census Bureau Daily Feature for February 24'
+p1727
+sa(dp1728
+g2
+S'http://www.reuters.com/article/2013/02/24/cyprus-russia-idUSL6N0BMDYO20130224'
+p1729
+sg4
+S'20130224\xc2\xa012:00AM UTC'
+p1730
+sg6
+S'RPT-In Cyprus port, Russian money flows freely'
+p1731
+sa(dp1732
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=56571835'
+p1733
+sg4
+S'20130224\xc2\xa011:31PM UTC'
+p1734
+sg6
+S'Park inaugurated'
+p1735
+sa(dp1736
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=56571951'
+p1737
+sg4
+S'20130224\xc2\xa011:09PM UTC'
+p1738
+sg6
+S'Oscar nominees hit the red carpet'
+p1739
+sa(dp1740
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=56570600'
+p1741
+sg4
+S'20130224\xc2\xa010:57PM UTC'
+p1742
+sg6
+S'\xe3\x82\xb9\xe3\x83\x9a\xe3\x82\xa4\xe3\x83\xb3\xe3\x81\xa7\xe6\x95\xb0\xe4\xb8\x87\xe4\xba\xba\xe3\x81\x8c\xe7\xb7\x8a\xe7\xb8\xae\xe6\x94\xbf\xe7\xad\x96\xe3\x81\xab\xe6\x8a\x97\xe8\xad\xb0\xe3\x80\x81\xe8\xad\xa6\xe5\xae\x98\xe9\x9a\x8a\xe3\x81\xa8\xe8\xa1\x9d\xe7\xaa\x81\xef\xbc\x88\xe5\xad\x97\xe5\xb9\x95\xe3\x83\xbb24\xe6\x97\xa5\xef\xbc\x89'
+p1743
+sa(dp1744
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=56571122'
+p1745
+sg4
+S'20130224\xc2\xa010:52PM UTC'
+p1746
+sg6
+S'Heavy metal on the red carpet'
+p1747
+sa(dp1748
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=56570190'
+p1749
+sg4
+S'20130224\xc2\xa010:49PM UTC'
+p1750
+sg6
+S'\xe3\x83\x94\xe3\x82\xb9\xe3\x83\x88\xe3\x83\xaa\xe3\x82\xa6\xe3\x82\xb9\xe8\xa2\xab\xe5\x91\x8a\xe3\x82\x92\xe4\xbf\x9d\xe9\x87\x88\xef\xbc\x88\xe5\xad\x97\xe5\xb9\x95\xe3\x83\xbb24\xe6\x97\xa5\xef\xbc\x89'
+p1751
+sa(dp1752
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=56568698'
+p1753
+sg4
+S'20130224\xc2\xa09:22PM UTC'
+p1754
+sg6
+S'Scenes from the Red Carpet'
+p1755
+sa(dp1756
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=56567727'
+p1757
+sg4
+S'20130224\xc2\xa08:57PM UTC'
+p1758
+sg6
+S'New photos of Fidel Castro'
+p1759
+sa(dp1760
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=56567721'
+p1761
+sg4
+S'20130224\xc2\xa08:49PM UTC'
+p1762
+sg6
+S'Zeta-Jones: "If he wasn\'t my husband, I\'d love to work with Michael Douglas"'
+p1763
+sa(dp1764
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=56568133'
+p1765
+sg4
+S'20130224\xc2\xa08:30PM UTC'
+p1766
+sg6
+S'Victims of the Algerian gas plant attack remembered'
+p1767
+sa(dp1768
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=56565711'
+p1769
+sg4
+S'20130224\xc2\xa08:17PM UTC'
+p1770
+sg6
+S'Plummer likes Pi'
+p1771
+sa(dp1772
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=56591966'
+p1773
+sg4
+S'20130224\xc2\xa07:50PM UTC'
+p1774
+sg6
+S'U.S. Morning Call: Hertz forecasts strong 2013'
+p1775
+sa(dp1776
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=56565362'
+p1777
+sg4
+S'20130224\xc2\xa07:50PM UTC'
+p1778
+sg6
+S'Stars arrive on the Red Carpet'
+p1779
+sa(dp1780
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=56565227'
+p1781
+sg4
+S'20130224\xc2\xa07:44PM UTC'
+p1782
+sg6
+S'British cardinal rejects "inappropriate behavior" allegations'
+p1783
+sa(dp1784
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=56589890'
+p1785
+sg4
+S'20130224\xc2\xa07:25PM UTC'
+p1786
+sg6
+S'Budget 2013: CLSA expects expenditure cuts'
+p1787
+sa(dp1788
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=56589292'
+p1789
+sg4
+S'20130224\xc2\xa07:10PM UTC'
+p1790
+sg6
+S'Budget 2013: Aberdeen expects spending cuts'
+p1791
+sa(dp1792
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=56564147'
+p1793
+sg4
+S'20130224\xc2\xa07:03PM UTC'
+p1794
+sg6
+S'Chastain "proud" of "Zero Dark Thirty"'
+p1795
+sa(dp1796
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=56486972'
+p1797
+sg4
+S'20130224\xc2\xa07:00PM UTC'
+p1798
+sg6
+S'Wealth Strategies: Crescenzi positive on housing again'
+p1799
+sa(dp1800
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=56589666'
+p1801
+sg4
+S'20130224\xc2\xa07:00PM UTC'
+p1802
+sg6
+S'Market Pulse: Downgrade, what downgrade?'
+p1803
+sa(dp1804
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=56562901'
+p1805
+sg4
+S'20130224\xc2\xa06:26PM UTC'
+p1806
+sg6
+S'"Beasts of Southern Wild" director expected movie to be shown in "community centers"'
+p1807
+sa(dp1808
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=56562474'
+p1809
+sg4
+S'20130224\xc2\xa05:59PM UTC'
+p1810
+sg6
+S'Food for thought on the Red Carpet'
+p1811
+sa(dp1812
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=56560891'
+p1813
+sg4
+S'20130224\xc2\xa04:51PM UTC'
+p1814
+sg6
+S'Final countdown to Oscar Sunday'
+p1815
+sa(dp1816
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=56559033'
+p1817
+sg4
+S'20130224\xc2\xa02:47PM UTC'
+p1818
+sg6
+S'Topless protesters attempt to confront Berlusconi at polling station'
+p1819
+sa(dp1820
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=56556211'
+p1821
+sg4
+S'20130224\xc2\xa012:23PM UTC'
+p1822
+sg6
+S'U.N. says peace deal "to end" DR Congo conflict'
+p1823
+sa(dp1824
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=56554472'
+p1825
+sg4
+S'20130224\xc2\xa011:17AM UTC'
+p1826
+sg6
+S'Death toll hits 30 in Syrian missile strike'
+p1827
+sa(dp1828
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=56554129'
+p1829
+sg4
+S'20130224\xc2\xa011:05AM UTC'
+p1830
+sg6
+S'Pope gives last Sunday address'
+p1831
+sa(dp1832
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=56552351'
+p1833
+sg4
+S'20130224\xc2\xa09:58AM UTC'
+p1834
+sg6
+S'Italian polls bring uncertainty'
+p1835
+sa(dp1836
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=56552162'
+p1837
+sg4
+S'20130224\xc2\xa09:56AM UTC'
+p1838
+sg6
+S'Pistorius brother also faces homicide charges'
+p1839
+sa(dp1840
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=56551437'
+p1841
+sg4
+S'20130224\xc2\xa09:20AM UTC'
+p1842
+sg6
+S'Tourist gunned down in Mexico'
+p1843
+sa(dp1844
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=56549678'
+p1845
+sg4
+S'20130224\xc2\xa08:05AM UTC'
+p1846
+sg6
+S'Islamists take aim at Bangladesh bloggers'
+p1847
+sa(dp1848
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=56546282'
+p1849
+sg4
+S'20130224\xc2\xa04:59AM UTC'
+p1850
+sg6
+S'South Korea prepares for inauguration of first female president'
+p1851
+sa(dp1852
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=56545982'
+p1853
+sg4
+S'20130224\xc2\xa04:55AM UTC'
+p1854
+sg6
+S'Taken Banksy is removed from sale in US'
+p1855
+sa(dp1856
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=56545417'
+p1857
+sg4
+S'20130224\xc2\xa03:08AM UTC'
+p1858
+sg6
+S'Clean up in Gao after fierce battle'
+p1859
+sa.

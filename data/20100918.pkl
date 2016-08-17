@@ -1,0 +1,1925 @@
+(lp0
+(dp1
+S'href'
+p2
+S'http://www.reuters.com/article/2010/09/19/idUS20445+19-Sep-2010+PRN20100919'
+p3
+sS'ts'
+p4
+S'20100918\xc2\xa011:30PM UTC'
+p5
+sS'title'
+p6
+S'Following Is a Test Release'
+p7
+sa(dp8
+g2
+S'http://www.reuters.com/article/2010/09/19/us-gm-ipo-idUSTRE68G5IE20100919'
+p9
+sg4
+S'20100918\xc2\xa011:09PM UTC'
+p10
+sg6
+S'SAIC approached GM about IPO stake: sources'
+p11
+sa(dp12
+g2
+S'http://www.reuters.com/article/2010/09/19/retire-us-hyundai-russia-idUSTRE68I05R20100919'
+p13
+sg4
+S'20100918\xc2\xa011:08PM UTC'
+p14
+sg6
+S'Hyundai aims 27 pct rise in Russia car sales in 2010'
+p15
+sa(dp16
+g2
+S'http://www.reuters.com/article/2010/09/19/press-digest-british-business-sept-idUSLDE68I00420100919'
+p17
+sg4
+S'20100918\xc2\xa011:05PM UTC'
+p18
+sg6
+S'PRESS DIGEST - British business - Sept 19'
+p19
+sa(dp20
+g2
+S'http://www.reuters.com/article/2010/09/19/idUS18638+19-Sep-2010+PRN20100919'
+p21
+sg4
+S'20100918\xc2\xa011:00PM UTC'
+p22
+sg6
+S'Following Is a Test Release'
+p23
+sa(dp24
+g2
+S'http://www.reuters.com/article/2010/09/19/storms-atlantic-idUSN1821163920100919'
+p25
+sg4
+S'20100918\xc2\xa011:00PM UTC'
+p26
+sg6
+S"UPDATE 6-'Dangerous' Hurricane Igor heads toward Bermuda"
+p27
+sa(dp28
+g2
+S'http://www.reuters.com/article/2010/09/19/yen-coordination-korea-idUSTOE68H00U20100919'
+p29
+sg4
+S'20100918\xc2\xa011:00PM UTC'
+p30
+sg6
+S'S.Korea c.bank head: Japan needs FX coordination'
+p31
+sa(dp32
+g2
+S'http://www.reuters.com/article/2010/09/19/idUS17008+19-Sep-2010+PRN20100919'
+p33
+sg4
+S'20100918\xc2\xa010:30PM UTC'
+p34
+sg6
+S'Following Is a Test Release'
+p35
+sa(dp36
+g2
+S'http://www.reuters.com/article/2010/09/19/us-taiwan-typhoon-idUSTRE68I04C20100919'
+p37
+sg4
+S'20100918\xc2\xa010:28PM UTC'
+p38
+sg6
+S'Taiwan shuts down as typhoon makes landfall'
+p39
+sa(dp40
+g2
+S'http://www.reuters.com/article/2010/09/19/us-keb-anz-idUSTRE68I04620100919'
+p41
+sg4
+S'20100918\xc2\xa010:02PM UTC'
+p42
+sg6
+S'ANZ completes due diligence on S.Korea KEB: report'
+p43
+sa(dp44
+g2
+S'http://www.reuters.com/article/2010/09/19/idUS15597+19-Sep-2010+PRN20100919'
+p45
+sg4
+S'20100918\xc2\xa010:00PM UTC'
+p46
+sg6
+S'Following Is a Test Release'
+p47
+sa(dp48
+g2
+S'http://www.reuters.com/article/2010/09/19/keb-anz-idUSTOE68I00120100919'
+p49
+sg4
+S'20100918\xc2\xa09:54PM UTC'
+p50
+sg6
+S'ANZ completes due diligence on S.Korea KEB -report'
+p51
+sa(dp52
+g2
+S'http://www.reuters.com/article/2010/09/19/idUS14215+19-Sep-2010+PRN20100919'
+p53
+sg4
+S'20100918\xc2\xa09:30PM UTC'
+p54
+sg6
+S'Following Is a Test Release'
+p55
+sa(dp56
+g2
+S'http://www.reuters.com/article/2010/09/19/film-toronto-bangbangclub-idUSN1820451220100919'
+p57
+sg4
+S'20100918\xc2\xa09:14PM UTC'
+p58
+sg6
+S'"The Bang Bang Club" relives apartheid\'s last days'
+p59
+sa(dp60
+g2
+S'http://www.reuters.com/article/2010/09/19/idUS12706+19-Sep-2010+PRN20100919'
+p61
+sg4
+S'20100918\xc2\xa09:00PM UTC'
+p62
+sg6
+S'Following Is a Test Release'
+p63
+sa(dp64
+g2
+S'http://www.reuters.com/article/2010/09/19/idUS11722+19-Sep-2010+BW20100919'
+p65
+sg4
+S'20100918\xc2\xa08:43PM UTC'
+p66
+sg6
+S'Brewers Association Announces 2010 Great American Beer Festival Competition Winners'
+p67
+sa(dp68
+g2
+S'http://www.reuters.com/article/2010/09/19/us-australia-coal-ipo-idUSTRE68I00S20100919'
+p69
+sg4
+S'20100918\xc2\xa08:38PM UTC'
+p70
+sg6
+S'Australia to launch coal-freight IPO on October 10'
+p71
+sa(dp72
+g2
+S'http://www.reuters.com/article/2010/09/19/australia-coal-ipo-idUSMBB00001020100919'
+p73
+sg4
+S'20100918\xc2\xa08:31PM UTC'
+p74
+sg6
+S'Australia to launch coal-freight IPO on Oct. 10'
+p75
+sa(dp76
+g2
+S'http://www.reuters.com/article/2010/09/19/idUS11222+19-Sep-2010+PRN20100919'
+p77
+sg4
+S'20100918\xc2\xa08:30PM UTC'
+p78
+sg6
+S"New Romantic Comedy 'Valentino Valentina' Opens at Macha Theatre on September 25; World Premiere"
+p79
+sa(dp80
+g2
+S'http://www.reuters.com/article/2010/09/19/idUS11215+19-Sep-2010+PRN20100919'
+p81
+sg4
+S'20100918\xc2\xa08:30PM UTC'
+p82
+sg6
+S'Following Is a Test Release'
+p83
+sa(dp84
+g2
+S'http://www.reuters.com/article/2010/09/19/idUS10049+19-Sep-2010+PRN20100919'
+p85
+sg4
+S'20100918\xc2\xa08:00PM UTC'
+p86
+sg6
+S'Following Is a Test Release'
+p87
+sa(dp88
+g2
+S'http://www.reuters.com/article/2010/09/18/idUS70082+18-Sep-2010+PRN20100918'
+p89
+sg4
+S'20100918\xc2\xa07:30PM UTC'
+p90
+sg6
+S'Following Is a Test Release'
+p91
+sa(dp92
+g2
+S'http://www.reuters.com/article/2010/09/18/mgm-idUSN1820906520100918'
+p93
+sg4
+S'20100918\xc2\xa07:28PM UTC'
+p94
+sg6
+S'CORRECTED - Indian congolomerate in talks about MGM bid'
+p95
+sa(dp96
+g2
+S'http://www.reuters.com/article/2010/09/18/us-gm-ipo-idUSTRE68G5IE20100918'
+p97
+sg4
+S'20100918\xc2\xa07:23PM UTC'
+p98
+sg6
+S'SAIC approached GM about IPO stake: sources'
+p99
+sa(dp100
+g2
+S'http://www.reuters.com/article/2010/09/18/us-mgm-idUSTRE68H24520100918'
+p101
+sg4
+S'20100918\xc2\xa07:19PM UTC'
+p102
+sg6
+S'Indian conglomerate in talks about MGM bid'
+p103
+sa(dp104
+g2
+S'http://www.reuters.com/article/2010/09/18/us-afghanistan-election-idUSTRE68F27N20100918'
+p105
+sg4
+S'20100918\xc2\xa07:15PM UTC'
+p106
+sg6
+S'Afghans vote amid violence and widespread fraud'
+p107
+sa(dp108
+g2
+S'http://www.reuters.com/article/2010/09/18/idUS68839+18-Sep-2010+PRN20100918'
+p109
+sg4
+S'20100918\xc2\xa07:00PM UTC'
+p110
+sg6
+S'Following Is a Test Release'
+p111
+sa(dp112
+g2
+S'http://www.reuters.com/article/2010/09/18/idUS67999+18-Sep-2010+MW20100918'
+p113
+sg4
+S'20100918\xc2\xa06:41PM UTC'
+p114
+sg6
+S' SIU Probes Incident in Ottawa'
+p115
+sa(dp116
+g2
+S'http://www.reuters.com/article/2010/09/18/us-oil-spill-kill-idUSTRE68H22Y20100918'
+p117
+sg4
+S'20100918\xc2\xa06:31PM UTC'
+p118
+sg6
+S'BP to conduct test to show if Gulf well dead'
+p119
+sa(dp120
+g2
+S'http://www.reuters.com/article/2010/09/18/idUS67505+18-Sep-2010+PRN20100918'
+p121
+sg4
+S'20100918\xc2\xa06:30PM UTC'
+p122
+sg6
+S'Following Is a Test Release'
+p123
+sa(dp124
+g2
+S'http://www.reuters.com/article/2010/09/18/oil-spill-kill-idUSN1820226920100918'
+p125
+sg4
+S'20100918\xc2\xa06:21PM UTC'
+p126
+sg6
+S'BP to conduct test to show if Gulf well dead'
+p127
+sa(dp128
+g2
+S'http://www.reuters.com/article/2010/09/18/sweden-election-idUSLDE68H09820100918'
+p129
+sg4
+S'20100918\xc2\xa06:09PM UTC'
+p130
+sg6
+S'Swedish govt seen re-elected;far right may win seats'
+p131
+sa(dp132
+g2
+S'http://www.reuters.com/article/2010/09/18/us-iran-hikers-idUSTRE68H1O220100918'
+p133
+sg4
+S'20100918\xc2\xa06:08PM UTC'
+p134
+sg6
+S'U.S. woman held in Iran leaves Oman on way home'
+p135
+sa(dp136
+g2
+S'http://www.reuters.com/article/2010/09/18/idUS66358+18-Sep-2010+PRN20100918'
+p137
+sg4
+S'20100918\xc2\xa06:00PM UTC'
+p138
+sg6
+S'Following Is a Test Release'
+p139
+sa(dp140
+g2
+S'http://www.reuters.com/article/2010/09/18/us-airindia-idUSTRE68H1W220100918'
+p141
+sg4
+S'20100918\xc2\xa05:52PM UTC'
+p142
+sg6
+S'Canadian convicted of lying in Air India bomb case'
+p143
+sa(dp144
+g2
+S'http://www.reuters.com/article/2010/09/18/idUS66031+18-Sep-2010+PRN20100918'
+p145
+sg4
+S'20100918\xc2\xa05:30PM UTC'
+p146
+sg6
+S'Following Is a Test Release'
+p147
+sa(dp148
+g2
+S'http://www.reuters.com/article/2010/09/18/us-storms-atlantic-idUSTRE68E1T820100918'
+p149
+sg4
+S'20100918\xc2\xa05:25PM UTC'
+p150
+sg6
+S'Hurricane Igor swirls toward Bermuda'
+p151
+sa(dp152
+g2
+S'http://www.reuters.com/article/2010/09/18/storms-atlantic-idUSN1821163920100918'
+p153
+sg4
+S'20100918\xc2\xa05:22PM UTC'
+p154
+sg6
+S'UPDATE 4-Hurricane Igor swirls toward Bermuda'
+p155
+sa(dp156
+g2
+S'http://www.reuters.com/article/2010/09/18/us-mexico-bomb-idUSTRE68H20E20100918'
+p157
+sg4
+S'20100918\xc2\xa05:14PM UTC'
+p158
+sg6
+S'Bomb deactivated at Mexican mall: report'
+p159
+sa(dp160
+g2
+S'http://www.reuters.com/article/2010/09/18/idUS65548+18-Sep-2010+PRN20100918'
+p161
+sg4
+S'20100918\xc2\xa05:00PM UTC'
+p162
+sg6
+S'Following Is a Test Release'
+p163
+sa(dp164
+g2
+S'http://www.reuters.com/article/2010/09/18/us-usa-politics-poll-idUSTRE68H20120100918'
+p165
+sg4
+S'20100918\xc2\xa04:58PM UTC'
+p166
+sg6
+S'Congressman Pence wins conservative straw poll'
+p167
+sa(dp168
+g2
+S'http://www.reuters.com/article/2010/09/18/idUS65364+18-Sep-2010+PRN20100918'
+p169
+sg4
+S'20100918\xc2\xa04:54PM UTC'
+p170
+sg6
+S'Center for Regulatory Effectiveness Invokes Data Quality Act Against FDA Menthol Tobacco Studies'
+p171
+sa(dp172
+g2
+S'http://www.reuters.com/article/2010/09/18/us-kennethcole-iconix-idUSTRE68H1CE20100918'
+p173
+sg4
+S'20100918\xc2\xa04:52PM UTC'
+p174
+sg6
+S'Kenneth Cole in talks to be bought by Iconix: report'
+p175
+sa(dp176
+g2
+S'http://www.reuters.com/article/2010/09/18/kennethcole-iconix-idUSN1821030520100918'
+p177
+sg4
+S'20100918\xc2\xa04:52PM UTC'
+p178
+sg6
+S'UPDATE 1-Kenneth Cole in talks to be bought by Iconix-report'
+p179
+sa(dp180
+g2
+S'http://www.reuters.com/article/2010/09/18/idUS65254+18-Sep-2010+BW20100918'
+p181
+sg4
+S'20100918\xc2\xa04:47PM UTC'
+p182
+sg6
+S'Bull & Lifshitz, LLP Announces Investigation of the Acquisition of Otix Global, Inc.'
+p183
+sa(dp184
+g2
+S'http://www.reuters.com/article/2010/09/18/us-pope-britain-idUSTRE68F0YD20100918'
+p185
+sg4
+S'20100918\xc2\xa04:42PM UTC'
+p186
+sg6
+S'Pope apologizes on abuse as thousands protest in London'
+p187
+sa(dp188
+g2
+S'http://www.reuters.com/article/2010/09/18/idUS65105+18-Sep-2010+BW20100918'
+p189
+sg4
+S'20100918\xc2\xa04:37PM UTC'
+p190
+sg6
+S'Bull & Lifshitz, LLP Announces Investigation of the Acquisition of Microtune, Inc.'
+p191
+sa(dp192
+g2
+S'http://www.reuters.com/article/2010/09/18/us-pope-britain-protest-idUSTRE68H1YF20100918'
+p193
+sg4
+S'20100918\xc2\xa04:33PM UTC'
+p194
+sg6
+S'Pope, in London, confronts biggest protest'
+p195
+sa(dp196
+g2
+S'http://www.reuters.com/article/2010/09/18/idUS64954+18-Sep-2010+PRN20100918'
+p197
+sg4
+S'20100918\xc2\xa04:30PM UTC'
+p198
+sg6
+S'Following Is a Test Release'
+p199
+sa(dp200
+g2
+S'http://www.reuters.com/article/2010/09/18/idUS64834+18-Sep-2010+BW20100918'
+p201
+sg4
+S'20100918\xc2\xa04:24PM UTC'
+p202
+sg6
+S'Bull & Lifshitz, LLP Announces Investigation of the Acquisition of Enterprise GP Holdings L.P.'
+p203
+sa(dp204
+g2
+S'http://www.reuters.com/article/2010/09/18/idUS64498+18-Sep-2010+PRN20100918'
+p205
+sg4
+S'20100918\xc2\xa04:00PM UTC'
+p206
+sg6
+S'Following Is a Test Release'
+p207
+sa(dp208
+g2
+S'http://www.reuters.com/article/2010/09/18/idUS63905+18-Sep-2010+PRN20100918'
+p209
+sg4
+S'20100918\xc2\xa03:33PM UTC'
+p210
+sg6
+S'Hundreds of Dogs and Cats Rescued From Lab'
+p211
+sa(dp212
+g2
+S'http://www.reuters.com/article/2010/09/18/idUS63830+18-Sep-2010+PRN20100918'
+p213
+sg4
+S'20100918\xc2\xa03:30PM UTC'
+p214
+sg6
+S'Following Is a Test Release'
+p215
+sa(dp216
+g2
+S'http://www.reuters.com/article/2010/09/18/harbourgroup-idUSN1822660220100918'
+p217
+sg4
+S'20100918\xc2\xa03:27PM UTC'
+p218
+sg6
+S'Harbour Group to sell Lincoln Industrial - report'
+p219
+sa(dp220
+g2
+S'http://www.reuters.com/article/2010/09/18/us-afghanistan-election-karzai-idUSTRE68H1UN20100918'
+p221
+sg4
+S'20100918\xc2\xa03:12PM UTC'
+p222
+sg6
+S'Karzai votes for female Hindu candidate: sources'
+p223
+sa(dp224
+g2
+S'http://www.reuters.com/article/2010/09/18/idUS63137+18-Sep-2010+PRN20100918'
+p225
+sg4
+S'20100918\xc2\xa03:00PM UTC'
+p226
+sg6
+S'Following Is a Test Release'
+p227
+sa(dp228
+g2
+S'http://www.reuters.com/article/2010/09/18/mauritania-qaeda-idUSLDE68H03P20100918'
+p229
+sg4
+S'20100918\xc2\xa02:58PM UTC'
+p230
+sg6
+S'UPDATE 4-Mauritania says 12 Qaeda fighters killed in clash'
+p231
+sa(dp232
+g2
+S'http://www.reuters.com/article/2010/09/18/us-kashmir-protest-idUSTRE68H0UU20100918'
+p233
+sg4
+S'20100918\xc2\xa02:57PM UTC'
+p234
+sg6
+S'Three killed as police open fire on crowd in Kashmir'
+p235
+sa(dp236
+g2
+S'http://www.reuters.com/article/2010/09/18/us-tennis-davis-france-idUSTRE68G33I20100918'
+p237
+sg4
+S'20100918\xc2\xa02:45PM UTC'
+p238
+sg6
+S'France beat Argentina to reach Davis Cup final'
+p239
+sa(dp240
+g2
+S'http://www.reuters.com/article/2010/09/18/idUS62398+18-Sep-2010+PRN20100918'
+p241
+sg4
+S'20100918\xc2\xa02:30PM UTC'
+p242
+sg6
+S'Following Is a Test Release'
+p243
+sa(dp244
+g2
+S'http://www.reuters.com/article/2010/09/18/us-pge-idUSTRE68H1QC20100918'
+p245
+sg4
+S'20100918\xc2\xa02:12PM UTC'
+p246
+sg6
+S'California regulators ask PG&E; for gas pipeline details'
+p247
+sa(dp248
+g2
+S'http://www.reuters.com/article/2010/09/18/pge-idUSN1819809020100918'
+p249
+sg4
+S'20100918\xc2\xa02:04PM UTC'
+p250
+sg6
+S'Calif. regulators ask PG&E; for gas pipeline details'
+p251
+sa(dp252
+g2
+S'http://www.reuters.com/article/2010/09/18/idUS61545+18-Sep-2010+PRN20100918'
+p253
+sg4
+S'20100918\xc2\xa02:00PM UTC'
+p254
+sg6
+S'Following Is a Test Release'
+p255
+sa(dp256
+g2
+S'http://www.reuters.com/article/2010/09/18/idUS61285+18-Sep-2010+MW20100918'
+p257
+sg4
+S'20100918\xc2\xa01:49PM UTC'
+p258
+sg6
+S' Media Advisory: The Government of Canada Will Announce Improvements to Support Provided to Veterans'
+p259
+sa(dp260
+g2
+S'http://www.reuters.com/article/2010/09/18/idUS61272+18-Sep-2010+PRN20100918'
+p261
+sg4
+S'20100918\xc2\xa01:49PM UTC'
+p262
+sg6
+S'/C O R R E C T I O N -- PR Newswire Test/'
+p263
+sa(dp264
+g2
+S'http://www.reuters.com/article/2010/09/18/idUS61182+18-Sep-2010+PRN20100918'
+p265
+sg4
+S'20100918\xc2\xa01:44PM UTC'
+p266
+sg6
+S'This is a test from PR Newswire - CR'
+p267
+sa(dp268
+g2
+S'http://www.reuters.com/article/2010/09/18/idUS60700+18-Sep-2010+PRN20100918'
+p269
+sg4
+S'20100918\xc2\xa01:30PM UTC'
+p270
+sg6
+S'Following Is a Test Release'
+p271
+sa(dp272
+g2
+S'http://www.reuters.com/article/2010/09/18/idUS60698+18-Sep-2010+PRN20100918'
+p273
+sg4
+S'20100918\xc2\xa01:30PM UTC'
+p274
+sg6
+S'Goal! Soccer Players Compete in Recycling Program'
+p275
+sa(dp276
+g2
+S'http://www.reuters.com/article/2010/09/18/idUS60591+18-Sep-2010+BW20100918'
+p277
+sg4
+S'20100918\xc2\xa01:28PM UTC'
+p278
+sg6
+S'Ron Paul: Elizabeth Warren Appointment is Outrageous'
+p279
+sa(dp280
+g2
+S'http://www.reuters.com/article/2010/09/18/us-germany-nuclear-idUSTRE68H1KT20100918'
+p281
+sg4
+S'20100918\xc2\xa01:22PM UTC'
+p282
+sg6
+S'Thousands surround Merkel office in nuclear protest'
+p283
+sa(dp284
+g2
+S'http://www.reuters.com/article/2010/09/18/us-germany-islam-merkel-idUSTRE68H1NP20100918'
+p285
+sg4
+S'20100918\xc2\xa01:22PM UTC'
+p286
+sg6
+S'Mosques to become bigger part of German life: Merkel'
+p287
+sa(dp288
+g2
+S'http://www.reuters.com/article/2010/09/18/us-usa-stocks-weekahead-idUSTRE68G59720100918'
+p289
+sg4
+S'20100918\xc2\xa01:21PM UTC'
+p290
+sg6
+S'Fed holds key for stocks to break range'
+p291
+sa(dp292
+g2
+S'http://www.reuters.com/article/2010/09/18/us-mauritania-qaeda-idUSTRE68H0V820100918'
+p293
+sg4
+S'20100918\xc2\xa01:15PM UTC'
+p294
+sg6
+S'At least 12 Qaeda fighters die in Mauritania clash'
+p295
+sa(dp296
+g2
+S'http://www.reuters.com/article/2010/09/18/idUS58318+18-Sep-2010+PRN20100918'
+p297
+sg4
+S'20100918\xc2\xa01:00PM UTC'
+p298
+sg6
+S'Following Is a Test Release'
+p299
+sa(dp300
+g2
+S'http://www.reuters.com/article/2010/09/18/idUS55276+18-Sep-2010+PRN20100918'
+p301
+sg4
+S'20100918\xc2\xa012:30PM UTC'
+p302
+sg6
+S'Following Is a Test Release'
+p303
+sa(dp304
+g2
+S'http://www.reuters.com/article/2010/09/18/idUS55204+18-Sep-2010+PRN20100918'
+p305
+sg4
+S'20100918\xc2\xa012:30PM UTC'
+p306
+sg6
+S'CAIR: Burned Quran Found at San Francisco Mosque'
+p307
+sa(dp308
+g2
+S'http://www.reuters.com/article/2010/09/18/us-somalia-politics-idUSTRE68H1I020100918'
+p309
+sg4
+S'20100918\xc2\xa012:19PM UTC'
+p310
+sg6
+S'Somali PM confidence vote postponed'
+p311
+sa(dp312
+g2
+S'http://www.reuters.com/article/2010/09/18/zambia-power-idUSLDE68H08520100918'
+p313
+sg4
+S'20100918\xc2\xa012:19PM UTC'
+p314
+sg6
+S'UPDATE 1-Zambia asks mines to pay more for electricity'
+p315
+sa(dp316
+g2
+S'http://www.reuters.com/article/2010/09/18/us-tennis-davis-serbia-idUSTRE68H1HG20100918'
+p317
+sg4
+S'20100918\xc2\xa012:18PM UTC'
+p318
+sg6
+S'Czechs lead 2-1 against Serbia after winning doubles'
+p319
+sa(dp320
+g2
+S'http://www.reuters.com/article/2010/09/18/zambia-power-idUSWEA866920100918'
+p321
+sg4
+S'20100918\xc2\xa012:09PM UTC'
+p322
+sg6
+S'Zambia asks mines to pay more for electricity'
+p323
+sa(dp324
+g2
+S'http://www.reuters.com/article/2010/09/18/us-afghanistan-elections-votes-idUSTRE68H1GQ20100918'
+p325
+sg4
+S'20100918\xc2\xa012:00PM UTC'
+p326
+sg6
+S'Early figures show Afghans cast 3.6 million votes'
+p327
+sa(dp328
+g2
+S'http://www.reuters.com/article/2010/09/18/idUS52386+18-Sep-2010+PRN20100918'
+p329
+sg4
+S'20100918\xc2\xa012:00PM UTC'
+p330
+sg6
+S'Following Is a Test Release'
+p331
+sa(dp332
+g2
+S'http://www.reuters.com/article/2010/09/18/idUS52376+18-Sep-2010+PRN20100918'
+p333
+sg4
+S'20100918\xc2\xa012:00PM UTC'
+p334
+sg6
+S'AARP Launches Statewide Voter Van Tour'
+p335
+sa(dp336
+g2
+S'http://www.reuters.com/article/2010/09/18/idUS52321+18-Sep-2010+BW20100918'
+p337
+sg4
+S'20100918\xc2\xa012:00PM UTC'
+p338
+sg6
+S'Veterans Eligible for Financial Aid Through Yellow Ribbon Program'
+p339
+sa(dp340
+g2
+S'http://www.reuters.com/article/2010/09/18/afghanistan-elections-votes-idUSSGE68H02D20100918'
+p341
+sg4
+S'20100918\xc2\xa011:56AM UTC'
+p342
+sg6
+S'Early figures show Afghans cast 3.6 million votes'
+p343
+sa(dp344
+g2
+S'http://www.reuters.com/article/2010/09/18/tennis-davis-france-idUSLDE68H05I20100918'
+p345
+sg4
+S'20100918\xc2\xa011:42AM UTC'
+p346
+sg6
+S'Tennis-France beat Argentina to reach Davis Cup final'
+p347
+sa(dp348
+g2
+S'http://www.reuters.com/article/2010/09/18/us-afghanistan-election-fraud-idUSTRE68H0QF20100918'
+p349
+sg4
+S'20100918\xc2\xa011:38AM UTC'
+p350
+sg6
+S'Afghans scrub fingers clean to cast extra votes'
+p351
+sa(dp352
+g2
+S'http://www.reuters.com/article/2010/09/18/us-nigeria-president-idUSLDE68H03E20100918'
+p353
+sg4
+S'20100918\xc2\xa011:32AM UTC'
+p354
+sg6
+S'Nigerian leader front-runner as election battle begins'
+p355
+sa(dp356
+g2
+S'http://www.reuters.com/article/2010/09/18/idUS49319+18-Sep-2010+PRN20100918'
+p357
+sg4
+S'20100918\xc2\xa011:30AM UTC'
+p358
+sg6
+S'Following Is a Test Release'
+p359
+sa(dp360
+g2
+S'http://www.reuters.com/article/2010/09/18/kennethcole-iconix-idUSN1822808320100918'
+p361
+sg4
+S'20100918\xc2\xa011:23AM UTC'
+p362
+sg6
+S'CORRECTED - Kenneth Cole in talks to be bought by Iconix-report'
+p363
+sa(dp364
+g2
+S'http://www.reuters.com/article/2010/09/18/idUS46197+18-Sep-2010+PRN20100918'
+p365
+sg4
+S'20100918\xc2\xa011:00AM UTC'
+p366
+sg6
+S'Following Is a Test Release'
+p367
+sa(dp368
+g2
+S'http://www.reuters.com/article/2010/09/18/us-nigeria-elections-zoning-idUSTRE68H14J20100918'
+p369
+sg4
+S'20100918\xc2\xa010:46AM UTC'
+p370
+sg6
+S"Q+A: Nigeria's presidency and the north-south question"
+p371
+sa(dp372
+g2
+S'http://www.reuters.com/article/2010/09/18/us-nigeria-elections-jonathan-idUSTRE68H14D20100918'
+p373
+sg4
+S'20100918\xc2\xa010:46AM UTC'
+p374
+sg6
+S"Factbox - Nigeria's Jonathan launches election bid"
+p375
+sa(dp376
+g2
+S'http://www.reuters.com/article/2010/09/18/us-nigeria-elections-candidates-idUSTRE68H16Q20100918'
+p377
+sg4
+S'20100918\xc2\xa010:46AM UTC'
+p378
+sg6
+S'Factbox: Ruling party challengers to Nigerian president'
+p379
+sa(dp380
+g2
+S'http://www.reuters.com/article/2010/09/18/idUS44162+18-Sep-2010+PRN20100918'
+p381
+sg4
+S'20100918\xc2\xa010:43AM UTC'
+p382
+sg6
+S'This is a test from PR Newswire 231'
+p383
+sa(dp384
+g2
+S'http://www.reuters.com/article/2010/09/18/idUS43845+18-Sep-2010+PRN20100918'
+p385
+sg4
+S'20100918\xc2\xa010:40AM UTC'
+p386
+sg6
+S'This is a test from PR Newswire'
+p387
+sa(dp388
+g2
+S'http://www.reuters.com/article/2010/09/18/us-iran-kidnapping-idUSTRE68H0QX20100918'
+p389
+sg4
+S'20100918\xc2\xa010:39AM UTC'
+p390
+sg6
+S'Six people kidnapped in restive Iran province: police'
+p391
+sa(dp392
+g2
+S'http://www.reuters.com/article/2010/09/18/us-iran-activist-sentence-idUSTRE68H1AV20100918'
+p393
+sg4
+S'20100918\xc2\xa010:39AM UTC'
+p394
+sg6
+S'Iran activist jailed for six years'
+p395
+sa(dp396
+g2
+S'http://www.reuters.com/article/2010/09/18/us-vinci-russia-idUSTRE68H1AM20100918'
+p397
+sg4
+S'20100918\xc2\xa010:38AM UTC'
+p398
+sg6
+S'Vinci says undeterred by Russian environmentalists'
+p399
+sa(dp400
+g2
+S'http://www.reuters.com/article/2010/09/18/idUS42945+18-Sep-2010+PRN20100918'
+p401
+sg4
+S'20100918\xc2\xa010:30AM UTC'
+p402
+sg6
+S'Following Is a Test Release'
+p403
+sa(dp404
+g2
+S'http://www.reuters.com/article/2010/09/18/us-iran-kidnapping-freed-idUSTRE68H19T20100918'
+p405
+sg4
+S'20100918\xc2\xa010:16AM UTC'
+p406
+sg6
+S'Hostage killed and five freed in Iran shootout: report'
+p407
+sa(dp408
+g2
+S'http://www.reuters.com/article/2010/09/18/idUS41330+18-Sep-2010+BW20100918'
+p409
+sg4
+S'20100918\xc2\xa010:13AM UTC'
+p410
+sg6
+S'Haley Barbour Comes to Northern Kentucky for Rand Paul'
+p411
+sa(dp412
+g2
+S'http://www.reuters.com/article/2010/09/18/idUS40142+18-Sep-2010+MW20100918'
+p413
+sg4
+S'20100918\xc2\xa010:01AM UTC'
+p414
+sg6
+S' House Sharing for the First Time? What You Should Know'
+p415
+sa(dp416
+g2
+S'http://www.reuters.com/article/2010/09/18/idUS40006+18-Sep-2010+PRN20100918'
+p417
+sg4
+S'20100918\xc2\xa010:00AM UTC'
+p418
+sg6
+S'Following Is a Test Release'
+p419
+sa(dp420
+g2
+S'http://www.reuters.com/article/2010/09/18/us-afghanistan-election-karzai-idUSTRE68H19320100918'
+p421
+sg4
+S'20100918\xc2\xa09:59AM UTC'
+p422
+sg6
+S'Karzai votes for female Hindu candidate: sources'
+p423
+sa(dp424
+g2
+S'http://www.reuters.com/article/2010/09/18/idUS36895+18-Sep-2010+PRN20100918'
+p425
+sg4
+S'20100918\xc2\xa09:30AM UTC'
+p426
+sg6
+S'Following Is a Test Release'
+p427
+sa(dp428
+g2
+S'http://www.reuters.com/article/2010/09/18/us-italy-roberts-idUSTRE68H16H20100918'
+p429
+sg4
+S'20100918\xc2\xa09:21AM UTC'
+p430
+sg6
+S'Italian press blasts "Eat Pray Love" as kitsch'
+p431
+sa(dp432
+g2
+S'http://www.reuters.com/article/2010/09/18/idUS34010+18-Sep-2010+PRN20100918'
+p433
+sg4
+S'20100918\xc2\xa09:00AM UTC'
+p434
+sg6
+S'Following Is a Test Release'
+p435
+sa(dp436
+g2
+S'http://www.reuters.com/article/2010/09/18/us-sabadell-bid-idUSTRE68H15F20100918'
+p437
+sg4
+S'20100918\xc2\xa08:49AM UTC'
+p438
+sg6
+S"Spain's Sabadell agrees to acquire smaller rival"
+p439
+sa(dp440
+g2
+S'http://www.reuters.com/article/2010/09/18/us-cuba-church-idUSTRE68G2LH20100918'
+p441
+sg4
+S'20100918\xc2\xa08:48AM UTC'
+p442
+sg6
+S'Analysis: Catholic Church raises hopes of role in Cuban change'
+p443
+sa(dp444
+g2
+S'http://www.reuters.com/article/2010/09/18/sabadell-bid-idUSLDE68H03Z20100918'
+p445
+sg4
+S'20100918\xc2\xa08:41AM UTC'
+p446
+sg6
+S"Spain's Sabadell agrees to acquire smaller rival"
+p447
+sa(dp448
+g2
+S'http://www.reuters.com/article/2010/09/18/us-kpn-cfo-idUSTRE68H14V20100918'
+p449
+sg4
+S'20100918\xc2\xa08:36AM UTC'
+p450
+sg6
+S'KPN CFO sees no problems in M&A; financing: report'
+p451
+sa(dp452
+g2
+S'http://www.reuters.com/article/2010/09/18/sweden-election-idUSLDE68H04320100918'
+p453
+sg4
+S'20100918\xc2\xa08:33AM UTC'
+p454
+sg6
+S'Swedish govt seen re-elected, far-right to get seats'
+p455
+sa(dp456
+g2
+S'http://www.reuters.com/article/2010/09/18/kpn-cfo-idUSLDE68H04520100918'
+p457
+sg4
+S'20100918\xc2\xa08:31AM UTC'
+p458
+sg6
+S'KPN CFO sees no problems in M&A; financing - paper'
+p459
+sa(dp460
+g2
+S'http://www.reuters.com/article/2010/09/18/idUS32834+18-Sep-2010+PRN20100918'
+p461
+sg4
+S'20100918\xc2\xa08:30AM UTC'
+p462
+sg6
+S'Following Is a Test Release'
+p463
+sa(dp464
+g2
+S'http://www.reuters.com/article/2010/09/18/idUS32803+18-Sep-2010+BW20100918'
+p465
+sg4
+S'20100918\xc2\xa08:30AM UTC'
+p466
+sg6
+S'Optametra Demos Coherent Lightwave Signal Analyzer at ECOC 2010'
+p467
+sa(dp468
+g2
+S'http://www.reuters.com/article/2010/09/18/idUS31927+18-Sep-2010+BW20100918'
+p469
+sg4
+S'20100918\xc2\xa08:11AM UTC'
+p470
+sg6
+S'Top Government Leaders and Energy Policymaker Added to GridWise Global Forum Line-Up'
+p471
+sa(dp472
+g2
+S'http://www.reuters.com/article/2010/09/18/us-turkey-iran-space-idUSTRE68H11520100918'
+p473
+sg4
+S'20100918\xc2\xa08:06AM UTC'
+p474
+sg6
+S'Iran invites Turkey into space program: report'
+p475
+sa(dp476
+g2
+S'http://www.reuters.com/article/2010/09/18/idUS31620+18-Sep-2010+PRN20100918'
+p477
+sg4
+S'20100918\xc2\xa08:00AM UTC'
+p478
+sg6
+S'Following Is a Test Release'
+p479
+sa(dp480
+g2
+S'http://www.reuters.com/article/2010/09/18/us-rwanda-france-crash-idUSTRE68H10B20100918'
+p481
+sg4
+S'20100918\xc2\xa07:49AM UTC'
+p482
+sg6
+S"French team probe Rwandan leader's 1994 plane crash"
+p483
+sa(dp484
+g2
+S'http://www.reuters.com/article/2010/09/18/us-hankook-ceo-idUSTRE68H0ZU20100918'
+p485
+sg4
+S'20100918\xc2\xa07:42AM UTC'
+p486
+sg6
+S'Hankook has no plans for European M&A;: report'
+p487
+sa(dp488
+g2
+S'http://www.reuters.com/article/2010/09/18/us-egypt-israel-border-idUSTRE68H0YW20100918'
+p489
+sg4
+S'20100918\xc2\xa07:38AM UTC'
+p490
+sg6
+S'Sudanese migrant shot dead at Egypt-Israel border'
+p491
+sa(dp492
+g2
+S'http://www.reuters.com/article/2010/09/18/us-germany-banks-budgets-idUSTRE68H0YB20100918'
+p493
+sg4
+S'20100918\xc2\xa07:31AM UTC'
+p494
+sg6
+S'German banks propose stress tests for EU states'
+p495
+sa(dp496
+g2
+S'http://www.reuters.com/article/2010/09/18/idUS30824+18-Sep-2010+PRN20100918'
+p497
+sg4
+S'20100918\xc2\xa07:30AM UTC'
+p498
+sg6
+S'Following Is a Test Release'
+p499
+sa(dp500
+g2
+S'http://www.reuters.com/article/2010/09/18/us-gm-treasury-idUSTRE68G5FE20100918'
+p501
+sg4
+S'20100918\xc2\xa07:24AM UTC'
+p502
+sg6
+S'GM IPO to be open to "all" investors: Treasury'
+p503
+sa(dp504
+g2
+S'http://www.reuters.com/article/2010/09/18/us-dutch-farmers-idUSTRE68H0WR20100918'
+p505
+sg4
+S'20100918\xc2\xa07:16AM UTC'
+p506
+sg6
+S'One-third of Dutch farmers in fiscal trouble'
+p507
+sa(dp508
+g2
+S'http://www.reuters.com/article/2010/09/18/hankook-ceo-idUSLDE68H03F20100918'
+p509
+sg4
+S'20100918\xc2\xa07:15AM UTC'
+p510
+sg6
+S'Hankook has no plans for European M&A; - magazine'
+p511
+sa(dp512
+g2
+S'http://www.reuters.com/article/2010/09/18/idUS29843+18-Sep-2010+PRN20100918'
+p513
+sg4
+S'20100918\xc2\xa07:00AM UTC'
+p514
+sg6
+S'Following Is a Test Release'
+p515
+sa(dp516
+g2
+S'http://www.reuters.com/article/2010/09/18/idUS29817+18-Sep-2010+PRN20100918'
+p517
+sg4
+S'20100918\xc2\xa07:00AM UTC'
+p518
+sg6
+S'Ritchie Bros. to sell 165-ton Grove all terrain crane in Chicago unreserved auction'
+p519
+sa(dp520
+g2
+S'http://www.reuters.com/article/2010/09/18/us-afghanistan-election-turnout-idUSTRE68H0VQ20100918'
+p521
+sg4
+S'20100918\xc2\xa06:57AM UTC'
+p522
+sg6
+S'Graft, poverty keep many Afghans away from polls'
+p523
+sa(dp524
+g2
+S'http://www.reuters.com/article/2010/09/18/idUS29062+18-Sep-2010+PRN20100918'
+p525
+sg4
+S'20100918\xc2\xa06:30AM UTC'
+p526
+sg6
+S'Following Is a Test Release'
+p527
+sa(dp528
+g2
+S'http://www.reuters.com/article/2010/09/18/mauritania-qaeda-idUSLDE68H03520100918'
+p529
+sg4
+S'20100918\xc2\xa06:25AM UTC'
+p530
+sg6
+S'Mauritanian troops kill 12 Qaeda members in clash'
+p531
+sa(dp532
+g2
+S'http://www.reuters.com/article/2010/09/18/us-syria-iran-idUSTRE68H0K520100918'
+p533
+sg4
+S'20100918\xc2\xa06:16AM UTC'
+p534
+sg6
+S'Iranian, Syrian presidents meet after Assad-U.S. talks'
+p535
+sa(dp536
+g2
+S'http://www.reuters.com/article/2010/09/18/storms-atlantic-idUSN1822371120100918'
+p537
+sg4
+S'20100918\xc2\xa06:10AM UTC'
+p538
+sg6
+S'Hurricane Igor takes aim at Bermuda'
+p539
+sa(dp540
+g2
+S'http://www.reuters.com/article/2010/09/18/idUS28262+18-Sep-2010+PRN20100918'
+p541
+sg4
+S'20100918\xc2\xa06:00AM UTC'
+p542
+sg6
+S'Following Is a Test Release'
+p543
+sa(dp544
+g2
+S'http://www.reuters.com/article/2010/09/18/idUS28236+18-Sep-2010+PRN20100918'
+p545
+sg4
+S'20100918\xc2\xa05:59AM UTC'
+p546
+sg6
+S'GOOD MORNING -- September 18, 2010'
+p547
+sa(dp548
+g2
+S'http://www.reuters.com/article/2010/09/18/germany-banks-idUSLDE68H02D20100918'
+p549
+sg4
+S'20100918\xc2\xa05:56AM UTC'
+p550
+sg6
+S'Buba sees German banks needing 50 bln euros-report'
+p551
+sa(dp552
+g2
+S'http://www.reuters.com/article/2010/09/18/unicredit-libya-idUSLDE68H01R20100918'
+p553
+sg4
+S'20100918\xc2\xa05:47AM UTC'
+p554
+sg6
+S'Libya should cut UniCredit stake-politician in paper'
+p555
+sa(dp556
+g2
+S'http://www.reuters.com/article/2010/09/18/idUS27241+18-Sep-2010+PRN20100918'
+p557
+sg4
+S'20100918\xc2\xa05:30AM UTC'
+p558
+sg6
+S'Following Is a Test Release'
+p559
+sa(dp560
+g2
+S'http://www.reuters.com/article/2010/09/18/us-carbon-un-idUSTRE68H0R420100918'
+p561
+sg4
+S'20100918\xc2\xa05:25AM UTC'
+p562
+sg6
+S'U.N. panel delays ruling on green rewards for coal'
+p563
+sa(dp564
+g2
+S'http://www.reuters.com/article/2010/09/18/emperia-idUSLDE65S13M20100918'
+p565
+sg4
+S'20100918\xc2\xa05:17AM UTC'
+p566
+sg6
+S'Polish Emperia plans share buy back worth $165 mln'
+p567
+sa(dp568
+g2
+S'http://www.reuters.com/article/2010/09/18/idUS26435+18-Sep-2010+MW20100918'
+p569
+sg4
+S'20100918\xc2\xa05:02AM UTC'
+p570
+sg6
+S' Student Contents Insurance: Combat the Rising Costs of Student Life'
+p571
+sa(dp572
+g2
+S'http://www.reuters.com/article/2010/09/18/idUS26433+18-Sep-2010+MW20100918'
+p573
+sg4
+S'20100918\xc2\xa05:02AM UTC'
+p574
+sg6
+S' Make the Most of the Last Summer Sun in Venice'
+p575
+sa(dp576
+g2
+S'http://www.reuters.com/article/2010/09/18/idUS26413+18-Sep-2010+MW20100918'
+p577
+sg4
+S'20100918\xc2\xa05:01AM UTC'
+p578
+sg6
+S' Make the Most of the Last Summer Sun in Venice'
+p579
+sa(dp580
+g2
+S'http://www.reuters.com/article/2010/09/18/idUS26409+18-Sep-2010+MW20100918'
+p581
+sg4
+S'20100918\xc2\xa05:01AM UTC'
+p582
+sg6
+S' Student Contents Insurance: Combat the Rising Costs of Student Life'
+p583
+sa(dp584
+g2
+S'http://www.reuters.com/article/2010/09/18/idUS26381+18-Sep-2010+PRN20100918'
+p585
+sg4
+S'20100918\xc2\xa05:00AM UTC'
+p586
+sg6
+S'Following Is a Test Release'
+p587
+sa(dp588
+g2
+S'http://www.reuters.com/article/2010/09/18/idUS25642+18-Sep-2010+PRN20100918'
+p589
+sg4
+S'20100918\xc2\xa04:30AM UTC'
+p590
+sg6
+S'Following Is a Test Release'
+p591
+sa(dp592
+g2
+S'http://www.reuters.com/article/2010/09/18/us-afghanistan-election-attack-idUSTRE68H0PA20100918'
+p593
+sg4
+S'20100918\xc2\xa04:05AM UTC'
+p594
+sg6
+S'Taliban kill 7 Afghan security forces in north: police'
+p595
+sa(dp596
+g2
+S'http://www.reuters.com/article/2010/09/18/afghanistan-election-attack-idUSSGE68H00P20100918'
+p597
+sg4
+S'20100918\xc2\xa04:03AM UTC'
+p598
+sg6
+S'Taliban kill 7 Afghan security forces in north-police'
+p599
+sa(dp600
+g2
+S'http://www.reuters.com/article/2010/09/18/idUS24957+18-Sep-2010+PRN20100918'
+p601
+sg4
+S'20100918\xc2\xa04:00AM UTC'
+p602
+sg6
+S'Following Is a Test Release'
+p603
+sa(dp604
+g2
+S'http://www.reuters.com/article/2010/09/18/sweden-election-poll-idUSLDE68H00V20100918'
+p605
+sg4
+S'20100918\xc2\xa03:35AM UTC'
+p606
+sg6
+S'Swedish govt seen winning vote, may not get majority-polls'
+p607
+sa(dp608
+g2
+S'http://www.reuters.com/article/2010/09/18/idUS24355+18-Sep-2010+PRN20100918'
+p609
+sg4
+S'20100918\xc2\xa03:30AM UTC'
+p610
+sg6
+S'Following Is a Test Release'
+p611
+sa(dp612
+g2
+S'http://www.reuters.com/article/2010/09/18/us-china-japan-idUSTRE68H0A620100918'
+p613
+sg4
+S'20100918\xc2\xa03:29AM UTC'
+p614
+sg6
+S'Security, rain dampen China protests against Japan'
+p615
+sa(dp616
+g2
+S'http://www.reuters.com/article/2010/09/18/idUS23907+18-Sep-2010+PRN20100918'
+p617
+sg4
+S'20100918\xc2\xa03:00AM UTC'
+p618
+sg6
+S'Following Is a Test Release'
+p619
+sa(dp620
+g2
+S'http://www.reuters.com/article/2010/09/18/everbright-pramerica-idUSTOE68H00O20100918'
+p621
+sg4
+S'20100918\xc2\xa02:55AM UTC'
+p622
+sg6
+S'China Everbright sells fund JV stake to Pramerica'
+p623
+sa(dp624
+g2
+S'http://www.reuters.com/article/2010/09/18/cricket-pakistan-investigation-idUSSGE68H00W20100918'
+p625
+sg4
+S'20100918\xc2\xa02:43AM UTC'
+p626
+sg6
+S'Cricket-ICC investigating third England-Pakistan ODI'
+p627
+sa(dp628
+g2
+S'http://www.reuters.com/article/2010/09/18/egypt-diary-idUSLR68420100918'
+p629
+sg4
+S'20100918\xc2\xa02:32AM UTC'
+p630
+sg6
+S'DIARY - Egypt - September 18'
+p631
+sa(dp632
+g2
+S'http://www.reuters.com/article/2010/09/18/us-afghanistan-election-qa-idUSTRE68F2S420100918'
+p633
+sg4
+S'20100918\xc2\xa02:30AM UTC'
+p634
+sg6
+S"Q+A: How does Afghanistan's parliamentary election work?"
+p635
+sa(dp636
+g2
+S'http://www.reuters.com/article/2010/09/18/idUS23302+18-Sep-2010+PRN20100918'
+p637
+sg4
+S'20100918\xc2\xa02:30AM UTC'
+p638
+sg6
+S'Following Is a Test Release'
+p639
+sa(dp640
+g2
+S'http://www.reuters.com/article/2010/09/18/us-herohonda-idUSTRE68H0MX20100918'
+p641
+sg4
+S'20100918\xc2\xa02:26AM UTC'
+p642
+sg6
+S"Four funds eye Honda's stake in Hero Honda: report"
+p643
+sa(dp644
+g2
+S'http://www.reuters.com/article/2010/09/18/us-afghanistan-facts-idUSTRE68F2OG20100918'
+p645
+sg4
+S'20100918\xc2\xa02:24AM UTC'
+p646
+sg6
+S'Factbox: Key facts and figures about Afghanistan'
+p647
+sa(dp648
+g2
+S'http://www.reuters.com/article/2010/09/18/herohonda-idUSTOE68H00N20100918'
+p649
+sg4
+S'20100918\xc2\xa02:21AM UTC'
+p650
+sg6
+S"UPDATE 1-Four funds eye Honda's stake in Hero Honda - report"
+p651
+sa(dp652
+g2
+S'http://www.reuters.com/article/2010/09/18/idUS18459220020100918'
+p653
+sg4
+S'20100918\xc2\xa02:15AM UTC'
+p654
+sg6
+S'Eco-Saturday: Daryl Hannah Goes Off the Grid'
+p655
+sa(dp656
+g2
+S'http://www.reuters.com/article/2010/09/18/idUS22723+18-Sep-2010+PRN20100918'
+p657
+sg4
+S'20100918\xc2\xa02:00AM UTC'
+p658
+sg6
+S'Following Is a Test Release'
+p659
+sa(dp660
+g2
+S'http://www.reuters.com/article/2010/09/18/us-brand-idUSTRE68H0EG20100918'
+p661
+sg4
+S'20100918\xc2\xa02:00AM UTC'
+p662
+sg6
+S'Russell Brand arrested in paparazzi scuffle'
+p663
+sa(dp664
+g2
+S'http://www.reuters.com/article/2010/09/18/us-lindsaylohan-idUSTRE68G5DE20100918'
+p665
+sg4
+S'20100918\xc2\xa01:57AM UTC'
+p666
+sg6
+S'Lindsay Lohan tweets that she failed drug test'
+p667
+sa(dp668
+g2
+S'http://www.reuters.com/article/2010/09/18/retire-us-herohonda-stake-idUSTRE68H0JN20100918'
+p669
+sg4
+S'20100918\xc2\xa01:36AM UTC'
+p670
+sg6
+S"Four funds eye Honda's stake in Hero Honda Motors - report"
+p671
+sa(dp672
+g2
+S'http://www.reuters.com/article/2010/09/18/herohonda-stake-idUSSGE68H00L20100918'
+p673
+sg4
+S'20100918\xc2\xa01:34AM UTC'
+p674
+sg6
+S"Four funds eye Honda's stake in Hero Honda Motors - report"
+p675
+sa(dp676
+g2
+S'http://www.reuters.com/article/2010/09/18/us-afghanistan-election-scenarios-idUSTRE68G30120100918'
+p677
+sg4
+S'20100918\xc2\xa01:33AM UTC'
+p678
+sg6
+S"Scenarios: How Afghanistan's parliamentary poll might play out"
+p679
+sa(dp680
+g2
+S'http://www.reuters.com/article/2010/09/18/idUS22223+18-Sep-2010+PRN20100918'
+p681
+sg4
+S'20100918\xc2\xa01:30AM UTC'
+p682
+sg6
+S'Following Is a Test Release'
+p683
+sa(dp684
+g2
+S'http://www.reuters.com/article/2010/09/18/us-baseball-yankees-idUSTRE68H08F20100918'
+p685
+sg4
+S'20100918\xc2\xa01:21AM UTC'
+p686
+sg6
+S'Rodriguez blasts Yankees over Orioles'
+p687
+sa(dp688
+g2
+S'http://www.reuters.com/article/2010/09/18/idUS21858+18-Sep-2010+PRN20100918'
+p689
+sg4
+S'20100918\xc2\xa01:00AM UTC'
+p690
+sg6
+S'Following Is a Test Release'
+p691
+sa(dp692
+g2
+S'http://www.reuters.com/article/2010/09/18/china-vanke-idUSTOE68H00K20100918'
+p693
+sg4
+S'20100918\xc2\xa012:52AM UTC'
+p694
+sg6
+S'China Vanke lets share sale lapse - WSJ'
+p695
+sa(dp696
+g2
+S'http://www.reuters.com/article/2010/09/18/us-nfl-conduct-idUSTRE68H0HR20100918'
+p697
+sg4
+S'20100918\xc2\xa012:46AM UTC'
+p698
+sg6
+S'League to implement workplace conduct training program'
+p699
+sa(dp700
+g2
+S'http://www.reuters.com/article/2010/09/18/idUS21565+18-Sep-2010+PRN20100918'
+p701
+sg4
+S'20100918\xc2\xa012:30AM UTC'
+p702
+sg6
+S'Following Is a Test Release'
+p703
+sa(dp704
+g2
+S'http://www.reuters.com/article/2010/09/18/us-usa-elections-murkowski-idUSTRE68H0DI20100918'
+p705
+sg4
+S'20100918\xc2\xa012:21AM UTC'
+p706
+sg6
+S'Alaska Senator Murkowski to mount write-in campaign'
+p707
+sa(dp708
+g2
+S'http://www.reuters.com/article/2010/09/18/usa-elections-murkowski-idUSN1722640120100918'
+p709
+sg4
+S'20100918\xc2\xa012:18AM UTC'
+p710
+sg6
+S'UPDATE 1-Alaska Senator Murkowski to mount write-in campaign'
+p711
+sa(dp712
+g2
+S'http://www.reuters.com/article/2010/09/18/us-china-usa-idUSTRE68H0GT20100918'
+p713
+sg4
+S'20100918\xc2\xa012:11AM UTC'
+p714
+sg6
+S'U.S. woes are not our fault, Chinese economists say'
+p715
+sa(dp716
+g2
+S'http://www.reuters.com/article/2010/09/18/idUS20971+18-Sep-2010+PRN20100918'
+p717
+sg4
+S'20100918\xc2\xa012:01AM UTC'
+p718
+sg6
+S'U.S. Census Bureau Daily Feature for September 18'
+p719
+sa(dp720
+g2
+S'http://www.reuters.com/article/2010/09/18/idUS20954+18-Sep-2010+PRN20100918'
+p721
+sg4
+S'20100918\xc2\xa012:00AM UTC'
+p722
+sg6
+S'Following Is a Test Release'
+p723
+sa(dp724
+g2
+S'http://www.reuters.com/article/2010/09/18/idUS20938+18-Sep-2010+PRN20100918'
+p725
+sg4
+S'20100918\xc2\xa012:00AM UTC'
+p726
+sg6
+S'Nektar Therapeutics To Present at the UBS 2010 Global Life Sciences Conference'
+p727
+sa(dp728
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=WAO1278450144225'
+p729
+sg4
+S'20100918\xc2\xa08:14PM UTC'
+p730
+sg6
+S'Curfew grips Kashmir Valley'
+p731
+sa(dp732
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=RCDOVE68IM6Z1'
+p733
+sg4
+S'20100918\xc2\xa08:08PM UTC'
+p734
+sg6
+S'At least 12 dead in Baghdad blasts'
+p735
+sa(dp736
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=RCDOVE68ILLJ1'
+p737
+sg4
+S'20100918\xc2\xa07:28PM UTC'
+p738
+sg6
+S'Apologies and prayer for Pope in UK'
+p739
+sa(dp740
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=RCDOVE68HLJ31'
+p741
+sg4
+S'20100918\xc2\xa04:53PM UTC'
+p742
+sg6
+S'American held in Iran heads home'
+p743
+sa(dp744
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=RCDOVE68HLHF1'
+p745
+sg4
+S'20100918\xc2\xa03:33PM UTC'
+p746
+sg6
+S'Bracing for Igor in Bermuda'
+p747
+sa(dp748
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=RCDOVE68HL9J1'
+p749
+sg4
+S'20100918\xc2\xa012:08PM UTC'
+p750
+sg6
+S'Bombs, Bullets and Ballots'
+p751
+sa(dp752
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=RCDOVE68HL372'
+p753
+sg4
+S'20100918\xc2\xa012:03PM UTC'
+p754
+sg6
+S'Mexico begins hurricane cleanup'
+p755
+sa(dp756
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=RCDOVE68HKXR2'
+p757
+sg4
+S'20100918\xc2\xa011:03AM UTC'
+p758
+sg6
+S'Pope apologises over abuse scandal'
+p759
+sa(dp760
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=RCDOVE68HKUN1'
+p761
+sg4
+S'20100918\xc2\xa09:08AM UTC'
+p762
+sg6
+S'Floods isolate China villages '
+p763
+sa(dp764
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=RCDOVE68HKQN1'
+p765
+sg4
+S'20100918\xc2\xa07:48AM UTC'
+p766
+sg6
+S'Rescue drill reaches trapped miners'
+p767
+sa(dp768
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=RCDOVE68HKQ71'
+p769
+sg4
+S'20100918\xc2\xa06:33AM UTC'
+p770
+sg6
+S'Early violence in Afghan polls'
+p771
+sa.

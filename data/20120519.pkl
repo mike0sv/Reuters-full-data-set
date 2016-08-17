@@ -1,0 +1,3075 @@
+(lp0
+(dp1
+S'href'
+p2
+S'http://www.reuters.com/article/2012/05/20/quake-italy-idUSL5E8GK01C20120520'
+p3
+sS'ts'
+p4
+S'20120519\xc2\xa011:55PM UTC'
+p5
+sS'title'
+p6
+S'UPDATE 2-Magnitude 5.9 quake strikes near Bologna, Italy'
+p7
+sa(dp8
+g2
+S'http://www.reuters.com/article/2012/05/20/us-lockheed-strike-idUSBRE84J02020120520'
+p9
+sg4
+S'20120519\xc2\xa011:41PM UTC'
+p10
+sg6
+S'Two smaller unions agree deals with Lockheed'
+p11
+sa(dp12
+g2
+S'http://www.reuters.com/article/2012/05/20/lockheed-strike-idUSL1E8GIER420120520'
+p13
+sg4
+S'20120519\xc2\xa011:37PM UTC'
+p14
+sg6
+S'Two smaller unions agree deals with Lockheed'
+p15
+sa(dp16
+g2
+S'http://www.reuters.com/article/2012/05/20/idUS14108+20-May-2012+PRN20120520'
+p17
+sg4
+S'20120519\xc2\xa011:30PM UTC'
+p18
+sg6
+S'Following Is a Test Release'
+p19
+sa(dp20
+g2
+S'http://www.reuters.com/article/2012/05/20/us-soccer-champions-idUSBRE84I0FE20120520'
+p21
+sg4
+S'20120519\xc2\xa011:24PM UTC'
+p22
+sg6
+S'Drogba fires Chelsea to Champions League glory'
+p23
+sa(dp24
+g2
+S'http://www.reuters.com/article/2012/05/20/idUS13455+20-May-2012+PRN20120520'
+p25
+sg4
+S'20120519\xc2\xa011:00PM UTC'
+p26
+sg6
+S'Following Is a Test Release'
+p27
+sa(dp28
+g2
+S'http://www.reuters.com/article/2012/05/20/idUS12861+20-May-2012+PRN20120520'
+p29
+sg4
+S'20120519\xc2\xa010:30PM UTC'
+p30
+sg6
+S'Following Is a Test Release'
+p31
+sa(dp32
+g2
+S'http://www.reuters.com/article/2012/05/20/cp-strike-idUSL1E8GK0HG20120520'
+p33
+sg4
+S'20120519\xc2\xa010:29PM UTC'
+p34
+sg6
+S'Canadian Pacific says union gives strike notice'
+p35
+sa(dp36
+g2
+S'http://www.reuters.com/article/2012/05/20/usa-facebook-marriage-idUSL1E8GK09020120520'
+p37
+sg4
+S'20120519\xc2\xa010:06PM UTC'
+p38
+sg6
+S'Facebook CEO Mark Zuckerberg marries longtime love'
+p39
+sa(dp40
+g2
+S'http://www.reuters.com/article/2012/05/20/g8-summit-idUSL1E8GIKOE20120520'
+p41
+sg4
+S'20120519\xc2\xa010:05PM UTC'
+p42
+sg6
+S'WRAPUP 8-World leaders back Greece, vow to combat financial turmoil'
+p43
+sa(dp44
+g2
+S'http://www.reuters.com/article/2012/05/20/idUS12330+20-May-2012+PRN20120520'
+p45
+sg4
+S'20120519\xc2\xa010:00PM UTC'
+p46
+sg6
+S'Following Is a Test Release'
+p47
+sa(dp48
+g2
+S'http://www.reuters.com/article/2012/05/20/idUS11931+20-May-2012+PRN20120520'
+p49
+sg4
+S'20120519\xc2\xa09:30PM UTC'
+p50
+sg6
+S'Following Is a Test Release'
+p51
+sa(dp52
+g2
+S'http://www.reuters.com/article/2012/05/20/idUS11843+20-May-2012+PRN20120520'
+p53
+sg4
+S'20120519\xc2\xa09:25PM UTC'
+p54
+sg6
+S"Maloney Goes Wire-to-Wire To Win Against Nation's Best Weekend Anglers At BFL All-American On Potomac River"
+p55
+sa(dp56
+g2
+S'http://www.reuters.com/article/2012/05/20/us-google-idUSBRE84I0E120120520'
+p57
+sg4
+S'20120519\xc2\xa09:23PM UTC'
+p58
+sg6
+S"Google says it has China's approval for Motorola deal"
+p59
+sa(dp60
+g2
+S'http://www.reuters.com/article/2012/05/20/aircanada-labor-idUSL1E8GK08E20120520'
+p61
+sg4
+S'20120519\xc2\xa09:10PM UTC'
+p62
+sg6
+S'Air Canada dispute with pilots goes to arbitrator'
+p63
+sa(dp64
+g2
+S'http://www.reuters.com/article/2012/05/20/us-usa-climber-death-idUSBRE84J01420120520'
+p65
+sg4
+S'20120519\xc2\xa09:09PM UTC'
+p66
+sg6
+S"Climber dies in 1,100-foot fall on Alaska's Mount McKinley"
+p67
+sa(dp68
+g2
+S'http://www.reuters.com/article/2012/05/20/us-usa-gaymarriage-naacp-idUSBRE84J01220120520'
+p69
+sg4
+S'20120519\xc2\xa09:08PM UTC'
+p70
+sg6
+S'Civil rights group NAACP endorses gay marriage'
+p71
+sa(dp72
+g2
+S'http://www.reuters.com/article/2012/05/20/us-nato-summit-pakistan-idUSBRE84J01020120520'
+p73
+sg4
+S'20120519\xc2\xa09:04PM UTC'
+p74
+sg6
+S'Pakistani leader may face friction over supply routes at NATO summit'
+p75
+sa(dp76
+g2
+S'http://www.reuters.com/article/2012/05/20/idUS11397+20-May-2012+PRN20120520'
+p77
+sg4
+S'20120519\xc2\xa09:00PM UTC'
+p78
+sg6
+S'Following Is a Test Release'
+p79
+sa(dp80
+g2
+S'http://www.reuters.com/article/2012/05/20/us-china-dissident-profile-idUSBRE84J00Z20120520'
+p81
+sg4
+S'20120519\xc2\xa08:59PM UTC'
+p82
+sg6
+S'Blind justice the inspiration for Chinese dissident Chen'
+p83
+sa(dp84
+g2
+S'http://www.reuters.com/article/2012/05/20/idUS11090+20-May-2012+MW20120520'
+p85
+sg4
+S'20120519\xc2\xa08:47PM UTC'
+p86
+sg6
+S' G8 Leaders Must Not Let Eurozone Crisis Sidetrack Their Focus on Development'
+p87
+sa(dp88
+g2
+S'http://www.reuters.com/article/2012/05/20/idUS10637+20-May-2012+PRN20120520'
+p89
+sg4
+S'20120519\xc2\xa08:30PM UTC'
+p90
+sg6
+S'Following Is a Test Release'
+p91
+sa(dp92
+g2
+S'http://www.reuters.com/article/2012/05/20/us-horseracing-preakness-idUSBRE84I0GD20120520'
+p93
+sg4
+S'20120519\xc2\xa08:30PM UTC'
+p94
+sg6
+S"Horseracing-I'll Have Another wins Preakness Stakes"
+p95
+sa(dp96
+g2
+S'http://www.reuters.com/article/2012/05/20/us-g8-summit-idUSBRE84H06F20120520'
+p97
+sg4
+S'20120519\xc2\xa08:28PM UTC'
+p98
+sg6
+S'World leaders back Greece, vow to combat financial turmoil'
+p99
+sa(dp100
+g2
+S'http://www.reuters.com/article/2012/05/20/idUS10529+20-May-2012+PRN20120520'
+p101
+sg4
+S'20120519\xc2\xa08:26PM UTC'
+p102
+sg6
+S'NGOs react to G8 statement from Camp David'
+p103
+sa(dp104
+g2
+S'http://www.reuters.com/article/2012/05/20/idUS45311215020120520'
+p105
+sg4
+S'20120519\xc2\xa08:25PM UTC'
+p106
+sg6
+S'Sell-side research isn\xe2\x80\x99t inside information'
+p107
+sa(dp108
+g2
+S'http://www.reuters.com/article/2012/05/20/us-afghanistan-britain-idUSBRE84J00B20120520'
+p109
+sg4
+S'20120519\xc2\xa08:18PM UTC'
+p110
+sg6
+S'UK may keep troops in Afghanistan post-2014 to fight terrorism'
+p111
+sa(dp112
+g2
+S'http://www.reuters.com/article/2012/05/20/us-china-dissident-comments-idUSBRE84J00720120520'
+p113
+sg4
+S'20120519\xc2\xa08:07PM UTC'
+p114
+sg6
+S'Chinese activist Chen glad China showing "restraint, calm"'
+p115
+sa(dp116
+g2
+S'http://www.reuters.com/article/2012/05/20/idUS10017+20-May-2012+PRN20120520'
+p117
+sg4
+S'20120519\xc2\xa08:00PM UTC'
+p118
+sg6
+S'Following Is a Test Release'
+p119
+sa(dp120
+g2
+S'http://www.reuters.com/article/2012/05/19/us-usa-gaymarriage-newyork-idUSBRE84I0HF20120519'
+p121
+sg4
+S'20120519\xc2\xa07:55PM UTC'
+p122
+sg6
+S"New York City's most senior openly gay official weds"
+p123
+sa(dp124
+g2
+S'http://www.reuters.com/article/2012/05/19/us-g8-summit-obama-iran-idUSBRE84I08L20120519'
+p125
+sg4
+S'20120519\xc2\xa07:52PM UTC'
+p126
+sg6
+S'G8, raising pressure on Iran, puts oil stocks on standby'
+p127
+sa(dp128
+g2
+S'http://www.reuters.com/article/2012/05/19/us-g8-summit-idUSBRE84H06F20120519'
+p129
+sg4
+S'20120519\xc2\xa07:51PM UTC'
+p130
+sg6
+S'World leaders back Greece, vow to combat financial turmoil'
+p131
+sa(dp132
+g2
+S'http://www.reuters.com/article/2012/05/19/us-g8-summit-obama-idUSBRE84I0G520120519'
+p133
+sg4
+S'20120519\xc2\xa07:51PM UTC'
+p134
+sg6
+S'Obama warns of euro zone threat, welcomes growth focus'
+p135
+sa(dp136
+g2
+S'http://www.reuters.com/article/2012/05/19/us-syria-carbomb-idUSBRE84I04F20120519'
+p137
+sg4
+S'20120519\xc2\xa07:47PM UTC'
+p138
+sg6
+S'Syria bomb kills 9, Damascus blames foreign plot'
+p139
+sa(dp140
+g2
+S'http://www.reuters.com/article/2012/05/19/us-syria-usa-whitehouse-idUSBRE84I0BC20120519'
+p141
+sg4
+S'20120519\xc2\xa07:47PM UTC'
+p142
+sg6
+S"U.S. tells G8 Syria's Assad must go, cites Yemen as model"
+p143
+sa(dp144
+g2
+S'http://www.reuters.com/article/2012/05/19/us-homestead-anniversary-idUSBRE84I0H620120519'
+p145
+sg4
+S'20120519\xc2\xa07:45PM UTC'
+p146
+sg6
+S'U.S. marks 150th anniversary of Homestead Act offering free land'
+p147
+sa(dp148
+g2
+S'http://www.reuters.com/article/2012/05/19/us-storm-alberto-idUSBRE84I0EP20120519'
+p149
+sg4
+S'20120519\xc2\xa07:42PM UTC'
+p150
+sg6
+S"Season's first Atlantic tropical storm forms off South Carolina"
+p151
+sa(dp152
+g2
+S'http://www.reuters.com/article/2012/05/19/us-g8-summit-eurobonds-idUSBRE84I0GO20120519'
+p153
+sg4
+S'20120519\xc2\xa07:41PM UTC'
+p154
+sg6
+S"France's Hollande to make Eurobond proposals at EU summit"
+p155
+sa(dp156
+g2
+S'http://www.reuters.com/article/2012/05/19/storm-alberto-idUSL1E8GJ2OY20120519'
+p157
+sg4
+S'20120519\xc2\xa07:40PM UTC'
+p158
+sg6
+S"UPDATE 2-Season's 1st Atlantic tropical storm forms off S.Carolina"
+p159
+sa(dp160
+g2
+S'http://www.reuters.com/article/2012/05/19/idUS60294+19-May-2012+PRN20120519'
+p161
+sg4
+S'20120519\xc2\xa07:30PM UTC'
+p162
+sg6
+S'Following Is a Test Release'
+p163
+sa(dp164
+g2
+S'http://www.reuters.com/article/2012/05/19/g8-summit-eurobonds-idUSL1E8GJ3K220120519'
+p165
+sg4
+S'20120519\xc2\xa07:25PM UTC'
+p166
+sg6
+S"UPDATE 1-France's Hollande to make Eurobond proposals at EU summit"
+p167
+sa(dp168
+g2
+S'http://www.reuters.com/article/2012/05/19/g8-summit-obama-idUSL1E8GJ3G620120519'
+p169
+sg4
+S'20120519\xc2\xa07:07PM UTC'
+p170
+sg6
+S'UPDATE 1-Obama warns of euro zone threat, welcomes growth focus'
+p171
+sa(dp172
+g2
+S'http://www.reuters.com/article/2012/05/19/idUS59922+19-May-2012+PRN20120519'
+p173
+sg4
+S'20120519\xc2\xa07:07PM UTC'
+p174
+sg6
+S"Boston Red Sox President Larry Lucchino Delivers Address at Bentley University's Commencement Ceremony; Chef Ming Tsai Delivers Address at McCallum Graduate School of Business Ceremony"
+p175
+sa(dp176
+g2
+S'http://www.reuters.com/article/2012/05/19/us-china-dissident-idUSBRE84I04V20120519'
+p177
+sg4
+S'20120519\xc2\xa07:02PM UTC'
+p178
+sg6
+S'Blind Chinese activist arrives in United States'
+p179
+sa(dp180
+g2
+S'http://www.reuters.com/article/2012/05/19/idUS59775+19-May-2012+PRN20120519'
+p181
+sg4
+S'20120519\xc2\xa07:00PM UTC'
+p182
+sg6
+S'Following Is a Test Release'
+p183
+sa(dp184
+g2
+S'http://www.reuters.com/article/2012/05/19/idUS59746+19-May-2012+BW20120519'
+p185
+sg4
+S'20120519\xc2\xa07:00PM UTC'
+p186
+sg6
+S'CREATe.org Applauds the G8 for Focus on the Importance of Intellectual Property Rights for Stimulating Jobs and Economic Growth'
+p187
+sa(dp188
+g2
+S'http://www.reuters.com/article/2012/05/19/us-sudan-southsudan-idUSBRE84I0GK20120519'
+p189
+sg4
+S'20120519\xc2\xa06:58PM UTC'
+p190
+sg6
+S'Bashir says wants peace with S.Sudan but security comes first'
+p191
+sa(dp192
+g2
+S'http://www.reuters.com/article/2012/05/19/us-g8-summit-campdavid-idUSBRE84I0EN20120519'
+p193
+sg4
+S'20120519\xc2\xa06:53PM UTC'
+p194
+sg6
+S'Obama opens up Camp David for rustic VIP sleepover'
+p195
+sa(dp196
+g2
+S'http://www.reuters.com/article/2012/05/19/us-g8-summit-treadmill-idUSBRE84I0E020120519'
+p197
+sg4
+S'20120519\xc2\xa06:53PM UTC'
+p198
+sg6
+S"Obama, UK's Cameron hit the diplomatic treadmill"
+p199
+sa(dp200
+g2
+S'http://www.reuters.com/article/2012/05/19/us-g8-summit-oil-usa-idUSBRE84I0B220120519'
+p201
+sg4
+S'20120519\xc2\xa06:53PM UTC'
+p202
+sg6
+S'G8 committed to keeping oil markets supplied: U.S.'
+p203
+sa(dp204
+g2
+S'http://www.reuters.com/article/2012/05/19/us-g8-summit-hollande-idUSBRE84I0AO20120519'
+p205
+sg4
+S'20120519\xc2\xa06:53PM UTC'
+p206
+sg6
+S"France's Hollande wants Greece to stay in euro zone"
+p207
+sa(dp208
+g2
+S'http://www.reuters.com/article/2012/05/19/us-g8-summit-syria-idUSBRE84I0AA20120519'
+p209
+sg4
+S'20120519\xc2\xa06:53PM UTC'
+p210
+sg6
+S"France's Hollande says G8 agree on Annan Syria peace mission"
+p211
+sa(dp212
+g2
+S'http://www.reuters.com/article/2012/05/19/us-g8-monti-idUSBRE84I09T20120519'
+p213
+sg4
+S'20120519\xc2\xa06:53PM UTC'
+p214
+sg6
+S"Italy's Monti shows G8 bank guarantee plan: report"
+p215
+sa(dp216
+g2
+S'http://www.reuters.com/article/2012/05/19/g8-summit-iran-idUSL1E8GJ21R20120519'
+p217
+sg4
+S'20120519\xc2\xa06:52PM UTC'
+p218
+sg6
+S'UPDATE 3-G8, raising pressure on Iran, puts oil stocks on standby'
+p219
+sa(dp220
+g2
+S'http://www.reuters.com/article/2012/05/19/g8-summit-idUSL1E8GIKOE20120519'
+p221
+sg4
+S'20120519\xc2\xa06:52PM UTC'
+p222
+sg6
+S'WRAPUP 6-World leaders back Greece, vow to combat financial turmoil'
+p223
+sa(dp224
+g2
+S'http://www.reuters.com/article/2012/05/19/g8-summit-eurobonds-idUSP6E7GB00X20120519'
+p225
+sg4
+S'20120519\xc2\xa06:46PM UTC'
+p226
+sg6
+S"France's Hollande to make Eurobond proposals at EU summit"
+p227
+sa(dp228
+g2
+S'http://www.reuters.com/article/2012/05/19/us-horseracing-preakness-idUSBRE84I0GD20120519'
+p229
+sg4
+S'20120519\xc2\xa06:44PM UTC'
+p230
+sg6
+S"I'll Have Another wins the Preakness Stakes"
+p231
+sa(dp232
+g2
+S'http://www.reuters.com/article/2012/05/19/us-soccer-champions-idUSBRE84I0FE20120519'
+p233
+sg4
+S'20120519\xc2\xa06:42PM UTC'
+p234
+sg6
+S'Drogba fires Chelsea to Champions League glory'
+p235
+sa(dp236
+g2
+S'http://www.reuters.com/article/2012/05/19/us-china-dissident-arrival-idUSBRE84I0GC20120519'
+p237
+sg4
+S'20120519\xc2\xa06:36PM UTC'
+p238
+sg6
+S'China activist Chen arrives in United States'
+p239
+sa(dp240
+g2
+S'http://www.reuters.com/article/2012/05/19/g8-summit-communique-idUSL1E8GJ2RO20120519'
+p241
+sg4
+S'20120519\xc2\xa06:34PM UTC'
+p242
+sg6
+S'HIGHLIGHTS-UPDATE 1-Statement from G8 world leaders'
+p243
+sa(dp244
+g2
+S'http://www.reuters.com/article/2012/05/19/idUS58725+19-May-2012+PRN20120519'
+p245
+sg4
+S'20120519\xc2\xa06:30PM UTC'
+p246
+sg6
+S'Canadian Pacific comments on TCRC issuing a 72-Hour Strike Notice'
+p247
+sa(dp248
+g2
+S'http://www.reuters.com/article/2012/05/19/idUS58693+19-May-2012+PRN20120519'
+p249
+sg4
+S'20120519\xc2\xa06:30PM UTC'
+p250
+sg6
+S'Following Is a Test Release'
+p251
+sa(dp252
+g2
+S'http://www.reuters.com/article/2012/05/19/g8-summit-obama-idUSL1E8GJ2V120120519'
+p253
+sg4
+S'20120519\xc2\xa06:29PM UTC'
+p254
+sg6
+S'Obama says euro zone crisis threatens global economy'
+p255
+sa(dp256
+g2
+S'http://www.reuters.com/article/2012/05/19/nato-summit-arrests-idUSL1E8GJ21920120519'
+p257
+sg4
+S'20120519\xc2\xa06:21PM UTC'
+p258
+sg6
+S'UPDATE 2-Anti-NATO activists weighed Obama HQ attack, prosecutors say'
+p259
+sa(dp260
+g2
+S'http://www.reuters.com/article/2012/05/19/us-germany-protests-idUSBRE84I08720120519'
+p261
+sg4
+S'20120519\xc2\xa06:21PM UTC'
+p262
+sg6
+S'Thousands march in Frankfurt against austerity measures'
+p263
+sa(dp264
+g2
+S'http://www.reuters.com/article/2012/05/19/usa-crash-georgia-idUSL1E8GJ2V020120519'
+p265
+sg4
+S'20120519\xc2\xa06:15PM UTC'
+p266
+sg6
+S'Six Georgia school buses collide, 50 hurt'
+p267
+sa(dp268
+g2
+S'http://www.reuters.com/article/2012/05/19/us-china-dissident-university-idUSBRE84I0A320120519'
+p269
+sg4
+S'20120519\xc2\xa06:15PM UTC'
+p270
+sg6
+S'China activist Chen to study at New York University'
+p271
+sa(dp272
+g2
+S'http://www.reuters.com/article/2012/05/19/us-nato-summit-protests-idUSBRE84I09X20120519'
+p273
+sg4
+S'20120519\xc2\xa06:12PM UTC'
+p274
+sg6
+S'Latest anti-NATO protest in Chicago small, peaceful'
+p275
+sa(dp276
+g2
+S'http://www.reuters.com/article/2012/05/19/us-serbia-election-idUSBRE84I0FU20120519'
+p277
+sg4
+S'20120519\xc2\xa06:10PM UTC'
+p278
+sg6
+S'Serbia picks president under threat of protest'
+p279
+sa(dp280
+g2
+S'http://www.reuters.com/article/2012/05/19/idUS57529+19-May-2012+MW20120519'
+p281
+sg4
+S'20120519\xc2\xa06:01PM UTC'
+p282
+sg6
+S' The Boston Consulting Group Elects Rich Lesser as Its Next CEO'
+p283
+sa(dp284
+g2
+S'http://www.reuters.com/article/2012/05/19/us-mexico-election-idUSBRE84I0FQ20120519'
+p285
+sg4
+S'20120519\xc2\xa06:00PM UTC'
+p286
+sg6
+S"Youth protest former Mexican ruling party's rise"
+p287
+sa(dp288
+g2
+S'http://www.reuters.com/article/2012/05/19/idUS57463+19-May-2012+PRN20120519'
+p289
+sg4
+S'20120519\xc2\xa06:00PM UTC'
+p290
+sg6
+S'Following Is a Test Release'
+p291
+sa(dp292
+g2
+S'http://www.reuters.com/article/2012/05/19/us-usa-gorilla-idUSBRE84I0FJ20120519'
+p293
+sg4
+S'20120519\xc2\xa05:54PM UTC'
+p294
+sg6
+S'Gorilla patriarch of Columbus Zoo surrogacy program dies'
+p295
+sa(dp296
+g2
+S'http://www.reuters.com/article/2012/05/19/nato-summit-protests-idUSL1E8GJ1ZZ20120519'
+p297
+sg4
+S'20120519\xc2\xa05:54PM UTC'
+p298
+sg6
+S'UPDATE 2-Latest anti-NATO protest in Chicago small, peaceful'
+p299
+sa(dp300
+g2
+S'http://www.reuters.com/article/2012/05/19/us-tennis-rome-men-idUSBRE84I0EJ20120519'
+p301
+sg4
+S'20120519\xc2\xa05:51PM UTC'
+p302
+sg6
+S'Djokovic downs Federer to set up Nadal final'
+p303
+sa(dp304
+g2
+S'http://www.reuters.com/article/2012/05/19/idUS56039+19-May-2012+PRN20120519'
+p305
+sg4
+S'20120519\xc2\xa05:30PM UTC'
+p306
+sg6
+S'Following Is a Test Release'
+p307
+sa(dp308
+g2
+S'http://www.reuters.com/article/2012/05/19/us-yemen-idUSBRE84I07V20120519'
+p309
+sg4
+S'20120519\xc2\xa05:26PM UTC'
+p310
+sg6
+S'Yemen clashes kill 34 militants, soldiers: officials'
+p311
+sa(dp312
+g2
+S'http://www.reuters.com/article/2012/05/19/us-turkey-arrest-idUSBRE84I0F820120519'
+p313
+sg4
+S'20120519\xc2\xa05:20PM UTC'
+p314
+sg6
+S'Turkish colonel arrested over suspected coup plot'
+p315
+sa(dp316
+g2
+S'http://www.reuters.com/article/2012/05/19/us-greece-election-idUSBRE84I05L20120519'
+p317
+sg4
+S'20120519\xc2\xa05:18PM UTC'
+p318
+sg6
+S'Greek election race tightens into dead heat'
+p319
+sa(dp320
+g2
+S'http://www.reuters.com/article/2012/05/19/us-germany-greece-merkel-idUSBRE84I08U20120519'
+p321
+sg4
+S'20120519\xc2\xa05:18PM UTC'
+p322
+sg6
+S'Merkel did not push Greece referendum idea: witness'
+p323
+sa(dp324
+g2
+S'http://www.reuters.com/article/2012/05/19/idUS55509+19-May-2012+MW20120519'
+p325
+sg4
+S'20120519\xc2\xa05:15PM UTC'
+p326
+sg6
+S' Air Canada Pilots Dispute Goes to Arbitration'
+p327
+sa(dp328
+g2
+S'http://www.reuters.com/article/2012/05/19/idUS55158+19-May-2012+PRN20120519'
+p329
+sg4
+S'20120519\xc2\xa05:06PM UTC'
+p330
+sg6
+S'Lockheed Martin Aeronautics Reaches New Contracts With Two Unions at Fort Worth Plant'
+p331
+sa(dp332
+g2
+S'http://www.reuters.com/article/2012/05/19/greece-idUSL5E8GJ2DA20120519'
+p333
+sg4
+S'20120519\xc2\xa05:01PM UTC'
+p334
+sg6
+S'CORRECTED-Greek election race tightens into dead heat'
+p335
+sa(dp336
+g2
+S'http://www.reuters.com/article/2012/05/19/germany-greece-merkel-idUSL5E8GJ1D020120519'
+p337
+sg4
+S'20120519\xc2\xa05:00PM UTC'
+p338
+sg6
+S'CORRECTED-Merkel did not push Greece referendum idea - witness'
+p339
+sa(dp340
+g2
+S'http://www.reuters.com/article/2012/05/19/idUS54904+19-May-2012+PRN20120519'
+p341
+sg4
+S'20120519\xc2\xa05:00PM UTC'
+p342
+sg6
+S'Following Is a Test Release'
+p343
+sa(dp344
+g2
+S'http://www.reuters.com/article/2012/05/19/storm-alberto-idUSL1E8GJ2OP20120519'
+p345
+sg4
+S'20120519\xc2\xa04:59PM UTC'
+p346
+sg6
+S"Season's 1st Atlantic tropical storm forms off S.Carolina"
+p347
+sa(dp348
+g2
+S'http://www.reuters.com/article/2012/05/19/idUS286974530820120519'
+p349
+sg4
+S'20120519\xc2\xa04:56PM UTC'
+p350
+sg6
+S'UF Weekend Reads'
+p351
+sa(dp352
+g2
+S'http://www.reuters.com/article/2012/05/19/idUS53541+19-May-2012+PRN20120519'
+p353
+sg4
+S'20120519\xc2\xa04:30PM UTC'
+p354
+sg6
+S'Following Is a Test Release'
+p355
+sa(dp356
+g2
+S'http://www.reuters.com/article/2012/05/19/idUS53271+19-May-2012+MW20120519'
+p357
+sg4
+S'20120519\xc2\xa04:23PM UTC'
+p358
+sg6
+S' NorthStar Ford Group Canada Celebrates Victoria Day With 0 Percent Financing on Ford Fiesta, Escape, F-150 & Focus;'
+p359
+sa(dp360
+g2
+S'http://www.reuters.com/article/2012/05/19/us-usa-georgia-infection-idUSBRE84I0EE20120519'
+p361
+sg4
+S'20120519\xc2\xa04:16PM UTC'
+p362
+sg6
+S'Georgia woman with flesh-eating disease in "critical" condition'
+p363
+sa(dp364
+g2
+S'http://www.reuters.com/article/2012/05/19/us-oil-seaway-startup-idUSBRE84I0EC20120519'
+p365
+sg4
+S'20120519\xc2\xa04:13PM UTC'
+p366
+sg6
+S'Seaway pipeline sends oil to Texas in historic reversal'
+p367
+sa(dp368
+g2
+S'http://www.reuters.com/article/2012/05/19/us-russia-sberbank-idUSBRE84I0EA20120519'
+p369
+sg4
+S'20120519\xc2\xa04:11PM UTC'
+p370
+sg6
+S'Russia Sberbank sees sale certainty after government formed'
+p371
+sa(dp372
+g2
+S'http://www.reuters.com/article/2012/05/19/us-google-idUSBRE84I0E120120519'
+p373
+sg4
+S'20120519\xc2\xa04:01PM UTC'
+p374
+sg6
+S"Google says it won China's approval for Motorola deal"
+p375
+sa(dp376
+g2
+S'http://www.reuters.com/article/2012/05/19/idUS52534+19-May-2012+PRN20120519'
+p377
+sg4
+S'20120519\xc2\xa04:00PM UTC'
+p378
+sg6
+S'Following Is a Test Release'
+p379
+sa(dp380
+g2
+S'http://www.reuters.com/article/2012/05/19/us-greece-idUSBRE84I0DO20120519'
+p381
+sg4
+S'20120519\xc2\xa03:47PM UTC'
+p382
+sg6
+S'Greek election race tightens into dead heat'
+p383
+sa(dp384
+g2
+S'http://www.reuters.com/article/2012/05/19/us-usa-kennedy-death-idUSBRE84I0DJ20120519'
+p385
+sg4
+S'20120519\xc2\xa03:45PM UTC'
+p386
+sg6
+S"Kennedy clan, celebrities attend Mary Kennedy's funeral"
+p387
+sa(dp388
+g2
+S'http://www.reuters.com/article/2012/05/19/google-idUSL1E8GJ2CW20120519'
+p389
+sg4
+S'20120519\xc2\xa03:43PM UTC'
+p390
+sg6
+S"Google says it won China's approval for Motorola deal"
+p391
+sa(dp392
+g2
+S'http://www.reuters.com/article/2012/05/19/oil-seaway-startup-idUSL1E8GJ2AE20120519'
+p393
+sg4
+S'20120519\xc2\xa03:41PM UTC'
+p394
+sg6
+S'UPDATE 2-Seaway pipeline sends oil to Texas in historic reversal'
+p395
+sa(dp396
+g2
+S'http://www.reuters.com/article/2012/05/19/russia-sberbank-idUSL1E8GJ2I620120519'
+p397
+sg4
+S'20120519\xc2\xa03:38PM UTC'
+p398
+sg6
+S'Russia Sberbank sees sale certainty after government formed'
+p399
+sa(dp400
+g2
+S'http://www.reuters.com/article/2012/05/19/idUS51381+19-May-2012+PRN20120519'
+p401
+sg4
+S'20120519\xc2\xa03:30PM UTC'
+p402
+sg6
+S'Foresters, KaBOOM! & Volunteers Revitalize Houston Community with New Playground'
+p403
+sa(dp404
+g2
+S'http://www.reuters.com/article/2012/05/19/idUS51379+19-May-2012+PRN20120519'
+p405
+sg4
+S'20120519\xc2\xa03:30PM UTC'
+p406
+sg6
+S'Following Is a Test Release'
+p407
+sa(dp408
+g2
+S'http://www.reuters.com/article/2012/05/19/g8-summit-treadmill-idUSL5E8GJ2E520120519'
+p409
+sg4
+S'20120519\xc2\xa03:22PM UTC'
+p410
+sg6
+S"Obama, UK's Cameron hit the diplomatic treadmill"
+p411
+sa(dp412
+g2
+S'http://www.reuters.com/article/2012/05/19/us-libya-benghazi-council-idUSBRE84I0D920120519'
+p413
+sg4
+S'20120519\xc2\xa03:12PM UTC'
+p414
+sg6
+S"Vote in Libya's Benghazi tests support for autonomy"
+p415
+sa(dp416
+g2
+S'http://www.reuters.com/article/2012/05/19/libya-benghazi-council-idUSL5E8GJ1BJ20120519'
+p417
+sg4
+S'20120519\xc2\xa03:02PM UTC'
+p418
+sg6
+S"Vote in Libya's Benghazi tests support for autonomy"
+p419
+sa(dp420
+g2
+S'http://www.reuters.com/article/2012/05/19/us-g8-summit-cameron-idUSBRE84I07T20120519'
+p421
+sg4
+S'20120519\xc2\xa03:02PM UTC'
+p422
+sg6
+S"UK's Cameron calls for euro contingency plans"
+p423
+sa(dp424
+g2
+S'http://www.reuters.com/article/2012/05/19/idUS50157+19-May-2012+MW20120519'
+p425
+sg4
+S'20120519\xc2\xa03:01PM UTC'
+p426
+sg6
+S' ITNS CEO Update Letter to Shareholders'
+p427
+sa(dp428
+g2
+S'http://www.reuters.com/article/2012/05/19/idUS50125+19-May-2012+PRN20120519'
+p429
+sg4
+S'20120519\xc2\xa03:00PM UTC'
+p430
+sg6
+S'Following Is a Test Release'
+p431
+sa(dp432
+g2
+S'http://www.reuters.com/article/2012/05/19/g8-summit-contagion-idUSL1E8GJ2BG20120519'
+p433
+sg4
+S'20120519\xc2\xa02:56PM UTC'
+p434
+sg6
+S'UPDATE 1-G8 discussed need to contain euro zone contagion-U.S.'
+p435
+sa(dp436
+g2
+S'http://www.reuters.com/article/2012/05/19/g8-summit-cameron-idUSL1E8GJ1FZ20120519'
+p437
+sg4
+S'20120519\xc2\xa02:56PM UTC'
+p438
+sg6
+S"UPDATE 2-UK's Cameron calls for euro contingency plans"
+p439
+sa(dp440
+g2
+S'http://www.reuters.com/article/2012/05/19/g8-monti-idUSL5E8GJ29120120519'
+p441
+sg4
+S'20120519\xc2\xa02:55PM UTC'
+p442
+sg6
+S"UPDATE 1-Italy's Monti shows G8 bank guarantee plan -report"
+p443
+sa(dp444
+g2
+S'http://www.reuters.com/article/2012/05/19/us-usa-chen-whitehouse-idUSBRE84I0B720120519'
+p445
+sg4
+S'20120519\xc2\xa02:44PM UTC'
+p446
+sg6
+S"White House says welcomes Chen's departure for the U.S."
+p447
+sa(dp448
+g2
+S'http://www.reuters.com/article/2012/05/19/us-nato-summit-arrests-idUSBRE84I09K20120519'
+p449
+sg4
+S'20120519\xc2\xa02:41PM UTC'
+p450
+sg6
+S'Anti-NATO activists weighed Obama HQ attack: prosecutors'
+p451
+sa(dp452
+g2
+S'http://www.reuters.com/article/2012/05/19/idUS48785+19-May-2012+MW20120519'
+p453
+sg4
+S'20120519\xc2\xa02:32PM UTC'
+p454
+sg6
+S' Gear International, Inc. Enhances Executive Team, Significantly Reduces Share Structure'
+p455
+sa(dp456
+g2
+S'http://www.reuters.com/article/2012/05/19/idUS48711+19-May-2012+PRN20120519'
+p457
+sg4
+S'20120519\xc2\xa02:30PM UTC'
+p458
+sg6
+S'Following Is a Test Release'
+p459
+sa(dp460
+g2
+S'http://www.reuters.com/article/2012/05/19/us-g8-summit-iran-idUSBRE84I0AW20120519'
+p461
+sg4
+S'20120519\xc2\xa02:21PM UTC'
+p462
+sg6
+S'G8, raising pressure on Iran, puts oil stocks on standby'
+p463
+sa(dp464
+g2
+S'http://www.reuters.com/article/2012/05/19/athletics-shanghai-liu-idUSL4E8GJ07620120519'
+p465
+sg4
+S'20120519\xc2\xa02:19PM UTC'
+p466
+sg6
+S'Athletics-Liu raises expectations with best time in five years'
+p467
+sa(dp468
+g2
+S'http://www.reuters.com/article/2012/05/19/us-tennis-men-idUSBRE84I0BD20120519'
+p469
+sg4
+S'20120519\xc2\xa02:17PM UTC'
+p470
+sg6
+S'Nadal wears down Ferrer to reach Rome final'
+p471
+sa(dp472
+g2
+S'http://www.reuters.com/article/2012/05/19/idUS47619+19-May-2012+PRN20120519'
+p473
+sg4
+S'20120519\xc2\xa02:00PM UTC'
+p474
+sg6
+S'Following Is a Test Release'
+p475
+sa(dp476
+g2
+S'http://www.reuters.com/article/2012/05/19/idUS47610+19-May-2012+MW20120519'
+p477
+sg4
+S'20120519\xc2\xa02:00PM UTC'
+p478
+sg6
+S' Dr. Brady Frank Dentist Voted Top Dentist Among His Peers'
+p479
+sa(dp480
+g2
+S'http://www.reuters.com/article/2012/05/19/idUS47607+19-May-2012+MW20120519'
+p481
+sg4
+S'20120519\xc2\xa02:00PM UTC'
+p482
+sg6
+S' Minister Rob Nicholson Attends 75th Annual Pilgrimage to Honour Veterans'
+p483
+sa(dp484
+g2
+S'http://www.reuters.com/article/2012/05/19/oil-seaway-startup-idUSL1E8GJ22U20120519'
+p485
+sg4
+S'20120519\xc2\xa01:56PM UTC'
+p486
+sg6
+S'Oil starts flowing from Cushing to Houston on Seaway'
+p487
+sa(dp488
+g2
+S'http://www.reuters.com/article/2012/05/19/g8-summit-contagion-idUSL1E8GJ22L20120519'
+p489
+sg4
+S'20120519\xc2\xa01:47PM UTC'
+p490
+sg6
+S'G8 discussed need to contain euro zone contagion-U.S.'
+p491
+sa(dp492
+g2
+S'http://www.reuters.com/article/2012/05/19/idUS47046+19-May-2012+BW20120519'
+p493
+sg4
+S'20120519\xc2\xa01:45PM UTC'
+p494
+sg6
+S'Seaway Crude Oil Pipeline Begins First Flow'
+p495
+sa(dp496
+g2
+S'http://www.reuters.com/article/2012/05/19/us-france-rally-accident-idUSBRE84I0AX20120519'
+p497
+sg4
+S'20120519\xc2\xa01:39PM UTC'
+p498
+sg6
+S'Rally car hits crowd in south France, two killed'
+p499
+sa(dp500
+g2
+S'http://www.reuters.com/article/2012/05/19/g8-summit-oil-usa-idUSL1E8GJ21A20120519'
+p501
+sg4
+S'20120519\xc2\xa01:37PM UTC'
+p502
+sg6
+S'G8 committed to keeping oil markets supplied-U.S.'
+p503
+sa(dp504
+g2
+S'http://www.reuters.com/article/2012/05/19/idUS46467+19-May-2012+PRN20120519'
+p505
+sg4
+S'20120519\xc2\xa01:30PM UTC'
+p506
+sg6
+S'Following Is a Test Release'
+p507
+sa(dp508
+g2
+S'http://www.reuters.com/article/2012/05/19/g8-summit-iran-idUSL1E8GJ21C20120519'
+p509
+sg4
+S'20120519\xc2\xa01:30PM UTC'
+p510
+sg6
+S'G8 raises pressure on Iran with oil commitment'
+p511
+sa(dp512
+g2
+S'http://www.reuters.com/article/2012/05/19/idUS119441596020120519'
+p513
+sg4
+S'20120519\xc2\xa01:26PM UTC'
+p514
+sg6
+S'Should artists get royalties on resales? California judge says no'
+p515
+sa(dp516
+g2
+S'http://www.reuters.com/article/2012/05/19/us-italy-bomb-idUSBRE84I04K20120519'
+p517
+sg4
+S'20120519\xc2\xa01:18PM UTC'
+p518
+sg6
+S'Bomb at Italian school kills teenage girl, wounds 10'
+p519
+sa(dp520
+g2
+S'http://www.reuters.com/article/2012/05/19/us-guatemala-volcano-idUSBRE84I0AQ20120519'
+p521
+sg4
+S'20120519\xc2\xa01:17PM UTC'
+p522
+sg6
+S'Guatemala volcano spits lava and ash'
+p523
+sa(dp524
+g2
+S'http://www.reuters.com/article/2012/05/19/guatemala-volcano-idUSL1E8GJ20420120519'
+p525
+sg4
+S'20120519\xc2\xa01:16PM UTC'
+p526
+sg6
+S'Guatemala volcano spits lava and ash'
+p527
+sa(dp528
+g2
+S'http://www.reuters.com/article/2012/05/19/italy-bomb-idUSL5E8GJ07D20120519'
+p529
+sg4
+S'20120519\xc2\xa01:15PM UTC'
+p530
+sg6
+S'UPDATE 4-Bomb at Italian school kills teenage girl, wounds 10'
+p531
+sa(dp532
+g2
+S'http://www.reuters.com/article/2012/05/19/brazil-steel-fire-idUSL1E8GJ20B20120519'
+p533
+sg4
+S'20120519\xc2\xa01:11PM UTC'
+p534
+sg6
+S"UPDATE 1-Fire damages Brazil's Usiminas mill"
+p535
+sa(dp536
+g2
+S'http://www.reuters.com/article/2012/05/19/g8-summit-hollande-idUSL5E8GJ29420120519'
+p537
+sg4
+S'20120519\xc2\xa01:09PM UTC'
+p538
+sg6
+S"France's Hollande wants Greece to stay in euro zone"
+p539
+sa(dp540
+g2
+S'http://www.reuters.com/article/2012/05/19/us-g8-summit-statement-idUSBRE84I0A620120519'
+p541
+sg4
+S'20120519\xc2\xa01:07PM UTC'
+p542
+sg6
+S'G8 leaders back Greece in euro zone, call growth "imperative"'
+p543
+sa(dp544
+g2
+S'http://www.reuters.com/article/2012/05/19/us-g8-oil-idUSBRE84I0AI20120519'
+p545
+sg4
+S'20120519\xc2\xa01:06PM UTC'
+p546
+sg6
+S'G8 to call on IEA for "action" on oil if needed: sources'
+p547
+sa(dp548
+g2
+S'http://www.reuters.com/article/2012/05/19/g8-summit-statement-idUSL1E8GJ1ZW20120519'
+p549
+sg4
+S'20120519\xc2\xa01:06PM UTC'
+p550
+sg6
+S'UPDATE 1-G8 leaders back Greece in euro zone, call growth "imperative"'
+p551
+sa(dp552
+g2
+S'http://www.reuters.com/article/2012/05/19/idUS362143253320120519'
+p553
+sg4
+S'20120519\xc2\xa01:05PM UTC'
+p554
+sg6
+S'How were these Silicon Valley VCs so wrong about Facebook\xe2\x80\x99s IPO?'
+p555
+sa(dp556
+g2
+S'http://www.reuters.com/article/2012/05/19/g8-oil-idUSL1E8GJ1ZU20120519'
+p557
+sg4
+S'20120519\xc2\xa01:04PM UTC'
+p558
+sg6
+S'G8 to call on IEA for "action" on oil if needed-sources'
+p559
+sa(dp560
+g2
+S'http://www.reuters.com/article/2012/05/19/idUS45430+19-May-2012+PRN20120519'
+p561
+sg4
+S'20120519\xc2\xa01:00PM UTC'
+p562
+sg6
+S'Following Is a Test Release'
+p563
+sa(dp564
+g2
+S'http://www.reuters.com/article/2012/05/19/us-storm-atlantic-idUSBRE84I0AD20120519'
+p565
+sg4
+S'20120519\xc2\xa01:00PM UTC'
+p566
+sg6
+S'Atlantic storm could bring early start to hurricane season'
+p567
+sa(dp568
+g2
+S'http://www.reuters.com/article/2012/05/19/storm-atlantic-idUSL1E8GJ1OF20120519'
+p569
+sg4
+S'20120519\xc2\xa012:59PM UTC'
+p570
+sg6
+S'Atlantic storm could bring early start to hurricane season'
+p571
+sa(dp572
+g2
+S'http://www.reuters.com/article/2012/05/19/g8-summit-statement-idUSL1E8GJ1YH20120519'
+p573
+sg4
+S'20120519\xc2\xa012:51PM UTC'
+p574
+sg6
+S'G8 leaders back Greece in euro zone, call growth "imperative"'
+p575
+sa(dp576
+g2
+S'http://www.reuters.com/article/2012/05/19/g8-summit-euro-russia-idUSL1E8GJ1YM20120519'
+p577
+sg4
+S'20120519\xc2\xa012:46PM UTC'
+p578
+sg6
+S'Russia will not cut share of euro in forex reserves'
+p579
+sa(dp580
+g2
+S'http://www.reuters.com/article/2012/05/19/ebrd-meeting-idUSL5E8GJ1CB20120519'
+p581
+sg4
+S'20120519\xc2\xa012:42PM UTC'
+p582
+sg6
+S'New EBRD chief champions democracy mandate'
+p583
+sa(dp584
+g2
+S'http://www.reuters.com/article/2012/05/19/us-srilanka-rajapaksa-idUSBRE84I09N20120519'
+p585
+sg4
+S'20120519\xc2\xa012:41PM UTC'
+p586
+sg6
+S'Sri Lanka president rejects U.S. calls to close army bases'
+p587
+sa(dp588
+g2
+S'http://www.reuters.com/article/2012/05/19/oly-flame-adv69-torch-idUSL4E8GJ07O20120519'
+p589
+sg4
+S'20120519\xc2\xa012:33PM UTC'
+p590
+sg6
+S'Olympics-Relay torchbearer seeks quick profit on eBay'
+p591
+sa(dp592
+g2
+S'http://www.reuters.com/article/2012/05/19/idUS44327+19-May-2012+PRN20120519'
+p593
+sg4
+S'20120519\xc2\xa012:30PM UTC'
+p594
+sg6
+S'Following Is a Test Release'
+p595
+sa(dp596
+g2
+S'http://www.reuters.com/article/2012/05/19/srilanka-rajapaksa-idUSL4E8GJ06T20120519'
+p597
+sg4
+S'20120519\xc2\xa012:27PM UTC'
+p598
+sg6
+S'Sri Lanka president rejects US calls to close army bases'
+p599
+sa(dp600
+g2
+S'http://www.reuters.com/article/2012/05/19/nato-summit-arrests-idUSL1E8GJ1IM20120519'
+p601
+sg4
+S'20120519\xc2\xa012:27PM UTC'
+p602
+sg6
+S'Three anti-NATO protesters face terrorism charges'
+p603
+sa(dp604
+g2
+S'http://www.reuters.com/article/2012/05/19/g8-monti-idUSL5E8GJ1X020120519'
+p605
+sg4
+S'20120519\xc2\xa012:21PM UTC'
+p606
+sg6
+S"Italy's Monti shows G8 bank guarantee plan -report"
+p607
+sa(dp608
+g2
+S'http://www.reuters.com/article/2012/05/19/us-g8-summit-euro-idUSBRE84I09F20120519'
+p609
+sg4
+S'20120519\xc2\xa012:21PM UTC'
+p610
+sg6
+S'Obama says "more work to do" at G8 on euro zone'
+p611
+sa(dp612
+g2
+S'http://www.reuters.com/article/2012/05/19/idUS43658+19-May-2012+BW20120519'
+p613
+sg4
+S'20120519\xc2\xa012:15PM UTC'
+p614
+sg6
+S'PA32540 Provides Faster Gastric Acid Reduction Than Enteric-Coated Omeprazole (40 mg)'
+p615
+sa(dp616
+g2
+S'http://www.reuters.com/article/2012/05/19/ebrd-russia-idUSL5E8GJ20V20120519'
+p617
+sg4
+S'20120519\xc2\xa012:02PM UTC'
+p618
+sg6
+S'Oil fall not a worry; budget balanced-Russia dep finmin'
+p619
+sa(dp620
+g2
+S'http://www.reuters.com/article/2012/05/19/idUS43219+19-May-2012+PRN20120519'
+p621
+sg4
+S'20120519\xc2\xa012:00PM UTC'
+p622
+sg6
+S'Following Is a Test Release'
+p623
+sa(dp624
+g2
+S'http://www.reuters.com/article/2012/05/19/idUS42940+19-May-2012+BW20120519'
+p625
+sg4
+S'20120519\xc2\xa011:53AM UTC'
+p626
+sg6
+S'Investor Alert: Former Louisiana Attorney General and Kahn Swick & Foti, LLC, Remind Investors with Large Financial Interests of Lead Plaintiff Deadline in Class Action Lawsuit Against ViroPharma Inc.'
+p627
+sa(dp628
+g2
+S'http://www.reuters.com/article/2012/05/19/spain-deficit-idUSL5E8GJ21820120519'
+p629
+sg4
+S'20120519\xc2\xa011:49AM UTC'
+p630
+sg6
+S'UPDATE 1-Spain faces crisis of confidence after deficit slip'
+p631
+sa(dp632
+g2
+S'http://www.reuters.com/article/2012/05/19/ebrd-euro-idUSL5E8GJ1OL20120519'
+p633
+sg4
+S'20120519\xc2\xa011:45AM UTC'
+p634
+sg6
+S'E. Europe euro hopefuls disorientated by crisis'
+p635
+sa(dp636
+g2
+S'http://www.reuters.com/article/2012/05/19/brazil-steel-fire-idUSL1E8GJ1IY20120519'
+p637
+sg4
+S'20120519\xc2\xa011:40AM UTC'
+p638
+sg6
+S"Fire damages Brazil's Usiminas mill: report"
+p639
+sa(dp640
+g2
+S'http://www.reuters.com/article/2012/05/19/us-afghanistan-bomber-idUSBRE84I09420120519'
+p641
+sg4
+S'20120519\xc2\xa011:34AM UTC'
+p642
+sg6
+S'Motorcycle bomber kills 10 in eastern Afghanistan'
+p643
+sa(dp644
+g2
+S'http://www.reuters.com/article/2012/05/19/us-britain-newscorp-idUSBRE84I06V20120519'
+p645
+sg4
+S'20120519\xc2\xa011:34AM UTC'
+p646
+sg6
+S'Murdoch denies planning to spin off UK newspapers'
+p647
+sa(dp648
+g2
+S'http://www.reuters.com/article/2012/05/19/iraq-power-idUSL5E8GJ1WG20120519'
+p649
+sg4
+S'20120519\xc2\xa011:30AM UTC'
+p650
+sg6
+S'Iraq considers bids for $1 bln power plant'
+p651
+sa(dp652
+g2
+S'http://www.reuters.com/article/2012/05/19/idUS42162+19-May-2012+PRN20120519'
+p653
+sg4
+S'20120519\xc2\xa011:30AM UTC'
+p654
+sg6
+S'Following Is a Test Release'
+p655
+sa(dp656
+g2
+S'http://www.reuters.com/article/2012/05/19/thomas-cook-idUSL5E8GJ21520120519'
+p657
+sg4
+S'20120519\xc2\xa011:26AM UTC'
+p658
+sg6
+S'Germans book 30 pct fewer Greece holidays -paper'
+p659
+sa(dp660
+g2
+S'http://www.reuters.com/article/2012/05/19/idUS41834+19-May-2012+PRN20120519'
+p661
+sg4
+S'20120519\xc2\xa011:21AM UTC'
+p662
+sg6
+S'MEDIA ADVISORY: NGO briefing at 3 p.m., National Press Club'
+p663
+sa(dp664
+g2
+S'http://www.reuters.com/article/2012/05/19/athletics-shanghai-idUSL4E8GJ04720120519'
+p665
+sg4
+S'20120519\xc2\xa011:14AM UTC'
+p666
+sg6
+S'Athletics-Liu lights up rainy Shanghai with hurdles triumph'
+p667
+sa(dp668
+g2
+S'http://www.reuters.com/article/2012/05/19/us-tennis-rome-women-idUSBRE84H0MZ20120519'
+p669
+sg4
+S'20120519\xc2\xa011:11AM UTC'
+p670
+sg6
+S'Impressive Sharapova reaches Rome final'
+p671
+sa(dp672
+g2
+S'http://www.reuters.com/article/2012/05/19/us-sudan-currency-idUSBRE84I08V20120519'
+p673
+sg4
+S'20120519\xc2\xa011:06AM UTC'
+p674
+sg6
+S'Sudan says receives "large amount" of hard currency'
+p675
+sa(dp676
+g2
+S'http://www.reuters.com/article/2012/05/19/swiss-vale-idUSL5E8GJ1WD20120519'
+p677
+sg4
+S'20120519\xc2\xa011:06AM UTC'
+p678
+sg6
+S'Vale president says to fight Swiss tax dispute- paper'
+p679
+sa(dp680
+g2
+S'http://www.reuters.com/article/2012/05/19/idUS41351+19-May-2012+PRN20120519'
+p681
+sg4
+S'20120519\xc2\xa011:00AM UTC'
+p682
+sg6
+S'Following Is a Test Release'
+p683
+sa(dp684
+g2
+S'http://www.reuters.com/article/2012/05/19/accor-idUSL5E8GJ1SY20120519'
+p685
+sg4
+S'20120519\xc2\xa010:38AM UTC'
+p686
+sg6
+S'Accor plans emerging markets push -CEO in magazine'
+p687
+sa(dp688
+g2
+S'http://www.reuters.com/article/2012/05/19/entertainment-us-philippines-gaga-idUSBRE84I08Q20120519'
+p689
+sg4
+S'20120519\xc2\xa010:37AM UTC'
+p690
+sg6
+S'Filipino Christian conservatives denounce Lady Gaga concert'
+p691
+sa(dp692
+g2
+S'http://www.reuters.com/article/2012/05/19/idUS40514+19-May-2012+PRN20120519'
+p693
+sg4
+S'20120519\xc2\xa010:30AM UTC'
+p694
+sg6
+S'Following Is a Test Release'
+p695
+sa(dp696
+g2
+S'http://www.reuters.com/article/2012/05/19/us-emirates-lebanon-visitors-idUSBRE84I08220120519'
+p697
+sg4
+S'20120519\xc2\xa010:29AM UTC'
+p698
+sg6
+S'Bahrain, Qatar, UAE urge citizens to stay away from Lebanon'
+p699
+sa(dp700
+g2
+S'http://www.reuters.com/article/2012/05/19/emirates-lebanon-visitors-idUSL5E8GJ1L320120519'
+p701
+sg4
+S'20120519\xc2\xa010:27AM UTC'
+p702
+sg6
+S'UPDATE 2-Bahrain, Qatar, UAE urge citizens to stay away from Lebanon'
+p703
+sa(dp704
+g2
+S'http://www.reuters.com/article/2012/05/19/ebrd-turkey-infrastructure-idUSL5E8GJ1A520120519'
+p705
+sg4
+S'20120519\xc2\xa010:12AM UTC'
+p706
+sg6
+S'Tough funding climate delays Turkish privatisations'
+p707
+sa(dp708
+g2
+S'http://www.reuters.com/article/2012/05/19/us-greece-exit-slovenia-idUSBRE84I08I20120519'
+p709
+sg4
+S'20120519\xc2\xa010:09AM UTC'
+p710
+sg6
+S'Greek euro exit could be fast if needed: Slovenia'
+p711
+sa(dp712
+g2
+S'http://www.reuters.com/article/2012/05/19/idUS39476+19-May-2012+PRN20120519'
+p713
+sg4
+S'20120519\xc2\xa010:00AM UTC'
+p714
+sg6
+S'Following Is a Test Release'
+p715
+sa(dp716
+g2
+S'http://www.reuters.com/article/2012/05/19/uk-emirates-lebanon-visitors-idUSLNE84I00220120519'
+p717
+sg4
+S'20120519\xc2\xa09:41AM UTC'
+p718
+sg6
+S'Qatar, UAE urge citizens to stay away from Lebanon'
+p719
+sa(dp720
+g2
+S'http://www.reuters.com/article/2012/05/19/uk-italy-ship-idUSLNE84I00N20120519'
+p721
+sg4
+S'20120519\xc2\xa09:39AM UTC'
+p722
+sg6
+S"Refloat of Italy's Concordia wreck to be biggest ever"
+p723
+sa(dp724
+g2
+S'http://www.reuters.com/article/2012/05/19/uk-germany-protests-idUSLNE84I00K20120519'
+p725
+sg4
+S'20120519\xc2\xa09:37AM UTC'
+p726
+sg6
+S'Thousands march in Frankfurt against austerity measures'
+p727
+sa(dp728
+g2
+S'http://www.reuters.com/article/2012/05/19/idUS38347+19-May-2012+PRN20120519'
+p729
+sg4
+S'20120519\xc2\xa09:30AM UTC'
+p730
+sg6
+S'Following Is a Test Release'
+p731
+sa(dp732
+g2
+S'http://www.reuters.com/article/2012/05/19/spain-deficit-idUSL5E8GJ1KJ20120519'
+p733
+sg4
+S'20120519\xc2\xa09:27AM UTC'
+p734
+sg6
+S'Spain faces crisis of confidence after deficit slip'
+p735
+sa(dp736
+g2
+S'http://www.reuters.com/article/2012/05/19/idUS37990+19-May-2012+PRN20120519'
+p737
+sg4
+S'20120519\xc2\xa09:16AM UTC'
+p738
+sg6
+S'Dr. Oz to Give Philadelphia a "15 Minute Physical" at Temple Today!!'
+p739
+sa(dp740
+g2
+S'http://www.reuters.com/article/2012/05/19/us-audi-management-idUSBRE84I08020120519'
+p741
+sg4
+S'20120519\xc2\xa09:15AM UTC'
+p742
+sg6
+S'Audi eyes management reshuffle: CEO in magazine'
+p743
+sa(dp744
+g2
+S'http://www.reuters.com/article/2012/05/19/audi-management-idUSL5E8GJ1LG20120519'
+p745
+sg4
+S'20120519\xc2\xa09:10AM UTC'
+p746
+sg6
+S'Audi eyes management reshuffle - CEO in magazine'
+p747
+sa(dp748
+g2
+S'http://www.reuters.com/article/2012/05/19/uk-nepal-everest-idUSLNE84I00G20120519'
+p749
+sg4
+S'20120519\xc2\xa09:09AM UTC'
+p750
+sg6
+S'Japanese woman, 73, scales Everest for the second time'
+p751
+sa(dp752
+g2
+S'http://www.reuters.com/article/2012/05/19/us-nepal-everest-idUSBRE84I07X20120519'
+p753
+sg4
+S'20120519\xc2\xa09:07AM UTC'
+p754
+sg6
+S'Japanese woman, 73, scales Everest for the second time'
+p755
+sa(dp756
+g2
+S'http://www.reuters.com/article/2012/05/19/nepal-everest-idUSL4E8GJ04T20120519'
+p757
+sg4
+S'20120519\xc2\xa09:04AM UTC'
+p758
+sg6
+S'Japanese woman, 73, scales Everest for the second time'
+p759
+sa(dp760
+g2
+S'http://www.reuters.com/article/2012/05/19/g8-summit-cameron-idUSL5E8GJ1KM20120519'
+p761
+sg4
+S'20120519\xc2\xa09:02AM UTC'
+p762
+sg6
+S'G8 making progress on euro zone crisis, oil prices-UK'
+p763
+sa(dp764
+g2
+S'http://www.reuters.com/article/2012/05/19/idUS37570+19-May-2012+PRN20120519'
+p765
+sg4
+S'20120519\xc2\xa09:00AM UTC'
+p766
+sg6
+S'Following Is a Test Release'
+p767
+sa(dp768
+g2
+S'http://www.reuters.com/article/2012/05/19/us-usa-banks-obama-idUSBRE84I05F20120519'
+p769
+sg4
+S'20120519\xc2\xa09:00AM UTC'
+p770
+sg6
+S'Obama pledges tough enforcement of Wall Street reforms'
+p771
+sa(dp772
+g2
+S'http://www.reuters.com/article/2012/05/19/entertainment-us-cannes-haiti-idUSBRE84I07M20120519'
+p773
+sg4
+S'20120519\xc2\xa08:48AM UTC'
+p774
+sg6
+S'Sean Penn opens wallets for Haiti at Cannes gala'
+p775
+sa(dp776
+g2
+S'http://www.reuters.com/article/2012/05/19/idUS37128+19-May-2012+BW20120519'
+p777
+sg4
+S'20120519\xc2\xa08:46AM UTC'
+p778
+sg6
+S"AGCO pr\xc3\xa9sente sa vision pour l'agriculture en Afrique au sommet du G8"
+p779
+sa(dp780
+g2
+S'http://www.reuters.com/article/2012/05/19/idUS37126+19-May-2012+BW20120519'
+p781
+sg4
+S'20120519\xc2\xa08:46AM UTC'
+p782
+sg6
+S'AGCO pr\xc3\xa4sentiert seine Vision f\xc3\xbcr die Landwirtschaft in Afrika beim G8-Gipfel'
+p783
+sa(dp784
+g2
+S'http://www.reuters.com/article/2012/05/19/idUS37108+19-May-2012+BW20120519'
+p785
+sg4
+S'20120519\xc2\xa08:45AM UTC'
+p786
+sg6
+S'AGCO Presenta su Visi\xc3\xb3n para la Agricultura en \xc3\x81frica en la Cumbre del G8'
+p787
+sa(dp788
+g2
+S'http://www.reuters.com/article/2012/05/19/us-italy-monti-idUSBRE84I07C20120519'
+p789
+sg4
+S'20120519\xc2\xa08:37AM UTC'
+p790
+sg6
+S"Italy's PM Monti vows to fight crime after school bombing"
+p791
+sa(dp792
+g2
+S'http://www.reuters.com/article/2012/05/19/unicredit-moodys-idUSL5E8GJ1ES20120519'
+p793
+sg4
+S'20120519\xc2\xa08:31AM UTC'
+p794
+sg6
+S"UniCredit CEO shrugs off Moody's downgrade"
+p795
+sa(dp796
+g2
+S'http://www.reuters.com/article/2012/05/19/idUS36733+19-May-2012+PRN20120519'
+p797
+sg4
+S'20120519\xc2\xa08:30AM UTC'
+p798
+sg6
+S'Following Is a Test Release'
+p799
+sa(dp800
+g2
+S'http://www.reuters.com/article/2012/05/19/olympics-boxing-women-idUSL4E8GJ05D20120519'
+p801
+sg4
+S'20120519\xc2\xa08:28AM UTC'
+p802
+sg6
+S"Olympics-Britain, Russia grab places in women's boxing"
+p803
+sa(dp804
+g2
+S'http://www.reuters.com/article/2012/05/19/us-usa-spaceship-idUSBRE84H0XM20120519'
+p805
+sg4
+S'20120519\xc2\xa08:27AM UTC'
+p806
+sg6
+S'Possible engine problem delays U.S. rocket launch'
+p807
+sa(dp808
+g2
+S'http://www.reuters.com/article/2012/05/19/uk-g8-summit-campdavid-idUSLNE84I00520120519'
+p809
+sg4
+S'20120519\xc2\xa08:26AM UTC'
+p810
+sg6
+S'Obama opens up Camp David for rustic VIP sleepover'
+p811
+sa(dp812
+g2
+S'http://www.reuters.com/article/2012/05/19/us-egypt-rights-idUSBRE84I07120120519'
+p813
+sg4
+S'20120519\xc2\xa08:18AM UTC'
+p814
+sg6
+S'Egypt army beat, tortured protesters: rights group'
+p815
+sa(dp816
+g2
+S'http://www.reuters.com/article/2012/05/19/italy-india-shooting-idUSL4E8GJ03220120519'
+p817
+sg4
+S'20120519\xc2\xa08:15AM UTC'
+p818
+sg6
+S'UPDATE 2-No bail for Italian sailors in India despite envoy protests'
+p819
+sa(dp820
+g2
+S'http://www.reuters.com/article/2012/05/19/uk-oly-flame-adv70-flight-idUSLNE84I00820120519'
+p821
+sg4
+S'20120519\xc2\xa08:06AM UTC'
+p822
+sg6
+S'Flame for London Games arrives in Britain'
+p823
+sa(dp824
+g2
+S'http://www.reuters.com/article/2012/05/19/us-usa-china-military-idUSBRE84I06X20120519'
+p825
+sg4
+S'20120519\xc2\xa08:03AM UTC'
+p826
+sg6
+S"Chinese entities world's biggest economic spies: Pentagon"
+p827
+sa(dp828
+g2
+S'http://www.reuters.com/article/2012/05/19/usa-china-military-idUSL1E8GI6QK20120519'
+p829
+sg4
+S'20120519\xc2\xa08:02AM UTC'
+p830
+sg6
+S"UPDATE 2-Chinese entities world's biggest economic spies-Pentagon"
+p831
+sa(dp832
+g2
+S'http://www.reuters.com/article/2012/05/19/idUS36010+19-May-2012+PRN20120519'
+p833
+sg4
+S'20120519\xc2\xa08:00AM UTC'
+p834
+sg6
+S'Following Is a Test Release'
+p835
+sa(dp836
+g2
+S'http://www.reuters.com/article/2012/05/19/britain-newscorp-idUSL5E8GJ0Q620120519'
+p837
+sg4
+S'20120519\xc2\xa08:00AM UTC'
+p838
+sg6
+S'Murdoch denies planning to spin off UK newspapers'
+p839
+sa(dp840
+g2
+S'http://www.reuters.com/article/2012/05/19/idUS35999+19-May-2012+PRN20120519'
+p841
+sg4
+S'20120519\xc2\xa08:00AM UTC'
+p842
+sg6
+S'Lockheed Martin Flight Services Employees Agree to New Four-Year Contract'
+p843
+sa(dp844
+g2
+S'http://www.reuters.com/article/2012/05/19/idUS36002+19-May-2012+PRN20120519'
+p845
+sg4
+S'20120519\xc2\xa08:00AM UTC'
+p846
+sg6
+S'Atmel Showcases Latest Arduino Development Boards Using Atmel AVR and ARM Processor-Based MCUs'
+p847
+sa(dp848
+g2
+S'http://www.reuters.com/article/2012/05/19/usa-spaceship-idUSL5E8GJ1C220120519'
+p849
+sg4
+S'20120519\xc2\xa07:59AM UTC'
+p850
+sg6
+S'UPDATE 2-Possible engine problem delays US rocket launch'
+p851
+sa(dp852
+g2
+S'http://www.reuters.com/article/2012/05/19/us-irish-dissidents-idUSBRE84I06T20120519'
+p853
+sg4
+S'20120519\xc2\xa07:42AM UTC'
+p854
+sg6
+S'Seven charged in major roundup of Irish militant suspects'
+p855
+sa(dp856
+g2
+S'http://www.reuters.com/article/2012/05/19/entertainment-us-cannes-lawless-idUSBRE84I06R20120519'
+p857
+sg4
+S'20120519\xc2\xa07:40AM UTC'
+p858
+sg6
+S'Tough times for small U.S. films despite bumper Cannes'
+p859
+sa(dp860
+g2
+S'http://www.reuters.com/article/2012/05/19/us-china-dissident-state-idUSBRE84I06K20120519'
+p861
+sg4
+S'20120519\xc2\xa07:33AM UTC'
+p862
+sg6
+S'Chinese dissident Chen has left for U.S.: State Dept'
+p863
+sa(dp864
+g2
+S'http://www.reuters.com/article/2012/05/19/idUS427192581420120519'
+p865
+sg4
+S'20120519\xc2\xa07:32AM UTC'
+p866
+sg6
+S'MuniLand Snaps: May 21'
+p867
+sa(dp868
+g2
+S'http://www.reuters.com/article/2012/05/19/idUS34817+19-May-2012+PRN20120519'
+p869
+sg4
+S'20120519\xc2\xa07:30AM UTC'
+p870
+sg6
+S'Following Is a Test Release'
+p871
+sa(dp872
+g2
+S'http://www.reuters.com/article/2012/05/19/ebrd-fund-idUSL5E8GJ1AO20120519'
+p873
+sg4
+S'20120519\xc2\xa07:18AM UTC'
+p874
+sg6
+S'EBRD agrees 1 bln euro N.Africa fund'
+p875
+sa(dp876
+g2
+S'http://www.reuters.com/article/2012/05/19/us-emirates-lebanon-visitors-idUSBRE84I06E20120519'
+p877
+sg4
+S'20120519\xc2\xa07:10AM UTC'
+p878
+sg6
+S'UAE urges citizens to stay away from Lebanon'
+p879
+sa(dp880
+g2
+S'http://www.reuters.com/article/2012/05/19/us-china-dissident-study-idUSBRE84I06A20120519'
+p881
+sg4
+S'20120519\xc2\xa07:09AM UTC'
+p882
+sg6
+S'Blind Chinese activist "has applied to study in U.S.": Xinhua'
+p883
+sa(dp884
+g2
+S'http://www.reuters.com/article/2012/05/19/emirates-lebanon-visitors-idUSL5E8GJ19U20120519'
+p885
+sg4
+S'20120519\xc2\xa07:08AM UTC'
+p886
+sg6
+S'UAE urges citizens to stay away from Lebanon'
+p887
+sa(dp888
+g2
+S'http://www.reuters.com/article/2012/05/19/us-tennis-women-rome-idUSBRE84I05220120519'
+p889
+sg4
+S'20120519\xc2\xa07:06AM UTC'
+p890
+sg6
+S'Injured Williams confident for French Open'
+p891
+sa(dp892
+g2
+S'http://www.reuters.com/article/2012/05/19/ebrd-turkey-fdi-idUSL5E8GJ0T320120519'
+p893
+sg4
+S'20120519\xc2\xa07:01AM UTC'
+p894
+sg6
+S'Turkey sees $16 bln FDI in 2012-Treasury official'
+p895
+sa(dp896
+g2
+S'http://www.reuters.com/article/2012/05/19/idUS33720+19-May-2012+PRN20120519'
+p897
+sg4
+S'20120519\xc2\xa07:00AM UTC'
+p898
+sg6
+S'Following Is a Test Release'
+p899
+sa(dp900
+g2
+S'http://www.reuters.com/article/2012/05/19/idUS33713+19-May-2012+PRN20120519'
+p901
+sg4
+S'20120519\xc2\xa07:00AM UTC'
+p902
+sg6
+S'Reddy Ice Announces Confirmation Of Plan Of Reorganization'
+p903
+sa(dp904
+g2
+S'http://www.reuters.com/article/2012/05/19/idUS33711+19-May-2012+PRN20120519'
+p905
+sg4
+S'20120519\xc2\xa07:00AM UTC'
+p906
+sg6
+S"Dickey's Barbecue Welcomes New Owners To Bonney Lake"
+p907
+sa(dp908
+g2
+S'http://www.reuters.com/article/2012/05/19/olympics-france-decathlon-idUSL4E8GJ04K20120519'
+p909
+sg4
+S'20120519\xc2\xa06:53AM UTC'
+p910
+sg6
+S'Olympics-French decathlete Barras to miss London Games'
+p911
+sa(dp912
+g2
+S'http://www.reuters.com/article/2012/05/19/us-turkey-kurds-idUSBRE84I05X20120519'
+p913
+sg4
+S'20120519\xc2\xa06:31AM UTC'
+p914
+sg6
+S'Turkish civilian killed in attack by Kurdish rebels'
+p915
+sa(dp916
+g2
+S'http://www.reuters.com/article/2012/05/19/idUS32735+19-May-2012+PRN20120519'
+p917
+sg4
+S'20120519\xc2\xa06:30AM UTC'
+p918
+sg6
+S'Following Is a Test Release'
+p919
+sa(dp920
+g2
+S'http://www.reuters.com/article/2012/05/19/idUS32563+19-May-2012+MW20120519'
+p921
+sg4
+S'20120519\xc2\xa06:25AM UTC'
+p922
+sg6
+S' Health Hazard Alert - Certain Compliments Brand Salads and Prepared Foods May Contain Listeria Monocytogenes'
+p923
+sa(dp924
+g2
+S'http://www.reuters.com/article/2012/05/19/us-syria-bomber-idUSBRE84I04Z20120519'
+p925
+sg4
+S'20120519\xc2\xa06:19AM UTC'
+p926
+sg6
+S'Syrian TV: Suicide bomber carried out Deir al-Zor attack'
+p927
+sa(dp928
+g2
+S'http://www.reuters.com/article/2012/05/19/us-china-dissident-baggage-idUSBRE84I05R20120519'
+p929
+sg4
+S'20120519\xc2\xa06:15AM UTC'
+p930
+sg6
+S'Blind Chinese activist appears to have left for U.S'
+p931
+sa(dp932
+g2
+S'http://www.reuters.com/article/2012/05/19/idUS31997+19-May-2012+MW20120519'
+p933
+sg4
+S'20120519\xc2\xa06:13AM UTC'
+p934
+sg6
+S' giffgaff Welcomes New Ideas to Help Innovate their Network'
+p935
+sa(dp936
+g2
+S'http://www.reuters.com/article/2012/05/19/greece-election-idUSL5E8GJ0Q220120519'
+p937
+sg4
+S'20120519\xc2\xa06:09AM UTC'
+p938
+sg6
+S'Greece confirms June 17 election date'
+p939
+sa(dp940
+g2
+S'http://www.reuters.com/article/2012/05/19/idUS31728+19-May-2012+HUG20120519'
+p941
+sg4
+S'20120519\xc2\xa06:07AM UTC'
+p942
+sg6
+S'Reports in the international media'
+p943
+sa(dp944
+g2
+S'http://www.reuters.com/article/2012/05/19/us-germany-blockupy-idUSBRE84H0NQ20120519'
+p945
+sg4
+S'20120519\xc2\xa06:04AM UTC'
+p946
+sg6
+S'Police detain 400 "Blockupy" activists in Frankfurt'
+p947
+sa(dp948
+g2
+S'http://www.reuters.com/article/2012/05/19/us-germany-wages-idUSBRE84I05K20120519'
+p949
+sg4
+S'20120519\xc2\xa06:04AM UTC'
+p950
+sg6
+S'German IG Metall get highest pay rise in 20 years'
+p951
+sa(dp952
+g2
+S'http://www.reuters.com/article/2012/05/19/germany-wages-idUSL5E8GJ00Q20120519'
+p953
+sg4
+S'20120519\xc2\xa06:01AM UTC'
+p954
+sg6
+S'UPDATE 3-German IG Metall get highest pay rise in 20 years'
+p955
+sa(dp956
+g2
+S'http://www.reuters.com/article/2012/05/19/idUS31342+19-May-2012+PRN20120519'
+p957
+sg4
+S'20120519\xc2\xa06:00AM UTC'
+p958
+sg6
+S'Following Is a Test Release'
+p959
+sa(dp960
+g2
+S'http://www.reuters.com/article/2012/05/19/usa-banks-obama-idUSL1E8GJ0A620120519'
+p961
+sg4
+S'20120519\xc2\xa05:59AM UTC'
+p962
+sg6
+S'Obama pledges tough enforcement of Wall Street reforms'
+p963
+sa(dp964
+g2
+S'http://www.reuters.com/article/2012/05/19/idUS31310+19-May-2012+PRN20120519'
+p965
+sg4
+S'20120519\xc2\xa05:59AM UTC'
+p966
+sg6
+S'GOOD MORNING'
+p967
+sa(dp968
+g2
+S'http://www.reuters.com/article/2012/05/19/us-italy-bomb-girl-idUSBRE84I05B20120519'
+p969
+sg4
+S'20120519\xc2\xa05:58AM UTC'
+p970
+sg6
+S'Official denies death of second girl in Italy bombing'
+p971
+sa(dp972
+g2
+S'http://www.reuters.com/article/2012/05/19/usa-spaceship-idUSL5E8GJ0PW20120519'
+p973
+sg4
+S'20120519\xc2\xa05:42AM UTC'
+p974
+sg6
+S'UPDATE 1-Possible engine problem delays US rocket launch'
+p975
+sa(dp976
+g2
+S'http://www.reuters.com/article/2012/05/19/dogan-idUSL5E8GJ0LO20120519'
+p977
+sg4
+S'20120519\xc2\xa05:36AM UTC'
+p978
+sg6
+S'Dogan of Turkey posts first qtr net of 24 mln lira'
+p979
+sa(dp980
+g2
+S'http://www.reuters.com/article/2012/05/19/idUS30328+19-May-2012+PRN20120519'
+p981
+sg4
+S'20120519\xc2\xa05:30AM UTC'
+p982
+sg6
+S'Following Is a Test Release'
+p983
+sa(dp984
+g2
+S'http://www.reuters.com/article/2012/05/19/usa-spaceship-idUSL5E8GJ0CD20120519'
+p985
+sg4
+S'20120519\xc2\xa05:16AM UTC'
+p986
+sg6
+S'Spacex says delays launch of rocket to ISS'
+p987
+sa(dp988
+g2
+S'http://www.reuters.com/article/2012/05/19/idUS29739+19-May-2012+PRN20120519'
+p989
+sg4
+S'20120519\xc2\xa05:07AM UTC'
+p990
+sg6
+S'Universal Studios Hollywood Releases The Making Of "Transformers: The Ride - 3D"'
+p991
+sa(dp992
+g2
+S'http://www.reuters.com/article/2012/05/19/idUS29556+19-May-2012+PRN20120519'
+p993
+sg4
+S'20120519\xc2\xa05:00AM UTC'
+p994
+sg6
+S'Following Is a Test Release'
+p995
+sa(dp996
+g2
+S'http://www.reuters.com/article/2012/05/19/idUS28940+19-May-2012+PRN20120519'
+p997
+sg4
+S'20120519\xc2\xa04:30AM UTC'
+p998
+sg6
+S'Following Is a Test Release'
+p999
+sa(dp1000
+g2
+S'http://www.reuters.com/article/2012/05/19/saudi-economy-exports-idUSL5E8GJ06F20120519'
+p1001
+sg4
+S'20120519\xc2\xa04:25AM UTC'
+p1002
+sg6
+S'Saudi non-oil exports rise 31 percent-paper'
+p1003
+sa(dp1004
+g2
+S'http://www.reuters.com/article/2012/05/19/india-hindalco-idUSL4E8GJ02B20120519'
+p1005
+sg4
+S'20120519\xc2\xa04:22AM UTC'
+p1006
+sg6
+S"India's Hindalco says to start Orissa alumina refinery by Jan"
+p1007
+sa(dp1008
+g2
+S'http://www.reuters.com/article/2012/05/19/us-china-activist-us-idUSBRE84I03P20120519'
+p1009
+sg4
+S'20120519\xc2\xa04:19AM UTC'
+p1010
+sg6
+S'Chinese activist Chen on way to airport, bound for U.S.'
+p1011
+sa(dp1012
+g2
+S'http://www.reuters.com/article/2012/05/19/us-china-dissident-idUSBRE84I03V20120519'
+p1013
+sg4
+S'20120519\xc2\xa04:18AM UTC'
+p1014
+sg6
+S'Blind Chinese activist Chen says is at Beijing airport'
+p1015
+sa(dp1016
+g2
+S'http://www.reuters.com/article/2012/05/19/idUS28207+19-May-2012+BW20120519'
+p1017
+sg4
+S'20120519\xc2\xa04:15AM UTC'
+p1018
+sg6
+S'Fidelity Growth Partners Europe Leads a \xc2\xa310m Investment in Online Marketplace notonthehighstreet.com'
+p1019
+sa(dp1020
+g2
+S'http://www.reuters.com/article/2012/05/19/idUS27424+19-May-2012+PRN20120519'
+p1021
+sg4
+S'20120519\xc2\xa04:00AM UTC'
+p1022
+sg6
+S'Following Is a Test Release'
+p1023
+sa(dp1024
+g2
+S'http://www.reuters.com/article/2012/05/19/idUS25910+19-May-2012+PRN20120519'
+p1025
+sg4
+S'20120519\xc2\xa03:30AM UTC'
+p1026
+sg6
+S'Following Is a Test Release'
+p1027
+sa(dp1028
+g2
+S'http://www.reuters.com/article/2012/05/19/oly-flame-adv-idUSL4E8GJ02U20120519'
+p1029
+sg4
+S'20120519\xc2\xa03:19AM UTC'
+p1030
+sg6
+S'Olympics-Ainslie sets the torch relay on the road'
+p1031
+sa(dp1032
+g2
+S'http://www.reuters.com/article/2012/05/19/idUS24810+19-May-2012+PRN20120519'
+p1033
+sg4
+S'20120519\xc2\xa03:00AM UTC'
+p1034
+sg6
+S'Following Is a Test Release'
+p1035
+sa(dp1036
+g2
+S'http://www.reuters.com/article/2012/05/19/idUS24797+19-May-2012+MW20120519'
+p1037
+sg4
+S'20120519\xc2\xa03:00AM UTC'
+p1038
+sg6
+S' New Look Claim Best Use of Affiliate Marketing at the Performance Marketing Awards 2012'
+p1039
+sa(dp1040
+g2
+S'http://www.reuters.com/article/2012/05/19/italy-india-shooting-idUSL1E8GJ16420120519'
+p1041
+sg4
+S'20120519\xc2\xa02:40AM UTC'
+p1042
+sg6
+S'Italy says envoy recall signals "strong displeasure" with India'
+p1043
+sa(dp1044
+g2
+S'http://www.reuters.com/article/2012/05/19/us-nba-playoffs-idUSBRE84H03O20120519'
+p1045
+sg4
+S'20120519\xc2\xa02:39AM UTC'
+p1046
+sg6
+S'Lakers avoid 0-3 hole as Sixers tie series'
+p1047
+sa(dp1048
+g2
+S'http://www.reuters.com/article/2012/05/19/us-aramco-jizan-rabigh-idUSBRE84I04420120519'
+p1049
+sg4
+S'20120519\xc2\xa02:35AM UTC'
+p1050
+sg6
+S'Aramco launches Jizan, bidders revise Rabigh offer'
+p1051
+sa(dp1052
+g2
+S'http://www.reuters.com/article/2012/05/19/aramco-jizan-rabigh-idUSL5E8GGFBK20120519'
+p1053
+sg4
+S'20120519\xc2\xa02:32AM UTC'
+p1054
+sg6
+S'CORRECTED-Aramco launches Jizan, bidders revise Rabigh offer'
+p1055
+sa(dp1056
+g2
+S'http://www.reuters.com/article/2012/05/19/idUS24275+19-May-2012+PRN20120519'
+p1057
+sg4
+S'20120519\xc2\xa02:30AM UTC'
+p1058
+sg6
+S'Following Is a Test Release'
+p1059
+sa(dp1060
+g2
+S'http://www.reuters.com/article/2012/05/19/bc-idUSL5E8GJ00220120519'
+p1061
+sg4
+S'20120519\xc2\xa02:21AM UTC'
+p1062
+sg6
+S'\xd9\x88\xd8\xb5\xd9\x88\xd9\x84 \xd8\xb4\xd8\xb9\xd9\x84\xd8\xa9 \xd8\xa7\xd9\x88\xd9\x84\xd9\x85\xd8\xa8\xd9\x8a\xd8\xa7\xd8\xaf \xd9\x84\xd9\x86\xd8\xaf\xd9\x86 \xd8\xa7\xd9\x84\xd9\x89 \xd8\xa8\xd8\xb1\xd9\x8a\xd8\xb7\xd8\xa7\xd9\x86\xd9\x8a\xd8\xa7'
+p1063
+sa(dp1064
+g2
+S'http://www.reuters.com/article/2012/05/19/idUS23304+19-May-2012+PRN20120519'
+p1065
+sg4
+S'20120519\xc2\xa02:00AM UTC'
+p1066
+sg6
+S'Following Is a Test Release'
+p1067
+sa(dp1068
+g2
+S'http://www.reuters.com/article/2012/05/19/us-china-activist-us-idUSBRE84I03N20120519'
+p1069
+sg4
+S'20120519\xc2\xa01:46AM UTC'
+p1070
+sg6
+S'Chinese activist Chen on way to airport, bound for U.S. : advocacy group'
+p1071
+sa(dp1072
+g2
+S'http://www.reuters.com/article/2012/05/19/us-ing-asialife-idUSBRE84I03L20120519'
+p1073
+sg4
+S'20120519\xc2\xa01:32AM UTC'
+p1074
+sg6
+S'Manulife, Metlife submit bids for ING Asia sale: sources'
+p1075
+sa(dp1076
+g2
+S'http://www.reuters.com/article/2012/05/19/ing-asialife-idUSL4E8GI00D20120519'
+p1077
+sg4
+S'20120519\xc2\xa01:30AM UTC'
+p1078
+sg6
+S'UPDATE 2-Manulife, Metlife submit bids for ING Asia sale -sources'
+p1079
+sa(dp1080
+g2
+S'http://www.reuters.com/article/2012/05/19/idUS22749+19-May-2012+PRN20120519'
+p1081
+sg4
+S'20120519\xc2\xa01:30AM UTC'
+p1082
+sg6
+S'Following Is a Test Release'
+p1083
+sa(dp1084
+g2
+S'http://www.reuters.com/article/2012/05/19/us-china-dissident-idUSBRE84I02O20120519'
+p1085
+sg4
+S'20120519\xc2\xa01:13AM UTC'
+p1086
+sg6
+S'Blind activist says China\'s "manipulation" of nephew\'s case will fail'
+p1087
+sa(dp1088
+g2
+S'http://www.reuters.com/article/2012/05/19/us-g8-summit-dinner-idUSBRE84I02U20120519'
+p1089
+sg4
+S'20120519\xc2\xa01:04AM UTC'
+p1090
+sg6
+S'G8 leaders broadly united on Iran and Syria: U.S. official'
+p1091
+sa(dp1092
+g2
+S'http://www.reuters.com/article/2012/05/19/us-g8-summit-campdavid-idUSBRE84I03J20120519'
+p1093
+sg4
+S'20120519\xc2\xa01:04AM UTC'
+p1094
+sg6
+S'Obama opens up Camp David for rustic VIP sleepover'
+p1095
+sa(dp1096
+g2
+S'http://www.reuters.com/article/2012/05/19/us-baseball-rays-idUSBRE84I01J20120519'
+p1097
+sg4
+S'20120519\xc2\xa01:01AM UTC'
+p1098
+sg6
+S'Braves deny Shields seventh win of season'
+p1099
+sa(dp1100
+g2
+S'http://www.reuters.com/article/2012/05/19/idUS22351+19-May-2012+PRN20120519'
+p1101
+sg4
+S'20120519\xc2\xa01:00AM UTC'
+p1102
+sg6
+S'Following Is a Test Release'
+p1103
+sa(dp1104
+g2
+S'http://www.reuters.com/article/2012/05/19/us-usa-school-slayings-idUSBRE84I03C20120519'
+p1105
+sg4
+S'20120519\xc2\xa012:44AM UTC'
+p1106
+sg6
+S'California police arrest two in killing of Chinese students'
+p1107
+sa(dp1108
+g2
+S'http://www.reuters.com/article/2012/05/19/idUS156948451320120519'
+p1109
+sg4
+S'20120519\xc2\xa012:39AM UTC'
+p1110
+sg6
+S'Can you buy good Karma? Facebook just did'
+p1111
+sa(dp1112
+g2
+S'http://www.reuters.com/article/2012/05/19/us-nuclear-iran-iaea-idUSBRE84H0AT20120519'
+p1113
+sg4
+S'20120519\xc2\xa012:36AM UTC'
+p1114
+sg6
+S'Iran may seek "tactical gain" with U.N. nuclear deal'
+p1115
+sa(dp1116
+g2
+S'http://www.reuters.com/article/2012/05/19/g8-summit-idUSL1E8GIE0520120519'
+p1117
+sg4
+S'20120519\xc2\xa012:36AM UTC'
+p1118
+sg6
+S'WRAPUP 6-Obama presses ailing Europe to focus on growth'
+p1119
+sa(dp1120
+g2
+S'http://www.reuters.com/article/2012/05/19/us-g8-summit-dinner-idUSBRE84I02220120519'
+p1121
+sg4
+S'20120519\xc2\xa012:31AM UTC'
+p1122
+sg6
+S'G8 leaders broadly united on Iran and Syria: U.S. official'
+p1123
+sa(dp1124
+g2
+S'http://www.reuters.com/article/2012/05/19/idUS21918+19-May-2012+PRN20120519'
+p1125
+sg4
+S'20120519\xc2\xa012:30AM UTC'
+p1126
+sg6
+S'Following Is a Test Release'
+p1127
+sa(dp1128
+g2
+S'http://www.reuters.com/article/2012/05/19/idUS255677392220120519'
+p1129
+sg4
+S'20120519\xc2\xa012:28AM UTC'
+p1130
+sg6
+S'Do not despair: Facebook revenue \xe2\x80\x94 and its share price \xe2\x80\x94 are just at the beginning'
+p1131
+sa(dp1132
+g2
+S'http://www.reuters.com/article/2012/05/19/g8-summit-dinner-idUSL1E8GJ15B20120519'
+p1133
+sg4
+S'20120519\xc2\xa012:26AM UTC'
+p1134
+sg6
+S'UPDATE 2-G8 leaders broadly united on Iran and Syria-U.S. official'
+p1135
+sa(dp1136
+g2
+S'http://www.reuters.com/article/2012/05/19/us-soccer-champions-saturday-idUSBRE84I02M20120519'
+p1137
+sg4
+S'20120519\xc2\xa012:08AM UTC'
+p1138
+sg6
+S'Bayern aiming for rare home final success'
+p1139
+sa(dp1140
+g2
+S'http://www.reuters.com/article/2012/05/19/us-usa-alabama-immigration-idUSBRE84I02I20120519'
+p1141
+sg4
+S'20120519\xc2\xa012:02AM UTC'
+p1142
+sg6
+S'Alabama governor signs bill tweaking immigration law'
+p1143
+sa(dp1144
+g2
+S'http://www.reuters.com/article/2012/05/19/idUS20998+19-May-2012+MW20120519'
+p1145
+sg4
+S'20120519\xc2\xa012:02AM UTC'
+p1146
+sg6
+S' ShaMaran Q1 2012 Financial and Operating Results'
+p1147
+sa(dp1148
+g2
+S'http://www.reuters.com/article/2012/05/19/idUS20854+19-May-2012+PRN20120519'
+p1149
+sg4
+S'20120519\xc2\xa012:01AM UTC'
+p1150
+sg6
+S'U.S. Census Bureau Daily Feature for May 19'
+p1151
+sa(dp1152
+g2
+S'http://www.reuters.com/article/2012/05/19/idUS20785+19-May-2012+PRN20120519'
+p1153
+sg4
+S'20120519\xc2\xa012:00AM UTC'
+p1154
+sg6
+S'Following Is a Test Release'
+p1155
+sa(dp1156
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=39112325'
+p1157
+sg4
+S'20120519\xc2\xa08:10PM UTC'
+p1158
+sg6
+S'Blind Chinese dissident arrives in U.S.'
+p1159
+sa(dp1160
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=39111158'
+p1161
+sg4
+S'20120519\xc2\xa07:24PM UTC'
+p1162
+sg6
+S'Terrorism related arrests ahead of NATO Summit'
+p1163
+sa(dp1164
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=39111088'
+p1165
+sg4
+S'20120519\xc2\xa07:17PM UTC'
+p1166
+sg6
+S"World's leaders discuss Europe's economic woes"
+p1167
+sa(dp1168
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=39107807'
+p1169
+sg4
+S'20120519\xc2\xa04:03PM UTC'
+p1170
+sg6
+S'Red shirt supporters mark anniversary in Bangkok'
+p1171
+sa(dp1172
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=39107174'
+p1173
+sg4
+S'20120519\xc2\xa03:24PM UTC'
+p1174
+sg6
+S'Marking the end of a war in Sri Lanka'
+p1175
+sa(dp1176
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=39104394'
+p1177
+sg4
+S'20120519\xc2\xa01:38PM UTC'
+p1178
+sg6
+S'Cellphone video from Italian bomb blast'
+p1179
+sa(dp1180
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=39102880'
+p1181
+sg4
+S'20120519\xc2\xa012:53PM UTC'
+p1182
+sg6
+S'G8 Class photo'
+p1183
+sa(dp1184
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=39097401'
+p1185
+sg4
+S'20120519\xc2\xa011:08AM UTC'
+p1186
+sg6
+S'Italy school blast kills student.'
+p1187
+sa(dp1188
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=39096686'
+p1189
+sg4
+S'20120519\xc2\xa010:47AM UTC'
+p1190
+sg6
+S'Blind Chinese activist leaves Beijing for U.S.'
+p1191
+sa(dp1192
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=39095568'
+p1193
+sg4
+S'20120519\xc2\xa010:07AM UTC'
+p1194
+sg6
+S'British armed forces honour sovereign'
+p1195
+sa(dp1196
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=39094408'
+p1197
+sg4
+S'20120519\xc2\xa09:49AM UTC'
+p1198
+sg6
+S'Merkel\'s "referendum comment" irks Greeks'
+p1199
+sa(dp1200
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=39094250'
+p1201
+sg4
+S'20120519\xc2\xa09:47AM UTC'
+p1202
+sg6
+S'Iraqis protest Turkish interference'
+p1203
+sa(dp1204
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=39088696'
+p1205
+sg4
+S'20120519\xc2\xa07:04AM UTC'
+p1206
+sg6
+S'Car bomb kills nine, wounds 100 - Syrian state news agency'
+p1207
+sa(dp1208
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=39087067'
+p1209
+sg4
+S'20120519\xc2\xa06:17AM UTC'
+p1210
+sg6
+S'Blind dissident leaves China'
+p1211
+sa(dp1212
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=39087074'
+p1213
+sg4
+S'20120519\xc2\xa06:14AM UTC'
+p1214
+sg6
+S'India bus crash claims 16 lives'
+p1215
+sa(dp1216
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=39087078'
+p1217
+sg4
+S'20120519\xc2\xa06:10AM UTC'
+p1218
+sg6
+S'One dead in Italian bombing'
+p1219
+sa(dp1220
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=39086727'
+p1221
+sg4
+S'20120519\xc2\xa06:07AM UTC'
+p1222
+sg6
+S'North Korean kids take top piano prizes'
+p1223
+sa(dp1224
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=39086731'
+p1225
+sg4
+S'20120519\xc2\xa06:03AM UTC'
+p1226
+sg6
+S'Anti Gaga protests in Manila'
+p1227
+sa(dp1228
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=39083017'
+p1229
+sg4
+S'20120519\xc2\xa02:47AM UTC'
+p1230
+sg6
+S'Bodies of unborn babies found in Thai hotel room'
+p1231
+sa.

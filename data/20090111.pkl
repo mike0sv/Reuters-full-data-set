@@ -1,0 +1,5775 @@
+(lp0
+(dp1
+S'href'
+p2
+S'http://www.reuters.com/article/latestCrisis/idUSN11352022'
+p3
+sS'ts'
+p4
+S'20090111\xc2\xa011:57 PM EST'
+p5
+sS'title'
+p6
+S'PRESS DIGEST - Washington Post - Jan. 11'
+p7
+sa(dp8
+g2
+S'http://www.reuters.com/article/hongkongMktRpt/idUSHKG11130620090112'
+p9
+sg4
+S'20090111\xc2\xa011:57 PM EST'
+p10
+sg6
+S'HK shares drop 1.9 pct in five-day slide'
+p11
+sa(dp12
+g2
+S'http://www.reuters.com/article/sportsNews/idUSTRE50B0PF20090112'
+p13
+sg4
+S'20090111\xc2\xa011:56 PM EST'
+p14
+sg6
+S'Bolland goal helps Blackhawks edge out Predators'
+p15
+sa(dp16
+g2
+S'http://www.reuters.com/article/politicsNews/idUSTRE5086V020090112'
+p17
+sg4
+S'20090111\xc2\xa011:48 PM EST'
+p18
+sg6
+S'Obama says will move swiftly on new Iran approach'
+p19
+sa(dp20
+g2
+S'http://www.reuters.com/article/rbssAutoTruckManufacturers/idUSDEL00238120090112'
+p21
+sg4
+S'20090111\xc2\xa011:43 PM EST'
+p22
+sg6
+S"India's Dec car sales fall 7 pct - industry"
+p23
+sa(dp24
+g2
+S'http://www.reuters.com/article/rbssInvestmentTrusts/idUSBMA00215420090112'
+p25
+sg4
+S'20090111\xc2\xa011:40 PM EST'
+p26
+sg6
+S'Indian shares drop early; Satyam jumps, Wipro falls'
+p27
+sa(dp28
+g2
+S'http://www.reuters.com/article/rbssEnergyNews/idUSDEL00238020090112'
+p29
+sg4
+S'20090111\xc2\xa011:39 PM EST'
+p30
+sg6
+S"India's ONGC says resumes normal natural gas supply"
+p31
+sa(dp32
+g2
+S'http://www.reuters.com/article/BANKSL/idUSLC13185720090112'
+p33
+sg4
+S'20090111\xc2\xa011:37 PM EST'
+p34
+sg6
+S'PRESS DIGEST - Financial Times - Jan 12'
+p35
+sa(dp36
+g2
+S'http://www.reuters.com/article/marketsNews/idUSLC12319620090112'
+p37
+sg4
+S'20090111\xc2\xa011:36 PM EST'
+p38
+sg6
+S'PRESS DIGEST - Financial Times - Jan 12'
+p39
+sa(dp40
+g2
+S'http://www.reuters.com/article/businessNews/idUSTRE50B03A20090112'
+p41
+sg4
+S'20090111\xc2\xa011:36 PM EST'
+p42
+sg6
+S'AutoNation cuts new vehicle orders by 60 percent'
+p43
+sa(dp44
+g2
+S'http://www.reuters.com/article/businessNews/idUSTRE50B02H20090112'
+p45
+sg4
+S'20090111\xc2\xa011:36 PM EST'
+p46
+sg6
+S"Honda says credit conditions haven't improved"
+p47
+sa(dp48
+g2
+S'http://www.reuters.com/article/businessNews/idUSTRE50A34120090112'
+p49
+sg4
+S'20090111\xc2\xa011:36 PM EST'
+p50
+sg6
+S'Daimler CEO admits was too optimistic for 2008'
+p51
+sa(dp52
+g2
+S'http://www.reuters.com/article/businessNews/idUSTRE50A30T20090112'
+p53
+sg4
+S'20090111\xc2\xa011:36 PM EST'
+p54
+sg6
+S'German automakers see opportunity in U.S.'
+p55
+sa(dp56
+g2
+S'http://www.reuters.com/article/euPrivateEquityNews/idUSTRE50B05720090112'
+p57
+sg4
+S'20090111\xc2\xa011:33 PM EST'
+p58
+sg6
+S"China's Shenhua eyeing Rio coal unit stake: report"
+p59
+sa(dp60
+g2
+S'http://www.reuters.com/article/pressRelease/idUS34842+12-Jan-2009+PRN20090112'
+p61
+sg4
+S'20090111\xc2\xa011:30 PM EST'
+p62
+sg6
+S'Following Is a Test Release'
+p63
+sa(dp64
+g2
+S'http://www.reuters.com/article/rbssWirelessTelecommunicationServices/idUSBKK9836120090112'
+p65
+sg4
+S'20090111\xc2\xa011:28 PM EST'
+p66
+sg6
+S'Thai TAC picks Nokia Siemens, Huawei for 3G network'
+p67
+sa(dp68
+g2
+S'http://www.reuters.com/article/managementIssues/idUSBMA00215320090112'
+p69
+sg4
+S'20090111\xc2\xa011:25 PM EST'
+p70
+sg6
+S'Wipro says ineligible for World Bank contracts'
+p71
+sa(dp72
+g2
+S'http://www.reuters.com/article/rbssOilGasExplorationProduction/idUSDEL00237920090112'
+p73
+sg4
+S'20090111\xc2\xa011:25 PM EST'
+p74
+sg6
+S"India's ONGC says no naphtha export in January"
+p75
+sa(dp76
+g2
+S'http://www.reuters.com/article/rbssEngineeringConstruction/idUSSP16735220090112'
+p77
+sg4
+S'20090111\xc2\xa011:24 PM EST'
+p78
+sg6
+S'Singapore Hot Stocks-Rigbuilders, shippers fall on order fears'
+p79
+sa(dp80
+g2
+S'http://www.reuters.com/article/sportsNews/idUSTRE50B0B720090112'
+p81
+sg4
+S'20090111\xc2\xa011:20 PM EST'
+p82
+sg6
+S'Steelers crush Chargers to reach AFC championship'
+p83
+sa(dp84
+g2
+S'http://www.reuters.com/article/mediaNews/idUSN1128304320090112'
+p85
+sg4
+S'20090111\xc2\xa011:18 PM EST'
+p86
+sg6
+S'FACTBOX-Golden Globe winners'
+p87
+sa(dp88
+g2
+S'http://www.reuters.com/article/rbssEngineeringConstruction/idUSSIN18180420090112'
+p89
+sg4
+S'20090111\xc2\xa011:13 PM EST'
+p90
+sg6
+S'Singapore Hot Stocks-Rigbuilders, shippers fall on order fears'
+p91
+sa(dp92
+g2
+S'http://www.reuters.com/article/pressRelease/idUS33149+12-Jan-2009+PRN20090112'
+p93
+sg4
+S'20090111\xc2\xa011:10 PM EST'
+p94
+sg6
+S"/C O R R E C T I O N -- D'Orazio & Associates/"
+p95
+sa(dp96
+g2
+S'http://www.reuters.com/article/pressRelease/idUS33019+12-Jan-2009+BW20090112'
+p97
+sg4
+S'20090111\xc2\xa011:10 PM EST'
+p98
+sg6
+S'2009 International CES Electrifies and Elicits Optimism for Global Economy'
+p99
+sa(dp100
+g2
+S'http://www.reuters.com/article/rbssAutoTruckManufacturers/idUSSEO10477520090112'
+p101
+sg4
+S'20090111\xc2\xa011:09 PM EST'
+p102
+sg6
+S'UPDATE 1-Ssangyong Motor union votes for strike'
+p103
+sa(dp104
+g2
+S'http://www.reuters.com/article/rbssInvestmentTrusts/idUSBOM40825620090112'
+p105
+sg4
+S'20090111\xc2\xa011:06 PM EST'
+p106
+sg6
+S'Indian shares seen lower, Satyam to climb'
+p107
+sa(dp108
+g2
+S'http://www.reuters.com/article/sportsNews/idUSTRE50B0XT20090112'
+p109
+sg4
+S'20090111\xc2\xa011:03 PM EST'
+p110
+sg6
+S'Runaway victory earns Ogilvy high praise from rivals'
+p111
+sa(dp112
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSJAK419959'
+p113
+sg4
+S'20090111\xc2\xa011:01 PM EST'
+p114
+sg6
+S'More than 200 missing after Indonesia ferry sinks'
+p115
+sa(dp116
+g2
+S'http://www.reuters.com/article/pressRelease/idUS32215+12-Jan-2009+PRN20090112'
+p117
+sg4
+S'20090111\xc2\xa011:00 PM EST'
+p118
+sg6
+S'Following Is a Test Release'
+p119
+sa(dp120
+g2
+S'http://www.reuters.com/article/topNews/idUSTRE50B0VP20090112'
+p121
+sg4
+S'20090111\xc2\xa010:54 PM EST'
+p122
+sg6
+S'Mickey Rourke wins Golden Globe for best actor'
+p123
+sa(dp124
+g2
+S'http://www.reuters.com/article/GCA-Oil/idUSTRE50B0V520090112'
+p125
+sg4
+S'20090111\xc2\xa010:52 PM EST'
+p126
+sg6
+S'China oil imports recover on stockpiling'
+p127
+sa(dp128
+g2
+S'http://www.reuters.com/article/rbssBanks/idUSHAN36682820090112'
+p129
+sg4
+S'20090111\xc2\xa010:50 PM EST'
+p130
+sg6
+S'Vietnamese insurer Bao Viet 2008 revenue up 24 pct'
+p131
+sa(dp132
+g2
+S'http://www.reuters.com/article/televisionNews/idUSTRE50B0TV20090112'
+p133
+sg4
+S'20090111\xc2\xa010:43 PM EST'
+p134
+sg6
+S'Winslet wins Golden Globe for best actress in drama'
+p135
+sa(dp136
+g2
+S'http://www.reuters.com/article/americasPrivateEquityNews/idUSN1128983720090112'
+p137
+sg4
+S'20090111\xc2\xa010:42 PM EST'
+p138
+sg6
+S'Citi close to Morgan Stanley brokerage deal: sources'
+p139
+sa(dp140
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSPEK73291'
+p141
+sg4
+S'20090111\xc2\xa010:42 PM EST'
+p142
+sg6
+S'China to launch pre-New Year food safety campaign'
+p143
+sa(dp144
+g2
+S'http://www.reuters.com/article/innovationNews/idUSTRE50B06420090112'
+p145
+sg4
+S'20090111\xc2\xa010:41 PM EST'
+p146
+sg6
+S'Sen. Levin seeks details on Citigroup pact with Treasury'
+p147
+sa(dp148
+g2
+S'http://www.reuters.com/article/rbssUtilitiesElectric/idUSSYD36362320090112'
+p149
+sg4
+S'20090111\xc2\xa010:41 PM EST'
+p150
+sg6
+S'UPDATE 2-Babcock & Brown still in debt talks with bankers'
+p151
+sa(dp152
+g2
+S'http://www.reuters.com/article/mnaNewsFinancialServicesAndRealEstate/idUSN1128554720090112'
+p153
+sg4
+S'20090111\xc2\xa010:38 PM EST'
+p154
+sg6
+S'UPDATE 1-Citi close to Morgan Stanley brokerage deal-sources'
+p155
+sa(dp156
+g2
+S'http://www.reuters.com/article/televisionNews/idUSTRE50B0RC20090112'
+p157
+sg4
+S'20090111\xc2\xa010:35 PM EST'
+p158
+sg6
+S'"Vicky Cristina Barcelona" wins comedy Golden Globe'
+p159
+sa(dp160
+g2
+S'http://www.reuters.com/article/globalMarketsNews/idUSTRE50A1NW20090112'
+p161
+sg4
+S'20090111\xc2\xa010:33 PM EST'
+p162
+sg6
+S'Rates, earnings and bonds'
+p163
+sa(dp164
+g2
+S'http://www.reuters.com/article/hongkongMktRpt/idUSSP37947020090112'
+p165
+sg4
+S'20090111\xc2\xa010:33 PM EST'
+p166
+sg6
+S'HK Hot Stocks - China Eastern, casino stocks slump'
+p167
+sa(dp168
+g2
+S'http://www.reuters.com/article/rbssFinancialServicesAndRealEstateNews/idUSHKF07985420090112'
+p169
+sg4
+S'20090111\xc2\xa010:31 PM EST'
+p170
+sg6
+S'HK Hot Stocks - China Eastern, casino stocks slump'
+p171
+sa(dp172
+g2
+S'http://www.reuters.com/article/pressRelease/idUS29991+12-Jan-2009+PRN20090112'
+p173
+sg4
+S'20090111\xc2\xa010:30 PM EST'
+p174
+sg6
+S'Following Is a Test Release'
+p175
+sa(dp176
+g2
+S'http://www.reuters.com/article/mnaNewsTechMediaTelco/idUSBOM40860920090112'
+p177
+sg4
+S'20090111\xc2\xa010:25 PM EST'
+p178
+sg6
+S'Satyam shares seen gaining as new board meets'
+p179
+sa(dp180
+g2
+S'http://www.reuters.com/article/rbssAutoTruckManufacturers/idUSSEO9821020090112'
+p181
+sg4
+S'20090111\xc2\xa010:22 PM EST'
+p182
+sg6
+S'Ssangyong Motor union votes for strike -union official'
+p183
+sa(dp184
+g2
+S'http://www.reuters.com/article/rbssInvestmentServices/idUSSEO7595720090112'
+p185
+sg4
+S'20090111\xc2\xa010:15 PM EST'
+p186
+sg6
+S'Seoul shares down; but LG Display, KT advance'
+p187
+sa(dp188
+g2
+S'http://www.reuters.com/article/usDollarRpt/idUSSP41267720090112'
+p189
+sg4
+S'20090111\xc2\xa010:15 PM EST'
+p190
+sg6
+S'GLOBAL MARKETS-Asia stocks dip with no signs to end of slowdown'
+p191
+sa(dp192
+g2
+S'http://www.reuters.com/article/peopleNews/idUSTRE50B0O520090112'
+p193
+sg4
+S'20090111\xc2\xa010:14 PM EST'
+p194
+sg6
+S'Bold and sophisticated looks abound at Golden Globes'
+p195
+sa(dp196
+g2
+S'http://www.reuters.com/article/pressRelease/idUS27425+12-Jan-2009+PRN20090112'
+p197
+sg4
+S'20090111\xc2\xa010:00 PM EST'
+p198
+sg6
+S'Following Is a Test Release'
+p199
+sa(dp200
+g2
+S'http://www.reuters.com/article/internetNews/idUSTRE5040F120090112'
+p201
+sg4
+S'20090111\xc2\xa009:53 PM EST'
+p202
+sg6
+S'China closes 91 websites in online crackdown'
+p203
+sa(dp204
+g2
+S'http://www.reuters.com/article/bondsNews/idUSL914926720090112'
+p205
+sg4
+S'20090111\xc2\xa009:49 PM EST'
+p206
+sg6
+S'CORRECTED - CORRECTED-GLOBAL MARKETS WEEKAHEAD-Rates, earnings and bonds'
+p207
+sa(dp208
+g2
+S'http://www.reuters.com/article/GCA-CreditCrisis/idUSTRE50B0KO20090112'
+p209
+sg4
+S'20090111\xc2\xa009:38 PM EST'
+p210
+sg6
+S'Korean victims of atom bombs in shadows at summit'
+p211
+sa(dp212
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSSEO76033'
+p213
+sg4
+S'20090111\xc2\xa009:33 PM EST'
+p214
+sg6
+S'Korean victims of atom bombs in shadows at summit'
+p215
+sa(dp216
+g2
+S'http://www.reuters.com/article/pressRelease/idUS24952+12-Jan-2009+PRN20090112'
+p217
+sg4
+S'20090111\xc2\xa009:30 PM EST'
+p218
+sg6
+S'Following Is a Test Release'
+p219
+sa(dp220
+g2
+S'http://www.reuters.com/article/pressRelease/idUS24902+12-Jan-2009+PRN20090112'
+p221
+sg4
+S'20090111\xc2\xa009:29 PM EST'
+p222
+sg6
+S'Sparkling Jewelry at the Golden Globes Ends Week of Red Carpet Glamour'
+p223
+sa(dp224
+g2
+S'http://www.reuters.com/article/rbssOilGasRefiningMarketing/idUSBKK41545820090112'
+p225
+sg4
+S'20090111\xc2\xa009:27 PM EST'
+p226
+sg6
+S'Thai stocks expected to open lower, PTT in focus'
+p227
+sa(dp228
+g2
+S'http://www.reuters.com/article/rbssBanks/idUSSYD40646620090112'
+p229
+sg4
+S'20090111\xc2\xa009:26 PM EST'
+p230
+sg6
+S'ANZ sells US$750 mln 5-year govt-backed bonds'
+p231
+sa(dp232
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSHAN408468'
+p233
+sg4
+S'20090111\xc2\xa009:21 PM EST'
+p234
+sg6
+S'PRESS DIGEST - Vietnam newspapers - Jan 12'
+p235
+sa(dp236
+g2
+S'http://www.reuters.com/article/domesticNews/idUSTRE50A1GV20090112'
+p237
+sg4
+S'20090111\xc2\xa009:11 PM EST'
+p238
+sg6
+S'Tweaked "American Idol" returns with new judge'
+p239
+sa(dp240
+g2
+S'http://www.reuters.com/article/pressRelease/idUS23247+12-Jan-2009+PRN20090112'
+p241
+sg4
+S'20090111\xc2\xa009:11 PM EST'
+p242
+sg6
+S'AJC Condemns Synagogue Attacks'
+p243
+sa(dp244
+g2
+S'http://www.reuters.com/article/environmentNews/idUSTRE5070VT20090112'
+p245
+sg4
+S'20090111\xc2\xa009:10 PM EST'
+p246
+sg6
+S'Australia rejects Japan on whaling activists'
+p247
+sa(dp248
+g2
+S'http://www.reuters.com/article/pressRelease/idUS22164+12-Jan-2009+PRN20090112'
+p249
+sg4
+S'20090111\xc2\xa009:00 PM EST'
+p250
+sg6
+S'Following Is a Test Release'
+p251
+sa(dp252
+g2
+S'http://www.reuters.com/article/pressRelease/idUS22125+12-Jan-2009+BW20090112'
+p253
+sg4
+S'20090111\xc2\xa009:00 PM EST'
+p254
+sg6
+S"Research and Markets: Analysis of China's $20 Billion Internet Caf\xc3\xa9 Industry, with an Estimated 185,000 Caf\xc3\xa9s"
+p255
+sa(dp256
+g2
+S'http://www.reuters.com/article/entertainmentNews/idUSTRE50A1ZT20090112'
+p257
+sg4
+S'20090111\xc2\xa008:52 PM EST'
+p258
+sg6
+S'Eastwood wins box office race with "Gran Torino"'
+p259
+sa(dp260
+g2
+S'http://www.reuters.com/article/rbssMiningMetalsSpecialty/idUSSEO3755220090112'
+p261
+sg4
+S'20090111\xc2\xa008:51 PM EST'
+p262
+sg6
+S'FACTBOX-Global iron ore mine expansion/output plans'
+p263
+sa(dp264
+g2
+S'http://www.reuters.com/article/rbssAutoTruckManufacturers/idUSSHA8519920090112'
+p265
+sg4
+S'20090111\xc2\xa008:50 PM EST'
+p266
+sg6
+S'Toyota says China vehicle sales up 17 pct in 2008'
+p267
+sa(dp268
+g2
+S'http://www.reuters.com/article/newsMaps/idUSTRE50A00S20090112'
+p269
+sg4
+S'20090111\xc2\xa008:46 PM EST'
+p270
+sg6
+S'Costa Rican rescuers menaced by mudslides after quake'
+p271
+sa(dp272
+g2
+S'http://www.reuters.com/article/homepageCrisis/idUSN11279790._CH_.2400'
+p273
+sg4
+S'20090111\xc2\xa008:45 PM EST'
+p274
+sg6
+S'Costa Rican rescuers menaced by mudslides after quake'
+p275
+sa(dp276
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSN11279790'
+p277
+sg4
+S'20090111\xc2\xa008:45 PM EST'
+p278
+sg6
+S'Costa Rican rescuers menaced by mudslides after quake'
+p279
+sa(dp280
+g2
+S'http://www.reuters.com/article/rbssElectricalComponentsEquipment/idUSN1129044620090112'
+p281
+sg4
+S'20090111\xc2\xa008:41 PM EST'
+p282
+sg6
+S'AUTOSHOW-BYD says open to licensing car batteries'
+p283
+sa(dp284
+g2
+S'http://www.reuters.com/article/rbssMediaDiversified/idUSN1128509820090112'
+p285
+sg4
+S'20090111\xc2\xa008:40 PM EST'
+p286
+sg6
+S"CORRECTED - UPDATE 1-Eastwood wins box office race with 'Gran Torino'"
+p287
+sa(dp288
+g2
+S'http://www.reuters.com/article/GCA-CreditCrisis/idUSTRE50B0EG20090112'
+p289
+sg4
+S'20090111\xc2\xa008:40 PM EST'
+p290
+sg6
+S'Financial crisis sees London office rents tumble'
+p291
+sa(dp292
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSJAK418689'
+p293
+sg4
+S'20090111\xc2\xa008:40 PM EST'
+p294
+sg6
+S'More than 200 missing after Indonesia ferry sinks'
+p295
+sa(dp296
+g2
+S'http://www.reuters.com/article/americasRegulatoryNews/idUSN1128663820090112'
+p297
+sg4
+S'20090111\xc2\xa008:36 PM EST'
+p298
+sg6
+S'WRAPUP 3-Obama weighs decision about bailout funds'
+p299
+sa(dp300
+g2
+S'http://www.reuters.com/article/reutersEdge/idUSTRE50A1I520090112'
+p301
+sg4
+S'20090111\xc2\xa008:36 PM EST'
+p302
+sg6
+S'Victory elusive for both Israel and Hamas'
+p303
+sa(dp304
+g2
+S'http://www.reuters.com/article/rbssRealEstateOperations/idUSBKK25360320090112'
+p305
+sg4
+S'20090111\xc2\xa008:33 PM EST'
+p306
+sg6
+S'PRESS DIGEST - Thai newspapers - Jan 12'
+p307
+sa(dp308
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSSYD357192'
+p309
+sg4
+S'20090111\xc2\xa008:32 PM EST'
+p310
+sg6
+S'CORRECTED-Australia rejects Japan on whaling activist block'
+p311
+sa(dp312
+g2
+S'http://www.reuters.com/article/pressRelease/idUS19138+12-Jan-2009+PRN20090112'
+p313
+sg4
+S'20090111\xc2\xa008:30 PM EST'
+p314
+sg6
+S'Following Is a Test Release'
+p315
+sa(dp316
+g2
+S'http://www.reuters.com/article/newsMaps/idUSTRE50B0BS20090112'
+p317
+sg4
+S'20090111\xc2\xa008:29 PM EST'
+p318
+sg6
+S'FACTBOX: Key issues between Japan, South Korea'
+p319
+sa(dp320
+g2
+S'http://www.reuters.com/article/americasIpoNews/idUSN1129237820090112'
+p321
+sg4
+S'20090111\xc2\xa008:27 PM EST'
+p322
+sg6
+S'U.S. safety group calls for cellphone driving ban'
+p323
+sa(dp324
+g2
+S'http://www.reuters.com/article/pressRelease/idUS18597+12-Jan-2009+PRN20090112'
+p325
+sg4
+S'20090111\xc2\xa008:24 PM EST'
+p326
+sg6
+S"Havoc TV Goes 'Live' With Volvo at Detroit Auto Show:"
+p327
+sa(dp328
+g2
+S'http://www.reuters.com/article/rbssOfficeEquipment/idUSSP41933020090112'
+p329
+sg4
+S'20090111\xc2\xa008:24 PM EST'
+p330
+sg6
+S'FACTBOX-Key issues between Japan, South Korea'
+p331
+sa(dp332
+g2
+S'http://www.reuters.com/article/rbssInvestmentServices/idUSHKG9844220090112'
+p333
+sg4
+S'20090111\xc2\xa008:21 PM EST'
+p334
+sg6
+S'HK shares seen down on US jobs; China Eastern eyed'
+p335
+sa(dp336
+g2
+S'http://www.reuters.com/article/pressRelease/idUS18146+12-Jan-2009+BW20090112'
+p337
+sg4
+S'20090111\xc2\xa008:20 PM EST'
+p338
+sg6
+S'Equity One Acquires Additional Stake in DIM Vastgoed N.V.'
+p339
+sa(dp340
+g2
+S'http://www.reuters.com/article/asiaDealsNews/idUSTRE50B0AJ20090112'
+p341
+sg4
+S'20090111\xc2\xa008:18 PM EST'
+p342
+sg6
+S'PCCW shareholders to meet again over buyout offer'
+p343
+sa(dp344
+g2
+S'http://www.reuters.com/article/rbssInvestmentServices/idUSSHA3140720090112'
+p345
+sg4
+S'20090111\xc2\xa008:17 PM EST'
+p346
+sg6
+S'CITIC Securities to strengthen loss provisions'
+p347
+sa(dp348
+g2
+S'http://www.reuters.com/article/politicsNews/idUSTRE50A1SP20090112'
+p349
+sg4
+S'20090111\xc2\xa008:11 PM EST'
+p350
+sg6
+S"Obama's SEC pick could face bumpy ride over Madoff"
+p351
+sa(dp352
+g2
+S'http://www.reuters.com/article/pressRelease/idUS16996+12-Jan-2009+PRN20090112'
+p353
+sg4
+S'20090111\xc2\xa008:07 PM EST'
+p354
+sg6
+S"MTV and ServiceNation's 'Be The Change: Live From The Inaugural' To Celebrate Young..."
+p355
+sa(dp356
+g2
+S'http://www.reuters.com/article/rbssMiningMetalsSpecialty/idUSSYU00581320090112'
+p357
+sg4
+S'20090111\xc2\xa008:04 PM EST'
+p358
+sg6
+S'Rio Tinto shelves Corumba iron ore expansion'
+p359
+sa(dp360
+g2
+S'http://www.reuters.com/article/pressRelease/idUS16668+12-Jan-2009+PRN20090112'
+p361
+sg4
+S'20090111\xc2\xa008:03 PM EST'
+p362
+sg6
+S'Longtop Signs Agreement to Acquire Jactus Labs and Announces it will Exceed Previous...'
+p363
+sa(dp364
+g2
+S'http://www.reuters.com/article/lifestyleMolt/idUSTRE50B07X20090112'
+p365
+sg4
+S'20090111\xc2\xa008:02 PM EST'
+p366
+sg6
+S'Overeating in the genes for some kids, study says'
+p367
+sa(dp368
+g2
+S'http://www.reuters.com/article/rbssIntegratedTelecommunicationsServices/idUSHKG8451220090112'
+p369
+sg4
+S'20090111\xc2\xa008:01 PM EST'
+p370
+sg6
+S'PCCW shareholders to meet again over buyout offer'
+p371
+sa(dp372
+g2
+S'http://www.reuters.com/article/pressRelease/idUS16357+12-Jan-2009+PRN20090112'
+p373
+sg4
+S'20090111\xc2\xa008:00 PM EST'
+p374
+sg6
+S'Following Is a Test Release'
+p375
+sa(dp376
+g2
+S'http://www.reuters.com/article/pressRelease/idUS16311+12-Jan-2009+BW20090112'
+p377
+sg4
+S'20090111\xc2\xa008:00 PM EST'
+p378
+sg6
+S'De Montfort University Rated Highly in Latest Research Assessment Exercise'
+p379
+sa(dp380
+g2
+S'http://www.reuters.com/article/pressRelease/idUS16306+12-Jan-2009+BW20090112'
+p381
+sg4
+S'20090111\xc2\xa008:00 PM EST'
+p382
+sg6
+S'Research and Markets: Review of the Regulatory Process for the Approval of Video Games and Hardware in China'
+p383
+sa(dp384
+g2
+S'http://www.reuters.com/article/pressRelease/idUS16315+12-Jan-2009+BW20090112'
+p385
+sg4
+S'20090111\xc2\xa008:00 PM EST'
+p386
+sg6
+S'Alnylam Provides Key Goals and Guidance for 2009'
+p387
+sa(dp388
+g2
+S'http://www.reuters.com/article/pressRelease/idUS16313+12-Jan-2009+BW20090112'
+p389
+sg4
+S'20090111\xc2\xa008:00 PM EST'
+p390
+sg6
+S'De Montfort University -Climate Change Project Scoops Top Green Award'
+p391
+sa(dp392
+g2
+S'http://www.reuters.com/article/CARMFG/idUSN1127769220090112'
+p393
+sg4
+S'20090111\xc2\xa007:56 PM EST'
+p394
+sg6
+S"AUTOSHOW-WRAPUP 2-Ring in the new year? The party's over"
+p395
+sa(dp396
+g2
+S'http://www.reuters.com/article/privateEquityConsumerGoodsAndRetail/idUSN1127395220090112'
+p397
+sg4
+S'20090111\xc2\xa007:56 PM EST'
+p398
+sg6
+S'AUTOSHOW-Push to sell Volvo, Saab units moves ahead'
+p399
+sa(dp400
+g2
+S'http://www.reuters.com/article/rbssSteel/idUSSEO3827120090112'
+p401
+sg4
+S'20090111\xc2\xa007:54 PM EST'
+p402
+sg6
+S'POSCO says in talks to supply Toyota with steel'
+p403
+sa(dp404
+g2
+S'http://www.reuters.com/article/rbssRetailSpecialty/idUSLC73246420090112'
+p405
+sg4
+S'20090111\xc2\xa007:50 PM EST'
+p406
+sg6
+S"Waterstone's to lay off 200 staff - report"
+p407
+sa(dp408
+g2
+S'http://www.reuters.com/article/rbssIndustryMaterialsUtilitiesNews/idUSPEK17605020090112'
+p409
+sg4
+S'20090111\xc2\xa007:50 PM EST'
+p410
+sg6
+S'UPDATE 1-LG Display signs LCD supply deal with Apple'
+p411
+sa(dp412
+g2
+S'http://www.reuters.com/article/rbssITServicesConsulting/idUSSP41779320090112'
+p413
+sg4
+S'20090111\xc2\xa007:49 PM EST'
+p414
+sg6
+S'PRESS DIGEST - Singapore newspapers - Jan 12'
+p415
+sa(dp416
+g2
+S'http://www.reuters.com/article/rbssOilGasRefiningMarketing/idUSMAN41783920090112'
+p417
+sg4
+S'20090111\xc2\xa007:43 PM EST'
+p418
+sg6
+S'PRESS DIGEST - Philippine newspapers - Jan 12'
+p419
+sa(dp420
+g2
+S'http://www.reuters.com/article/rbssAutoTruckMotorcycleParts/idUSN1126988420090112'
+p421
+sg4
+S'20090111\xc2\xa007:42 PM EST'
+p422
+sg6
+S'AUTOSHOW-Ford Canada not looking to draw credit line'
+p423
+sa(dp424
+g2
+S'http://www.reuters.com/article/rbssInsuranceMultiline/idUSN1130300720090112'
+p425
+sg4
+S'20090111\xc2\xa007:37 PM EST'
+p426
+sg6
+S'Sen. Levin seeks Citigroup pact with US Treasury'
+p427
+sa(dp428
+g2
+S'http://www.reuters.com/article/sportsNews/idUSTRE50B04N20090112'
+p429
+sg4
+S'20090111\xc2\xa007:35 PM EST'
+p430
+sg6
+S"Braves reach agreement with Japan's Kawakami: report"
+p431
+sa(dp432
+g2
+S'http://www.reuters.com/article/middleeastCrisis/idUSLC621368'
+p433
+sg4
+S'20090111\xc2\xa007:34 PM EST'
+p434
+sg6
+S'Israel sends army reservists into Gaza battle'
+p435
+sa(dp436
+g2
+S'http://www.reuters.com/article/rbssMiningMetalsSpecialty/idUSHKG30895820090112'
+p437
+sg4
+S'20090111\xc2\xa007:33 PM EST'
+p438
+sg6
+S'China Shenhua eyes Rio coal unit stake - report'
+p439
+sa(dp440
+g2
+S'http://www.reuters.com/article/rbssChemicalsCommodity/idUSN1144476620090112'
+p441
+sg4
+S'20090111\xc2\xa007:33 PM EST'
+p442
+sg6
+S'AUTOSHOW-GM to name LG Chem for Volt battery -source'
+p443
+sa(dp444
+g2
+S'http://www.reuters.com/article/rbssEngineeringConstruction/idUSKLR39356920090112'
+p445
+sg4
+S'20090111\xc2\xa007:30 PM EST'
+p446
+sg6
+S'PRESS DIGEST - Malaysia - Jan 12'
+p447
+sa(dp448
+g2
+S'http://www.reuters.com/article/pressRelease/idUS12973+12-Jan-2009+PRN20090112'
+p449
+sg4
+S'20090111\xc2\xa007:30 PM EST'
+p450
+sg6
+S'Following Is a Test Release'
+p451
+sa(dp452
+g2
+S'http://www.reuters.com/article/rbssAutoTruckManufacturers/idUSKLR37113820090112'
+p453
+sg4
+S'20090111\xc2\xa007:28 PM EST'
+p454
+sg6
+S'Malaysian shares set to fall on Wall St'
+p455
+sa(dp456
+g2
+S'http://www.reuters.com/article/rbssTechMediaTelecomNews/idUSLB10605920090112'
+p457
+sg4
+S'20090111\xc2\xa007:27 PM EST'
+p458
+sg6
+S'Balderton Capital raises $430 mln - FT'
+p459
+sa(dp460
+g2
+S'http://www.reuters.com/article/reutersINCOnlineReport/idUSTRE50B02Y20090112'
+p461
+sg4
+S'20090111\xc2\xa007:23 PM EST'
+p462
+sg6
+S'FACTBOX: Obama has new priorities for financial rescue'
+p463
+sa(dp464
+g2
+S'http://www.reuters.com/article/latestCrisis/idUST82876'
+p465
+sg4
+S'20090111\xc2\xa007:22 PM EST'
+p466
+sg6
+S'Japan, South Korea leaders talk economic ties'
+p467
+sa(dp468
+g2
+S'http://www.reuters.com/article/rbssIndustryMaterialsUtilitiesNews/idUSSP41717720090112'
+p469
+sg4
+S'20090111\xc2\xa007:21 PM EST'
+p470
+sg6
+S'Singapore Hot Stocks-Keppel in focus after contract cancelled'
+p471
+sa(dp472
+g2
+S'http://www.reuters.com/article/sportsNews/idUSTRE50A2OS20090112'
+p473
+sg4
+S'20090111\xc2\xa007:21 PM EST'
+p474
+sg6
+S'Eagles upset Giants 23-11 to reach NFC final'
+p475
+sa(dp476
+g2
+S'http://www.reuters.com/article/sportsNews/idUSTRE50B02620090112'
+p477
+sg4
+S'20090111\xc2\xa007:21 PM EST'
+p478
+sg6
+S'Giants lament missed opportunities in Eagles defeat'
+p479
+sa(dp480
+g2
+S'http://www.reuters.com/article/bondsNews/idUSKLR41729520090112'
+p481
+sg4
+S'20090111\xc2\xa007:20 PM EST'
+p482
+sg6
+S"Malaysia's Proton may sell stake to foreign company"
+p483
+sa(dp484
+g2
+S'http://www.reuters.com/article/economicNews/idUSN1128870020090112'
+p485
+sg4
+S'20090111\xc2\xa007:11 PM EST'
+p486
+sg6
+S'AUTOSHOW-UPDATE 1-AutoNation cuts new vehicle orders by 60 pct'
+p487
+sa(dp488
+g2
+S'http://www.reuters.com/article/rbssInvestmentServices/idUSSEO8372120090112'
+p489
+sg4
+S'20090111\xc2\xa007:09 PM EST'
+p490
+sg6
+S'Seoul shares open lower; but LG Display up'
+p491
+sa(dp492
+g2
+S'http://www.reuters.com/article/americasRegulatoryNews/idUSN1129091120090112'
+p493
+sg4
+S'20090111\xc2\xa007:09 PM EST'
+p494
+sg6
+S'FACTBOX-Obama has new priorities for financial rescue'
+p495
+sa(dp496
+g2
+S'http://www.reuters.com/article/companyNewsAndPR/idUSN1128707020090112'
+p497
+sg4
+S'20090111\xc2\xa007:09 PM EST'
+p498
+sg6
+S"AUTOSHOW-UPDATE 1-Honda says credit conditions haven't improved"
+p499
+sa(dp500
+g2
+S'http://www.reuters.com/article/innovationNewsConsumerGoodsAndRetail/idUSN1126673020090112'
+p501
+sg4
+S'20090111\xc2\xa007:09 PM EST'
+p502
+sg6
+S'GM in talks over possible Saab sale: executive'
+p503
+sa(dp504
+g2
+S'http://www.reuters.com/article/euPrivateEquityNews/idUSTRE50B00O20090112'
+p505
+sg4
+S'20090111\xc2\xa007:08 PM EST'
+p506
+sg6
+S'KPMG sees M&A; "nadir" in mid-2009'
+p507
+sa(dp508
+g2
+S'http://www.reuters.com/article/euMergersNews/idUSL94523320090112'
+p509
+sg4
+S'20090111\xc2\xa007:01 PM EST'
+p510
+sg6
+S'KPMG sees M&A; "nadir" in mid-2009'
+p511
+sa(dp512
+g2
+S'http://www.reuters.com/article/pressRelease/idUS10142+12-Jan-2009+PRN20090112'
+p513
+sg4
+S'20090111\xc2\xa007:01 PM EST'
+p514
+sg6
+S'Jaguar Reveals New XFR and XKR at 2009 North American International Auto Show'
+p515
+sa(dp516
+g2
+S'http://www.reuters.com/article/pressRelease/idUS10023+12-Jan-2009+PRN20090112'
+p517
+sg4
+S'20090111\xc2\xa007:00 PM EST'
+p518
+sg6
+S'Following Is a Test Release'
+p519
+sa(dp520
+g2
+S'http://www.reuters.com/article/sportsNews/idUSTRE50A2OS20090111'
+p521
+sg4
+S'20090111\xc2\xa006:58 PM EST'
+p522
+sg6
+S'Eagles upset Giants 23-11 to reach NFC final'
+p523
+sa(dp524
+g2
+S'http://www.reuters.com/article/companyNewsAndPR/idUSSYD42369520090111'
+p525
+sg4
+S'20090111\xc2\xa006:55 PM EST'
+p526
+sg6
+S'Australia cenbank gets no bids in US$ repo tender'
+p527
+sa(dp528
+g2
+S'http://www.reuters.com/article/topNews/idUSTRE50A2VM20090111'
+p529
+sg4
+S'20090111\xc2\xa006:50 PM EST'
+p530
+sg6
+S"Ring in the new year? The party's over for automakers"
+p531
+sa(dp532
+g2
+S'http://www.reuters.com/article/rbssElectricalComponentsEquipment/idUSSEL00043220090111'
+p533
+sg4
+S'20090111\xc2\xa006:50 PM EST'
+p534
+sg6
+S'LG Display says signed LCD supply deal with Apple'
+p535
+sa(dp536
+g2
+S'http://www.reuters.com/article/filmNews/idUSTRE50A36120090111'
+p537
+sg4
+S'20090111\xc2\xa006:48 PM EST'
+p538
+sg6
+S"Kristin Scott Thomas to play Lennon's Aunt Mimi"
+p539
+sa(dp540
+g2
+S'http://www.reuters.com/article/rbssConsumerElectronics/idUSSEO8018420090111'
+p541
+sg4
+S'20090111\xc2\xa006:47 PM EST'
+p542
+sg6
+S'Seoul shares seen lower after U.S. fall, job data'
+p543
+sa(dp544
+g2
+S'http://www.reuters.com/article/rbssUtilitiesElectric/idUSSYU00581120090111'
+p545
+sg4
+S'20090111\xc2\xa006:46 PM EST'
+p546
+sg6
+S'TEXT-Babcock & Brown Power sells some power assets'
+p547
+sa(dp548
+g2
+S'http://www.reuters.com/article/domesticNews/idUSTRE50701M20090111'
+p549
+sg4
+S'20090111\xc2\xa006:44 PM EST'
+p550
+sg6
+S'Obama weighs decision about bailout funds'
+p551
+sa(dp552
+g2
+S'http://www.reuters.com/article/domesticNews/idUSTRE50A35B20090111'
+p553
+sg4
+S'20090111\xc2\xa006:44 PM EST'
+p554
+sg6
+S'FACTBOX: Where has the bailout money gone?'
+p555
+sa(dp556
+g2
+S'http://www.reuters.com/article/rbssUtilitiesElectric/idUSSYU00581020090111'
+p557
+sg4
+S'20090111\xc2\xa006:43 PM EST'
+p558
+sg6
+S'TEXT-Babcock & Brown Power sells some power assets'
+p559
+sa(dp560
+g2
+S'http://www.reuters.com/article/politicsNews/idUSTRE50A18K20090111'
+p561
+sg4
+S'20090111\xc2\xa006:42 PM EST'
+p562
+sg6
+S'Senate Democrats see changes in stimulus plan'
+p563
+sa(dp564
+g2
+S'http://www.reuters.com/article/rbssBanks/idUSN1752684920090111'
+p565
+sg4
+S'20090111\xc2\xa006:41 PM EST'
+p566
+sg6
+S'FACTBOX-Where has the U.S. bailout money gone?'
+p567
+sa(dp568
+g2
+S'http://www.reuters.com/article/americasIpoNews/idUSN1128913220090111'
+p569
+sg4
+S'20090111\xc2\xa006:38 PM EST'
+p570
+sg6
+S'UPDATE 1-US Senate Democrats see changes in stimulus plan'
+p571
+sa(dp572
+g2
+S'http://www.reuters.com/article/ousivMolt/idUSTRE50A34120090111'
+p573
+sg4
+S'20090111\xc2\xa006:36 PM EST'
+p574
+sg6
+S'Daimler CEO admits was too optimistic for 2008'
+p575
+sa(dp576
+g2
+S'http://www.reuters.com/article/ousivMolt/idUSTRE50A33I20090111'
+p577
+sg4
+S'20090111\xc2\xa006:36 PM EST'
+p578
+sg6
+S'GM in talks over possible Saab sale: executive'
+p579
+sa(dp580
+g2
+S'http://www.reuters.com/article/ousivMolt/idUSTRE50A1T920090111'
+p581
+sg4
+S'20090111\xc2\xa006:34 PM EST'
+p582
+sg6
+S'GM says could seek further U.S. loans'
+p583
+sa(dp584
+g2
+S'http://www.reuters.com/article/pressRelease/idUS103116+11-Jan-2009+BW20090111'
+p585
+sg4
+S'20090111\xc2\xa006:34 PM EST'
+p586
+sg6
+S'Micron Technology begr\xc3\xbc\xc3\x9ft Entscheidung des Gerichts, dass Rambus` Patente nicht einklagbar sind'
+p587
+sa(dp588
+g2
+S'http://www.reuters.com/article/pressRelease/idUS103117+11-Jan-2009+BW20090111'
+p589
+sg4
+S'20090111\xc2\xa006:34 PM EST'
+p590
+sg6
+S'Micron Technology plaude alla decisione emessa dal tribunale con la quale i brevetti di Rambus vengono giudicati inapplicabili'
+p591
+sa(dp592
+g2
+S'http://www.reuters.com/article/mnaNewsConsumerGoodsAndRetail/idUSSEO8471620090111'
+p593
+sg4
+S'20090111\xc2\xa006:32 PM EST'
+p594
+sg6
+S'South Korea urges SAIC to revive Ssangyong'
+p595
+sa(dp596
+g2
+S'http://www.reuters.com/article/ousivMolt/idUSN1126673020090111'
+p597
+sg4
+S'20090111\xc2\xa006:32 PM EST'
+p598
+sg6
+S'GM in talks over possible Saab sale: executive'
+p599
+sa(dp600
+g2
+S'http://www.reuters.com/article/newsMaps/idUSTRE50A1W720090111'
+p601
+sg4
+S'20090111\xc2\xa006:30 PM EST'
+p602
+sg6
+S'Vatican peace envoy Cardinal Pio Laghi dies'
+p603
+sa(dp604
+g2
+S'http://www.reuters.com/article/pressRelease/idUS102843+11-Jan-2009+PRN20090111'
+p605
+sg4
+S'20090111\xc2\xa006:30 PM EST'
+p606
+sg6
+S'Following Is a Test Release'
+p607
+sa(dp608
+g2
+S'http://www.reuters.com/article/worldNews/idUSTRE50A00S20090111'
+p609
+sg4
+S'20090111\xc2\xa006:27 PM EST'
+p610
+sg6
+S'Costa Rica rescuers menaced by mudslides after quake'
+p611
+sa(dp612
+g2
+S'http://www.reuters.com/article/pressRelease/idUS102665+11-Jan-2009+BW20090111'
+p613
+sg4
+S'20090111\xc2\xa006:27 PM EST'
+p614
+sg6
+S'AHF: Just Say "No!" to Flynt`s Porn Industry Bailout Request'
+p615
+sa(dp616
+g2
+S'http://www.reuters.com/article/newsMaps/idUSTRE50A31Y20090111'
+p617
+sg4
+S'20090111\xc2\xa006:22 PM EST'
+p618
+sg6
+S'Storm-hit Fiji declares state of emergency'
+p619
+sa(dp620
+g2
+S'http://www.reuters.com/article/rbssPreciousMetalsMinerals/idUSSYD41211620090111'
+p621
+sg4
+S'20090111\xc2\xa006:17 PM EST'
+p622
+sg6
+S'UPDATE 1-OZ Minerals still awaits bridging loan approval'
+p623
+sa(dp624
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSN11284750'
+p625
+sg4
+S'20090111\xc2\xa006:15 PM EST'
+p626
+sg6
+S'Ford plans small electric car in 2011'
+p627
+sa(dp628
+g2
+S'http://www.reuters.com/article/privateEquity/idUSN1128475020090111'
+p629
+sg4
+S'20090111\xc2\xa006:15 PM EST'
+p630
+sg6
+S'AUTOSHOW-UPDATE 2-Ford plans small electric car in 2011'
+p631
+sa(dp632
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSSYD382867'
+p633
+sg4
+S'20090111\xc2\xa006:15 PM EST'
+p634
+sg6
+S'Storm-hit Fiji declares state of emergency'
+p635
+sa(dp636
+g2
+S'http://www.reuters.com/article/newsOne/idUSTRE5053R720090111'
+p637
+sg4
+S'20090111\xc2\xa006:13 PM EST'
+p638
+sg6
+S'Israel throws reservists into Gaza battles'
+p639
+sa(dp640
+g2
+S'http://www.reuters.com/article/businessNews/idUSTRE50A30T20090111'
+p641
+sg4
+S'20090111\xc2\xa006:11 PM EST'
+p642
+sg6
+S'German automakers see opportunity in U.S.'
+p643
+sa(dp644
+g2
+S'http://www.reuters.com/article/rbssIntegratedTelecommunicationsServices/idUSWLF00122620090111'
+p645
+sg4
+S'20090111\xc2\xa006:09 PM EST'
+p646
+sg6
+S"TEXT-NZ's Telecom to close online shopping operation"
+p647
+sa(dp648
+g2
+S'http://www.reuters.com/article/worldNews/idUSTRE50A0WS20090111'
+p649
+sg4
+S'20090111\xc2\xa006:08 PM EST'
+p650
+sg6
+S'Indonesian ferry carrying 250 passengers sinks'
+p651
+sa(dp652
+g2
+S'http://www.reuters.com/article/privateEquityConsumerGoodsAndRetail/idUSN1127252420090111'
+p653
+sg4
+S'20090111\xc2\xa006:08 PM EST'
+p654
+sg6
+S'AUTOSHOW-German automakers see opportunity in U.S.'
+p655
+sa(dp656
+g2
+S'http://www.reuters.com/article/pressRelease/idUS101344+11-Jan-2009+BW20090111'
+p657
+sg4
+S'20090111\xc2\xa006:07 PM EST'
+p658
+sg6
+S'Bruker AXS stellt auf ARABLAB 2009 das Gold- und Schmuck-Analyseger\xc3\xa4t M1 MISTRAL vor'
+p659
+sa(dp660
+g2
+S'http://www.reuters.com/article/rbssFinancialServicesAndRealEstateNews/idUSSYD32749720090111'
+p661
+sg4
+S'20090111\xc2\xa006:04 PM EST'
+p662
+sg6
+S'Babcock & Brown still awaits response from bankers'
+p663
+sa(dp664
+g2
+S'http://www.reuters.com/article/domesticNews/idUSTRE50A2ZM20090111'
+p665
+sg4
+S'20090111\xc2\xa006:01 PM EST'
+p666
+sg6
+S'Cheap is chic in recession, NRF chief says'
+p667
+sa(dp668
+g2
+S'http://www.reuters.com/article/pressRelease/idUS100926+11-Jan-2009+BW20090111'
+p669
+sg4
+S'20090111\xc2\xa006:01 PM EST'
+p670
+sg6
+S'Blake Lively Wears NINA RICCI'
+p671
+sa(dp672
+g2
+S'http://www.reuters.com/article/domesticNews/idUSTRE50A2G520090111'
+p673
+sg4
+S'20090111\xc2\xa006:00 PM EST'
+p674
+sg6
+S'Bush says his dad a "nut" to plan another sky-dive'
+p675
+sa(dp676
+g2
+S'http://www.reuters.com/article/economicNews/idUSN0929773020090111'
+p677
+sg4
+S'20090111\xc2\xa006:00 PM EST'
+p678
+sg6
+S'US Nov machine tool demand off from Oct, year ago'
+p679
+sa(dp680
+g2
+S'http://www.reuters.com/article/pressRelease/idUS100844+11-Jan-2009+PRN20090111'
+p681
+sg4
+S'20090111\xc2\xa006:00 PM EST'
+p682
+sg6
+S'Following Is a Test Release'
+p683
+sa(dp684
+g2
+S'http://www.reuters.com/article/pressRelease/idUS100818+11-Jan-2009+BW20090111'
+p685
+sg4
+S'20090111\xc2\xa006:00 PM EST'
+p686
+sg6
+S'Darby Infrastructure Fund Invests in Korea`s Largest Wind Farm'
+p687
+sa(dp688
+g2
+S'http://www.reuters.com/article/globalMarketsNews/idUSTRE50A2ZG20090111'
+p689
+sg4
+S'20090111\xc2\xa005:54 PM EST'
+p690
+sg6
+S'Yen buoyed by risk reversal, euro on defensive'
+p691
+sa(dp692
+g2
+S'http://www.reuters.com/article/rbssRetailDepartmentStores/idUSN1110303520090111'
+p693
+sg4
+S'20090111\xc2\xa005:54 PM EST'
+p694
+sg6
+S'Cheap is chic in U.S. recession, NRF chief says'
+p695
+sa(dp696
+g2
+S'http://www.reuters.com/article/GCA-Economy/idUSTRE50A2YN20090111'
+p697
+sg4
+S'20090111\xc2\xa005:49 PM EST'
+p698
+sg6
+S'U.S. retailers lose ground to rivals abroad: Deloitte'
+p699
+sa(dp700
+g2
+S'http://www.reuters.com/article/usDollarRpt/idUSSYD22764220090111'
+p701
+sg4
+S'20090111\xc2\xa005:48 PM EST'
+p702
+sg6
+S'FOREX-Yen buoyed by risk reversal, euro on defensive'
+p703
+sa(dp704
+g2
+S'http://www.reuters.com/article/politicsNews/idUSTRE50A1QB20090111'
+p705
+sg4
+S'20090111\xc2\xa005:45 PM EST'
+p706
+sg6
+S"Obama and Mexico's Calderon to talk drug war, trade"
+p707
+sa(dp708
+g2
+S'http://www.reuters.com/article/CHMMFG/idUSN1126879020090111'
+p709
+sg4
+S'20090111\xc2\xa005:43 PM EST'
+p710
+sg6
+S'UPDATE 1-Tronox set to file for Chap 11 bankruptcy - source'
+p711
+sa(dp712
+g2
+S'http://www.reuters.com/article/reutersINCOnlineReport/idUSTRE50924T20090111'
+p713
+sg4
+S'20090111\xc2\xa005:43 PM EST'
+p714
+sg6
+S"Canada to be Obama's 1st foreign trip as president"
+p715
+sa(dp716
+g2
+S'http://www.reuters.com/article/reutersINCOnlineReport/idUSTRE5076AG20090111'
+p717
+sg4
+S'20090111\xc2\xa005:43 PM EST'
+p718
+sg6
+S'FACTBOX: Details of possible economic stimulus bill'
+p719
+sa(dp720
+g2
+S'http://www.reuters.com/article/GCA-Oil/idUSTRE5062Q520090111'
+p721
+sg4
+S'20090111\xc2\xa005:41 PM EST'
+p722
+sg6
+S'Russia-Ukraine deal on gas for Europe hits trouble'
+p723
+sa(dp724
+g2
+S'http://www.reuters.com/article/GCA-Oil/idUSTRE50A2XK20090111'
+p725
+sg4
+S'20090111\xc2\xa005:41 PM EST'
+p726
+sg6
+S'Q+A: What next in Russia-Ukraine gas dispute?'
+p727
+sa(dp728
+g2
+S'http://www.reuters.com/article/sportsNews/idUSTRE50A2JI20090111'
+p729
+sg4
+S'20090111\xc2\xa005:38 PM EST'
+p730
+sg6
+S"Allen's 36 points help Celtics end slide"
+p731
+sa(dp732
+g2
+S'http://www.reuters.com/article/rbssRetailSpecialty/idUSN1128332520090111'
+p733
+sg4
+S'20090111\xc2\xa005:36 PM EST'
+p734
+sg6
+S'US retailers lose ground to rivals abroad-Deloitte'
+p735
+sa(dp736
+g2
+S'http://www.reuters.com/article/governmentFilingsNews/idUSN1128663820090111'
+p737
+sg4
+S'20090111\xc2\xa005:35 PM EST'
+p738
+sg6
+S'WRAPUP 2-Obama weighs decision about bailout funds'
+p739
+sa(dp740
+g2
+S'http://www.reuters.com/article/OILPRD/idUSLB6737120090111'
+p741
+sg4
+S'20090111\xc2\xa005:35 PM EST'
+p742
+sg6
+S'Q+A-What next in Russia-Ukraine gas dispute?'
+p743
+sa(dp744
+g2
+S'http://www.reuters.com/article/newsMaps/idUSTRE50A2VW20090111'
+p745
+sg4
+S'20090111\xc2\xa005:33 PM EST'
+p746
+sg6
+S'Lebanon U.N. force finds explosives outside base'
+p747
+sa(dp748
+g2
+S'http://www.reuters.com/article/pressRelease/idUS98839+11-Jan-2009+PRN20090111'
+p749
+sg4
+S'20090111\xc2\xa005:30 PM EST'
+p750
+sg6
+S'Following Is a Test Release'
+p751
+sa(dp752
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSLB172453'
+p753
+sg4
+S'20090111\xc2\xa005:28 PM EST'
+p754
+sg6
+S'Lebanon UN force finds explosives outside base'
+p755
+sa(dp756
+g2
+S'http://www.reuters.com/article/CARMFG/idUSN1127769220090111'
+p757
+sg4
+S'20090111\xc2\xa005:23 PM EST'
+p758
+sg6
+S"RPT-AUTOSHOW-WRAPUP 1-Ring in the new year? The party's over"
+p759
+sa(dp760
+g2
+S'http://www.reuters.com/article/pressRelease/idUS98465+11-Jan-2009+MW20090111'
+p761
+sg4
+S'20090111\xc2\xa005:21 PM EST'
+p762
+sg6
+S' Nearly 10,000 Supporters Gather Together on 42nd St. With UJA-Federation of New York and the Jewish Community Relations'
+p763
+sa(dp764
+g2
+S'http://www.reuters.com/article/rbssAutoTruckManufacturers/idUSN1126439320090111'
+p765
+sg4
+S'20090111\xc2\xa005:20 PM EST'
+p766
+sg6
+S'AUTOSHOW-Mini convertible potential seen longer-term'
+p767
+sa(dp768
+g2
+S'http://www.reuters.com/article/domesticNews/idUSTRE50A2P620090111'
+p769
+sg4
+S'20090111\xc2\xa005:16 PM EST'
+p770
+sg6
+S'Auto workers protest Bush concession targets'
+p771
+sa(dp772
+g2
+S'http://www.reuters.com/article/ousivMolt/idUSN1128340320090111'
+p773
+sg4
+S'20090111\xc2\xa005:13 PM EST'
+p774
+sg6
+S'Automakers roll out electric and hybrid hopes'
+p775
+sa(dp776
+g2
+S'http://www.reuters.com/article/ousivMolt/idUSTRE50A22820090111'
+p777
+sg4
+S'20090111\xc2\xa005:13 PM EST'
+p778
+sg6
+S'GM says Chevy Volt still on track for 2010 launch'
+p779
+sa(dp780
+g2
+S'http://www.reuters.com/article/ousivMolt/idUSTRE50A22720090111'
+p781
+sg4
+S'20090111\xc2\xa005:13 PM EST'
+p782
+sg6
+S'New Lexus hybrid to go on sale this summer'
+p783
+sa(dp784
+g2
+S'http://www.reuters.com/article/ousivMolt/idUSTRE50A1LM20090111'
+p785
+sg4
+S'20090111\xc2\xa005:13 PM EST'
+p786
+sg6
+S'Toyota to launch pure electric car in U.S. by 2012'
+p787
+sa(dp788
+g2
+S'http://www.reuters.com/article/ousivMolt/idUSTRE50A1JC20090111'
+p789
+sg4
+S'20090111\xc2\xa005:13 PM EST'
+p790
+sg6
+S'Honda to launch Insight hybrid in Japan in February'
+p791
+sa(dp792
+g2
+S'http://www.reuters.com/article/businessNews/idUSTRE50A2RF20090111'
+p793
+sg4
+S'20090111\xc2\xa005:12 PM EST'
+p794
+sg6
+S'GM has received inquiry about Saab brand: executive'
+p795
+sa(dp796
+g2
+S'http://www.reuters.com/article/GCA-Oil/idUSTRE50A2SI20090111'
+p797
+sg4
+S'20090111\xc2\xa005:06 PM EST'
+p798
+sg6
+S'FACTBOX: Russia rejects Kiev additions to gas monitoring deal'
+p799
+sa(dp800
+g2
+S'http://www.reuters.com/article/privateEquityEnergy/idUSWEN250120090111'
+p801
+sg4
+S'20090111\xc2\xa005:01 PM EST'
+p802
+sg6
+S'Tronox set to file for Chap 11 bankruptcy - source'
+p803
+sa(dp804
+g2
+S'http://www.reuters.com/article/weekAheadG7/idUSJPDIARY20090111'
+p805
+sg4
+S'20090111\xc2\xa005:00 PM EST'
+p806
+sg6
+S'DIARY-Japan Jan 12: National holiday'
+p807
+sa(dp808
+g2
+S'http://www.reuters.com/article/pressRelease/idUS97083+11-Jan-2009+PRN20090111'
+p809
+sg4
+S'20090111\xc2\xa005:00 PM EST'
+p810
+sg6
+S'Following Is a Test Release'
+p811
+sa(dp812
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSSYD423795'
+p813
+sg4
+S'20090111\xc2\xa004:59 PM EST'
+p814
+sg6
+S'Surfer punches shark, saves girl in Australia surf'
+p815
+sa(dp816
+g2
+S'http://www.reuters.com/article/OILPRD/idUSLB9094820090111'
+p817
+sg4
+S'20090111\xc2\xa004:56 PM EST'
+p818
+sg6
+S'FACTBOX-Russia rejects Kiev additions to gas monitoring deal'
+p819
+sa(dp820
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSSYD9364'
+p821
+sg4
+S'20090111\xc2\xa004:53 PM EST'
+p822
+sg6
+S'New Zealand man surfs with killer whales'
+p823
+sa(dp824
+g2
+S'http://www.reuters.com/article/sportsNews/idUSTRE50A2QC20090111'
+p825
+sg4
+S'20090111\xc2\xa004:50 PM EST'
+p826
+sg6
+S'Weather delays early start to final round at Kapalua'
+p827
+sa(dp828
+g2
+S'http://www.reuters.com/article/asiaPrivateEquityNews/idUSTRE50A1U420090111'
+p829
+sg4
+S'20090111\xc2\xa004:50 PM EST'
+p830
+sg6
+S'Chrysler says not positioning itself for sale'
+p831
+sa(dp832
+g2
+S'http://www.reuters.com/article/rbssPreciousMetalsMinerals/idUSSYU00580920090111'
+p833
+sg4
+S'20090111\xc2\xa004:46 PM EST'
+p834
+sg6
+S'Oz Minerals still awaits bridging loan approval'
+p835
+sa(dp836
+g2
+S'http://www.reuters.com/article/companyNewsAndPR/idUSLB9936720090111'
+p837
+sg4
+S'20090111\xc2\xa004:44 PM EST'
+p838
+sg6
+S'WRAPUP 1-Russia-Ukraine deal on gas for Europe hits trouble'
+p839
+sa(dp840
+g2
+S'http://www.reuters.com/article/rbssAirlines/idUSLB9219720090111'
+p841
+sg4
+S'20090111\xc2\xa004:34 PM EST'
+p842
+sg6
+S'Spain govt to investigate Iberia on Barajas delays'
+p843
+sa(dp844
+g2
+S'http://www.reuters.com/article/asiaPrivateEquityNews/idUSTRE50A28C20090111'
+p845
+sg4
+S'20090111\xc2\xa004:31 PM EST'
+p846
+sg6
+S'Ford says talking to potential Volvo bidders'
+p847
+sa(dp848
+g2
+S'http://www.reuters.com/article/topNews/idUSTRE50A1OF20090111'
+p849
+sg4
+S'20090111\xc2\xa004:31 PM EST'
+p850
+sg6
+S'Hyundai takes Detroit car-of-the-year award'
+p851
+sa(dp852
+g2
+S'http://www.reuters.com/article/pressRelease/idUS92571+11-Jan-2009+PRN20090111'
+p853
+sg4
+S'20090111\xc2\xa004:30 PM EST'
+p854
+sg6
+S'Following Is a Test Release'
+p855
+sa(dp856
+g2
+S'http://www.reuters.com/article/pressReleasesMolt/idUSN1129869020090111'
+p857
+sg4
+S'20090111\xc2\xa004:29 PM EST'
+p858
+sg6
+S"Ford says doesn't plan to tap U.S. credit"
+p859
+sa(dp860
+g2
+S'http://www.reuters.com/article/politicsNews/idUSTRE50A2MH20090111'
+p861
+sg4
+S'20090111\xc2\xa004:23 PM EST'
+p862
+sg6
+S'Obama to decide soon on bailout funds, Kerry says'
+p863
+sa(dp864
+g2
+S'http://www.reuters.com/article/worldNews/idUSTRE50A2M820090111'
+p865
+sg4
+S'20090111\xc2\xa004:20 PM EST'
+p866
+sg6
+S'Russia says EU tells it Kiev declaration non-binding'
+p867
+sa(dp868
+g2
+S'http://www.reuters.com/article/rbssOilGasExplorationProduction/idUSLB9045720090111'
+p869
+sg4
+S'20090111\xc2\xa004:16 PM EST'
+p870
+sg6
+S'EU, Ukraine agree to address Russian deal concerns'
+p871
+sa(dp872
+g2
+S'http://www.reuters.com/article/pressRelease/idUS91329+11-Jan-2009+MW20090111'
+p873
+sg4
+S'20090111\xc2\xa004:15 PM EST'
+p874
+sg6
+S' Dr. Alexander Mirtchev Warns Against the Mid and Long-Term Repercussions of Unbalanced and Even Mindless State'
+p875
+sa(dp876
+g2
+S'http://www.reuters.com/article/governmentFilingsNews/idUSN1128155120090111'
+p877
+sg4
+S'20090111\xc2\xa004:13 PM EST'
+p878
+sg6
+S'Obama to decide soon on bailout funds, Kerry says'
+p879
+sa(dp880
+g2
+S'http://www.reuters.com/article/ousivMolt/idUSTRE50A2LJ20090111'
+p881
+sg4
+S'20090111\xc2\xa004:12 PM EST'
+p882
+sg6
+S'Tech firms unveil new gadgets at CES'
+p883
+sa(dp884
+g2
+S'http://www.reuters.com/article/CARMFG/idUSN1130670720090111'
+p885
+sg4
+S'20090111\xc2\xa004:07 PM EST'
+p886
+sg6
+S"AUTOSHOW-UPDATE 1-Jan US sales 'more robust' than expected-Ford"
+p887
+sa(dp888
+g2
+S'http://www.reuters.com/article/rbssConsumerElectronics/idUSN1150457520090111'
+p889
+sg4
+S'20090111\xc2\xa004:04 PM EST'
+p890
+sg6
+S"CES-WRAPUP-Tech firms unveil new gadgets, brace for painful '09"
+p891
+sa(dp892
+g2
+S'http://www.reuters.com/article/OILINT/idUSLB9552620090111'
+p893
+sg4
+S'20090111\xc2\xa004:04 PM EST'
+p894
+sg6
+S'Russia says EU tells it Kiev declaration non-binding'
+p895
+sa(dp896
+g2
+S'http://www.reuters.com/article/rbssAutoTruckManufacturers/idUSN1128190920090111'
+p897
+sg4
+S'20090111\xc2\xa004:03 PM EST'
+p898
+sg6
+S'AUTOSHOW-Auto workers protest Bush concession targets'
+p899
+sa(dp900
+g2
+S'http://www.reuters.com/article/pressRelease/idUS90113+11-Jan-2009+PRN20090111'
+p901
+sg4
+S'20090111\xc2\xa004:00 PM EST'
+p902
+sg6
+S'Following Is a Test Release'
+p903
+sa(dp904
+g2
+S'http://www.reuters.com/article/pressRelease/idUS90019+11-Jan-2009+BW20090111'
+p905
+sg4
+S'20090111\xc2\xa003:59 PM EST'
+p906
+sg6
+S'Mohegan Tribal Gaming Authority Announces Cost Reductions That Do Not Include Layoffs'
+p907
+sa(dp908
+g2
+S'http://www.reuters.com/article/domesticNews/idUSTRE50A2K220090111'
+p909
+sg4
+S'20090111\xc2\xa003:53 PM EST'
+p910
+sg6
+S'U.S. gasoline prices rise for first time since July: survey'
+p911
+sa(dp912
+g2
+S'http://www.reuters.com/article/rbssIntegratedOilGas/idUSN1129696620090111'
+p913
+sg4
+S'20090111\xc2\xa003:50 PM EST'
+p914
+sg6
+S'U.S. gasoline prices rise for first time since July-survey'
+p915
+sa(dp916
+g2
+S'http://www.reuters.com/article/worldNews/idUSTRE50A2JR20090111'
+p917
+sg4
+S'20090111\xc2\xa003:49 PM EST'
+p918
+sg6
+S'Yemen frees bin Laden driver after jail term ends'
+p919
+sa(dp920
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSN11283403'
+p921
+sg4
+S'20090111\xc2\xa003:46 PM EST'
+p922
+sg6
+S'AUTOSHOW-Automakers roll out electric, hybrid hopes'
+p923
+sa(dp924
+g2
+S'http://www.reuters.com/article/newsOne/idUSTRE50A09B20090111'
+p925
+sg4
+S'20090111\xc2\xa003:45 PM EST'
+p926
+sg6
+S'FACTBOX: Developments in Gaza fighting'
+p927
+sa(dp928
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSLB62402'
+p929
+sg4
+S'20090111\xc2\xa003:40 PM EST'
+p930
+sg6
+S'FACTBOX-Developments in Gaza fighting, Jan 11'
+p931
+sa(dp932
+g2
+S'http://www.reuters.com/article/ousivMolt/idUSTRE50A2I920090111'
+p933
+sg4
+S'20090111\xc2\xa003:40 PM EST'
+p934
+sg6
+S'GM to announce Volt battery supplier Monday'
+p935
+sa(dp936
+g2
+S'http://www.reuters.com/article/newsMaps/idUSTRE50A2HN20090111'
+p937
+sg4
+S'20090111\xc2\xa003:38 PM EST'
+p938
+sg6
+S'When will the Gaza conflict end? No one knows'
+p939
+sa(dp940
+g2
+S'http://www.reuters.com/article/homepageCrisis/idUSLB18527._CH_.2400'
+p941
+sg4
+S'20090111\xc2\xa003:32 PM EST'
+p942
+sg6
+S'When will the Gaza conflict end? No one knows'
+p943
+sa(dp944
+g2
+S'http://www.reuters.com/article/middleeastCrisis/idUSLB18527'
+p945
+sg4
+S'20090111\xc2\xa003:32 PM EST'
+p946
+sg6
+S'When will the Gaza conflict end? No one knows'
+p947
+sa(dp948
+g2
+S'http://www.reuters.com/article/pressRelease/idUS88195+11-Jan-2009+PRN20090111'
+p949
+sg4
+S'20090111\xc2\xa003:31 PM EST'
+p950
+sg6
+S"HotHead Technologies Working with Schutt Sports to Develop 'Smart' Helmet"
+p951
+sa(dp952
+g2
+S'http://www.reuters.com/article/pressRelease/idUS88111+11-Jan-2009+PRN20090111'
+p953
+sg4
+S'20090111\xc2\xa003:30 PM EST'
+p954
+sg6
+S'Following Is a Test Release'
+p955
+sa(dp956
+g2
+S'http://www.reuters.com/article/OILPRD/idUSLB59973220090111'
+p957
+sg4
+S'20090111\xc2\xa003:26 PM EST'
+p958
+sg6
+S'WRAPUP 10-Russia-Ukraine deal on gas for Europe in doubt'
+p959
+sa(dp960
+g2
+S'http://www.reuters.com/article/rbssAutoTruckMotorcycleParts/idUSN1131989820090111'
+p961
+sg4
+S'20090111\xc2\xa003:22 PM EST'
+p962
+sg6
+S'AUTOSHOW-GM to announce Volt battery supplier Monday'
+p963
+sa(dp964
+g2
+S'http://www.reuters.com/article/newsMaps/idUSTRE50A2FP20090111'
+p965
+sg4
+S'20090111\xc2\xa003:20 PM EST'
+p966
+sg6
+S'Palestinian, Israel supporters rally across Europe'
+p967
+sa(dp968
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSLB73879'
+p969
+sg4
+S'20090111\xc2\xa003:18 PM EST'
+p970
+sg6
+S'Palestinian, Israel supporters rally across Europe'
+p971
+sa(dp972
+g2
+S'http://www.reuters.com/article/televisionNews/idUSTRE50A2EF20090111'
+p973
+sg4
+S'20090111\xc2\xa003:08 PM EST'
+p974
+sg6
+S'Hollywood sets up for Golden Globes'
+p975
+sa(dp976
+g2
+S'http://www.reuters.com/article/filmNews/idUSTRE50A1ZT20090111'
+p977
+sg4
+S'20090111\xc2\xa003:01 PM EST'
+p978
+sg6
+S'Eastwood wins box office race with "Gran Torino"'
+p979
+sa(dp980
+g2
+S'http://www.reuters.com/article/pressRelease/idUS86362+11-Jan-2009+MW20090111'
+p981
+sg4
+S'20090111\xc2\xa003:00 PM EST'
+p982
+sg6
+S' Media Advisory/REMINDER: Canadian Heritage'
+p983
+sa(dp984
+g2
+S'http://www.reuters.com/article/pressRelease/idUS86305+11-Jan-2009+PRN20090111'
+p985
+sg4
+S'20090111\xc2\xa003:00 PM EST'
+p986
+sg6
+S'Following Is a Test Release'
+p987
+sa(dp988
+g2
+S'http://www.reuters.com/article/entertainmentNews/idUSTRE50A2DE20090111'
+p989
+sg4
+S'20090111\xc2\xa002:58 PM EST'
+p990
+sg6
+S'Sean Hannity shaking up new Fox News show'
+p991
+sa(dp992
+g2
+S'http://www.reuters.com/article/mediaNews/idUSN1128168220090111'
+p993
+sg4
+S'20090111\xc2\xa002:57 PM EST'
+p994
+sg6
+S'Hollywood sets up for Golden Globes party'
+p995
+sa(dp996
+g2
+S'http://www.reuters.com/article/homepageCrisis/idUSN11279827._CH_.2400'
+p997
+sg4
+S'20090111\xc2\xa002:53 PM EST'
+p998
+sg6
+S'Costa Rica rescuers menaced by mudslides after quake'
+p999
+sa(dp1000
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSN11279827'
+p1001
+sg4
+S'20090111\xc2\xa002:53 PM EST'
+p1002
+sg6
+S'Costa Rica rescuers menaced by mudslides after quake'
+p1003
+sa(dp1004
+g2
+S'http://www.reuters.com/article/ousivMolt/idUSTRE50A2CA20090111'
+p1005
+sg4
+S'20090111\xc2\xa002:46 PM EST'
+p1006
+sg6
+S'GM says early UAW talks have begun'
+p1007
+sa(dp1008
+g2
+S'http://www.reuters.com/article/pressRelease/idUS85028+11-Jan-2009+MW20090111'
+p1009
+sg4
+S'20090111\xc2\xa002:37 PM EST'
+p1010
+sg6
+S' Media Advisory: Federal Agriculture Minister Gerry Ritz Visits India, Hong Kong to Build Exports'
+p1011
+sa(dp1012
+g2
+S'http://www.reuters.com/article/GCA-Oil/idUSTRE50A2BD20090111'
+p1013
+sg4
+S'20090111\xc2\xa002:37 PM EST'
+p1014
+sg6
+S'Qatar says gas helps it cope with oil even under $30'
+p1015
+sa(dp1016
+g2
+S'http://www.reuters.com/article/euPrivateEquityNews/idUSBOM17776820090111'
+p1017
+sg4
+S'20090111\xc2\xa002:36 PM EST'
+p1018
+sg6
+S'India installs new Satyam board'
+p1019
+sa(dp1020
+g2
+S'http://www.reuters.com/article/pressRelease/idUS84617+11-Jan-2009+PRN20090111'
+p1021
+sg4
+S'20090111\xc2\xa002:30 PM EST'
+p1022
+sg6
+S'Following Is a Test Release'
+p1023
+sa(dp1024
+g2
+S'http://www.reuters.com/article/pressRelease/idUS84392+11-Jan-2009+PRN20090111'
+p1025
+sg4
+S'20090111\xc2\xa002:25 PM EST'
+p1026
+sg6
+S'Kia Motors America Announces 14th Year of Increased Market Share'
+p1027
+sa(dp1028
+g2
+S'http://www.reuters.com/article/rbssAutoTruckManufacturers/idUSN1128489020090111'
+p1029
+sg4
+S'20090111\xc2\xa002:20 PM EST'
+p1030
+sg6
+S'GM says early UAW talks have begun, to continue'
+p1031
+sa(dp1032
+g2
+S'http://www.reuters.com/article/pressRelease/idUS84199+11-Jan-2009+PRN20090111'
+p1033
+sg4
+S'20090111\xc2\xa002:20 PM EST'
+p1034
+sg6
+S"Photos: Kia Motors America Showcases the Soul'ster Concept at 2009 North American..."
+p1035
+sa(dp1036
+g2
+S'http://www.reuters.com/article/rbssIndustrialConglomerates/idUSN1128509820090111'
+p1037
+sg4
+S'20090111\xc2\xa002:15 PM EST'
+p1038
+sg6
+S"UPDATE 1-Eastwood wins box office race with 'Gran Torino'"
+p1039
+sa(dp1040
+g2
+S'http://www.reuters.com/article/pressRelease/idUS83881+11-Jan-2009+PRN20090111'
+p1041
+sg4
+S'20090111\xc2\xa002:13 PM EST'
+p1042
+sg6
+S"National Hot Dog & Sausage Council Says President-Elect Obama's Historic Trip to..."
+p1043
+sa(dp1044
+g2
+S'http://www.reuters.com/article/pressRelease/idUS83361+11-Jan-2009+PRN20090111'
+p1045
+sg4
+S'20090111\xc2\xa002:00 PM EST'
+p1046
+sg6
+S'Following Is a Test Release'
+p1047
+sa(dp1048
+g2
+S'http://www.reuters.com/article/OILPRD/idUSLB8204020090111'
+p1049
+sg4
+S'20090111\xc2\xa001:58 PM EST'
+p1050
+sg6
+S'Russian PM proposes Brussels talks over gas row'
+p1051
+sa(dp1052
+g2
+S'http://www.reuters.com/article/pressReleasesMolt/idUSTRE50A1V920090111'
+p1053
+sg4
+S'20090111\xc2\xa001:54 PM EST'
+p1054
+sg6
+S'Ford introduces key redesign of Taurus sedan'
+p1055
+sa(dp1056
+g2
+S'http://www.reuters.com/article/pressRelease/idUS82787+11-Jan-2009+PRN20090111'
+p1057
+sg4
+S'20090111\xc2\xa001:46 PM EST'
+p1058
+sg6
+S"Volvo Goes 'Live' at Detroit Auto Show"
+p1059
+sa(dp1060
+g2
+S'http://www.reuters.com/article/pressRelease/idUS82763+11-Jan-2009+PRN20090111'
+p1061
+sg4
+S'20090111\xc2\xa001:45 PM EST'
+p1062
+sg6
+S'NEWSWEEK International Editions: Highlights and Exclusives, January 19, 2009 Issue'
+p1063
+sa(dp1064
+g2
+S'http://www.reuters.com/article/OILPRD/idUSLB7475020090111'
+p1065
+sg4
+S'20090111\xc2\xa001:34 PM EST'
+p1066
+sg6
+S'Russia says cannot implement gas monitors deal'
+p1067
+sa(dp1068
+g2
+S'http://www.reuters.com/article/politicsNews/idUSTRE5085XT20090111'
+p1069
+sg4
+S'20090111\xc2\xa001:30 PM EST'
+p1070
+sg6
+S'Burris heading back to Washington this week'
+p1071
+sa(dp1072
+g2
+S'http://www.reuters.com/article/pressRelease/idUS82120+11-Jan-2009+PRN20090111'
+p1073
+sg4
+S'20090111\xc2\xa001:30 PM EST'
+p1074
+sg6
+S'Following Is a Test Release'
+p1075
+sa(dp1076
+g2
+S'http://www.reuters.com/article/pressRelease/idUS82118+11-Jan-2009+PRN20090111'
+p1077
+sg4
+S'20090111\xc2\xa001:30 PM EST'
+p1078
+sg6
+S'ATX Launches Enhanced Automatic Collision Notification for BMW'
+p1079
+sa(dp1080
+g2
+S'http://www.reuters.com/article/pressRelease/idUS82101+11-Jan-2009+BW20090111'
+p1081
+sg4
+S'20090111\xc2\xa001:30 PM EST'
+p1082
+sg6
+S'ATX Launches Enhanced Automatic Collision Notification for BMW'
+p1083
+sa(dp1084
+g2
+S'http://www.reuters.com/article/pressRelease/idUS82030+11-Jan-2009+PRN20090111'
+p1085
+sg4
+S'20090111\xc2\xa001:29 PM EST'
+p1086
+sg6
+S"News Advisory: Audi to Announce Distribution Deal for Award-Winning 'Truth in 24'..."
+p1087
+sa(dp1088
+g2
+S'http://www.reuters.com/article/BROKER/idUSN1131576720090111'
+p1089
+sg4
+S'20090111\xc2\xa001:29 PM EST'
+p1090
+sg6
+S'EMERGING MARKETS WEEK-China data, Mexico rate decision eyed'
+p1091
+sa(dp1092
+g2
+S'http://www.reuters.com/article/companyNewsAndPR/idUSN1127611620090111'
+p1093
+sg4
+S'20090111\xc2\xa001:28 PM EST'
+p1094
+sg6
+S'Burris heading back to Washington this week'
+p1095
+sa(dp1096
+g2
+S'http://www.reuters.com/article/pressRelease/idUS82006+11-Jan-2009+PRN20090111'
+p1097
+sg4
+S'20090111\xc2\xa001:28 PM EST'
+p1098
+sg6
+S'Rentrak Theatrical Announces Box Office Estimates for Weekend of January 11, 2009'
+p1099
+sa(dp1100
+g2
+S'http://www.reuters.com/article/mnaNewsConsumerGoodsAndRetail/idUSN1128298320090111'
+p1101
+sg4
+S'20090111\xc2\xa001:27 PM EST'
+p1102
+sg6
+S'UPDATE 1-Ford says talking to potential Volvo bidders'
+p1103
+sa(dp1104
+g2
+S'http://www.reuters.com/article/mediaNews/idUSN1127436520090111'
+p1105
+sg4
+S'20090111\xc2\xa001:24 PM EST'
+p1106
+sg6
+S"CORRECTED - Clint Eastwood leads box office with 'Gran Torino'"
+p1107
+sa(dp1108
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSLB64809'
+p1109
+sg4
+S'20090111\xc2\xa001:23 PM EST'
+p1110
+sg6
+S'Nigeria militants release photos of British hostages'
+p1111
+sa(dp1112
+g2
+S'http://www.reuters.com/article/topNews/idUSTRE50A26F20090111'
+p1113
+sg4
+S'20090111\xc2\xa001:22 PM EST'
+p1114
+sg6
+S'U.S. bank earnings may be "frightful"'
+p1115
+sa(dp1116
+g2
+S'http://www.reuters.com/article/rbssBanks/idUSN1131571220090111'
+p1117
+sg4
+S'20090111\xc2\xa001:18 PM EST'
+p1118
+sg6
+S'PREVIEW-US bank earnings may be "frightful"'
+p1119
+sa(dp1120
+g2
+S'http://www.reuters.com/article/ousivMolt/idUSTRE50A25M20090111'
+p1121
+sg4
+S'20090111\xc2\xa001:17 PM EST'
+p1122
+sg6
+S'GM says electric car on track for 2010'
+p1123
+sa(dp1124
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSLB43539'
+p1125
+sg4
+S'20090111\xc2\xa001:17 PM EST'
+p1126
+sg6
+S'Gas blast injures several people in Kuwait'
+p1127
+sa(dp1128
+g2
+S'http://www.reuters.com/article/GCA-autos/idUSN1153914220090111'
+p1129
+sg4
+S'20090111\xc2\xa001:16 PM EST'
+p1130
+sg6
+S'GM says electric car on track for 2010'
+p1131
+sa(dp1132
+g2
+S'http://www.reuters.com/article/healthNews/idUSTRE5090HM20090111'
+p1133
+sg4
+S'20090111\xc2\xa001:13 PM EST'
+p1134
+sg6
+S'King Nut recalls salmonella-tainted peanut butter'
+p1135
+sa(dp1136
+g2
+S'http://www.reuters.com/article/lifestyleMolt/idUSTRE50A24P20090111'
+p1137
+sg4
+S'20090111\xc2\xa001:13 PM EST'
+p1138
+sg6
+S'Alitalia-owned art work to go under the hammer'
+p1139
+sa(dp1140
+g2
+S'http://www.reuters.com/article/pressRelease/idUS81110+11-Jan-2009+PRN20090111'
+p1141
+sg4
+S'20090111\xc2\xa001:10 PM EST'
+p1142
+sg6
+S'Video: Volkswagen Unveils World Premiere of Concept BlueSport Diesel Powered Sports...'
+p1143
+sa(dp1144
+g2
+S'http://www.reuters.com/article/rbssAirlines/idUSLB6384520090111'
+p1145
+sg4
+S'20090111\xc2\xa001:08 PM EST'
+p1146
+sg6
+S'Alitalia-owned art work to go under the hammer'
+p1147
+sa(dp1148
+g2
+S'http://www.reuters.com/article/companyNewsAndPR/idUSN1128196520090111'
+p1149
+sg4
+S'20090111\xc2\xa001:07 PM EST'
+p1150
+sg6
+S'Panama mogul extends lead in election race - poll'
+p1151
+sa(dp1152
+g2
+S'http://www.reuters.com/article/privateEquity/idUSN1127939620090111'
+p1153
+sg4
+S'20090111\xc2\xa001:05 PM EST'
+p1154
+sg6
+S'RPT-AUTOSHOW-UPDATE 1-GM says could seek further US loans'
+p1155
+sa(dp1156
+g2
+S'http://www.reuters.com/article/internetNews/idUSTRE50A24020090111'
+p1157
+sg4
+S'20090111\xc2\xa001:02 PM EST'
+p1158
+sg6
+S'Netbooks take center stage at CES'
+p1159
+sa(dp1160
+g2
+S'http://www.reuters.com/article/pressRelease/idUS80627+11-Jan-2009+PRN20090111'
+p1161
+sg4
+S'20090111\xc2\xa001:00 PM EST'
+p1162
+sg6
+S'MultiVu Video Feed: Ford F150 & Hyundai Genesis WIN THE 2009 NORTH AMERICAN CAR AND...'
+p1163
+sa(dp1164
+g2
+S'http://www.reuters.com/article/pressRelease/idUS80620+11-Jan-2009+PRN20090111'
+p1165
+sg4
+S'20090111\xc2\xa001:00 PM EST'
+p1166
+sg6
+S'Following Is a Test Release'
+p1167
+sa(dp1168
+g2
+S'http://www.reuters.com/article/pressRelease/idUS80556+11-Jan-2009+PRN20090111'
+p1169
+sg4
+S'20090111\xc2\xa012:59 PM EST'
+p1170
+sg6
+S"Gerberding's Departure From the CDC Is No Loss"
+p1171
+sa(dp1172
+g2
+S'http://www.reuters.com/article/rbssConsumerElectronics/idUSN0949869120090111'
+p1173
+sg4
+S'20090111\xc2\xa012:55 PM EST'
+p1174
+sg6
+S'CES-Netbooks take center stage at trade show'
+p1175
+sa(dp1176
+g2
+S'http://www.reuters.com/article/ousivMolt/idUSTRE50A23D20090111'
+p1177
+sg4
+S'20090111\xc2\xa012:51 PM EST'
+p1178
+sg6
+S'Ford chairman says automaker to keep going on its own'
+p1179
+sa(dp1180
+g2
+S'http://www.reuters.com/article/ousivMolt/idUSTRE50A23C20090111'
+p1181
+sg4
+S'20090111\xc2\xa012:51 PM EST'
+p1182
+sg6
+S'Ford says to launch four new hybrids by 2012'
+p1183
+sa(dp1184
+g2
+S'http://www.reuters.com/article/businessNews/idUSTRE50A22L20090111'
+p1185
+sg4
+S'20090111\xc2\xa012:47 PM EST'
+p1186
+sg6
+S'GM says Chevy Volt still on track for 2010 launch'
+p1187
+sa(dp1188
+g2
+S'http://www.reuters.com/article/pressRelease/idUS79661+11-Jan-2009+PRN20090111'
+p1189
+sg4
+S'20090111\xc2\xa012:39 PM EST'
+p1190
+sg6
+S'NEWSWEEK COVER: What Would Dick Do?'
+p1191
+sa(dp1192
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSLB62318'
+p1193
+sg4
+S'20090111\xc2\xa012:35 PM EST'
+p1194
+sg6
+S'Nigeria militants release photos of British hostages'
+p1195
+sa(dp1196
+g2
+S'http://www.reuters.com/article/pressRelease/idUS79352+11-Jan-2009+GNW20090111'
+p1197
+sg4
+S'20090111\xc2\xa012:33 PM EST'
+p1198
+sg6
+S'FieldTurf Sponsors AFCA Convention and Honors Members With Yearly FieldTurf and Howie...'
+p1199
+sa(dp1200
+g2
+S'http://www.reuters.com/article/televisionNews/idUSTRE50A1GV20090111'
+p1201
+sg4
+S'20090111\xc2\xa012:31 PM EST'
+p1202
+sg6
+S'Tweaked "American Idol" returns with new judge'
+p1203
+sa(dp1204
+g2
+S'http://www.reuters.com/article/domesticNews/idUSTRE50A1IP20090111'
+p1205
+sg4
+S'20090111\xc2\xa012:30 PM EST'
+p1206
+sg6
+S'FACTBOX: American Idols -- where are they now?'
+p1207
+sa(dp1208
+g2
+S'http://www.reuters.com/article/pressRelease/idUS79201+11-Jan-2009+PRN20090111'
+p1209
+sg4
+S'20090111\xc2\xa012:30 PM EST'
+p1210
+sg6
+S'Following Is a Test Release'
+p1211
+sa(dp1212
+g2
+S'http://www.reuters.com/article/pressRelease/idUS79197+11-Jan-2009+PRN20090111'
+p1213
+sg4
+S'20090111\xc2\xa012:30 PM EST'
+p1214
+sg6
+S'Dodge Circuit EV'
+p1215
+sa(dp1216
+g2
+S'http://www.reuters.com/article/pressRelease/idUS79196+11-Jan-2009+PRN20090111'
+p1217
+sg4
+S'20090111\xc2\xa012:30 PM EST'
+p1218
+sg6
+S'Chrysler Town & Country EV'
+p1219
+sa(dp1220
+g2
+S'http://www.reuters.com/article/pressRelease/idUS79191+11-Jan-2009+PRN20090111'
+p1221
+sg4
+S'20090111\xc2\xa012:30 PM EST'
+p1222
+sg6
+S'Chrysler 200C EV Concept: Platform for Future Chrysler Connectivity Features'
+p1223
+sa(dp1224
+g2
+S'http://www.reuters.com/article/pressRelease/idUS79189+11-Jan-2009+PRN20090111'
+p1225
+sg4
+S'20090111\xc2\xa012:30 PM EST'
+p1226
+sg6
+S'Chrysler 200C EV Concept: Contemporary Design, Range-extended Electric Vehicle Drive...'
+p1227
+sa(dp1228
+g2
+S'http://www.reuters.com/article/pressRelease/idUS79186+11-Jan-2009+PRN20090111'
+p1229
+sg4
+S'20090111\xc2\xa012:30 PM EST'
+p1230
+sg6
+S'Jeep(R) Wrangler Unlimited EV'
+p1231
+sa(dp1232
+g2
+S'http://www.reuters.com/article/pressRelease/idUS79184+11-Jan-2009+PRN20090111'
+p1233
+sg4
+S'20090111\xc2\xa012:30 PM EST'
+p1234
+sg6
+S'Jeep(R) Patriot EV'
+p1235
+sa(dp1236
+g2
+S'http://www.reuters.com/article/pressRelease/idUS79180+11-Jan-2009+PRN20090111'
+p1237
+sg4
+S'20090111\xc2\xa012:30 PM EST'
+p1238
+sg6
+S'Chrysler ENVI - Plugged Into the World'
+p1239
+sa(dp1240
+g2
+S'http://www.reuters.com/article/pressRelease/idUS79178+11-Jan-2009+PRN20090111'
+p1241
+sg4
+S'20090111\xc2\xa012:30 PM EST'
+p1242
+sg6
+S"Bosch's New Safety Technology Helps Prevent Skidding, Rollovers and Trailer Sway"
+p1243
+sa(dp1244
+g2
+S'http://www.reuters.com/article/topNews/idUSTRE5090XU20090111'
+p1245
+sg4
+S'20090111\xc2\xa012:25 PM EST'
+p1246
+sg6
+S'Biden meets leaders in Afghanistan'
+p1247
+sa(dp1248
+g2
+S'http://www.reuters.com/article/topNews/idUSTRE50A1Y620090111'
+p1249
+sg4
+S'20090111\xc2\xa012:25 PM EST'
+p1250
+sg6
+S'British soldier killed in Afghanistan explosion'
+p1251
+sa(dp1252
+g2
+S'http://www.reuters.com/article/worldNews/idUSTRE50A1ZL20090111'
+p1253
+sg4
+S'20090111\xc2\xa012:13 PM EST'
+p1254
+sg6
+S'FACTBOX: Military deaths in Afghanistan'
+p1255
+sa(dp1256
+g2
+S'http://www.reuters.com/article/worldNews/idUSTRE50A1Z820090111'
+p1257
+sg4
+S'20090111\xc2\xa012:12 PM EST'
+p1258
+sg6
+S'Joe the Plumber plugs Israel over Gaza offensive'
+p1259
+sa(dp1260
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSLB61828'
+p1261
+sg4
+S'20090111\xc2\xa012:11 PM EST'
+p1262
+sg6
+S'FACTBOX-Military deaths in Afghanistan'
+p1263
+sa(dp1264
+g2
+S'http://www.reuters.com/article/pressRelease/idUS78307+11-Jan-2009+BW20090111'
+p1265
+sg4
+S'20090111\xc2\xa012:10 PM EST'
+p1266
+sg6
+S"Technology Policy and the Year's Hottest Products Highlight Day Three of the 2009 International CES"
+p1267
+sa(dp1268
+g2
+S'http://www.reuters.com/article/GCA-Oil/idUSTRE50A1YY20090111'
+p1269
+sg4
+S'20090111\xc2\xa012:09 PM EST'
+p1270
+sg6
+S'Russia Gazprom shuts wells, makes losses in gas row'
+p1271
+sa(dp1272
+g2
+S'http://www.reuters.com/article/filmNews/idUSTRE50A1YR20090111'
+p1273
+sg4
+S'20090111\xc2\xa012:07 PM EST'
+p1274
+sg6
+S'The top movies at the North American box office'
+p1275
+sa(dp1276
+g2
+S'http://www.reuters.com/article/rbssOilGasExplorationProduction/idUSLB8724020090111'
+p1277
+sg4
+S'20090111\xc2\xa012:07 PM EST'
+p1278
+sg6
+S'Russia Gazprom shuts wells, makes losses in gas row'
+p1279
+sa(dp1280
+g2
+S'http://www.reuters.com/article/rbssEntertainmentProduction/idUSN2826641920090111'
+p1281
+sg4
+S'20090111\xc2\xa012:06 PM EST'
+p1282
+sg6
+S'The top movies at the North American box office'
+p1283
+sa(dp1284
+g2
+S'http://www.reuters.com/article/newsMaps/idUSTRE50A1YH20090111'
+p1285
+sg4
+S'20090111\xc2\xa012:03 PM EST'
+p1286
+sg6
+S'FACTBOX: Hamas leaders struggle for survival and unity'
+p1287
+sa(dp1288
+g2
+S'http://www.reuters.com/article/worldNews/idUSTRE50A1XT20090111'
+p1289
+sg4
+S'20090111\xc2\xa012:00 PM EST'
+p1290
+sg6
+S"Italian minister blasts Muslim protesters' prayers"
+p1291
+sa(dp1292
+g2
+S'http://www.reuters.com/article/worldNews/idUSTRE50A1XS20090111'
+p1293
+sg4
+S'20090111\xc2\xa012:00 PM EST'
+p1294
+sg6
+S'Israeli bomb shrapnel wounds 4 Egyptians'
+p1295
+sa(dp1296
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSLB23967'
+p1297
+sg4
+S'20090111\xc2\xa012:00 PM EST'
+p1298
+sg6
+S'FACTBOX-Hamas leaders struggle for survival and unity'
+p1299
+sa(dp1300
+g2
+S'http://www.reuters.com/article/pressRelease/idUS77771+11-Jan-2009+PRN20090111'
+p1301
+sg4
+S'20090111\xc2\xa012:00 PM EST'
+p1302
+sg6
+S'Following Is a Test Release'
+p1303
+sa(dp1304
+g2
+S'http://www.reuters.com/article/rbssAutoTruckManufacturers/idUSN1129586120090111'
+p1305
+sg4
+S'20090111\xc2\xa011:59 AM EST'
+p1306
+sg6
+S'AUTOSHOW-New Lexus hybrid to go on sale this summer'
+p1307
+sa(dp1308
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSLB23204'
+p1309
+sg4
+S'20090111\xc2\xa011:57 AM EST'
+p1310
+sg6
+S'Israeli bomb shrapnel wounds 4 Egyptians'
+p1311
+sa(dp1312
+g2
+S'http://www.reuters.com/article/pressRelease/idUS77556+11-Jan-2009+PRN20090111'
+p1313
+sg4
+S'20090111\xc2\xa011:57 AM EST'
+p1314
+sg6
+S'NEWSWEEK Media Lead Sheet/ January 19, 2009 Issue (On Newsstands Monday, January...'
+p1315
+sa(dp1316
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSLB20239'
+p1317
+sg4
+S'20090111\xc2\xa011:49 AM EST'
+p1318
+sg6
+S"Italian minister blasts Muslim protesters' prayers"
+p1319
+sa(dp1320
+g2
+S'http://www.reuters.com/article/pressRelease/idUS76896+11-Jan-2009+PRN20090111'
+p1321
+sg4
+S'20090111\xc2\xa011:45 AM EST'
+p1322
+sg6
+S'Magna and Ford Motor Company partner to introduce zero-emission battery electric...'
+p1323
+sa(dp1324
+g2
+S'http://www.reuters.com/article/americasMergersNews/idUSBOM2079620090111'
+p1325
+sg4
+S'20090111\xc2\xa011:44 AM EST'
+p1326
+sg6
+S'CORRECTED - UPDATE 2-India installs new Satyam board, senior execs in jail'
+p1327
+sa(dp1328
+g2
+S'http://www.reuters.com/article/CARMFG/idUSN1127844520090111'
+p1329
+sg4
+S'20090111\xc2\xa011:40 AM EST'
+p1330
+sg6
+S'AUTOSHOW-Ford introduces key redesign of Taurus sedan'
+p1331
+sa(dp1332
+g2
+S'http://www.reuters.com/article/rbssBanks/idUSLB16542320090111'
+p1333
+sg4
+S'20090111\xc2\xa011:32 AM EST'
+p1334
+sg6
+S'UPDATE 1-RBS insurance unit draws late interest-paper'
+p1335
+sa(dp1336
+g2
+S'http://www.reuters.com/article/pressRelease/idUS76070+11-Jan-2009+PRN20090111'
+p1337
+sg4
+S'20090111\xc2\xa011:30 AM EST'
+p1338
+sg6
+S'Following Is a Test Release'
+p1339
+sa(dp1340
+g2
+S'http://www.reuters.com/article/privateEquityConsumerGoodsAndRetail/idUSN1127526320090111'
+p1341
+sg4
+S'20090111\xc2\xa011:29 AM EST'
+p1342
+sg6
+S'AUTOSHOW-UPDATE 1-Chrysler says not positioning itself for sale'
+p1343
+sa(dp1344
+g2
+S'http://www.reuters.com/article/pressRelease/idUS75794+11-Jan-2009+PRN20090111'
+p1345
+sg4
+S'20090111\xc2\xa011:25 AM EST'
+p1346
+sg6
+S'Ford Planning New Electric, Hybrid and Plug-In Vehicles in Next 4 Years; Partners...'
+p1347
+sa(dp1348
+g2
+S'http://www.reuters.com/article/worldNews/idUSTRE50A1TA20090111'
+p1349
+sg4
+S'20090111\xc2\xa011:18 AM EST'
+p1350
+sg6
+S'Israel says shots fired from Syria at Golan troops'
+p1351
+sa(dp1352
+g2
+S'http://www.reuters.com/article/rbssConsumerGoodsAndRetailNews/idUSN1127777220090111'
+p1353
+sg4
+S'20090111\xc2\xa011:16 AM EST'
+p1354
+sg6
+S'AUTOSHOW-GM says will review need for further US loans'
+p1355
+sa(dp1356
+g2
+S'http://www.reuters.com/article/pressRelease/idUS75282+11-Jan-2009+PRN20090111'
+p1357
+sg4
+S'20090111\xc2\xa011:15 AM EST'
+p1358
+sg6
+S"Lexus Stages World Debut of the 2010 HS 250h -- the World's First Dedicated Luxury..."
+p1359
+sa(dp1360
+g2
+S'http://www.reuters.com/article/politicsNews/idUSTRE50A1SP20090111'
+p1361
+sg4
+S'20090111\xc2\xa011:09 AM EST'
+p1362
+sg6
+S"Obama's SEC pick could face bumpy ride over Madoff"
+p1363
+sa(dp1364
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSLB37194'
+p1365
+sg4
+S'20090111\xc2\xa011:07 AM EST'
+p1366
+sg6
+S'Israel says shots fired from Syria at Golan troops'
+p1367
+sa(dp1368
+g2
+S'http://www.reuters.com/article/ousivMolt/idUSTRE50A1SI20090111'
+p1369
+sg4
+S'20090111\xc2\xa011:02 AM EST'
+p1370
+sg6
+S"Boat, RV makers to buyers: Don't worry, be happy"
+p1371
+sa(dp1372
+g2
+S'http://www.reuters.com/article/pressRelease/idUS74496+11-Jan-2009+PRN20090111'
+p1373
+sg4
+S'20090111\xc2\xa011:00 AM EST'
+p1374
+sg6
+S'Following Is a Test Release'
+p1375
+sa(dp1376
+g2
+S'http://www.reuters.com/article/pressRelease/idUS74487+11-Jan-2009+BW20090111'
+p1377
+sg4
+S'20090111\xc2\xa011:00 AM EST'
+p1378
+sg6
+S'Books-A-Million Selects Reflexis Retail Execution Management Solutions'
+p1379
+sa(dp1380
+g2
+S'http://www.reuters.com/article/managementIssues/idUSN1130650720090111'
+p1381
+sg4
+S'20090111\xc2\xa010:59 AM EST'
+p1382
+sg6
+S"Obama's SEC pick could face bumpy ride over Madoff"
+p1383
+sa(dp1384
+g2
+S'http://www.reuters.com/article/homepageCrisis/idUSLB733907._CH_.2400'
+p1385
+sg4
+S'20090111\xc2\xa010:57 AM EST'
+p1386
+sg6
+S'Ugandan LRA rebels kill 22 in Congo raids'
+p1387
+sa(dp1388
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSLB733907'
+p1389
+sg4
+S'20090111\xc2\xa010:57 AM EST'
+p1390
+sg6
+S'Ugandan LRA rebels kill 22 in Congo raids'
+p1391
+sa(dp1392
+g2
+S'http://www.reuters.com/article/PBLSHG/idUSN1128186520090111'
+p1393
+sg4
+S'20090111\xc2\xa010:56 AM EST'
+p1394
+sg6
+S"RPT-IPO VIEW-Penthouse parent's IPO might be tough sell"
+p1395
+sa(dp1396
+g2
+S'http://www.reuters.com/article/topNews/idUSTRE50A1NL20090111'
+p1397
+sg4
+S'20090111\xc2\xa010:55 AM EST'
+p1398
+sg6
+S'Israeli planes fly over Egypt to bomb Gaza: witnesses'
+p1399
+sa(dp1400
+g2
+S'http://www.reuters.com/article/bondsNews/idUSLB3306120090111'
+p1401
+sg4
+S'20090111\xc2\xa010:49 AM EST'
+p1402
+sg6
+S'Naftogaz financial future in doubt - auditors'
+p1403
+sa(dp1404
+g2
+S'http://www.reuters.com/article/OILPRD/idUSLB1991620090111'
+p1405
+sg4
+S'20090111\xc2\xa010:49 AM EST'
+p1406
+sg6
+S'Ukraine faces gas price battle despite EU deal'
+p1407
+sa(dp1408
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSLB13026'
+p1409
+sg4
+S'20090111\xc2\xa010:47 AM EST'
+p1410
+sg6
+S'Blast hurts several people at Kuwait mosque - TV'
+p1411
+sa(dp1412
+g2
+S'http://www.reuters.com/article/rbssRetailSpecialty/idUSLB3480020090111'
+p1413
+sg4
+S'20090111\xc2\xa010:47 AM EST'
+p1414
+sg6
+S"UK's Inchcape considers fundraising-paper"
+p1415
+sa(dp1416
+g2
+S'http://www.reuters.com/article/CMPSRV/idUSN1131411720090111'
+p1417
+sg4
+S'20090111\xc2\xa010:46 AM EST'
+p1418
+sg6
+S'RPT-Wall St Wk Ahead: Obama optimism seen blunting earnings woes'
+p1419
+sa(dp1420
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSLB24400'
+p1421
+sg4
+S'20090111\xc2\xa010:45 AM EST'
+p1422
+sg6
+S'Turkish court releases retired general'
+p1423
+sa(dp1424
+g2
+S'http://www.reuters.com/article/rbssAirlines/idUSSHA12345820090111'
+p1425
+sg4
+S'20090111\xc2\xa010:40 AM EST'
+p1426
+sg6
+S'China Eastern says suffered big loss in 2008'
+p1427
+sa(dp1428
+g2
+S'http://www.reuters.com/article/pressRelease/idUS73330+11-Jan-2009+PRN20090111'
+p1429
+sg4
+S'20090111\xc2\xa010:40 AM EST'
+p1430
+sg6
+S'GM Rally Showcases 17 New and Upcoming Cars and Crossovers at North American International...'
+p1431
+sa(dp1432
+g2
+S'http://www.reuters.com/article/pressRelease/idUS73326+11-Jan-2009+MW20090111'
+p1433
+sg4
+S'20090111\xc2\xa010:40 AM EST'
+p1434
+sg6
+S' Progressive Insurance Automotive X PRIZE Announces New Division for Large Automakers to Showcase Fuel-Efficiency'
+p1435
+sa(dp1436
+g2
+S'http://www.reuters.com/article/pressRelease/idUS73277+11-Jan-2009+PRN20090111'
+p1437
+sg4
+S'20090111\xc2\xa010:39 AM EST'
+p1438
+sg6
+S'Hyundai Genesis Named 2009 North American Car of the Year'
+p1439
+sa(dp1440
+g2
+S'http://www.reuters.com/article/pressRelease/idUS72945+11-Jan-2009+PRN20090111'
+p1441
+sg4
+S'20090111\xc2\xa010:33 AM EST'
+p1442
+sg6
+S'2009 North American Car and Truck of the Year Winners Announced'
+p1443
+sa(dp1444
+g2
+S'http://www.reuters.com/article/rbssInsuranceLifeHealth/idUSLB1739920090111'
+p1445
+sg4
+S'20090111\xc2\xa010:32 AM EST'
+p1446
+sg6
+S'Lloyds of London members face capital raising-paper'
+p1447
+sa(dp1448
+g2
+S'http://www.reuters.com/article/politicsNews/idUSTRE50A1QG20090111'
+p1449
+sg4
+S'20090111\xc2\xa010:32 AM EST'
+p1450
+sg6
+S'FACTBOX: Some facts about U.S.-Mexico ties'
+p1451
+sa(dp1452
+g2
+S'http://www.reuters.com/article/mnaNewsEnergy/idUSN0931544420090111'
+p1453
+sg4
+S'20090111\xc2\xa010:30 AM EST'
+p1454
+sg6
+S'RPT-Bay Street Week Ahead-Takeover talk returns to oil patch'
+p1455
+sa(dp1456
+g2
+S'http://www.reuters.com/article/pressRelease/idUS72757+11-Jan-2009+PRN20090111'
+p1457
+sg4
+S'20090111\xc2\xa010:30 AM EST'
+p1458
+sg6
+S'Following Is a Test Release'
+p1459
+sa(dp1460
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSN11473033'
+p1461
+sg4
+S'20090111\xc2\xa010:29 AM EST'
+p1462
+sg6
+S'FACTBOX - Some facts about U.S.-Mexico ties'
+p1463
+sa(dp1464
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSN11323661'
+p1465
+sg4
+S'20090111\xc2\xa010:29 AM EST'
+p1466
+sg6
+S"PREVIEW-Obama and Mexico's Calderon to talk drug war, trade"
+p1467
+sa(dp1468
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSLB26137'
+p1469
+sg4
+S'20090111\xc2\xa010:19 AM EST'
+p1470
+sg6
+S'Israel says shots fired from Syria at Golan troops'
+p1471
+sa(dp1472
+g2
+S'http://www.reuters.com/article/GCA-autos/idUSTRE5084DE20090111'
+p1473
+sg4
+S'20090111\xc2\xa010:15 AM EST'
+p1474
+sg6
+S'Audi says decline in 2009 car sales possible'
+p1475
+sa(dp1476
+g2
+S'http://www.reuters.com/article/rbssAutoTruckManufacturers/idUSLB72712320090111'
+p1477
+sg4
+S'20090111\xc2\xa010:15 AM EST'
+p1478
+sg6
+S'AUTOSHOW-UPDATE 1-Audi says decline in 2009 car sales possible'
+p1479
+sa(dp1480
+g2
+S'http://www.reuters.com/article/GCA-autos/idUSTRE50A1P520090111'
+p1481
+sg4
+S'20090111\xc2\xa010:14 AM EST'
+p1482
+sg6
+S'Johnson Controls says needs flexible labor'
+p1483
+sa(dp1484
+g2
+S'http://www.reuters.com/article/privateEquityConsumerGoodsAndRetail/idUSN1126293320090111'
+p1485
+sg4
+S'20090111\xc2\xa010:13 AM EST'
+p1486
+sg6
+S'AUTOSHOW-UPDATE 1-Johnson Controls says needs flexible labor'
+p1487
+sa(dp1488
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSLB18301'
+p1489
+sg4
+S'20090111\xc2\xa010:04 AM EST'
+p1490
+sg6
+S'Seven killed in Siberian helicopter crash'
+p1491
+sa(dp1492
+g2
+S'http://www.reuters.com/article/rbssAutoTruckManufacturers/idUSN1127377420090111'
+p1493
+sg4
+S'20090111\xc2\xa010:01 AM EST'
+p1494
+sg6
+S'AUTOSHOW-Hyundai takes takes Detroit car-of-the-year award'
+p1495
+sa(dp1496
+g2
+S'http://www.reuters.com/article/globalMarketsNews/idUSTRE50A1NW20090111'
+p1497
+sg4
+S'20090111\xc2\xa010:01 AM EST'
+p1498
+sg6
+S'Rates, earnings, bonds and scandals'
+p1499
+sa(dp1500
+g2
+S'http://www.reuters.com/article/pressRelease/idUS70958+11-Jan-2009+PRN20090111'
+p1501
+sg4
+S'20090111\xc2\xa010:00 AM EST'
+p1502
+sg6
+S'Following Is a Test Release'
+p1503
+sa(dp1504
+g2
+S'http://www.reuters.com/article/pressRelease/idUS70950+11-Jan-2009+PRN20090111'
+p1505
+sg4
+S'20090111\xc2\xa010:00 AM EST'
+p1506
+sg6
+S'New Board of Directors Appointed at Satyam'
+p1507
+sa(dp1508
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSLB732861'
+p1509
+sg4
+S'20090111\xc2\xa009:59 AM EST'
+p1510
+sg6
+S'Israel says Hamas leaders hide in foreign missions'
+p1511
+sa(dp1512
+g2
+S'http://www.reuters.com/article/worldNews/idUSTRE50A1NM20090111'
+p1513
+sg4
+S'20090111\xc2\xa009:57 AM EST'
+p1514
+sg6
+S'TIMELINE: Israeli-Hamas violence since truce ended'
+p1515
+sa(dp1516
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSLB688701'
+p1517
+sg4
+S'20090111\xc2\xa009:49 AM EST'
+p1518
+sg6
+S'TIMELINE-Israeli-Hamas violence since truce ended'
+p1519
+sa(dp1520
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSLB2686'
+p1521
+sg4
+S'20090111\xc2\xa009:45 AM EST'
+p1522
+sg6
+S'Greek ruling party narrows poll gap after reshuffle'
+p1523
+sa(dp1524
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSSP406390'
+p1525
+sg4
+S'20090111\xc2\xa009:39 AM EST'
+p1526
+sg6
+S'Singapore MP set on fire in attack by 70-yr-old'
+p1527
+sa(dp1528
+g2
+S'http://www.reuters.com/article/pressRelease/idUS69629+11-Jan-2009+MW20090111'
+p1529
+sg4
+S'20090111\xc2\xa009:36 AM EST'
+p1530
+sg6
+S' Government of Canada Launches Next Phase of  Dahla Dam Signature Project in Afghanistan'
+p1531
+sa(dp1532
+g2
+S'http://www.reuters.com/article/pressRelease/idUS69192+11-Jan-2009+PRN20090111'
+p1533
+sg4
+S'20090111\xc2\xa009:30 AM EST'
+p1534
+sg6
+S'Following Is a Test Release'
+p1535
+sa(dp1536
+g2
+S'http://www.reuters.com/article/rbssIndustryMaterialsUtilitiesNews/idUSLB72894420090111'
+p1537
+sg4
+S'20090111\xc2\xa009:28 AM EST'
+p1538
+sg6
+S'SGL sees higher sales, lower earnings in 2009-paper'
+p1539
+sa(dp1540
+g2
+S'http://www.reuters.com/article/marketsNews/idUSLA747620090111'
+p1541
+sg4
+S'20090111\xc2\xa009:27 AM EST'
+p1542
+sg6
+S'German coalition eyes plan to revive ailing economy'
+p1543
+sa(dp1544
+g2
+S'http://www.reuters.com/article/OILINT/idUSLB70002720090111'
+p1545
+sg4
+S'20090111\xc2\xa009:24 AM EST'
+p1546
+sg6
+S'First EU monitors arrive at Russian gas station'
+p1547
+sa(dp1548
+g2
+S'http://www.reuters.com/article/worldNews/idUSTRE50A1KZ20090111'
+p1549
+sg4
+S'20090111\xc2\xa009:21 AM EST'
+p1550
+sg6
+S'FACTBOX: Evolving talks over Gaza ceasefire'
+p1551
+sa(dp1552
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSISL338987'
+p1553
+sg4
+S'20090111\xc2\xa009:20 AM EST'
+p1554
+sg6
+S"Afghanistan's Karzai to discuss security in India"
+p1555
+sa(dp1556
+g2
+S'http://www.reuters.com/article/rbssAutoTruckManufacturers/idUSN1151400120090111'
+p1557
+sg4
+S'20090111\xc2\xa009:17 AM EST'
+p1558
+sg6
+S'AUTOSHOW-Toyota to launch pure electric car in U.S. by 2012'
+p1559
+sa(dp1560
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSLB720414'
+p1561
+sg4
+S'20090111\xc2\xa009:16 AM EST'
+p1562
+sg6
+S'Israeli forces edge into Gaza city, Hamas defiant'
+p1563
+sa(dp1564
+g2
+S'http://www.reuters.com/article/rbssWirelessTelecommunicationServices/idUSLB73167820090111'
+p1565
+sg4
+S'20090111\xc2\xa009:13 AM EST'
+p1566
+sg6
+S'Egypt index stable on local buying, foreign selling'
+p1567
+sa(dp1568
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSL829837267'
+p1569
+sg4
+S'20090111\xc2\xa009:12 AM EST'
+p1570
+sg6
+S'FACTBOX-Evolving talks over Gaza ceasefire'
+p1571
+sa(dp1572
+g2
+S'http://www.reuters.com/article/rbssRetailDrugs/idUSLB72757320090111'
+p1573
+sg4
+S'20090111\xc2\xa009:08 AM EST'
+p1574
+sg6
+S'Russia pharmacy chain 36.6 approves new share issue'
+p1575
+sa(dp1576
+g2
+S'http://www.reuters.com/article/rbssFinancialServices - Diversified/idUSLB72653720090111'
+p1577
+sg4
+S'20090111\xc2\xa009:00 AM EST'
+p1578
+sg6
+S'HBOS gets private equity approach for housing units - paper'
+p1579
+sa(dp1580
+g2
+S'http://www.reuters.com/article/privateEquityConsumerGoodsAndRetail/idUSN1127385520090111'
+p1581
+sg4
+S'20090111\xc2\xa009:00 AM EST'
+p1582
+sg6
+S'AUTOSHOW-Honda to launch Insight hybrid in Japan in Feb'
+p1583
+sa(dp1584
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSN11273855'
+p1585
+sg4
+S'20090111\xc2\xa009:00 AM EST'
+p1586
+sg6
+S'AUTOSHOW-Honda to launch Insight hybrid in Japan in Feb'
+p1587
+sa(dp1588
+g2
+S'http://www.reuters.com/article/pressRelease/idUS67079+11-Jan-2009+PRN20090111'
+p1589
+sg4
+S'20090111\xc2\xa009:00 AM EST'
+p1590
+sg6
+S'Toyota Introduces 2010 Camry at the 2009 North American International Auto Show'
+p1591
+sa(dp1592
+g2
+S'http://www.reuters.com/article/pressRelease/idUS67075+11-Jan-2009+PRN20090111'
+p1593
+sg4
+S'20090111\xc2\xa009:00 AM EST'
+p1594
+sg6
+S'Following Is a Test Release'
+p1595
+sa(dp1596
+g2
+S'http://www.reuters.com/article/pressRelease/idUS67072+11-Jan-2009+PRN20090111'
+p1597
+sg4
+S'20090111\xc2\xa009:00 AM EST'
+p1598
+sg6
+S'2010 Honda Insight Hybrid Makes World Debut at the North American International Auto...'
+p1599
+sa(dp1600
+g2
+S'http://www.reuters.com/article/pressRelease/idUS67071+11-Jan-2009+PRN20090111'
+p1601
+sg4
+S'20090111\xc2\xa009:00 AM EST'
+p1602
+sg6
+S"Spotlight is on Professional Photographers' Images With Kodak's Times Square Display"
+p1603
+sa(dp1604
+g2
+S'http://www.reuters.com/article/reutersEdge/idUSTRE50A1I520090111'
+p1605
+sg4
+S'20090111\xc2\xa008:59 AM EST'
+p1606
+sg6
+S'Victory elusive for both Israel and Hamas'
+p1607
+sa(dp1608
+g2
+S'http://www.reuters.com/article/topNews/idUSTRE50A1HW20090111'
+p1609
+sg4
+S'20090111\xc2\xa008:58 AM EST'
+p1610
+sg6
+S'Victory elusive for both Israel and Hamas'
+p1611
+sa(dp1612
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSLB720199'
+p1613
+sg4
+S'20090111\xc2\xa008:57 AM EST'
+p1614
+sg6
+S'Iraq seizes Sunni insurgent leader'
+p1615
+sa(dp1616
+g2
+S'http://www.reuters.com/article/homepageCrisis/idUSL9626678._CH_.2400'
+p1617
+sg4
+S'20090111\xc2\xa008:57 AM EST'
+p1618
+sg6
+S'ANALYSIS-Victory elusive for both Israel and Hamas'
+p1619
+sa(dp1620
+g2
+S'http://www.reuters.com/article/middleeastCrisis/idUSL9626678'
+p1621
+sg4
+S'20090111\xc2\xa008:57 AM EST'
+p1622
+sg6
+S'ANALYSIS-Victory elusive for both Israel and Hamas'
+p1623
+sa(dp1624
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSLB722687'
+p1625
+sg4
+S'20090111\xc2\xa008:51 AM EST'
+p1626
+sg6
+S'FACTBOX-Security developments in Iraq, Jan 11'
+p1627
+sa(dp1628
+g2
+S'http://www.reuters.com/article/companyNewsAndPR/idUSN1150558820090111'
+p1629
+sg4
+S'20090111\xc2\xa008:49 AM EST'
+p1630
+sg6
+S'Tweaked "American Idol" returns with new judge'
+p1631
+sa(dp1632
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSLB641953'
+p1633
+sg4
+S'20090111\xc2\xa008:46 AM EST'
+p1634
+sg6
+S'Israeli forces edge into Gaza city, Hamas defiant'
+p1635
+sa(dp1636
+g2
+S'http://www.reuters.com/article/rbssConsumerElectronics/idUSSEO7768020090111'
+p1637
+sg4
+S'20090111\xc2\xa008:40 AM EST'
+p1638
+sg6
+S'UPDATE 2-Japan PM in Seoul, aims to boost economic ties'
+p1639
+sa(dp1640
+g2
+S'http://www.reuters.com/article/americasPrivateEquityNews/idUSN0931201620090111'
+p1641
+sg4
+S'20090111\xc2\xa008:38 AM EST'
+p1642
+sg6
+S'Morgan Stanley could pay $2-3 billion for Smith Barney'
+p1643
+sa(dp1644
+g2
+S'http://www.reuters.com/article/managementIssues/idUSLB71349820090111'
+p1645
+sg4
+S'20090111\xc2\xa008:36 AM EST'
+p1646
+sg6
+S'Bank of Ireland CEO set to step down - paper'
+p1647
+sa(dp1648
+g2
+S'http://www.reuters.com/article/usDollarRpt/idUSLB53075320090111'
+p1649
+sg4
+S'20090111\xc2\xa008:34 AM EST'
+p1650
+sg6
+S"Russia's Medvedev says govt drags feet over crisis"
+p1651
+sa(dp1652
+g2
+S'http://www.reuters.com/article/pressRelease/idUS65132+11-Jan-2009+PRN20090111'
+p1653
+sg4
+S'20090111\xc2\xa008:30 AM EST'
+p1654
+sg6
+S'Following Is a Test Release'
+p1655
+sa(dp1656
+g2
+S'http://www.reuters.com/article/newsMaps/idUSTRE50A1ER20090111'
+p1657
+sg4
+S'20090111\xc2\xa008:24 AM EST'
+p1658
+sg6
+S'Egyptian police hold 21 Islamists after Gaza rally'
+p1659
+sa(dp1660
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSLB422446'
+p1661
+sg4
+S'20090111\xc2\xa008:20 AM EST'
+p1662
+sg6
+S'Egyptian police hold 21 Islamists after Gaza rally'
+p1663
+sa(dp1664
+g2
+S'http://www.reuters.com/article/pressRelease/idUS64254+11-Jan-2009+PRN20090111'
+p1665
+sg4
+S'20090111\xc2\xa008:15 AM EST'
+p1666
+sg6
+S'The re3 Concept From Johnson Controls Brings Together Innovative Engineering, Sustainable...'
+p1667
+sa(dp1668
+g2
+S'http://www.reuters.com/article/pressRelease/idUS64242+11-Jan-2009+PRN20090111'
+p1669
+sg4
+S'20090111\xc2\xa008:15 AM EST'
+p1670
+sg6
+S'Johnson Controls Gains U.S. Patents for Wireless Communication System That Enables...'
+p1671
+sa(dp1672
+g2
+S'http://www.reuters.com/article/pressRelease/idUS64231+11-Jan-2009+BW20090111'
+p1673
+sg4
+S'20090111\xc2\xa008:15 AM EST'
+p1674
+sg6
+S'Tesla Motors Introduces Roadster Sport'
+p1675
+sa(dp1676
+g2
+S'http://www.reuters.com/article/rbssITServicesConsulting/idUSBOM34258220090111'
+p1677
+sg4
+S'20090111\xc2\xa008:11 AM EST'
+p1678
+sg6
+S'Lazard Asset says has not sought Satyam board seat'
+p1679
+sa(dp1680
+g2
+S'http://www.reuters.com/article/rbssAutoTruckManufacturers/idUSLB70280520090111'
+p1681
+sg4
+S'20090111\xc2\xa008:04 AM EST'
+p1682
+sg6
+S'Orders in German car market sink to 20 yr low-paper'
+p1683
+sa(dp1684
+g2
+S'http://www.reuters.com/article/politicsNews/idUSTRE5086V020090111'
+p1685
+sg4
+S'20090111\xc2\xa008:04 AM EST'
+p1686
+sg6
+S'Obama says will move swiftly on new Iran approach'
+p1687
+sa(dp1688
+g2
+S'http://www.reuters.com/article/CARMFG/idUSLB65384920090111'
+p1689
+sg4
+S'20090111\xc2\xa008:02 AM EST'
+p1690
+sg6
+S'AUTOSHOW-UPDATE 1-Volkswagen car sales rise slightly in 2008'
+p1691
+sa(dp1692
+g2
+S'http://www.reuters.com/article/pressRelease/idUS63436+11-Jan-2009+MW20090111'
+p1693
+sg4
+S'20090111\xc2\xa008:01 AM EST'
+p1694
+sg6
+S' Reminder - Cisco to Host Four Retail-Focused Big Idea Sessions at National Retail Federation Conference'
+p1695
+sa(dp1696
+g2
+S'http://www.reuters.com/article/pressRelease/idUS63402+11-Jan-2009+PRN20090111'
+p1697
+sg4
+S'20090111\xc2\xa008:00 AM EST'
+p1698
+sg6
+S'All-New 2009 Subaru LEGACY CONCEPT Debuts at the 2009 North American International...'
+p1699
+sa(dp1700
+g2
+S'http://www.reuters.com/article/pressRelease/idUS63401+11-Jan-2009+PRN20090111'
+p1701
+sg4
+S'20090111\xc2\xa008:00 AM EST'
+p1702
+sg6
+S'Following Is a Test Release'
+p1703
+sa(dp1704
+g2
+S'http://www.reuters.com/article/pressRelease/idUS63399+11-Jan-2009+PRN20090111'
+p1705
+sg4
+S'20090111\xc2\xa008:00 AM EST'
+p1706
+sg6
+S"The Erosion of America's Manufacturing Base"
+p1707
+sa(dp1708
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSLB436277'
+p1709
+sg4
+S'20090111\xc2\xa007:35 AM EST'
+p1710
+sg6
+S'Israel says Hamas leaders hide in foreign missions'
+p1711
+sa(dp1712
+g2
+S'http://www.reuters.com/article/topNews/idUSTRE5092FJ20090111'
+p1713
+sg4
+S'20090111\xc2\xa007:33 AM EST'
+p1714
+sg6
+S'U.S. spurned Israel plan for Iran reactor attack: report'
+p1715
+sa(dp1716
+g2
+S'http://www.reuters.com/article/pressRelease/idUS61953+11-Jan-2009+PRN20090111'
+p1717
+sg4
+S'20090111\xc2\xa007:30 AM EST'
+p1718
+sg6
+S'Following Is a Test Release'
+p1719
+sa(dp1720
+g2
+S'http://www.reuters.com/article/OILPRD/idUSLB66563220090111'
+p1721
+sg4
+S'20090111\xc2\xa007:20 AM EST'
+p1722
+sg6
+S'Hungary to continue gas supply to Balkans on Sunday'
+p1723
+sa(dp1724
+g2
+S'http://www.reuters.com/article/homepageCrisis/idUSLB641953._CH_.2400'
+p1725
+sg4
+S'20090111\xc2\xa007:19 AM EST'
+p1726
+sg6
+S'Israeli forces edge into Gaza city, Hamas defiant'
+p1727
+sa(dp1728
+g2
+S'http://www.reuters.com/article/GCA-Oil/idUSTRE50A1A720090111'
+p1729
+sg4
+S'20090111\xc2\xa007:13 AM EST'
+p1730
+sg6
+S'TIMELINE: Gas crises between Russia and Ukraine'
+p1731
+sa(dp1732
+g2
+S'http://www.reuters.com/article/euPrivateEquityNews/idUSTRE50A19P20090111'
+p1733
+sg4
+S'20090111\xc2\xa007:11 AM EST'
+p1734
+sg6
+S'Berlusconi says Lufthansa out of Alitalia race now'
+p1735
+sa(dp1736
+g2
+S'http://www.reuters.com/article/newsOne/idUSTRE50A18X20090111'
+p1737
+sg4
+S'20090111\xc2\xa007:07 AM EST'
+p1738
+sg6
+S"Obama says won't delay on Mideast issue"
+p1739
+sa(dp1740
+g2
+S'http://www.reuters.com/article/topNews/idUSTRE5082Y420090111'
+p1741
+sg4
+S'20090111\xc2\xa007:04 AM EST'
+p1742
+sg6
+S'Obama: Financial bailout program needs overhaul'
+p1743
+sa(dp1744
+g2
+S'http://www.reuters.com/article/newsOne/idUSTRE50A18C20090111'
+p1745
+sg4
+S'20090111\xc2\xa007:03 AM EST'
+p1746
+sg6
+S"Obama says won't dictate to Congress on stimulus"
+p1747
+sa(dp1748
+g2
+S'http://www.reuters.com/article/lifestyleMolt/idUSTRE50A17Z20090111'
+p1749
+sg4
+S'20090111\xc2\xa007:01 AM EST'
+p1750
+sg6
+S'Seeking dream job on paradise island? Apply here'
+p1751
+sa(dp1752
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSN11323402'
+p1753
+sg4
+S'20090111\xc2\xa007:00 AM EST'
+p1754
+sg6
+S"Obama says won't delay on Mideast issue"
+p1755
+sa(dp1756
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSN11323279'
+p1757
+sg4
+S'20090111\xc2\xa007:00 AM EST'
+p1758
+sg6
+S'Obama says will move swiftly on new Iran approach'
+p1759
+sa(dp1760
+g2
+S'http://www.reuters.com/article/americasRegulatoryNews/idUSN1132172720090111'
+p1761
+sg4
+S'20090111\xc2\xa007:00 AM EST'
+p1762
+sg6
+S'UPDATE 1-Obama: Financial bailout program needs overhaul'
+p1763
+sa(dp1764
+g2
+S'http://www.reuters.com/article/americasRegulatoryNews/idUSN1131540920090111'
+p1765
+sg4
+S'20090111\xc2\xa007:00 AM EST'
+p1766
+sg6
+S'US financial bailout program needs overhaul -Obama'
+p1767
+sa(dp1768
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSN1133217'
+p1769
+sg4
+S'20090111\xc2\xa007:00 AM EST'
+p1770
+sg6
+S'OBAMA SAYS WILL MOVE SWIFTLY ON NEW STANCE TOWARD IRAN EMPHASIZI'
+p1771
+sa(dp1772
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSN11322670'
+p1773
+sg4
+S'20090111\xc2\xa007:00 AM EST'
+p1774
+sg6
+S'OBAMA: WILL BE ENGAGED EARLY TO TRY TO BREAK DEADLOCK BETWEEN IS'
+p1775
+sa(dp1776
+g2
+S'http://www.reuters.com/article/americasRegulatoryNews/idUSN1053061920090111'
+p1777
+sg4
+S'20090111\xc2\xa007:00 AM EST'
+p1778
+sg6
+S"Obama says won't dictate to Congress on stimulus"
+p1779
+sa(dp1780
+g2
+S'http://www.reuters.com/article/mediaNews/idUSSP41670520090111'
+p1781
+sg4
+S'20090111\xc2\xa007:00 AM EST'
+p1782
+sg6
+S'Seeking dream job on paradise island? Apply here'
+p1783
+sa(dp1784
+g2
+S'http://www.reuters.com/article/pressRelease/idUS60483+11-Jan-2009+PRN20090111'
+p1785
+sg4
+S'20090111\xc2\xa007:00 AM EST'
+p1786
+sg6
+S'Following Is a Test Release'
+p1787
+sa(dp1788
+g2
+S'http://www.reuters.com/article/pressRelease/idUS60415+11-Jan-2009+BW20090111'
+p1789
+sg4
+S'20090111\xc2\xa007:00 AM EST'
+p1790
+sg6
+S'Ryan Kavanaugh, Rosetta Millington Getty Co-Chair Art of Elysium Charity Gala Honoring Eva Mendes and Jim Sheridan'
+p1791
+sa(dp1792
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSLB685873'
+p1793
+sg4
+S'20090111\xc2\xa006:56 AM EST'
+p1794
+sg6
+S'Egyptian police hold 16 Islamists after Gaza rally'
+p1795
+sa(dp1796
+g2
+S'http://www.reuters.com/article/newsMaps/idUSTRE50A17M20090111'
+p1797
+sg4
+S'20090111\xc2\xa006:53 AM EST'
+p1798
+sg6
+S'Somali Islamists clash as Ethiopians withdraw'
+p1799
+sa(dp1800
+g2
+S'http://www.reuters.com/article/sportsNews/idUSTRE50A0E920090111'
+p1801
+sg4
+S'20090111\xc2\xa006:48 AM EST'
+p1802
+sg6
+S'Asia beat Europe to win first Royal Trophy'
+p1803
+sa(dp1804
+g2
+S'http://www.reuters.com/article/homepageCrisis/idUSLB703665._CH_.2400'
+p1805
+sg4
+S'20090111\xc2\xa006:48 AM EST'
+p1806
+sg6
+S'Somali Islamists clash as Ethiopians withdraw'
+p1807
+sa(dp1808
+g2
+S'http://www.reuters.com/article/africaCrisis/idUSLB703665'
+p1809
+sg4
+S'20090111\xc2\xa006:48 AM EST'
+p1810
+sg6
+S'Somali Islamists clash as Ethiopians withdraw'
+p1811
+sa(dp1812
+g2
+S'http://www.reuters.com/article/worldNews/idUSTRE50A16K20090111'
+p1813
+sg4
+S'20090111\xc2\xa006:46 AM EST'
+p1814
+sg6
+S'Taliban commander killed in offensive: Australia'
+p1815
+sa(dp1816
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSB675653'
+p1817
+sg4
+S'20090111\xc2\xa006:46 AM EST'
+p1818
+sg6
+S'Taliban commander killed in offensive-Australia'
+p1819
+sa(dp1820
+g2
+S'http://www.reuters.com/article/newsMaps/idUSTRE50911N20090111'
+p1821
+sg4
+S'20090111\xc2\xa006:39 AM EST'
+p1822
+sg6
+S'India says not reached end of road on Mumbai attacks'
+p1823
+sa(dp1824
+g2
+S'http://www.reuters.com/article/newsMaps/idUSTRE50A15X20090111'
+p1825
+sg4
+S'20090111\xc2\xa006:38 AM EST'
+p1826
+sg6
+S'Pakistan extends house arrest of militant leader'
+p1827
+sa(dp1828
+g2
+S'http://www.reuters.com/article/rbssFoodProcessing/idUSLB69793320090111'
+p1829
+sg4
+S'20090111\xc2\xa006:35 AM EST'
+p1830
+sg6
+S"UK's Primark to probe supplier conditions claims"
+p1831
+sa(dp1832
+g2
+S'http://www.reuters.com/article/lifestyleMolt/idUSTRE50A15A20090111'
+p1833
+sg4
+S'20090111\xc2\xa006:33 AM EST'
+p1834
+sg6
+S'WITNESS: Two weeks under fire in Gaza'
+p1835
+sa(dp1836
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSISL345463'
+p1837
+sg4
+S'20090111\xc2\xa006:32 AM EST'
+p1838
+sg6
+S'Pakistan extends house arrest of militant leader'
+p1839
+sa(dp1840
+g2
+S'http://www.reuters.com/article/pressRelease/idUS58968+11-Jan-2009+PRN20090111'
+p1841
+sg4
+S'20090111\xc2\xa006:30 AM EST'
+p1842
+sg6
+S'Following Is a Test Release'
+p1843
+sa(dp1844
+g2
+S'http://www.reuters.com/article/pressRelease/idUS58963+11-Jan-2009+BW20090111'
+p1845
+sg4
+S'20090111\xc2\xa006:30 AM EST'
+p1846
+sg6
+S'Sustainability and Historic Preservation Panel Series Sponsored by Trust for Architectural Easements Begins January 12, 2009 at U.S. Green Building Council'
+p1847
+sa(dp1848
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSLB697752'
+p1849
+sg4
+S'20090111\xc2\xa006:28 AM EST'
+p1850
+sg6
+S'WITNESS-Two weeks under fire in Gaza'
+p1851
+sa(dp1852
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSLB697791'
+p1853
+sg4
+S'20090111\xc2\xa006:26 AM EST'
+p1854
+sg6
+S'ADVISORY-Witness story from Gaza'
+p1855
+sa(dp1856
+g2
+S'http://www.reuters.com/article/rbssAirlines/idUSLB70061220090111'
+p1857
+sg4
+S'20090111\xc2\xa006:24 AM EST'
+p1858
+sg6
+S'Madrid airport returns to normal after snow'
+p1859
+sa(dp1860
+g2
+S'http://www.reuters.com/article/rbssInvestmentServices/idUSLB34005520090111'
+p1861
+sg4
+S'20090111\xc2\xa006:22 AM EST'
+p1862
+sg6
+S'UBS expects $1.8 bln U.S. fine in tax case-paper'
+p1863
+sa(dp1864
+g2
+S'http://www.reuters.com/article/GCA-Oil/idUSTRE50A12A20090111'
+p1865
+sg4
+S'20090111\xc2\xa006:11 AM EST'
+p1866
+sg6
+S'OPEC could cut output in March if prices fall: Iran'
+p1867
+sa(dp1868
+g2
+S'http://www.reuters.com/article/rbssPreciousMetalsMinerals/idUSLB69512620090111'
+p1869
+sg4
+S'20090111\xc2\xa006:06 AM EST'
+p1870
+sg6
+S'Eskom to resume Medupi construction after cholera scare'
+p1871
+sa(dp1872
+g2
+S'http://www.reuters.com/article/pressRelease/idUS57557+11-Jan-2009+PRN20090111'
+p1873
+sg4
+S'20090111\xc2\xa006:00 AM EST'
+p1874
+sg6
+S'Following Is a Test Release'
+p1875
+sa(dp1876
+g2
+S'http://www.reuters.com/article/pressRelease/idUS57481+11-Jan-2009+PRN20090111'
+p1877
+sg4
+S'20090111\xc2\xa005:59 AM EST'
+p1878
+sg6
+S'GOOD MORNING -- January 11, 2009'
+p1879
+sa(dp1880
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSSP391789'
+p1881
+sg4
+S'20090111\xc2\xa005:56 AM EST'
+p1882
+sg6
+S'Indonesia ferry carrying 250 people sinks-minister'
+p1883
+sa(dp1884
+g2
+S'http://www.reuters.com/article/businessNews/idUSTRE50A0JW20090111'
+p1885
+sg4
+S'20090111\xc2\xa005:51 AM EST'
+p1886
+sg6
+S'Qatar Air says Boeing 787 delay affects expansion'
+p1887
+sa(dp1888
+g2
+S'http://www.reuters.com/article/worldNews/idUSTRE50A05F20090111'
+p1889
+sg4
+S'20090111\xc2\xa005:47 AM EST'
+p1890
+sg6
+S'Japan PM in Seoul, aims to boost economic ties'
+p1891
+sa(dp1892
+g2
+S'http://www.reuters.com/article/worldNews/idUSTRE50A11620090111'
+p1893
+sg4
+S'20090111\xc2\xa005:47 AM EST'
+p1894
+sg6
+S'Japan PM support below 20 percent'
+p1895
+sa(dp1896
+g2
+S'http://www.reuters.com/article/AIRDEF/idUSLB67571820090111'
+p1897
+sg4
+S'20090111\xc2\xa005:40 AM EST'
+p1898
+sg6
+S'UPDATE 2-Qatar Air says Boeing 787 delay affects expansion'
+p1899
+sa(dp1900
+g2
+S'http://www.reuters.com/article/newsMaps/idUSTRE50A0ZK20090111'
+p1901
+sg4
+S'20090111\xc2\xa005:38 AM EST'
+p1902
+sg6
+S'Sri Lanka army fights to finish off Tamil Tigers'
+p1903
+sa(dp1904
+g2
+S'http://www.reuters.com/article/newsMaps/idUSTRE50A0ZN20090111'
+p1905
+sg4
+S'20090111\xc2\xa005:38 AM EST'
+p1906
+sg6
+S'SCENARIOS: Is Sri Lanka about to finish off the Tamil Tigers?'
+p1907
+sa(dp1908
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSCOL140812'
+p1909
+sg4
+S'20090111\xc2\xa005:36 AM EST'
+p1910
+sg6
+S'SCENARIOS-Is Sri Lanka about to finish off the Tamil Tigers?'
+p1911
+sa(dp1912
+g2
+S'http://www.reuters.com/article/homepageCrisis/idUSCOL161785._CH_.2400'
+p1913
+sg4
+S'20090111\xc2\xa005:34 AM EST'
+p1914
+sg6
+S'Sri Lanka army fights to finish off Tamil Tigers'
+p1915
+sa(dp1916
+g2
+S'http://www.reuters.com/article/asiaCrisis/idUSCOL161785'
+p1917
+sg4
+S'20090111\xc2\xa005:34 AM EST'
+p1918
+sg6
+S'Sri Lanka army fights to finish off Tamil Tigers'
+p1919
+sa(dp1920
+g2
+S'http://www.reuters.com/article/OILPRD/idUSDHA39805020090111'
+p1921
+sg4
+S'20090111\xc2\xa005:31 AM EST'
+p1922
+sg6
+S'Chevron raises gas production by 11 pct in Bangladesh'
+p1923
+sa(dp1924
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSJAK54086'
+p1925
+sg4
+S'20090111\xc2\xa005:31 AM EST'
+p1926
+sg6
+S'Indonesia ferry carrying 250 people sinks-minister'
+p1927
+sa(dp1928
+g2
+S'http://www.reuters.com/article/pressRelease/idUS55180+11-Jan-2009+PRN20090111'
+p1929
+sg4
+S'20090111\xc2\xa005:30 AM EST'
+p1930
+sg6
+S'Following Is a Test Release'
+p1931
+sa(dp1932
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSJAK408193'
+p1933
+sg4
+S'20090111\xc2\xa005:15 AM EST'
+p1934
+sg6
+S'Indonesian ferry in accident - transport agency'
+p1935
+sa(dp1936
+g2
+S'http://www.reuters.com/article/sportsNews/idUSTRE50A0XF20090111'
+p1937
+sg4
+S'20090111\xc2\xa005:12 AM EST'
+p1938
+sg6
+S'Stepanek wins Brisbane International'
+p1939
+sa(dp1940
+g2
+S'http://www.reuters.com/article/GCA-Oil/idUSTRE50A0X820090111'
+p1941
+sg4
+S'20090111\xc2\xa005:11 AM EST'
+p1942
+sg6
+S'Kuwait says oil price to rise in few days: paper'
+p1943
+sa(dp1944
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSJAK392319'
+p1945
+sg4
+S'20090111\xc2\xa005:02 AM EST'
+p1946
+sg6
+S'Indonesian ferry with 200 on board missing - radio'
+p1947
+sa(dp1948
+g2
+S'http://www.reuters.com/article/GCA-CreditCrisis/idUSTRE50A0W620090111'
+p1949
+sg4
+S'20090111\xc2\xa005:00 AM EST'
+p1950
+sg6
+S'China premier urges faster spending to speed rebound'
+p1951
+sa(dp1952
+g2
+S'http://www.reuters.com/article/pressRelease/idUS52715+11-Jan-2009+PRN20090111'
+p1953
+sg4
+S'20090111\xc2\xa005:00 AM EST'
+p1954
+sg6
+S'Following Is a Test Release'
+p1955
+sa(dp1956
+g2
+S'http://www.reuters.com/article/pressRelease/idUS52707+11-Jan-2009+BW20090111'
+p1957
+sg4
+S'20090111\xc2\xa005:00 AM EST'
+p1958
+sg6
+S'Granite Digital Introduces "Save A Battery" Line ofAutomotive Battery Chargers, Battery Maintainers, and Battery Testers'
+p1959
+sa(dp1960
+g2
+S'http://www.reuters.com/article/pressRelease/idUS52705+11-Jan-2009+BW20090111'
+p1961
+sg4
+S'20090111\xc2\xa005:00 AM EST'
+p1962
+sg6
+S'Polaris Wireless CTO Speaking at CES 4GMF on Location-Based 4G Mobile Services and Mobile Applications'
+p1963
+sa(dp1964
+g2
+S'http://www.reuters.com/article/newsMaps/idUSTRE50A0UM20090111'
+p1965
+sg4
+S'20090111\xc2\xa004:50 AM EST'
+p1966
+sg6
+S'Sudan security chief warns foreigners of attacks'
+p1967
+sa(dp1968
+g2
+S'http://www.reuters.com/article/newsMaps/idUSTRE50A0UQ20090111'
+p1969
+sg4
+S'20090111\xc2\xa004:50 AM EST'
+p1970
+sg6
+S'Nine killed after dancers clash at Sudan peace rally'
+p1971
+sa(dp1972
+g2
+S'http://www.reuters.com/article/homepageCrisis/idUSLB670036._CH_.2400'
+p1973
+sg4
+S'20090111\xc2\xa004:48 AM EST'
+p1974
+sg6
+S'Sudan security chief warns foreigners of attacks'
+p1975
+sa(dp1976
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSLB670036'
+p1977
+sg4
+S'20090111\xc2\xa004:48 AM EST'
+p1978
+sg6
+S'Sudan security chief warns foreigners of attacks'
+p1979
+sa(dp1980
+g2
+S'http://www.reuters.com/article/rbssRealEstateOperations/idUSLB67659820090111'
+p1981
+sg4
+S'20090111\xc2\xa004:47 AM EST'
+p1982
+sg6
+S'Africa Israel to sell 51 pct of Tel Aviv tower'
+p1983
+sa(dp1984
+g2
+S'http://www.reuters.com/article/homepageCrisis/idUSLB681589._CH_.2400'
+p1985
+sg4
+S'20090111\xc2\xa004:45 AM EST'
+p1986
+sg6
+S'Nine killed after dancers clash at Sudan peace rally'
+p1987
+sa(dp1988
+g2
+S'http://www.reuters.com/article/africaCrisis/idUSLB681589'
+p1989
+sg4
+S'20090111\xc2\xa004:45 AM EST'
+p1990
+sg6
+S'Nine killed after dancers clash at Sudan peace rally'
+p1991
+sa(dp1992
+g2
+S'http://www.reuters.com/article/pressRelease/idUS50838+11-Jan-2009+BW20090111'
+p1993
+sg4
+S'20090111\xc2\xa004:43 AM EST'
+p1994
+sg6
+S'Forrester Report places Tejari in 8th spot in the world among global eSourcing vendors'
+p1995
+sa(dp1996
+g2
+S'http://www.reuters.com/article/rbssIntegratedTelecommunicationsServices/idUSLR41107920090111'
+p1997
+sg4
+S'20090111\xc2\xa004:33 AM EST'
+p1998
+sg6
+S'Swisscom CEO sees Swiss revenue down 2009-paper'
+p1999
+sa(dp2000
+g2
+S'http://www.reuters.com/article/pressRelease/idUS49689+11-Jan-2009+PRN20090111'
+p2001
+sg4
+S'20090111\xc2\xa004:30 AM EST'
+p2002
+sg6
+S'Following Is a Test Release'
+p2003
+sa(dp2004
+g2
+S'http://www.reuters.com/article/newsMaps/idUSTRE50A0SW20090111'
+p2005
+sg4
+S'20090111\xc2\xa004:27 AM EST'
+p2006
+sg6
+S'Japan gives $21 million more to Khmer Rouge trial'
+p2007
+sa(dp2008
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSLB572522'
+p2009
+sg4
+S'20090111\xc2\xa004:22 AM EST'
+p2010
+sg6
+S'ANALYSIS-Arrests stoke Turkish government-military tension'
+p2011
+sa(dp2012
+g2
+S'http://www.reuters.com/article/newsMaps/idUSTRE50A0RZ20090111'
+p2013
+sg4
+S'20090111\xc2\xa004:11 AM EST'
+p2014
+sg6
+S'Support for Japan government hovers below 20 percent: poll'
+p2015
+sa(dp2016
+g2
+S'http://www.reuters.com/article/newsMaps/idUSTRE50A0RI20090111'
+p2017
+sg4
+S'20090111\xc2\xa004:08 AM EST'
+p2018
+sg6
+S"South Africa's Tutu fasts in solidarity with Zimbabweans"
+p2019
+sa(dp2020
+g2
+S'http://www.reuters.com/article/homepageCrisis/idUSLB640138._CH_.2400'
+p2021
+sg4
+S'20090111\xc2\xa004:06 AM EST'
+p2022
+sg6
+S"S.Africa's Tutu fasts in solidarity with Zimbabweans"
+p2023
+sa(dp2024
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSLB640138'
+p2025
+sg4
+S'20090111\xc2\xa004:06 AM EST'
+p2026
+sg6
+S"S.Africa's Tutu fasts in solidarity with Zimbabweans"
+p2027
+sa(dp2028
+g2
+S'http://www.reuters.com/article/sportsNews/idUSTRE50A08T20090111'
+p2029
+sg4
+S'20090111\xc2\xa004:00 AM EST'
+p2030
+sg6
+S'Williams survives scare at Sydney International'
+p2031
+sa(dp2032
+g2
+S'http://www.reuters.com/article/sportsNews/idUSTRE50A0QQ20090111'
+p2033
+sg4
+S'20090111\xc2\xa004:00 AM EST'
+p2034
+sg6
+S'Schnyder knocked out of Hobart International'
+p2035
+sa(dp2036
+g2
+S'http://www.reuters.com/article/pressRelease/idUS47304+11-Jan-2009+PRN20090111'
+p2037
+sg4
+S'20090111\xc2\xa004:00 AM EST'
+p2038
+sg6
+S'Following Is a Test Release'
+p2039
+sa(dp2040
+g2
+S'http://www.reuters.com/article/pressRelease/idUS47228+11-Jan-2009+MW20090111'
+p2041
+sg4
+S'20090111\xc2\xa003:59 AM EST'
+p2042
+sg6
+S' Watches: Sam Bradford & Tim Tebow Awarded Rolex Watches'
+p2043
+sa(dp2044
+g2
+S'http://www.reuters.com/article/mnaNewsTechMediaTelco/idUSBOM21651420090111'
+p2045
+sg4
+S'20090111\xc2\xa003:54 AM EST'
+p2046
+sg6
+S'India names new board at Satyam; founders in jail'
+p2047
+sa(dp2048
+g2
+S'http://www.reuters.com/article/newsMaps/idUSTRE50A0OJ20090111'
+p2049
+sg4
+S'20090111\xc2\xa003:34 AM EST'
+p2050
+sg6
+S'Saudi reformer freed after 8 months in jail'
+p2051
+sa(dp2052
+g2
+S'http://www.reuters.com/article/pressRelease/idUS44897+11-Jan-2009+PRN20090111'
+p2053
+sg4
+S'20090111\xc2\xa003:30 AM EST'
+p2054
+sg6
+S'Following Is a Test Release'
+p2055
+sa(dp2056
+g2
+S'http://www.reuters.com/article/rbssAirlines/idUSLB66816520090111'
+p2057
+sg4
+S'20090111\xc2\xa003:27 AM EST'
+p2058
+sg6
+S"SAA revenue could grow at least 10pct in '09 -report"
+p2059
+sa(dp2060
+g2
+S'http://www.reuters.com/article/topNews/idUSTRE50A0N820090111'
+p2061
+sg4
+S'20090111\xc2\xa003:19 AM EST'
+p2062
+sg6
+S"Q&A;: What's next in the Gaza conflict?"
+p2063
+sa(dp2064
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSLB720646'
+p2065
+sg4
+S'20090111\xc2\xa003:17 AM EST'
+p2066
+sg6
+S"Q&A: What's next in the Gaza conflict?"
+p2067
+sa(dp2068
+g2
+S'http://www.reuters.com/article/sportsNews/idUSTRE50A0MP20090111'
+p2069
+sg4
+S'20090111\xc2\xa003:10 AM EST'
+p2070
+sg6
+S'Klein and Holland given wildcards into Australian Open'
+p2071
+sa(dp2072
+g2
+S'http://www.reuters.com/article/worldNews/idUSTRE50A0M120090111'
+p2073
+sg4
+S'20090111\xc2\xa003:07 AM EST'
+p2074
+sg6
+S'Israeli shells kill 5 Palestinians in Gaza: medics'
+p2075
+sa(dp2076
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSLB675786'
+p2077
+sg4
+S'20090111\xc2\xa003:04 AM EST'
+p2078
+sg6
+S'Israeli shells kill 5 Palestinians in Gaza-medics'
+p2079
+sa(dp2080
+g2
+S'http://www.reuters.com/article/pressRelease/idUS42526+11-Jan-2009+PRN20090111'
+p2081
+sg4
+S'20090111\xc2\xa003:00 AM EST'
+p2082
+sg6
+S'Following Is a Test Release'
+p2083
+sa(dp2084
+g2
+S'http://www.reuters.com/article/rbssAerospaceDefense/idUSLB66645120090111'
+p2085
+sg4
+S'20090111\xc2\xa002:55 AM EST'
+p2086
+sg6
+S'Qatar Airways has not bid for Olympic - exec VP'
+p2087
+sa(dp2088
+g2
+S'http://www.reuters.com/article/rbssAerospaceDefense/idUSLB67195320090111'
+p2089
+sg4
+S'20090111\xc2\xa002:41 AM EST'
+p2090
+sg6
+S'Qatar Air says Boeing 787 delay affected expansion'
+p2091
+sa(dp2092
+g2
+S'http://www.reuters.com/article/asiaPrivateEquityNews/idUSTRE50A0JE20090111'
+p2093
+sg4
+S'20090111\xc2\xa002:40 AM EST'
+p2094
+sg6
+S"India appoints new members to Satyam's board"
+p2095
+sa(dp2096
+g2
+S'http://www.reuters.com/article/rbssITServicesConsulting/idUSSP39269220090111'
+p2097
+sg4
+S'20090111\xc2\xa002:39 AM EST'
+p2098
+sg6
+S"UPDATE 1-India appoints new members to Satyam's board"
+p2099
+sa(dp2100
+g2
+S'http://www.reuters.com/article/pressRelease/idUS41128+11-Jan-2009+PRN20090111'
+p2101
+sg4
+S'20090111\xc2\xa002:30 AM EST'
+p2102
+sg6
+S'Following Is a Test Release'
+p2103
+sa(dp2104
+g2
+S'http://www.reuters.com/article/ousivMolt/idUSTRE50A0HG20090111'
+p2105
+sg4
+S'20090111\xc2\xa002:29 AM EST'
+p2106
+sg6
+S'Sanyo Electric may cut group net profit: media'
+p2107
+sa(dp2108
+g2
+S'http://www.reuters.com/article/ousivMolt/idUSTRE50A0IP20090111'
+p2109
+sg4
+S'20090111\xc2\xa002:29 AM EST'
+p2110
+sg6
+S'Canon had slow holiday sales, sees rough 2009'
+p2111
+sa(dp2112
+g2
+S'http://www.reuters.com/article/rbssOilGasRefiningMarketing/idUSLB66992720090111'
+p2113
+sg4
+S'20090111\xc2\xa002:29 AM EST'
+p2114
+sg6
+S'Russian markets -- Factors to Watch on Jan 11'
+p2115
+sa(dp2116
+g2
+S'http://www.reuters.com/article/rbssOfficeEquipment/idUSSEO28005720090111'
+p2117
+sg4
+S'20090111\xc2\xa002:27 AM EST'
+p2118
+sg6
+S'UPDATE 1-Canon had slow holiday sales, sees rough 2009'
+p2119
+sa(dp2120
+g2
+S'http://www.reuters.com/article/newsMaps/idUSTRE50A0IC20090111'
+p2121
+sg4
+S'20090111\xc2\xa002:27 AM EST'
+p2122
+sg6
+S'Israeli troops kill 10 gunmen in Gaza city: medics'
+p2123
+sa(dp2124
+g2
+S'http://www.reuters.com/article/newsMaps/idUSTRE50A0HQ20090111'
+p2125
+sg4
+S'20090111\xc2\xa002:25 AM EST'
+p2126
+sg6
+S'Israeli troops kill 10 gunmen in Gaza city say medics'
+p2127
+sa(dp2128
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSLB671503'
+p2129
+sg4
+S'20090111\xc2\xa002:21 AM EST'
+p2130
+sg6
+S'Israeli troops kill 10 gunmen in Gaza city -medics'
+p2131
+sa(dp2132
+g2
+S'http://www.reuters.com/article/rbssConsumerElectronics/idUST6588520090111'
+p2133
+sg4
+S'20090111\xc2\xa002:14 AM EST'
+p2134
+sg6
+S'Sanyo Electric may cut group net profit -media'
+p2135
+sa(dp2136
+g2
+S'http://www.reuters.com/article/asiaPrivateEquityNews/idUSTRE50A0GV20090111'
+p2137
+sg4
+S'20090111\xc2\xa002:12 AM EST'
+p2138
+sg6
+S"India appoints new members to Satyam's board-minister"
+p2139
+sa(dp2140
+g2
+S'http://www.reuters.com/article/rbssITServicesConsulting/idUSSP38657520090111'
+p2141
+sg4
+S'20090111\xc2\xa002:11 AM EST'
+p2142
+sg6
+S"India appoints new members to Satyam's board-minister"
+p2143
+sa(dp2144
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSISL384490'
+p2145
+sg4
+S'20090111\xc2\xa002:03 AM EST'
+p2146
+sg6
+S'FACTBOX-Security developments in Pakistan, Jan 11'
+p2147
+sa(dp2148
+g2
+S'http://www.reuters.com/article/gc07/idUSTRE50A0G020090111'
+p2149
+sg4
+S'20090111\xc2\xa002:02 AM EST'
+p2150
+sg6
+S"NEWSMAKER-Gazprom chief does business in Kremlin's shadow"
+p2151
+sa(dp2152
+g2
+S'http://www.reuters.com/article/rbssUtilitiesElectric/idUSPEK8549720090111'
+p2153
+sg4
+S'20090111\xc2\xa002:01 AM EST'
+p2154
+sg6
+S'China hails success in making alumina from coal ash'
+p2155
+sa(dp2156
+g2
+S'http://www.reuters.com/article/pressRelease/idUS39798+11-Jan-2009+PRN20090111'
+p2157
+sg4
+S'20090111\xc2\xa002:00 AM EST'
+p2158
+sg6
+S'Following Is a Test Release'
+p2159
+sa(dp2160
+g2
+S'http://www.reuters.com/article/rbssOilGasExplorationProduction/idUSLA18077120090111'
+p2161
+sg4
+S'20090111\xc2\xa002:00 AM EST'
+p2162
+sg6
+S"NEWSMAKER-Gazprom chief does business in Kremlin's shadow"
+p2163
+sa(dp2164
+g2
+S'http://www.reuters.com/article/newsMaps/idUSTRE50A0FR20090111'
+p2165
+sg4
+S'20090111\xc2\xa002:00 AM EST'
+p2166
+sg6
+S'Pakistan extends house arrest of militant leader'
+p2167
+sa(dp2168
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSISL225181'
+p2169
+sg4
+S'20090111\xc2\xa001:53 AM EST'
+p2170
+sg6
+S'Pakistan extends house arrest of militant leader'
+p2171
+sa(dp2172
+g2
+S'http://www.reuters.com/article/topNews/idUSTRE50A0ER20090111'
+p2173
+sg4
+S'20090111\xc2\xa001:53 AM EST'
+p2174
+sg6
+S'Israel says Egypt should have Gaza border role'
+p2175
+sa(dp2176
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSLB654289'
+p2177
+sg4
+S'20090111\xc2\xa001:50 AM EST'
+p2178
+sg6
+S'Israel says Egypt should have Gaza border role'
+p2179
+sa(dp2180
+g2
+S'http://www.reuters.com/article/sportsNews/idUSTRE50A0C420090111'
+p2181
+sg4
+S'20090111\xc2\xa001:45 AM EST'
+p2182
+sg6
+S'Sharapova pulls out of Australian Open'
+p2183
+sa(dp2184
+g2
+S'http://www.reuters.com/article/rbssSteel/idUSSEO17945820090111'
+p2185
+sg4
+S'20090111\xc2\xa001:41 AM EST'
+p2186
+sg6
+S'UPDATE 1-Nippon Steel could cut output further in downturn'
+p2187
+sa(dp2188
+g2
+S'http://www.reuters.com/article/rbssAutoTruckManufacturers/idUST35772620090111'
+p2189
+sg4
+S'20090111\xc2\xa001:31 AM EST'
+p2190
+sg6
+S'RPT-FACTBOX-Key issues between Japan, South Korea'
+p2191
+sa(dp2192
+g2
+S'http://www.reuters.com/article/pressRelease/idUS38477+11-Jan-2009+PRN20090111'
+p2193
+sg4
+S'20090111\xc2\xa001:30 AM EST'
+p2194
+sg6
+S'Following Is a Test Release'
+p2195
+sa(dp2196
+g2
+S'http://www.reuters.com/article/pressRelease/idUS36779+11-Jan-2009+PRN20090111'
+p2197
+sg4
+S'20090111\xc2\xa001:00 AM EST'
+p2198
+sg6
+S'Following Is a Test Release'
+p2199
+sa(dp2200
+g2
+S'http://www.reuters.com/article/pressRelease/idUS36754+11-Jan-2009+BW20090111'
+p2201
+sg4
+S'20090111\xc2\xa001:00 AM EST'
+p2202
+sg6
+S'Bruker AXS Introduces the M1 MISTRAL Gold and Jewelry Analyzer at ARABLAB 2009'
+p2203
+sa(dp2204
+g2
+S'http://www.reuters.com/article/rbssLeisureRecreation/idUSLB65364420090111'
+p2205
+sg4
+S'20090111\xc2\xa012:43 AM EST'
+p2206
+sg6
+S'PRESS DIGEST - British business - Jan 11'
+p2207
+sa(dp2208
+g2
+S'http://www.reuters.com/article/sportsNews/idUSTRE50A0BD20090111'
+p2209
+sg4
+S'20090111\xc2\xa012:42 AM EST'
+p2210
+sg6
+S'Sharapova pulls out of Australian Open'
+p2211
+sa(dp2212
+g2
+S'http://www.reuters.com/article/pressRelease/idUS34783+11-Jan-2009+PRN20090111'
+p2213
+sg4
+S'20090111\xc2\xa012:30 AM EST'
+p2214
+sg6
+S'Following Is a Test Release'
+p2215
+sa(dp2216
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSDEL498327'
+p2217
+sg4
+S'20090111\xc2\xa012:29 AM EST'
+p2218
+sg6
+S"Nepal's power cuts increased to 16 hours a day"
+p2219
+sa(dp2220
+g2
+S'http://www.reuters.com/article/sportsNews/idUSTRE50A09Z20090111'
+p2221
+sg4
+S'20090111\xc2\xa012:27 AM EST'
+p2222
+sg6
+S'Runaway Ogilvy leaves rivals in deflated mood'
+p2223
+sa(dp2224
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSBKK168618'
+p2225
+sg4
+S'20090111\xc2\xa012:26 AM EST'
+p2226
+sg6
+S'Three killed, one wounded in Thai Muslim south'
+p2227
+sa(dp2228
+g2
+S'http://www.reuters.com/article/rbssOfficeEquipment/idUSSEO8846420090111'
+p2229
+sg4
+S'20090111\xc2\xa012:11 AM EST'
+p2230
+sg6
+S"Canon's holiday sales disappointing: chairman"
+p2231
+sa(dp2232
+g2
+S'http://www.reuters.com/article/pressRelease/idUS32614+11-Jan-2009+PRN20090111'
+p2233
+sg4
+S'20090111\xc2\xa012:01 AM EST'
+p2234
+sg6
+S'Upscale, Tech-Savvy New Taurus Flagship Delivers Style, Substance for Full-Size Sedan...'
+p2235
+sa(dp2236
+g2
+S'http://www.reuters.com/article/pressRelease/idUS32595+11-Jan-2009+BW20090111'
+p2237
+sg4
+S'20090111\xc2\xa012:01 AM EST'
+p2238
+sg6
+S'Census Bureau Daily Feature for Sunday, January 11: Biggest Electronics Show'
+p2239
+sa(dp2240
+g2
+S'http://www.reuters.com/article/pressRelease/idUS32594+11-Jan-2009+BW20090111'
+p2241
+sg4
+S'20090111\xc2\xa012:01 AM EST'
+p2242
+sg6
+S'Harrods Chooses Retaligent for Retail Clienteling Solution'
+p2243
+sa(dp2244
+g2
+S'http://www.reuters.com/article/pressRelease/idUS32591+11-Jan-2009+BW20090111'
+p2245
+sg4
+S'20090111\xc2\xa012:01 AM EST'
+p2246
+sg6
+S'Retaligent Solutions, Inc. Announces Subscription-Based Clienteling for Less Than $1/Day'
+p2247
+sa(dp2248
+g2
+S'http://www.reuters.com/article/pressRelease/idUS32590+11-Jan-2009+BW20090111'
+p2249
+sg4
+S'20090111\xc2\xa012:01 AM EST'
+p2250
+sg6
+S'Saks Incorporated Announces Opening of Saks Fifth Avenue in Jeddah, Saudi Arabia'
+p2251
+sa(dp2252
+g2
+S'http://www.reuters.com/article/pressRelease/idUS32536+11-Jan-2009+PRN20090111'
+p2253
+sg4
+S'20090111\xc2\xa012:00 AM EST'
+p2254
+sg6
+S'Following Is a Test Release'
+p2255
+sa(dp2256
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=ftpo1228961561307'
+p2257
+sg4
+S'20090111\xc2\xa007:56 PM EST'
+p2258
+sg6
+S'Underdogs triumph at Golden Globes'
+p2259
+sa(dp2260
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=ftpo1228961561302'
+p2261
+sg4
+S'20090111\xc2\xa007:16 PM EST'
+p2262
+sg6
+S'Lance Armstrong plays down victory'
+p2263
+sa(dp2264
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=ftpo1228961561272'
+p2265
+sg4
+S'20090111\xc2\xa004:13 PM EST'
+p2266
+sg6
+S'Royal Rajasthani experience'
+p2267
+sa(dp2268
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=ftpo1228961561267'
+p2269
+sg4
+S'20090111\xc2\xa003:57 PM EST'
+p2270
+sg6
+S'Palestinian Israeli musical mix'
+p2271
+sa(dp2272
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=ftpo1228961561262'
+p2273
+sg4
+S'20090111\xc2\xa002:30 PM EST'
+p2274
+sg6
+S'State steps in to save Satyam'
+p2275
+sa(dp2276
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=ftpo1228961561257'
+p2277
+sg4
+S'20090111\xc2\xa002:01 PM EST'
+p2278
+sg6
+S'Europe and Ukraine sign gas deal'
+p2279
+sa(dp2280
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=WAO1228958975864'
+p2281
+sg4
+S'20090111\xc2\xa012:56 PM EST'
+p2282
+sg6
+S" It's carnival time in Argentina"
+p2283
+sa(dp2284
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=ftpo1228961561252'
+p2285
+sg4
+S'20090111\xc2\xa012:11 PM EST'
+p2286
+sg6
+S'Israel hit by rockets'
+p2287
+sa(dp2288
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=ftpo1228961561247'
+p2289
+sg4
+S'20090111\xc2\xa011:02 AM EST'
+p2290
+sg6
+S'Singapore tattoo convention'
+p2291
+sa(dp2292
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=WAO1228958975844'
+p2293
+sg4
+S'20090111\xc2\xa010:49 AM EST'
+p2294
+sg6
+S'Omani yachtsman starts epic voyage '
+p2295
+sa(dp2296
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=ftpo1228961561242'
+p2297
+sg4
+S'20090111\xc2\xa009:59 AM EST'
+p2298
+sg6
+S'World protests for Gaza'
+p2299
+sa(dp2300
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=ftpo1228961561237'
+p2301
+sg4
+S'20090111\xc2\xa008:21 AM EST'
+p2302
+sg6
+S'Shark attacks surfer'
+p2303
+sa(dp2304
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=WAO1228958975839'
+p2305
+sg4
+S'20090111\xc2\xa008:15 AM EST'
+p2306
+sg6
+S'Indonesian passenger ferry sinks'
+p2307
+sa(dp2308
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=WAO1228958975829'
+p2309
+sg4
+S'20090111\xc2\xa006:08 AM EST'
+p2310
+sg6
+S'Camels in the spotlight'
+p2311
+sa.

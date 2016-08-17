@@ -1,0 +1,3085 @@
+(lp0
+(dp1
+S'href'
+p2
+S'http://www.reuters.com/article/2013/12/22/usa-florida-robots-idUSL2N0K105820131222'
+p3
+sS'ts'
+p4
+S'20131221\xc2\xa011:56PM UTC'
+p5
+sS'title'
+p6
+S'UPDATE 1-Robots to the rescue at international trials in Florida'
+p7
+sa(dp8
+g2
+S'http://www.reuters.com/article/2013/12/22/bkn-mavericks-suns-writethru-idUSMTZE9CM6Y385S20131222'
+p9
+sg4
+S'20131221\xc2\xa011:52PM UTC'
+p10
+sg6
+S'Green plays key role in Suns win over Mavs'
+p11
+sa(dp12
+g2
+S'http://www.reuters.com/article/2013/12/22/ny-edgar-bronfman-idUSnBw215016a+100+BSW20131222'
+p13
+sg4
+S'20131221\xc2\xa011:49PM UTC'
+p14
+sg6
+S'Edgar M. Bronfman, Industrialist and Philanthropist, Has Died at 84'
+p15
+sa(dp16
+g2
+S'http://www.reuters.com/article/2013/12/22/bkn-76ers-bucks-writethru-idUSMTZE9CM6WZ93320131222'
+p17
+sg4
+S'20131221\xc2\xa011:44PM UTC'
+p18
+sg6
+S'Bucks snap 5-game losing streak, top 76ers 116-106'
+p19
+sa(dp20
+g2
+S'http://www.reuters.com/article/2013/12/22/emirates-arabtec-expansion-idUSL6N0K101G20131222'
+p21
+sg4
+S'20131221\xc2\xa011:39PM UTC'
+p22
+sg6
+S"UAE's Arabtec plan property arms; eyes M&A;, Egypt"
+p23
+sa(dp24
+g2
+S'http://www.reuters.com/article/2013/12/22/us-space-station-idUSBRE9BE0FR20131222'
+p25
+sg4
+S'20131221\xc2\xa011:37PM UTC'
+p26
+sg6
+S'Astronauts ready for second spacewalk to repair station'
+p27
+sa(dp28
+g2
+S'http://www.reuters.com/article/2013/12/22/space-station-idUSL2N0K00DD20131222'
+p29
+sg4
+S'20131221\xc2\xa011:36PM UTC'
+p30
+sg6
+S"UPDATE 2-Astronauts nail first spacewalk to fix station's cooling system"
+p31
+sa(dp32
+g2
+S'http://www.reuters.com/article/2013/12/22/us-nhl-leafs-idUSBRE9BL01520131222'
+p33
+sg4
+S'20131221\xc2\xa011:30PM UTC'
+p34
+sg6
+S'Red Wings and Maple Leafs bring dormant rivalry back to life'
+p35
+sa(dp36
+g2
+S'http://www.reuters.com/article/2013/12/22/us-usa-obama-golf-idUSBRE9BL01320131222'
+p37
+sg4
+S'20131221\xc2\xa011:28PM UTC'
+p38
+sg6
+S'Obama on friendly confines of golf course as vacation starts'
+p39
+sa(dp40
+g2
+S'http://www.reuters.com/article/2013/12/22/bkn-thunder-spurs-writethru-idUSMTZE9CM6WIL1220131222'
+p41
+sg4
+S'20131221\xc2\xa011:28PM UTC'
+p42
+sg6
+S'Westbrook spurs Thunder win in San Antonio'
+p43
+sa(dp44
+g2
+S'http://www.reuters.com/article/2013/12/22/us-usa-hollywoodpark-closing-idUSBRE9BL01020131222'
+p45
+sg4
+S'20131221\xc2\xa011:27PM UTC'
+p46
+sg6
+S'Hollywood Park horse racing track enters final stretch'
+p47
+sa(dp48
+g2
+S'http://www.reuters.com/article/2013/12/22/china-steel-idUSL3N0K101R20131222'
+p49
+sg4
+S'20131221\xc2\xa011:25PM UTC'
+p50
+sg6
+S'China steel output seen up 2-3 pct to 800 mln T in 2014 - industry'
+p51
+sa(dp52
+g2
+S'http://www.reuters.com/article/2013/12/22/bkc-stanford-michigan-recap-idUSMTZE9CM6WQT1O20131222'
+p53
+sg4
+S'20131221\xc2\xa011:19PM UTC'
+p54
+sg6
+S'Michigan 68, Stanford 65'
+p55
+sa(dp56
+g2
+S'http://www.reuters.com/article/2013/12/22/usa-hollywoodpark-closing-idUSL2N0K104D20131222'
+p57
+sg4
+S'20131221\xc2\xa011:17PM UTC'
+p58
+sg6
+S'Hollywood Park horse racing track enters final stretch'
+p59
+sa(dp60
+g2
+S'http://www.reuters.com/article/2013/12/22/bkc-davidson-northcarolina-recap-idUSMTZE9CL6E6HHL20131222'
+p61
+sg4
+S'20131221\xc2\xa011:16PM UTC'
+p62
+sg6
+S'Wake Forest 59, North Carolina-Greensboro 51'
+p63
+sa(dp64
+g2
+S'http://www.reuters.com/article/2013/12/22/bkn-cavaliers-bulls-writethru-idUSMTZE9CM6UZJW520131222'
+p65
+sg4
+S'20131221\xc2\xa011:05PM UTC'
+p66
+sg6
+S'Bulls bounce back for 100-84 win over Cavaliers'
+p67
+sa(dp68
+g2
+S'http://www.reuters.com/article/2013/12/22/fbc-washingtonstate-coloradostate-recap-idUSMTZE9CL6K43LQ20131222'
+p69
+sg4
+S'20131221\xc2\xa011:05PM UTC'
+p70
+sg6
+S'Colorado State 48, Washington State 45'
+p71
+sa(dp72
+g2
+S'http://www.reuters.com/article/2013/12/22/bkc-notredame-ohiost-recap-idUSMTZE9CM6TS6QO20131222'
+p73
+sg4
+S'20131221\xc2\xa011:03PM UTC'
+p74
+sg6
+S'Ohio State 64, Notre Dame 61'
+p75
+sa(dp76
+g2
+S'http://www.reuters.com/article/2013/12/22/southsudan-unrest-idUSL6N0K008F20131222'
+p77
+sg4
+S'20131221\xc2\xa010:48PM UTC'
+p78
+sg6
+S'UPDATE 4-U.S. aircraft hit by gunfire in South Sudan as conflict worsens'
+p79
+sa(dp80
+g2
+S'http://www.reuters.com/article/2013/12/22/us-usa-tornado-arkansas-idUSBRE9BL00520131222'
+p81
+sg4
+S'20131221\xc2\xa010:41PM UTC'
+p82
+sg6
+S'Suspected tornadoes cause injuries, damage in Arkansas'
+p83
+sa(dp84
+g2
+S'http://www.reuters.com/article/2013/12/22/bkc-xavier-alabama-recap-idUSMTZE9CM6T9SPJ20131222'
+p85
+sg4
+S'20131221\xc2\xa010:41PM UTC'
+p86
+sg6
+S'Xavier 77, Alabama 74'
+p87
+sa(dp88
+g2
+S'http://www.reuters.com/article/2013/12/22/hkn-flyers-bluejackets-writethru-idUSMTZE9CM6TL2Q520131222'
+p89
+sg4
+S'20131221\xc2\xa010:38PM UTC'
+p90
+sg6
+S'Jackets avoid another meltdown against Flyers'
+p91
+sa(dp92
+g2
+S'http://www.reuters.com/article/2013/12/22/bkc-texastech-arizonast-recap-idUSMTZE9CM6QEJLE20131222'
+p93
+sg4
+S'20131221\xc2\xa010:36PM UTC'
+p94
+sg6
+S'Arizona State 76, Texas Tech 62'
+p95
+sa(dp96
+g2
+S'http://www.reuters.com/article/2013/12/22/hkn-ducks-islanders-writethru-idUSMTZE9CM6TL3Q720131222'
+p97
+sg4
+S'20131221\xc2\xa010:35PM UTC'
+p98
+sg6
+S'Ducks win team-record eighth straight'
+p99
+sa(dp100
+g2
+S'http://www.reuters.com/article/2013/12/22/bkn-jazz-bobcats-writethru-idUSMTZE9CM6TS6QP20131222'
+p101
+sg4
+S'20131221\xc2\xa010:32PM UTC'
+p102
+sg6
+S'Jazz rebound from embarrassing loss, edge Bobcats'
+p103
+sa(dp104
+g2
+S'http://www.reuters.com/article/2013/12/22/bkc-louisville-floridainternational-reca-idUSMTZE9CM6PNVK420131222'
+p105
+sg4
+S'20131221\xc2\xa010:28PM UTC'
+p106
+sg6
+S'Louisville 85, Florida International 56'
+p107
+sa(dp108
+g2
+S'http://www.reuters.com/article/2013/12/22/bkn-kings-magic-writethru-idUSMTZE9CM6T9SPI20131222'
+p109
+sg4
+S'20131221\xc2\xa010:26PM UTC'
+p110
+sg6
+S'Thomas plays big for Kings again'
+p111
+sa(dp112
+g2
+S'http://www.reuters.com/article/2013/12/22/hkn-canadiens-predators-writethru-idUSMTZE9CM6UBOSU20131222'
+p113
+sg4
+S'20131221\xc2\xa010:15PM UTC'
+p114
+sg6
+S"Desharnais' OT goal sends Canadiens past Predators"
+p115
+sa(dp116
+g2
+S'http://www.reuters.com/article/2013/12/22/bkn-rockets-pistons-writethru-idUSMTZE9CM6UAISS20131222'
+p117
+sg4
+S'20131221\xc2\xa010:12PM UTC'
+p118
+sg6
+S"Howard's 35 lead Rockets past Pistons"
+p119
+sa(dp120
+g2
+S'http://www.reuters.com/article/2013/12/22/hkn-hurricanes-lightning-writethru-idUSMTZE9CM6TJCQ420131222'
+p121
+sg4
+S'20131221\xc2\xa010:10PM UTC'
+p122
+sg6
+S'Lightning slip past Hurricanes, Peters in OT'
+p123
+sa(dp124
+g2
+S'http://www.reuters.com/article/2013/12/22/china-russia-agriculture-idUSL4N0J308X20131222'
+p125
+sg4
+S'20131221\xc2\xa010:08PM UTC'
+p126
+sg6
+S"INSIGHT-For Chinese farmers, a rare welcome in Russia's Far East"
+p127
+sa(dp128
+g2
+S'http://www.reuters.com/article/2013/12/22/hkn-devils-capitals-writethru-idUSMTZE9CM6SVXPC20131222'
+p129
+sg4
+S'20131221\xc2\xa010:01PM UTC'
+p130
+sg6
+S'Ageless Jagr continues to amaze as Devils beat Caps in OT'
+p131
+sa(dp132
+g2
+S'http://www.reuters.com/article/2013/12/22/bkc-citadel-nebraska-recap-idUSMTZE9CM6VRYY420131222'
+p133
+sg4
+S'20131221\xc2\xa09:55PM UTC'
+p134
+sg6
+S'Nebraska 77, Citadel 62'
+p135
+sa(dp136
+g2
+S'http://www.reuters.com/article/2013/12/22/hkn-sabres-bruins-writethru-idUSMTZE9CM6T4DPD20131222'
+p137
+sg4
+S'20131221\xc2\xa09:55PM UTC'
+p138
+sg6
+S'Bruins continue home dominance with win over Sabres'
+p139
+sa(dp140
+g2
+S'http://www.reuters.com/article/2013/12/22/bkc-illinois-missouri-recap-idUSMTZE9CM6NKBGN20131222'
+p141
+sg4
+S'20131221\xc2\xa09:53PM UTC'
+p142
+sg6
+S'Illinois 65, Missouri 64'
+p143
+sa(dp144
+g2
+S'http://www.reuters.com/article/2013/12/22/in-momsforgunsense-idUSnPnDCfT1Nj+16a+PRN20131222'
+p145
+sg4
+S'20131221\xc2\xa09:49PM UTC'
+p146
+sg6
+S'Statement on the Shooting Death of Colorado High School Student Claire Davis by Moms Demand Action for Gun Sense in America'
+p147
+sa(dp148
+g2
+S'http://www.reuters.com/article/2013/12/22/bkc-temple-liubrooklyn-recap-idUSMTZE9CM6ODVH720131222'
+p149
+sg4
+S'20131221\xc2\xa09:48PM UTC'
+p150
+sg6
+S'Temple 101, LIU Brooklyn 65'
+p151
+sa(dp152
+g2
+S'http://www.reuters.com/article/2013/12/22/fbc-buffalo-sandiegostate-recap-idUSMTZE9CM6RS0O020131222'
+p153
+sg4
+S'20131221\xc2\xa09:44PM UTC'
+p154
+sg6
+S'San Diego State 49, Buffalo 24'
+p155
+sa(dp156
+g2
+S'http://www.reuters.com/article/2013/12/22/nj-lg-electronicsces-idUSnPnCGfSNMn+16e+PRN20131222'
+p157
+sg4
+S'20131221\xc2\xa09:00PM UTC'
+p158
+sg6
+S'LG Announces Advanced Audio Video Lineup with Convenient Smart Features and Explosive Sound'
+p159
+sa(dp160
+g2
+S'http://www.reuters.com/article/2013/12/22/usa-colorado-shooting-idUSL2N0K100Z20131222'
+p161
+sg4
+S'20131221\xc2\xa08:44PM UTC'
+p162
+sg6
+S'UPDATE 2-Colorado student, 17, wounded in school shooting, dies'
+p163
+sa(dp164
+g2
+S'http://www.reuters.com/article/2013/12/22/us-boeing-union-vote-idUSBRE9BK0E520131222'
+p165
+sg4
+S'20131221\xc2\xa08:38PM UTC'
+p166
+sg6
+S'Boeing machinists to vote on revised offer, union says'
+p167
+sa(dp168
+g2
+S'http://www.reuters.com/article/2013/12/22/boeing-union-vote-idUSL2N0K100P20131222'
+p169
+sg4
+S'20131221\xc2\xa08:36PM UTC'
+p170
+sg6
+S'UPDATE 1-Boeing machinists to vote on revised offer, union says'
+p171
+sa(dp172
+g2
+S'http://www.reuters.com/article/2013/12/22/bkc-georgiatech-vanderbilt-recap-idUSMTZE9CL6J3DK020131222'
+p173
+sg4
+S'20131221\xc2\xa08:30PM UTC'
+p174
+sg6
+S'Vanderbilt 76, Georgia Tech 63'
+p175
+sa(dp176
+g2
+S'http://www.reuters.com/article/2013/12/22/bkc-butler-evansville-recap-idUSMTZE9CL6GI0ID20131222'
+p177
+sg4
+S'20131221\xc2\xa08:22PM UTC'
+p178
+sg6
+S'Butler 68, Evansville 59'
+p179
+sa(dp180
+g2
+S'http://www.reuters.com/article/2013/12/22/bkc-rice-houston-recap-idUSMTZE9CL6KT9LU20131222'
+p181
+sg4
+S'20131221\xc2\xa08:05PM UTC'
+p182
+sg6
+S'Houston 54, Rice 52'
+p183
+sa(dp184
+g2
+S'http://www.reuters.com/article/2013/12/22/bkc-vcu-virginiatech-writethru-idUSMTZE9CM6QCXLD20131222'
+p185
+sg4
+S'20131221\xc2\xa07:58PM UTC'
+p186
+sg6
+S'VCU runs Va. Tech out of building'
+p187
+sa(dp188
+g2
+S'http://www.reuters.com/article/2013/12/22/bkn-grizzlies-knicks-writethru-idUSMTZE9CL69MVC320131222'
+p189
+sg4
+S'20131221\xc2\xa07:54PM UTC'
+p190
+sg6
+S'Randolph, Grizzlies have a Garden party'
+p191
+sa(dp192
+g2
+S'http://www.reuters.com/article/2013/12/22/bkc-fresnost-florida-recap-idUSMTZE9CL6KRKLT20131222'
+p193
+sg4
+S'20131221\xc2\xa07:50PM UTC'
+p194
+sg6
+S'Florida 66, Fresno State 49'
+p195
+sa(dp196
+g2
+S'http://www.reuters.com/article/2013/12/22/hkn-avalanche-kings-writethru-idUSMTZE9CM6LPKG320131222'
+p197
+sg4
+S'20131221\xc2\xa07:38PM UTC'
+p198
+sg6
+S'Jones perfect in shootout as Kings edge Avs'
+p199
+sa(dp200
+g2
+S'http://www.reuters.com/article/2013/12/22/fbc-fresnostate-southerncalifornia-recap-idUSMTZE9CM6MQCGJ20131222'
+p201
+sg4
+S'20131221\xc2\xa07:35PM UTC'
+p202
+sg6
+S'Southern California 45, Fresno State 20'
+p203
+sa(dp204
+g2
+S'http://www.reuters.com/article/2013/12/22/us-target-jpmorgan-idUSBRE9BK0D020131222'
+p205
+sg4
+S'20131221\xc2\xa07:34PM UTC'
+p206
+sg6
+S'Millions of Target shoppers face new debit card limits'
+p207
+sa(dp208
+g2
+S'http://www.reuters.com/article/2013/12/22/dc-nasa-spacewalk-idUSnPnDCfSXJ7+16e+PRN20131222'
+p209
+sg4
+S'20131221\xc2\xa07:31PM UTC'
+p210
+sg6
+S'Space Station Crew Removes Ammonia Pump, Next Spacewalk Set for Tuesday'
+p211
+sa(dp212
+g2
+S'http://www.reuters.com/article/2013/12/22/bkc-westerncarolina-georgia-recap-idUSMTZE9CL6E4SHJ20131222'
+p213
+sg4
+S'20131221\xc2\xa07:15PM UTC'
+p214
+sg6
+S'Georgia 65, Western Carolina 63'
+p215
+sa(dp216
+g2
+S'http://www.reuters.com/article/2013/12/22/bkc-middletennesseest-cincinnati-recap-idUSMTZE9CL6EEUHP20131222'
+p217
+sg4
+S'20131221\xc2\xa07:12PM UTC'
+p218
+sg6
+S'Cincinnati 69, Middle Tennessee State 48'
+p219
+sa(dp220
+g2
+S'http://www.reuters.com/article/2013/12/22/fbc-towson-easternwashington-writethru-idUSMTZE9CL6I47JD20131222'
+p221
+sg4
+S'20131221\xc2\xa07:02PM UTC'
+p222
+sg6
+S'Towson advances to FCS title game'
+p223
+sa(dp224
+g2
+S'http://www.reuters.com/article/2013/12/22/sc-johnson-wi-tours-idUSnPnMMfbnHx+162+PRN20131222'
+p225
+sg4
+S'20131221\xc2\xa07:00PM UTC'
+p226
+sg6
+S'On the Longest Night of the Year, SC Johnson Illuminates Historic Frank Lloyd Wright Research Tower'
+p227
+sa(dp228
+g2
+S'http://www.reuters.com/article/2013/12/21/bkc-illinois-missouri-recap-idUSMTZE9CM6NKBGN20131221'
+p229
+sg4
+S'20131221\xc2\xa06:58PM UTC'
+p230
+sg6
+S'Illinois 65, Missouri 64'
+p231
+sa(dp232
+g2
+S'http://www.reuters.com/article/2013/12/21/bkc-rider-villanova-recap-idUSMTZE9CL6K2GLK20131221'
+p233
+sg4
+S'20131221\xc2\xa06:54PM UTC'
+p234
+sg6
+S'Villanova 88, Rider 67'
+p235
+sa(dp236
+g2
+S'http://www.reuters.com/article/2013/12/21/us-target-jpmorgan-idUSBRE9BK0D020131221'
+p237
+sg4
+S'20131221\xc2\xa06:53PM UTC'
+p238
+sg6
+S'Millions of Target shoppers face new debit card limits'
+p239
+sa(dp240
+g2
+S'http://www.reuters.com/article/2013/12/21/fbc-fresnostate-southerncalifornia-recap-idUSMTZE9CM6MQCGJ20131221'
+p241
+sg4
+S'20131221\xc2\xa06:50PM UTC'
+p242
+sg6
+S'Southern California 45, Fresno State 20'
+p243
+sa(dp244
+g2
+S'http://www.reuters.com/article/2013/12/21/bkn-wizards-celtics-writethru-idUSMTZE9CL6BRQF120131221'
+p245
+sg4
+S'20131221\xc2\xa06:50PM UTC'
+p246
+sg6
+S'Wizards rally to beat Celtics'
+p247
+sa(dp248
+g2
+S'http://www.reuters.com/article/2013/12/21/bkc-westerncarolina-georgia-recap-idUSMTZE9CL6E4SHJ20131221'
+p249
+sg4
+S'20131221\xc2\xa06:45PM UTC'
+p250
+sg6
+S'Georgia 65, Western Carolina 63'
+p251
+sa(dp252
+g2
+S'http://www.reuters.com/article/2013/12/21/target-jpmorgan-idUSL2N0K00EU20131221'
+p253
+sg4
+S'20131221\xc2\xa06:41PM UTC'
+p254
+sg6
+S'UPDATE 3-Millions of Target shoppers face new debit card limits'
+p255
+sa(dp256
+g2
+S'http://www.reuters.com/article/2013/12/21/fbc-washingtonstate-coloradostate-recap-idUSMTZE9CL6K43LQ20131221'
+p257
+sg4
+S'20131221\xc2\xa06:40PM UTC'
+p258
+sg6
+S'Colorado State 48, Washington State 45'
+p259
+sa(dp260
+g2
+S'http://www.reuters.com/article/2013/12/21/fbc-towson-easternwashington-recap-idUSMTZE9CL6I47JD20131221'
+p261
+sg4
+S'20131221\xc2\xa06:35PM UTC'
+p262
+sg6
+S'Towson 35, Eastern Washington 31'
+p263
+sa(dp264
+g2
+S'http://www.reuters.com/article/2013/12/21/bkc-maine-providence-recap-idUSMTZE9CL6DCGGN20131221'
+p265
+sg4
+S'20131221\xc2\xa06:31PM UTC'
+p266
+sg6
+S'Providence 94, Maine 70'
+p267
+sa(dp268
+g2
+S'http://www.reuters.com/article/2013/12/21/prntest-idUSnPnHSTEST1+17e+PRN20131221'
+p269
+sg4
+S'20131221\xc2\xa06:30PM UTC'
+p270
+sg6
+S'Following Is a Test Release'
+p271
+sa(dp272
+g2
+S'http://www.reuters.com/article/2013/12/21/hkn-avalanche-kings-recap-idUSMTZE9CM6LPKG320131221'
+p273
+sg4
+S'20131221\xc2\xa06:30PM UTC'
+p274
+sg6
+S'Kings 3, Avalanche 2 (SO)'
+p275
+sa(dp276
+g2
+S'http://www.reuters.com/article/2013/12/21/us-usa-bart-sanfrancisco-idUSBRE9BK0EN20131221'
+p277
+sg4
+S'20131221\xc2\xa06:16PM UTC'
+p278
+sg6
+S'San Francisco rail workers resolve final contract dispute'
+p279
+sa(dp280
+g2
+S'http://www.reuters.com/article/2013/12/21/usa-bart-sanfrancisco-idUSL2N0K00IQ20131221'
+p281
+sg4
+S'20131221\xc2\xa06:11PM UTC'
+p282
+sg6
+S'San Francisco rail workers resolve final contract dispute'
+p283
+sa(dp284
+g2
+S'http://www.reuters.com/article/2013/12/21/bkc-northerniowa-virginia-writethru-idUSMTZE9CL6J8GKC20131221'
+p285
+sg4
+S'20131221\xc2\xa06:06PM UTC'
+p286
+sg6
+S'Virginia rebounds with win over Northern Iowa'
+p287
+sa(dp288
+g2
+S'http://www.reuters.com/article/2013/12/21/bkc-rice-houston-recap-idUSMTZE9CL6KT9LU20131221'
+p289
+sg4
+S'20131221\xc2\xa05:58PM UTC'
+p290
+sg6
+S'Houston 54, Rice 52'
+p291
+sa(dp292
+g2
+S'http://www.reuters.com/article/2013/12/21/idUSnMKW4FzNLa+1d6+MKW20131221'
+p293
+sg4
+S'20131221\xc2\xa05:58PM UTC'
+p294
+sg6
+S'Eng-Clicks Database Growing by the Day'
+p295
+sa(dp296
+g2
+S'http://www.reuters.com/article/2013/12/21/bkc-fresnost-florida-recap-idUSMTZE9CL6KRKLT20131221'
+p297
+sg4
+S'20131221\xc2\xa05:57PM UTC'
+p298
+sg6
+S'Florida 66, Fresno State 49'
+p299
+sa(dp300
+g2
+S'http://www.reuters.com/article/2013/12/21/hkn-coyotes-senators-writethru-idUSMTZE9CL6G2UI120131221'
+p301
+sg4
+S'20131221\xc2\xa05:57PM UTC'
+p302
+sg6
+S"Vermette's hat trick beats Senators"
+p303
+sa(dp304
+g2
+S'http://www.reuters.com/article/2013/12/21/us-russia-khodorkovsky-idUSBRE9BK0AM20131221'
+p305
+sg4
+S'20131221\xc2\xa05:27PM UTC'
+p306
+sg6
+S'Freed from jail, Khodorkovsky reunited with family in Berlin'
+p307
+sa(dp308
+g2
+S'http://www.reuters.com/article/2013/12/21/us-southsudan-unrest-aircraft-idUSBRE9BK07G20131221'
+p309
+sg4
+S'20131221\xc2\xa05:25PM UTC'
+p310
+sg6
+S'U.S. aircraft hit by gunfire in South Sudan as conflict worsens'
+p311
+sa(dp312
+g2
+S'http://www.reuters.com/article/2013/12/21/russia-khodorkovsky-idUSL6N0K00DY20131221'
+p313
+sg4
+S'20131221\xc2\xa05:25PM UTC'
+p314
+sg6
+S'UPDATE 2-Freed from jail, Khodorkovsky reunited with family in Berlin'
+p315
+sa(dp316
+g2
+S'http://www.reuters.com/article/2013/12/21/southsudan-unrest-idUSL6N0K008F20131221'
+p317
+sg4
+S'20131221\xc2\xa05:24PM UTC'
+p318
+sg6
+S'UPDATE 3-U.S. aircraft hit by gunfire in South Sudan as conflict worsens'
+p319
+sa(dp320
+g2
+S'http://www.reuters.com/article/2013/12/21/bkc-riogrande-centralflorida-recap-idUSMTZE9CL6J57K720131221'
+p321
+sg4
+S'20131221\xc2\xa05:22PM UTC'
+p322
+sg6
+S'Central Florida 86, Rio Grande 58'
+p323
+sa(dp324
+g2
+S'http://www.reuters.com/article/2013/12/21/bkc-georgiatech-vanderbilt-recap-idUSMTZE9CL6J3DK020131221'
+p325
+sg4
+S'20131221\xc2\xa05:21PM UTC'
+p326
+sg6
+S'Vanderbilt 76, Georgia Tech 63'
+p327
+sa(dp328
+g2
+S'http://www.reuters.com/article/2013/12/21/hkn-avalanche-kings-preview-idUSMTZE9CL5O7K8R20131221'
+p329
+sg4
+S'20131221\xc2\xa05:09PM UTC'
+p330
+sg6
+S'Preview: Avalanche at Kings'
+p331
+sa(dp332
+g2
+S'http://www.reuters.com/article/2013/12/21/us-cuba-usa-raulcastro-idUSBRE9BK0E820131221'
+p333
+sg4
+S'20131221\xc2\xa05:03PM UTC'
+p334
+sg6
+S'Cuba president notes tone of recent relations with U.S.'
+p335
+sa(dp336
+g2
+S'http://www.reuters.com/article/2013/12/21/bkc-gonzaga-kansasst-recap-idUSMTZE9CL6I0YJC20131221'
+p337
+sg4
+S'20131221\xc2\xa04:58PM UTC'
+p338
+sg6
+S'Kansas State 72, Gonzaga 62'
+p339
+sa(dp340
+g2
+S'http://www.reuters.com/article/2013/12/21/us-boeing-union-vote-idUSBRE9BK0E520131221'
+p341
+sg4
+S'20131221\xc2\xa04:42PM UTC'
+p342
+sg6
+S"Boeing machinists to vote on company's revised offer, union says"
+p343
+sa(dp344
+g2
+S'http://www.reuters.com/article/2013/12/21/boeing-union-vote-idUSL2N0K00G420131221'
+p345
+sg4
+S'20131221\xc2\xa04:33PM UTC'
+p346
+sg6
+S"Boeing machinists to vote on company's revised offer, union says"
+p347
+sa(dp348
+g2
+S'http://www.reuters.com/article/2013/12/21/us-southsudan-unrest-aircraft-usa-idUSBRE9BK0E020131221'
+p349
+sg4
+S'20131221\xc2\xa04:32PM UTC'
+p350
+sg6
+S'Obama warns South Sudan after U.S. military aircraft attacked'
+p351
+sa(dp352
+g2
+S'http://www.reuters.com/article/2013/12/21/bkc-butler-evansville-recap-idUSMTZE9CL6GI0ID20131221'
+p353
+sg4
+S'20131221\xc2\xa04:25PM UTC'
+p354
+sg6
+S'Butler 68, Evansville 59'
+p355
+sa(dp356
+g2
+S'http://www.reuters.com/article/2013/12/21/us-usa-newyork-executive-idUSBRE9BK0DN20131221'
+p357
+sg4
+S'20131221\xc2\xa04:23PM UTC'
+p358
+sg6
+S'NYC PR executive loses job after Twitter post about AIDS in Africa'
+p359
+sa(dp360
+g2
+S'http://www.reuters.com/article/2013/12/21/sport-england-coleman-idUSL3N0K009620131221'
+p361
+sg4
+S'20131221\xc2\xa03:56PM UTC'
+p362
+sg6
+S'Sport-Veteran BBC commentator David Coleman dies, aged 87'
+p363
+sa(dp364
+g2
+S'http://www.reuters.com/article/2013/12/21/hungary-rates-matolcsy-idUSL6N0K00H120131221'
+p365
+sg4
+S'20131221\xc2\xa03:55PM UTC'
+p366
+sg6
+S'UPDATE 1-Hungarian cbank may cut rates to 2.5 pct -governor Matolcsy'
+p367
+sa(dp368
+g2
+S'http://www.reuters.com/article/2013/12/21/hkn-flames-penguins-writethru-idUSMTZE9CL6C8FFK20131221'
+p369
+sg4
+S'20131221\xc2\xa03:50PM UTC'
+p370
+sg6
+S'Penguins run win streak to 7'
+p371
+sa(dp372
+g2
+S'http://www.reuters.com/article/2013/12/21/kosovo-albania-energy-idUSL6N0K00H520131221'
+p373
+sg4
+S'20131221\xc2\xa03:40PM UTC'
+p374
+sg6
+S'Kosovo and Albania sign deal to build major power line'
+p375
+sa(dp376
+g2
+S'http://www.reuters.com/article/2013/12/21/bkc-davidson-northcarolina-recap-idUSMTZE9CL6E6HHL20131221'
+p377
+sg4
+S'20131221\xc2\xa03:35PM UTC'
+p378
+sg6
+S'Wake Forest 59, North Carolina-Greensboro 51'
+p379
+sa(dp380
+g2
+S'http://www.reuters.com/article/2013/12/21/bkn-grizzlies-knicks-writethru-idUSMTZE9CL69MVC320131221'
+p381
+sg4
+S'20131221\xc2\xa03:29PM UTC'
+p382
+sg6
+S'Randolph, Grizzlies have a Garden party'
+p383
+sa(dp384
+g2
+S'http://www.reuters.com/article/2013/12/21/uruguay-finmin-resignation-idUSL2N0K00AM20131221'
+p385
+sg4
+S'20131221\xc2\xa03:26PM UTC'
+p386
+sg6
+S'UPDATE 2-Uruguayan economy minister quits amid airplane sale scandal'
+p387
+sa(dp388
+g2
+S'http://www.reuters.com/article/2013/12/21/us-baseball-rangers-choo-idUSBRE9BK0DA20131221'
+p389
+sg4
+S'20131221\xc2\xa03:11PM UTC'
+p390
+sg6
+S'Choo agrees to seven-year deal with Texas: reports'
+p391
+sa(dp392
+g2
+S'http://www.reuters.com/article/2013/12/21/us-space-station-idUSBRE9BE0FR20131221'
+p393
+sg4
+S'20131221\xc2\xa03:06PM UTC'
+p394
+sg6
+S"Astronauts nail first spacewalk to fix station's cooling system"
+p395
+sa(dp396
+g2
+S'http://www.reuters.com/article/2013/12/21/us-usa-florida-robots-idUSBRE9BK0D420131221'
+p397
+sg4
+S'20131221\xc2\xa03:04PM UTC'
+p398
+sg6
+S'Robots to the rescue at international trials in Florida'
+p399
+sa(dp400
+g2
+S'http://www.reuters.com/article/2013/12/21/space-station-idUSL2N0K00DD20131221'
+p401
+sg4
+S'20131221\xc2\xa03:03PM UTC'
+p402
+sg6
+S"REFILE-UPDATE 1-Astronauts nail first spacewalk to fix station's cooling system"
+p403
+sa(dp404
+g2
+S'http://www.reuters.com/article/2013/12/21/usa-florida-robots-idUSL2N0K00DE20131221'
+p405
+sg4
+S'20131221\xc2\xa02:57PM UTC'
+p406
+sg6
+S'Robots to the rescue at international trials in Florida'
+p407
+sa(dp408
+g2
+S'http://www.reuters.com/article/2013/12/21/bkc-belmont-kentucky-recap-idUSMTZE9CL688TB420131221'
+p409
+sg4
+S'20131221\xc2\xa02:43PM UTC'
+p410
+sg6
+S'Kentucky 93, Belmont 80'
+p411
+sa(dp412
+g2
+S'http://www.reuters.com/article/2013/12/21/us-nba-nets-lopez-idUSBRE9BK0D220131221'
+p413
+sg4
+S'20131221\xc2\xa02:38PM UTC'
+p414
+sg6
+S'Injured Nets center Lopez may miss rest of season'
+p415
+sa(dp416
+g2
+S'http://www.reuters.com/article/2013/12/21/us-britain-lockerbie-idUSBRE9BK0CY20131221'
+p417
+sg4
+S'20131221\xc2\xa02:33PM UTC'
+p418
+sg6
+S'U.S., Britain and Libya promise to pursue Lockerbie case'
+p419
+sa(dp420
+g2
+S'http://www.reuters.com/article/2013/12/21/britain-lockerbie-idUSL6N0K00C320131221'
+p421
+sg4
+S'20131221\xc2\xa02:27PM UTC'
+p422
+sg6
+S'U.S., Britain and Libya promise to pursue Lockerbie case'
+p423
+sa(dp424
+g2
+S'http://www.reuters.com/article/2013/12/21/target-jpmorgan-idUSL2N0K00DV20131221'
+p425
+sg4
+S'20131221\xc2\xa02:16PM UTC'
+p426
+sg6
+S'JPMorgan Chase limits Chase debit cards used at Target stores'
+p427
+sa(dp428
+g2
+S'http://www.reuters.com/article/2013/12/21/us-usa-newjersey-carjacking-idUSBRE9BK0CM20131221'
+p429
+sg4
+S'20131221\xc2\xa02:08PM UTC'
+p430
+sg6
+S'Four men arrested in deadly N.J. shopping mall carjacking'
+p431
+sa(dp432
+g2
+S'http://www.reuters.com/article/2013/12/21/us-czech-coalition-idUSBRE9BK0BW20131221'
+p433
+sg4
+S'20131221\xc2\xa02:06PM UTC'
+p434
+sg6
+S'Czech Christian Democrats accept posts in center-left coalition'
+p435
+sa(dp436
+g2
+S'http://www.reuters.com/article/2013/12/21/hungary-rates-matolcsy-idUSL6N0K00GB20131221'
+p437
+sg4
+S'20131221\xc2\xa02:06PM UTC'
+p438
+sg6
+S'Hungarian cbank may cut rates to 2.5 pct -governor Matolcsy'
+p439
+sa(dp440
+g2
+S'http://www.reuters.com/article/2013/12/21/hungary-fxloans-idUSL6N0K00G720131221'
+p441
+sg4
+S'20131221\xc2\xa02:04PM UTC'
+p442
+sg6
+S'Hungary cbanker urges law to tackle problem of fx loans-HirTV'
+p443
+sa(dp444
+g2
+S'http://www.reuters.com/article/2013/12/21/czech-coalition-idUSL6N0K00FQ20131221'
+p445
+sg4
+S'20131221\xc2\xa02:00PM UTC'
+p446
+sg6
+S'UPDATE 1-Czech Christian Democrats accept posts in centre-left coalition'
+p447
+sa(dp448
+g2
+S'http://www.reuters.com/article/2013/12/21/us-afghanistan-nato-idUSBRE9BK0CD20131221'
+p449
+sg4
+S'20131221\xc2\xa01:58PM UTC'
+p450
+sg6
+S'NATO starts own talks with Afghanistan on post-2014 mission pact'
+p451
+sa(dp452
+g2
+S'http://www.reuters.com/article/2013/12/21/honduras-debt-idUSL2N0K00CV20131221'
+p453
+sg4
+S'20131221\xc2\xa01:58PM UTC'
+p454
+sg6
+S'Honduras approves fiscal reform to head off debt crisis'
+p455
+sa(dp456
+g2
+S'http://www.reuters.com/article/2013/12/21/us-usa-wyoming-land-idUSBRE9BK0C920131221'
+p457
+sg4
+S'20131221\xc2\xa01:47PM UTC'
+p458
+sg6
+S'Wyoming to fight U.S. over Indian reservation land grant'
+p459
+sa(dp460
+g2
+S'http://www.reuters.com/article/2013/12/21/bkc-georgetown-kansas-recap-idUSMTZE9CL68ZGC120131221'
+p461
+sg4
+S'20131221\xc2\xa01:43PM UTC'
+p462
+sg6
+S'Kansas 86, Georgetown 64'
+p463
+sa(dp464
+g2
+S'http://www.reuters.com/article/2013/12/21/usa-wyoming-land-idUSL2N0K008820131221'
+p465
+sg4
+S'20131221\xc2\xa01:41PM UTC'
+p466
+sg6
+S'Wyoming to fight U.S. over Indian reservation land grant'
+p467
+sa(dp468
+g2
+S'http://www.reuters.com/article/2013/12/21/idUSnGNX4qPwP8+1ca+GNW20131221'
+p469
+sg4
+S'20131221\xc2\xa01:37PM UTC'
+p470
+sg6
+S'Larkin Point Introduces Equity Preservation Fund (LPIUX and LPAUX): Investment Objectives Include Capital Appreciation and Capital Preservation'
+p471
+sa(dp472
+g2
+S'http://www.reuters.com/article/2013/12/21/us-greece-government-idUSBRE9BK06R20131221'
+p473
+sg4
+S'20131221\xc2\xa01:34PM UTC'
+p474
+sg6
+S"Fragile Greek coalition's majority shrinks"
+p475
+sa(dp476
+g2
+S'http://www.reuters.com/article/2013/12/21/greece-government-idUSL6N0K008820131221'
+p477
+sg4
+S'20131221\xc2\xa01:32PM UTC'
+p478
+sg6
+S"UPDATE 2-Fragile Greek coalition's majority shrinks"
+p479
+sa(dp480
+g2
+S'http://www.reuters.com/article/2013/12/21/bkc-tulsa-texaschristian-recap-idUSMTZE9CL6874B320131221'
+p481
+sg4
+S'20131221\xc2\xa01:26PM UTC'
+p482
+sg6
+S'Texas Christian 70, Tulsa 58'
+p483
+sa(dp484
+g2
+S'http://www.reuters.com/article/2013/12/21/ut-bob-fuehr-ut-amdmnt-idUSnBw215014a+100+BSW20131221'
+p485
+sg4
+S'20131221\xc2\xa01:20PM UTC'
+p486
+sg6
+S'Bob Fuehr, Running for Utah\xe2\x80\x99s 4th Congressional District, Responds to Judge Shelby\xe2\x80\x99s Ruling on Same-Sex Marriage Ban'
+p487
+sa(dp488
+g2
+S'http://www.reuters.com/article/2013/12/21/us-israel-us-spying-idUSBRE9BK0BS20131221'
+p489
+sg4
+S'20131221\xc2\xa01:06PM UTC'
+p490
+sg6
+S'Israel plays down importance of alleged spying by U.S. and UK'
+p491
+sa(dp492
+g2
+S'http://www.reuters.com/article/2013/12/21/israel-us-spying-idUSL6N0K00EW20131221'
+p493
+sg4
+S'20131221\xc2\xa01:02PM UTC'
+p494
+sg6
+S'Israel plays down importance of alleged spying by U.S. and UK'
+p495
+sa(dp496
+g2
+S'http://www.reuters.com/article/2013/12/21/ca-wb-the-hobbit-idUSnBw215012a+100+BSW20131221'
+p497
+sg4
+S'20131221\xc2\xa012:53PM UTC'
+p498
+sg6
+S'\xe2\x80\x9cThe Hobbit: The Desolation of Smaug\xe2\x80\x9d Crosses $300 Million Worldwide'
+p499
+sa(dp500
+g2
+S'http://www.reuters.com/article/2013/12/21/fl-carnival-rescues-idUSnPnCLfSGs1+16c+PRN20131221'
+p501
+sg4
+S'20131221\xc2\xa012:49PM UTC'
+p502
+sg6
+S'Carnival Valor Rescues Five Mariners From Sinking Yacht Off Coast Of St. Maarten'
+p503
+sa(dp504
+g2
+S'http://www.reuters.com/article/2013/12/21/us-syria-crisis-photographer-idUSBRE9BK09T20131221'
+p505
+sg4
+S'20131221\xc2\xa012:49PM UTC'
+p506
+sg6
+S'Syrian photographer killed in Aleppo'
+p507
+sa(dp508
+g2
+S'http://www.reuters.com/article/2013/12/21/spain-power-idUSL6N0K00DV20131221'
+p509
+sg4
+S'20131221\xc2\xa012:44PM UTC'
+p510
+sg6
+S'UPDATE 1-Spanish power sale showed signs of manipulation -Industry Minister'
+p511
+sa(dp512
+g2
+S'http://www.reuters.com/article/2013/12/21/mi-jeep-winners-idUSnPnDEfNLrF+16d+PRN20131221'
+p513
+sg4
+S'20131221\xc2\xa012:30PM UTC'
+p514
+sg6
+S'The Jeep\xc2\xae Brand Announces "30 Miles of Freedom" Winners'
+p515
+sa(dp516
+g2
+S'http://www.reuters.com/article/2013/12/21/us-southsudan-unrest-africanunion-idUSBRE9BK0B320131221'
+p517
+sg4
+S'20131221\xc2\xa012:03PM UTC'
+p518
+sg6
+S'African Union calls for Christmas truce in South Sudan'
+p519
+sa(dp520
+g2
+S'http://www.reuters.com/article/2013/12/21/us-uruguay-finmin-resignation-idUSBRE9BK0AW20131221'
+p521
+sg4
+S'20131221\xc2\xa012:01PM UTC'
+p522
+sg6
+S'Uruguay economy minister resigns amid airplane scandal - president'
+p523
+sa(dp524
+g2
+S'http://www.reuters.com/article/2013/12/21/southsudan-unrest-africanunion-idUSL6N0K00D920131221'
+p525
+sg4
+S'20131221\xc2\xa012:00PM UTC'
+p526
+sg6
+S'African Union calls for Christmas truce in South Sudan'
+p527
+sa(dp528
+g2
+S'http://www.reuters.com/article/2013/12/21/us-india-usa-idUSBRE9BK0AQ20131221'
+p529
+sg4
+S'20131221\xc2\xa011:56AM UTC'
+p530
+sg6
+S'India transfers diplomat to U.N. in bid to defuse row with U.S.'
+p531
+sa(dp532
+g2
+S'http://www.reuters.com/article/2013/12/21/us-usa-india-timeline-idUSBRE9BK0AU20131221'
+p533
+sg4
+S'20131221\xc2\xa011:56AM UTC'
+p534
+sg6
+S'Timeline: Case of Indian diplomat arrested in New York'
+p535
+sa(dp536
+g2
+S'http://www.reuters.com/article/2013/12/21/russia-khodorkovsky-idUSL6N0K00BR20131221'
+p537
+sg4
+S'20131221\xc2\xa011:41AM UTC'
+p538
+sg6
+S'Freed from jail, Khodorkovsky reunited with family in Berlin'
+p539
+sa(dp540
+g2
+S'http://www.reuters.com/article/2013/12/21/us-palestinians-israel-arabs-idUSBRE9BK0AH20131221'
+p541
+sg4
+S'20131221\xc2\xa011:34AM UTC'
+p542
+sg6
+S'Arab report slams U.S. security ideas for Palestine'
+p543
+sa(dp544
+g2
+S'http://www.reuters.com/article/2013/12/21/us-popmilano-chairman-idUSBRE9BK0AC20131221'
+p545
+sg4
+S'20131221\xc2\xa011:25AM UTC'
+p546
+sg6
+S'Pop Milano appoints ex-minister as head of supervisory board'
+p547
+sa(dp548
+g2
+S'http://www.reuters.com/article/2013/12/21/popmilano-chairman-idUSL6N0K00D220131221'
+p549
+sg4
+S'20131221\xc2\xa011:24AM UTC'
+p550
+sg6
+S'UPDATE 1-Pop Milano appoints ex-minister as head of supervisory board'
+p551
+sa(dp552
+g2
+S'http://www.reuters.com/article/2013/12/21/bkc-riogrande-centralflorida-preview-idUSMTZE9CL62TD9120131221'
+p553
+sg4
+S'20131221\xc2\xa011:20AM UTC'
+p554
+sg6
+S'Preview: Rio Grande at Central Florida'
+p555
+sa(dp556
+g2
+S'http://www.reuters.com/article/2013/12/21/bkc-davidson-northcarolina-preview-idUSMTZE9CL5O3G7F20131221'
+p557
+sg4
+S'20131221\xc2\xa011:18AM UTC'
+p558
+sg6
+S'Preview: Davidson at North Carolina'
+p559
+sa(dp560
+g2
+S'http://www.reuters.com/article/2013/12/21/popmilano-chairman-idUSL6N0K00BY20131221'
+p561
+sg4
+S'20131221\xc2\xa011:15AM UTC'
+p562
+sg6
+S'Pop Milano appoints ex-minister as head of supervisory board'
+p563
+sa(dp564
+g2
+S'http://www.reuters.com/article/2013/12/21/bkc-rice-houston-preview-idUSMTZE9CL62G29020131221'
+p565
+sg4
+S'20131221\xc2\xa011:12AM UTC'
+p566
+sg6
+S'Preview: Rice vs. Houston'
+p567
+sa(dp568
+g2
+S'http://www.reuters.com/article/2013/12/21/us-soccer-england-cardiff-idUSBRE9BK07420131221'
+p569
+sg4
+S'20131221\xc2\xa011:11AM UTC'
+p570
+sg6
+S'Cardiff boss Mackay refuses to resign'
+p571
+sa(dp572
+g2
+S'http://www.reuters.com/article/2013/12/21/bkc-illinois-missouri-preview-idUSMTZE9CL62998Y20131221'
+p573
+sg4
+S'20131221\xc2\xa011:07AM UTC'
+p574
+sg6
+S'Preview: Illinois vs. Missouri'
+p575
+sa(dp576
+g2
+S'http://www.reuters.com/article/2013/12/21/bkc-fresnost-florida-preview-idUSMTZE9CL62618X20131221'
+p577
+sg4
+S'20131221\xc2\xa011:06AM UTC'
+p578
+sg6
+S'Preview: Florida vs. Fresno State'
+p579
+sa(dp580
+g2
+S'http://www.reuters.com/article/2013/12/21/us-lanxess-outlook-idUSBRE9BK0A820131221'
+p581
+sg4
+S'20131221\xc2\xa011:02AM UTC'
+p582
+sg6
+S'German synthetic rubber maker Lanxess sees 2014 earnings gain: report'
+p583
+sa(dp584
+g2
+S'http://www.reuters.com/article/2013/12/21/bkc-temple-liubrooklyn-preview-idUSMTZE9CL61ZB8V20131221'
+p585
+sg4
+S'20131221\xc2\xa011:01AM UTC'
+p586
+sg6
+S'Preview: Temple at LIU Brooklyn'
+p587
+sa(dp588
+g2
+S'http://www.reuters.com/article/2013/12/21/lanxess-outlook-idUSL6N0K00BW20131221'
+p589
+sg4
+S'20131221\xc2\xa011:01AM UTC'
+p590
+sg6
+S'German synthetic rubber maker Lanxess sees 2014 earnings gain-report'
+p591
+sa(dp592
+g2
+S'http://www.reuters.com/article/2013/12/21/us-iraq-violence-idUSBRE9BJ1BA20131221'
+p593
+sg4
+S'20131221\xc2\xa010:50AM UTC'
+p594
+sg6
+S'Iraqi militants kill at least 18 soldiers, including commander'
+p595
+sa(dp596
+g2
+S'http://www.reuters.com/article/2013/12/21/us-alpine-skiing-vonn-idUSBRE9BK0A020131221'
+p597
+sg4
+S'20131221\xc2\xa010:38AM UTC'
+p598
+sg6
+S'Alpine skiing-Knee lets Vonn down again'
+p599
+sa(dp600
+g2
+S'http://www.reuters.com/article/2013/12/21/idUS367300062120131221'
+p601
+sg4
+S'20131221\xc2\xa010:37AM UTC'
+p602
+sg6
+S'Snarking at smarm: Muffling the public debate'
+p603
+sa(dp604
+g2
+S'http://www.reuters.com/article/2013/12/21/us-syria-crisis-surgeon-idUSBRE9BK09V20131221'
+p605
+sg4
+S'20131221\xc2\xa010:23AM UTC'
+p606
+sg6
+S'Body of British surgeon arrives in Lebanon from Syria'
+p607
+sa(dp608
+g2
+S'http://www.reuters.com/article/2013/12/21/syria-crisis-photographer-idUSL6N0K006C20131221'
+p609
+sg4
+S'20131221\xc2\xa010:09AM UTC'
+p610
+sg6
+S'Syrian photographer killed in Aleppo'
+p611
+sa(dp612
+g2
+S'http://www.reuters.com/article/2013/12/21/fredjordan-santaelves-idUSnPnLAfSCmg+16c+PRN20131221'
+p613
+sg4
+S'20131221\xc2\xa010:02AM UTC'
+p614
+sg6
+S'Santa & His Elves Bring Thousands Of Toys To 10,000 Poor Children & Their Families On Skid Row At Fred Jordan Mission'
+p615
+sa(dp616
+g2
+S'http://www.reuters.com/article/2013/12/21/us-carmat-investors-idUSBRE9BK09D20131221'
+p617
+sg4
+S'20131221\xc2\xa09:59AM UTC'
+p618
+sg6
+S'French implant firm Carmat could seek investors: co-founder'
+p619
+sa(dp620
+g2
+S'http://www.reuters.com/article/2013/12/21/us-uruguay-finmin-resignation-idUSBRE9BK09920131221'
+p621
+sg4
+S'20131221\xc2\xa09:57AM UTC'
+p622
+sg6
+S"Uruguay's economy minister quits amid airline scandal: president"
+p623
+sa(dp624
+g2
+S'http://www.reuters.com/article/2013/12/21/uruguay-finmin-resignation-idUSL2N0K00AC20131221'
+p625
+sg4
+S'20131221\xc2\xa09:53AM UTC'
+p626
+sg6
+S"Uruguay's economy minister quits amid airline scandal - president"
+p627
+sa(dp628
+g2
+S'http://www.reuters.com/article/2013/12/21/carmat-investors-idUSL6N0K00AH20131221'
+p629
+sg4
+S'20131221\xc2\xa09:50AM UTC'
+p630
+sg6
+S'French implant firm Carmat could seek investors - co-founder'
+p631
+sa(dp632
+g2
+S'http://www.reuters.com/article/2013/12/21/alpine-skiing-vonn-idUSL3N0K007B20131221'
+p633
+sg4
+S'20131221\xc2\xa09:47AM UTC'
+p634
+sg6
+S'Alpine skiing-Knee lets Vonn down again'
+p635
+sa(dp636
+g2
+S'http://www.reuters.com/article/2013/12/21/us-turkey-corruption-idUSBRE9BJ1AI20131221'
+p637
+sg4
+S'20131221\xc2\xa09:44AM UTC'
+p638
+sg6
+S"Turkey's Erdogan says 'dark alliances' behind graft inquiry"
+p639
+sa(dp640
+g2
+S'http://www.reuters.com/article/2013/12/21/greece-privatisation-gas-idUSL6N0K00AQ20131221'
+p641
+sg4
+S'20131221\xc2\xa09:43AM UTC'
+p642
+sg6
+S'Greece seals natural gas privatisation deal with Azeri company'
+p643
+sa(dp644
+g2
+S'http://www.reuters.com/article/2013/12/21/turkey-corruption-idUSL6N0K002S20131221'
+p645
+sg4
+S'20131221\xc2\xa09:42AM UTC'
+p646
+sg6
+S'UPDATE 3-Turkey\'s Erdogan says "dark alliances" behind graft inquiry'
+p647
+sa(dp648
+g2
+S'http://www.reuters.com/article/2013/12/21/us-egypt-mursi-idUSBRE9BK04G20131221'
+p649
+sg4
+S'20131221\xc2\xa09:40AM UTC'
+p650
+sg6
+S'Egypt sends Mursi to trial in third case'
+p651
+sa(dp652
+g2
+S'http://www.reuters.com/article/2013/12/21/us-somalia-politics-idUSBRE9BK08W20131221'
+p653
+sg4
+S'20131221\xc2\xa09:32AM UTC'
+p654
+sg6
+S'Somali parliament approves new prime minister'
+p655
+sa(dp656
+g2
+S'http://www.reuters.com/article/2013/12/21/britain-coleman-idUSL6N0K00AR20131221'
+p657
+sg4
+S'20131221\xc2\xa09:29AM UTC'
+p658
+sg6
+S'Veteran BBC sports commentator David Coleman dies'
+p659
+sa(dp660
+g2
+S'http://www.reuters.com/article/2013/12/21/us-daimler-tesla-idUSBRE9BK08U20131221'
+p661
+sg4
+S'20131221\xc2\xa09:29AM UTC'
+p662
+sg6
+S'Daimler hedges against Tesla share price decline'
+p663
+sa(dp664
+g2
+S'http://www.reuters.com/article/2013/12/21/daimler-tesla-idUSL6N0K00AF20131221'
+p665
+sg4
+S'20131221\xc2\xa09:26AM UTC'
+p666
+sg6
+S'Daimler hedges against Tesla share price decline'
+p667
+sa(dp668
+g2
+S'http://www.reuters.com/article/2013/12/21/us-deutschebank-litigation-idUSBRE9BK08L20131221'
+p669
+sg4
+S'20131221\xc2\xa09:09AM UTC'
+p670
+sg6
+S'Deutsche Bank says reviewing litigation reserves: report'
+p671
+sa(dp672
+g2
+S'http://www.reuters.com/article/2013/12/21/deutschebank-litigation-idUSL6N0K00A320131221'
+p673
+sg4
+S'20131221\xc2\xa09:08AM UTC'
+p674
+sg6
+S'Deutsche Bank says reviewing litigation reserves-report'
+p675
+sa(dp676
+g2
+S'http://www.reuters.com/article/2013/12/21/spain-power-idUSL6N0K009U20131221'
+p677
+sg4
+S'20131221\xc2\xa09:04AM UTC'
+p678
+sg6
+S'Spanish power sale showed signs of manipulation -Industry Minister'
+p679
+sa(dp680
+g2
+S'http://www.reuters.com/article/2013/12/21/us-usa-mortgage-fee-idUSBRE9BK08I20131221'
+p681
+sg4
+S'20131221\xc2\xa09:02AM UTC'
+p682
+sg6
+S'New housing regulator to delay Fannie, Freddie mortgage fee hikes'
+p683
+sa(dp684
+g2
+S'http://www.reuters.com/article/2013/12/21/usa-mortgage-fee-idUSL2N0K009Y20131221'
+p685
+sg4
+S'20131221\xc2\xa09:00AM UTC'
+p686
+sg6
+S'New U.S. housing regulator to delay Fannie, Freddie mortgage fee hikes'
+p687
+sa(dp688
+g2
+S'http://www.reuters.com/article/2013/12/21/ga-honeybaked-feeding-idUSnPnCLfRYkj+16c+PRN20131221'
+p689
+sg4
+S'20131221\xc2\xa09:00AM UTC'
+p690
+sg6
+S'HoneyBaked and Feeding America Partnership Highlights Season of Giving'
+p691
+sa(dp692
+g2
+S'http://www.reuters.com/article/2013/12/21/idUSnMKW2njZha+1c4+MKW20131221'
+p693
+sg4
+S'20131221\xc2\xa09:00AM UTC'
+p694
+sg6
+S'Top 5 Places to Stay Along the Central California Coast This Holiday Season by VirtualSLO.com'
+p695
+sa(dp696
+g2
+S'http://www.reuters.com/article/2013/12/21/ca-lieff-cabraser-idUSnBw215001a+100+BSW20131221'
+p697
+sg4
+S'20131221\xc2\xa09:00AM UTC'
+p698
+sg6
+S'Lieff Cabraser Announces Class Action Litigation Against OSI Systems, Inc. - OSIS'
+p699
+sa(dp700
+g2
+S'http://www.reuters.com/article/2013/12/21/us-areva-niger-idUSBRE9BK08E20131221'
+p701
+sg4
+S'20131221\xc2\xa08:50AM UTC'
+p702
+sg6
+S'Protesters in Niger capital call on Areva to pay more tax'
+p703
+sa(dp704
+g2
+S'http://www.reuters.com/article/2013/12/21/areva-niger-idUSL6N0K009Q20131221'
+p705
+sg4
+S'20131221\xc2\xa08:48AM UTC'
+p706
+sg6
+S'Protesters in Niger capital call on Areva to pay more tax'
+p707
+sa(dp708
+g2
+S'http://www.reuters.com/article/2013/12/21/us-philippines-unitednations-idUSBRE9BK08A20131221'
+p709
+sg4
+S'20131221\xc2\xa08:48AM UTC'
+p710
+sg6
+S"U.N.'s Ban calls for more funds for typhoon-stricken Philippines"
+p711
+sa(dp712
+g2
+S'http://www.reuters.com/article/2013/12/21/us-germany-spying-idUSBRE9BK07P20131221'
+p713
+sg4
+S'20131221\xc2\xa08:09AM UTC'
+p714
+sg6
+S'Germany should ban U.S. contracting companies passing data to NSA: report'
+p715
+sa(dp716
+g2
+S'http://www.reuters.com/article/2013/12/21/germany-spying-idUSL6N0K008D20131221'
+p717
+sg4
+S'20131221\xc2\xa08:07AM UTC'
+p718
+sg6
+S'Germany should ban U.S. contracting companies passing data to NSA-report'
+p719
+sa(dp720
+g2
+S'http://www.reuters.com/article/2013/12/21/us-china-japan-idUSBRE9BK07K20131221'
+p721
+sg4
+S'20131221\xc2\xa08:06AM UTC'
+p722
+sg6
+S"China voices 'strong concerns' over Japan's military spending"
+p723
+sa(dp724
+g2
+S'http://www.reuters.com/article/2013/12/21/us-boeing-fighters-missouri-idUSBRE9BK07C20131221'
+p725
+sg4
+S'20131221\xc2\xa08:01AM UTC'
+p726
+sg6
+S'Snub of Boeing-made fighter rattles Missouri manufacturers'
+p727
+sa(dp728
+g2
+S'http://www.reuters.com/article/2013/12/21/space-station-idUSL2N0K008X20131221'
+p729
+sg4
+S'20131221\xc2\xa08:00AM UTC'
+p730
+sg6
+S'Snorkel-clad spacewalkers leave station to begin crucial repair'
+p731
+sa(dp732
+g2
+S'http://www.reuters.com/article/2013/12/21/thewoods-new-book-idUSnPnDCfS8hn+168+PRN20131221'
+p733
+sg4
+S'20131221\xc2\xa08:00AM UTC'
+p734
+sg6
+S"New Novel Recalls the Northwest's Radical and Rowdy 1930s"
+p735
+sa(dp736
+g2
+S'http://www.reuters.com/article/2013/12/21/boeing-fighters-missouri-idUSL2N0JZ1UV20131221'
+p737
+sg4
+S'20131221\xc2\xa08:00AM UTC'
+p738
+sg6
+S'Snub of Boeing-made fighter rattles Missouri manufacturers'
+p739
+sa(dp740
+g2
+S'http://www.reuters.com/article/2013/12/21/southsudan-unrest-aircraft-idUSL6N0K008T20131221'
+p741
+sg4
+S'20131221\xc2\xa07:59AM UTC'
+p742
+sg6
+S'U.S. military aircraft hit, soldiers wounded in S. Sudan - Ugandan official'
+p743
+sa(dp744
+g2
+S'http://www.reuters.com/article/2013/12/21/us-vatican-curia-idUSBRE9BK07720131221'
+p745
+sg4
+S'20131221\xc2\xa07:53AM UTC'
+p746
+sg6
+S'Be professional, shun gossip, Pope tells Vatican administrators'
+p747
+sa(dp748
+g2
+S'http://www.reuters.com/article/2013/12/21/vatican-curia-idUSL6N0K005S20131221'
+p749
+sg4
+S'20131221\xc2\xa07:51AM UTC'
+p750
+sg6
+S'Be professional, shun gossip, Pope tells Vatican administrators'
+p751
+sa(dp752
+g2
+S'http://www.reuters.com/article/2013/12/21/us-oil-oapec-saudi-idUSBRE9BK07220131221'
+p753
+sg4
+S'20131221\xc2\xa07:42AM UTC'
+p754
+sg6
+S'Saudi oil minister says market fears oil shortages'
+p755
+sa(dp756
+g2
+S'http://www.reuters.com/article/2013/12/21/us-thailand-protest-idUSBRE9BK04H20131221'
+p757
+sg4
+S'20131221\xc2\xa07:38AM UTC'
+p758
+sg6
+S'Thai opposition party to boycott election'
+p759
+sa(dp760
+g2
+S'http://www.reuters.com/article/2013/12/21/us-usa-obama-vacation-idUSBRE9BK06V20131221'
+p761
+sg4
+S'20131221\xc2\xa07:18AM UTC'
+p762
+sg6
+S'Obamas hit Hawaii for year-end vacation'
+p763
+sa(dp764
+g2
+S'http://www.reuters.com/article/2013/12/21/us-bouygues-cofiroute-stake-vinci-idUSBRE9BK06P20131221'
+p765
+sg4
+S'20131221\xc2\xa07:05AM UTC'
+p766
+sg6
+S'Bouygues unit sells Cofiroute stake to Vinci'
+p767
+sa(dp768
+g2
+S'http://www.reuters.com/article/2013/12/21/greece-government-idUSA8N0AR01U20131221'
+p769
+sg4
+S'20131221\xc2\xa07:04AM UTC'
+p770
+sg6
+S'Greek government passes property tax but loses one deputy'
+p771
+sa(dp772
+g2
+S'http://www.reuters.com/article/2013/12/21/us-usa-politics-newyork-legacy-idUSBRE9BK06N20131221'
+p773
+sg4
+S'20131221\xc2\xa07:03AM UTC'
+p774
+sg6
+S'From crime to cigarettes, Bloomberg leaves his mark on New York'
+p775
+sa(dp776
+g2
+S'http://www.reuters.com/article/2013/12/21/idUSL6N0K008120131221'
+p777
+sg4
+S'20131221\xc2\xa07:02AM UTC'
+p778
+sg6
+S'Bouygues unit sells Cofiroute stake to Vinci'
+p779
+sa(dp780
+g2
+S'http://www.reuters.com/article/2013/12/21/us-india-usa-idUSBRE9BJ19F20131221'
+p781
+sg4
+S'20131221\xc2\xa07:00AM UTC'
+p782
+sg6
+S'India transfers diplomat to U.N. in bid to defuse row with U.S.'
+p783
+sa(dp784
+g2
+S'http://www.reuters.com/article/2013/12/21/us-golf-royal-olazabal-idUSBRE9BK06920131221'
+p785
+sg4
+S'20131221\xc2\xa06:30AM UTC'
+p786
+sg6
+S'Olazabal calls on European Tour to back Royal Trophy'
+p787
+sa(dp788
+g2
+S'http://www.reuters.com/article/2013/12/21/us-southsudan-unrest-idUSBRE9BJ03Z20131221'
+p789
+sg4
+S'20131221\xc2\xa06:27AM UTC'
+p790
+sg6
+S"African mediators to meet South Sudan president's rivals"
+p791
+sa(dp792
+g2
+S'http://www.reuters.com/article/2013/12/21/statoil-greenland-licence-idUSL6N0K006720131221'
+p793
+sg4
+S'20131221\xc2\xa06:23AM UTC'
+p794
+sg6
+S'Statoil wins exploration licence off northeast Greenland'
+p795
+sa(dp796
+g2
+S'http://www.reuters.com/article/2013/12/21/southsudan-unrest-idUSL6N0K002H20131221'
+p797
+sg4
+S'20131221\xc2\xa06:22AM UTC'
+p798
+sg6
+S"African mediators to meet South Sudan president's rivals"
+p799
+sa(dp800
+g2
+S'http://www.reuters.com/article/2013/12/21/us-madagascar-elections-idUSBRE9BK06420131221'
+p801
+sg4
+S'20131221\xc2\xa06:16AM UTC'
+p802
+sg6
+S'Madagascar presidential candidates neck and neck in early count'
+p803
+sa(dp804
+g2
+S'http://www.reuters.com/article/2013/12/21/madagascar-elections-idUSL6N0K003H20131221'
+p805
+sg4
+S'20131221\xc2\xa06:13AM UTC'
+p806
+sg6
+S'Madagascar presidential candidates neck and neck in early count'
+p807
+sa(dp808
+g2
+S'http://www.reuters.com/article/2013/12/21/hkn-devils-capitals-preview-idUSMTZE9CL5O3K8A20131221'
+p809
+sg4
+S'20131221\xc2\xa06:09AM UTC'
+p810
+sg6
+S'Preview: Devils at Capitals'
+p811
+sa(dp812
+g2
+S'http://www.reuters.com/article/2013/12/21/hkn-ducks-islanders-preview-idUSMTZE9CL5O3H7Q20131221'
+p813
+sg4
+S'20131221\xc2\xa06:06AM UTC'
+p814
+sg6
+S'Preview: Ducks at Islanders'
+p815
+sa(dp816
+g2
+S'http://www.reuters.com/article/2013/12/21/us-usa-stocks-weekahead-idUSBRE9BK06020131221'
+p817
+sg4
+S'20131221\xc2\xa06:02AM UTC'
+p818
+sg6
+S"With Fed out of the way, what's next on Wall Street?"
+p819
+sa(dp820
+g2
+S'http://www.reuters.com/article/2013/12/21/hkn-canadiens-predators-preview-idUSMTZE9CL5O3L8Q20131221'
+p821
+sg4
+S'20131221\xc2\xa06:02AM UTC'
+p822
+sg6
+S'Preview: Canadiens at Predators'
+p823
+sa(dp824
+g2
+S'http://www.reuters.com/article/2013/12/21/fbc-towson-easternwashington-preview-idUSMTZE9CL5O3L8P20131221'
+p825
+sg4
+S'20131221\xc2\xa06:02AM UTC'
+p826
+sg6
+S'Preview: Towson at Eastern Washington'
+p827
+sa(dp828
+g2
+S'http://www.reuters.com/article/2013/12/21/bkc-middletennesseest-cincinnati-preview-idUSMTZE9CL5O3L8N20131221'
+p829
+sg4
+S'20131221\xc2\xa06:02AM UTC'
+p830
+sg6
+S'Preview: Middle Tennessee State at Cincinnati'
+p831
+sa(dp832
+g2
+S'http://www.reuters.com/article/2013/12/21/hkn-coyotes-senators-preview-idUSMTZE9CL5O3L8M20131221'
+p833
+sg4
+S'20131221\xc2\xa06:02AM UTC'
+p834
+sg6
+S'Preview: Coyotes at Senators'
+p835
+sa(dp836
+g2
+S'http://www.reuters.com/article/2013/12/21/bkc-mcneesest-sandiegost-preview-idUSMTZE9CL5O3L8K20131221'
+p837
+sg4
+S'20131221\xc2\xa06:02AM UTC'
+p838
+sg6
+S'Preview: McNeese State at San Diego State'
+p839
+sa(dp840
+g2
+S'http://www.reuters.com/article/2013/12/21/hkn-sabres-bruins-preview-idUSMTZE9CL5O3K8H20131221'
+p841
+sg4
+S'20131221\xc2\xa06:02AM UTC'
+p842
+sg6
+S'Preview: Sabres at Bruins'
+p843
+sa(dp844
+g2
+S'http://www.reuters.com/article/2013/12/21/bkc-northerniowa-virginia-preview-idUSMTZE9CL5O3K8G20131221'
+p845
+sg4
+S'20131221\xc2\xa06:02AM UTC'
+p846
+sg6
+S'Preview: Northern Iowa at Virginia'
+p847
+sa(dp848
+g2
+S'http://www.reuters.com/article/2013/12/21/bkc-georgiatech-vanderbilt-preview-idUSMTZE9CL5O3K8F20131221'
+p849
+sg4
+S'20131221\xc2\xa06:02AM UTC'
+p850
+sg6
+S'Preview: Georgia Tech at Vanderbilt'
+p851
+sa(dp852
+g2
+S'http://www.reuters.com/article/2013/12/21/hkn-flyers-bluejackets-preview-idUSMTZE9CL5O3K8E20131221'
+p853
+sg4
+S'20131221\xc2\xa06:02AM UTC'
+p854
+sg6
+S'Preview: Flyers at Blue Jackets'
+p855
+sa(dp856
+g2
+S'http://www.reuters.com/article/2013/12/21/bkc-tulsa-texaschristian-preview-idUSMTZE9CL5O3K8D20131221'
+p857
+sg4
+S'20131221\xc2\xa06:02AM UTC'
+p858
+sg6
+S'Preview: Tulsa at Texas Christian'
+p859
+sa(dp860
+g2
+S'http://www.reuters.com/article/2013/12/21/hkn-hurricanes-lightning-preview-idUSMTZE9CL5O3K8C20131221'
+p861
+sg4
+S'20131221\xc2\xa06:02AM UTC'
+p862
+sg6
+S'Preview: Hurricanes at Lightning'
+p863
+sa(dp864
+g2
+S'http://www.reuters.com/article/2013/12/21/bkc-georgetown-kansas-preview-idUSMTZE9CL5O3J8920131221'
+p865
+sg4
+S'20131221\xc2\xa06:02AM UTC'
+p866
+sg6
+S'Preview: Georgetown at Kansas'
+p867
+sa(dp868
+g2
+S'http://www.reuters.com/article/2013/12/21/bkn-76ers-bucks-preview-idUSMTZE9CL5O3K8I20131221'
+p869
+sg4
+S'20131221\xc2\xa06:02AM UTC'
+p870
+sg6
+S'Preview: 76ers at Bucks'
+p871
+sa(dp872
+g2
+S'http://www.reuters.com/article/2013/12/21/bkn-lakers-warriors-preview-idUSMTZE9CL5O3J8620131221'
+p873
+sg4
+S'20131221\xc2\xa06:02AM UTC'
+p874
+sg6
+S'Preview: Lakers at Warriors'
+p875
+sa(dp876
+g2
+S'http://www.reuters.com/article/2013/12/21/bkn-mavericks-suns-preview-idUSMTZE9CL5O3J8520131221'
+p877
+sg4
+S'20131221\xc2\xa06:02AM UTC'
+p878
+sg6
+S'Preview: Mavericks at Suns'
+p879
+sa(dp880
+g2
+S'http://www.reuters.com/article/2013/12/21/bkc-gonzaga-kansasst-preview-idUSMTZE9CL5O3J8420131221'
+p881
+sg4
+S'20131221\xc2\xa06:02AM UTC'
+p882
+sg6
+S'Preview: Gonzaga vs. Kansas State'
+p883
+sa(dp884
+g2
+S'http://www.reuters.com/article/2013/12/21/bkn-grizzlies-knicks-preview-idUSMTZE9CL5O3J8320131221'
+p885
+sg4
+S'20131221\xc2\xa06:02AM UTC'
+p886
+sg6
+S'Preview: Grizzlies at Knicks'
+p887
+sa(dp888
+g2
+S'http://www.reuters.com/article/2013/12/21/bkn-thunder-spurs-preview-idUSMTZE9CL5O3J8220131221'
+p889
+sg4
+S'20131221\xc2\xa06:02AM UTC'
+p890
+sg6
+S'Preview: Thunder at Spurs'
+p891
+sa(dp892
+g2
+S'http://www.reuters.com/article/2013/12/21/bkc-brighamyoung-oregon-preview-idUSMTZE9CL5O3J8120131221'
+p893
+sg4
+S'20131221\xc2\xa06:02AM UTC'
+p894
+sg6
+S'Preview: Brigham Young at Oregon'
+p895
+sa(dp896
+g2
+S'http://www.reuters.com/article/2013/12/21/hkn-redwings-mapleleafs-preview-idUSMTZE9CL5O3I8020131221'
+p897
+sg4
+S'20131221\xc2\xa06:02AM UTC'
+p898
+sg6
+S'Preview: Red Wings at Maple Leafs'
+p899
+sa(dp900
+g2
+S'http://www.reuters.com/article/2013/12/21/bkc-rider-villanova-preview-idUSMTZE9CL5O3J8820131221'
+p901
+sg4
+S'20131221\xc2\xa06:02AM UTC'
+p902
+sg6
+S'Preview: Rider at Villanova'
+p903
+sa(dp904
+g2
+S'http://www.reuters.com/article/2013/12/21/bkc-belmont-kentucky-preview-idUSMTZE9CL5O3J8720131221'
+p905
+sg4
+S'20131221\xc2\xa06:02AM UTC'
+p906
+sg6
+S'Preview: Belmont at Kentucky'
+p907
+sa(dp908
+g2
+S'http://www.reuters.com/article/2013/12/21/bkc-notredame-ohiost-preview-idUSMTZE9CL5O3I7V20131221'
+p909
+sg4
+S'20131221\xc2\xa06:02AM UTC'
+p910
+sg6
+S'Preview: Ohio State vs. Notre Dame'
+p911
+sa(dp912
+g2
+S'http://www.reuters.com/article/2013/12/21/hkn-stars-sharks-preview-idUSMTZE9CL5O3I7U20131221'
+p913
+sg4
+S'20131221\xc2\xa06:02AM UTC'
+p914
+sg6
+S'Preview: Stars at Sharks'
+p915
+sa(dp916
+g2
+S'http://www.reuters.com/article/2013/12/21/bkc-texastech-arizonast-preview-idUSMTZE9CL5O3I7T20131221'
+p917
+sg4
+S'20131221\xc2\xa06:02AM UTC'
+p918
+sg6
+S'Preview: Texas Tech at Arizona State'
+p919
+sa(dp920
+g2
+S'http://www.reuters.com/article/2013/12/21/bkc-xavier-alabama-preview-idUSMTZE9CL5O3I7S20131221'
+p921
+sg4
+S'20131221\xc2\xa06:02AM UTC'
+p922
+sg6
+S'Preview: Xavier at Alabama'
+p923
+sa(dp924
+g2
+S'http://www.reuters.com/article/2013/12/21/bkc-westerncarolina-georgia-preview-idUSMTZE9CL5O3I7Z20131221'
+p925
+sg4
+S'20131221\xc2\xa06:02AM UTC'
+p926
+sg6
+S'Preview: Western Carolina at Georgia'
+p927
+sa(dp928
+g2
+S'http://www.reuters.com/article/2013/12/21/hkn-flames-penguins-preview-idUSMTZE9CL5O3I7Y20131221'
+p929
+sg4
+S'20131221\xc2\xa06:02AM UTC'
+p930
+sg6
+S'Preview: Flames at Penguins'
+p931
+sa(dp932
+g2
+S'http://www.reuters.com/article/2013/12/21/bkc-stanford-michigan-preview-idUSMTZE9CL5O3I7X20131221'
+p933
+sg4
+S'20131221\xc2\xa06:02AM UTC'
+p934
+sg6
+S'Preview: Stanford vs. Michigan'
+p935
+sa(dp936
+g2
+S'http://www.reuters.com/article/2013/12/21/bkn-kings-magic-preview-idUSMTZE9CL5O3I7W20131221'
+p937
+sg4
+S'20131221\xc2\xa06:02AM UTC'
+p938
+sg6
+S'Preview: Kings at Magic'
+p939
+sa(dp940
+g2
+S'http://www.reuters.com/article/2013/12/21/bkn-cavaliers-bulls-preview-idUSMTZE9CL5O3H7I20131221'
+p941
+sg4
+S'20131221\xc2\xa06:02AM UTC'
+p942
+sg6
+S'Preview: Cavaliers at Bulls'
+p943
+sa(dp944
+g2
+S'http://www.reuters.com/article/2013/12/21/bkc-marquette-newmexico-preview-idUSMTZE9CL5O3H7P20131221'
+p945
+sg4
+S'20131221\xc2\xa06:02AM UTC'
+p946
+sg6
+S'Preview: Marquette vs. New Mexico'
+p947
+sa(dp948
+g2
+S'http://www.reuters.com/article/2013/12/21/bkc-oklahomast-colorado-preview-idUSMTZE9CL5O3H7R20131221'
+p949
+sg4
+S'20131221\xc2\xa06:02AM UTC'
+p950
+sg6
+S'Preview: Oklahoma State vs. Colorado'
+p951
+sa(dp952
+g2
+S'http://www.reuters.com/article/2013/12/21/bkc-louisville-floridainternational-prev-idUSMTZE9CL5O3H7O20131221'
+p953
+sg4
+S'20131221\xc2\xa06:02AM UTC'
+p954
+sg6
+S'Preview: Louisville at Florida International'
+p955
+sa(dp956
+g2
+S'http://www.reuters.com/article/2013/12/21/bkn-jazz-bobcats-preview-idUSMTZE9CL5O3H7N20131221'
+p957
+sg4
+S'20131221\xc2\xa06:02AM UTC'
+p958
+sg6
+S'Preview: Jazz at Bobcats'
+p959
+sa(dp960
+g2
+S'http://www.reuters.com/article/2013/12/21/bkc-maine-providence-preview-idUSMTZE9CL5O3H7M20131221'
+p961
+sg4
+S'20131221\xc2\xa06:02AM UTC'
+p962
+sg6
+S'Preview: Maine at Providence'
+p963
+sa(dp964
+g2
+S'http://www.reuters.com/article/2013/12/21/bkc-butler-evansville-preview-idUSMTZE9CL5O3H7L20131221'
+p965
+sg4
+S'20131221\xc2\xa06:02AM UTC'
+p966
+sg6
+S'Preview: Butler at Evansville'
+p967
+sa(dp968
+g2
+S'http://www.reuters.com/article/2013/12/21/bkn-nuggets-clippers-preview-idUSMTZE9CL5O3H7K20131221'
+p969
+sg4
+S'20131221\xc2\xa06:02AM UTC'
+p970
+sg6
+S'Preview: Nuggets at Clippers'
+p971
+sa(dp972
+g2
+S'http://www.reuters.com/article/2013/12/21/hkn-blues-oilers-preview-idUSMTZE9CL5O3H7J20131221'
+p973
+sg4
+S'20131221\xc2\xa06:02AM UTC'
+p974
+sg6
+S'Preview: Blues at Oilers'
+p975
+sa(dp976
+g2
+S'http://www.reuters.com/article/2013/12/21/bkn-wizards-celtics-preview-idUSMTZE9CL5O3G7H20131221'
+p977
+sg4
+S'20131221\xc2\xa06:02AM UTC'
+p978
+sg6
+S'Preview: Wizards at Celtics'
+p979
+sa(dp980
+g2
+S'http://www.reuters.com/article/2013/12/21/bkn-rockets-pistons-preview-idUSMTZE9CL5O3G7G20131221'
+p981
+sg4
+S'20131221\xc2\xa06:02AM UTC'
+p982
+sg6
+S'Preview: Rockets at Pistons'
+p983
+sa(dp984
+g2
+S'http://www.reuters.com/article/2013/12/21/us-france-china-chateau-idUSBRE9BK05W20131221'
+p985
+sg4
+S'20131221\xc2\xa06:00AM UTC'
+p986
+sg6
+S'Chinese hotelier feared dead in French helicopter crash'
+p987
+sa(dp988
+g2
+S'http://www.reuters.com/article/2013/12/21/nj-glowpoint-the-voic-idUSnPnLAfQLcx+16c+PRN20131221'
+p989
+sg4
+S'20131221\xc2\xa06:00AM UTC'
+p990
+sg6
+S'A Holiday Video Call: Singer Caroline Pennell From "The Voice" Brings Cheer to the Children at St. Joseph\'s Hospital'
+p991
+sa(dp992
+g2
+S'http://www.reuters.com/article/2013/12/21/idUSnMKW7BD3Da+1da+MKW20131221'
+p993
+sg4
+S'20131221\xc2\xa06:00AM UTC'
+p994
+sg6
+S'Top 6 Local Breweries in San Diego Reviewed by SanDiego.com'
+p995
+sa(dp996
+g2
+S'http://www.reuters.com/article/2013/12/21/prn-good-morning-idUSnPnNYGMbL+bd+PRN20131221'
+p997
+sg4
+S'20131221\xc2\xa05:59AM UTC'
+p998
+sg6
+S'GOOD MORNING'
+p999
+sa(dp1000
+g2
+S'http://www.reuters.com/article/2013/12/21/france-china-chateau-idUSL6N0K006420131221'
+p1001
+sg4
+S'20131221\xc2\xa05:59AM UTC'
+p1002
+sg6
+S'Chinese hotelier feared dead in French helicopter crash'
+p1003
+sa(dp1004
+g2
+S'http://www.reuters.com/article/2013/12/21/us-turkey-corruption-erdogan-idUSBRE9BK05N20131221'
+p1005
+sg4
+S'20131221\xc2\xa05:53AM UTC'
+p1006
+sg6
+S"Turkish PM Erdogan accuses envoys of 'provocative actions'"
+p1007
+sa(dp1008
+g2
+S'http://www.reuters.com/article/2013/12/21/us-fennovoima-rosatom-idUSBRE9BK05G20131221'
+p1009
+sg4
+S'20131221\xc2\xa05:44AM UTC'
+p1010
+sg6
+S"Finland's Fennovoima signs reactor deal with Rosatom"
+p1011
+sa(dp1012
+g2
+S'http://www.reuters.com/article/2013/12/21/fennovoima-rosatom-idUSL6N0K004620131221'
+p1013
+sg4
+S'20131221\xc2\xa05:38AM UTC'
+p1014
+sg6
+S"UPDATE 1-Finland's Fennovoima signs reactor deal with Rosatom"
+p1015
+sa(dp1016
+g2
+S'http://www.reuters.com/article/2013/12/21/us-thailand-election-idUSBRE9BK05B20131221'
+p1017
+sg4
+S'20131221\xc2\xa05:36AM UTC'
+p1018
+sg6
+S'Thai opposition party to boycott election: party leader'
+p1019
+sa(dp1020
+g2
+S'http://www.reuters.com/article/2013/12/21/us-tanzania-politics-idUSBRE9BK04X20131221'
+p1021
+sg4
+S'20131221\xc2\xa05:12AM UTC'
+p1022
+sg6
+S'Tanzanian president sacks four ministers over poaching abuses'
+p1023
+sa(dp1024
+g2
+S'http://www.reuters.com/article/2013/12/21/tanzania-politics-idUSL6N0K002Q20131221'
+p1025
+sg4
+S'20131221\xc2\xa05:10AM UTC'
+p1026
+sg6
+S'Tanzanian president sacks 4 ministers over poaching abuses'
+p1027
+sa(dp1028
+g2
+S'http://www.reuters.com/article/2013/12/21/us-motor-racing-sauber-idUSBRE9BK03X20131221'
+p1029
+sg4
+S'20131221\xc2\xa05:10AM UTC'
+p1030
+sg6
+S'Gutierrez completes Sauber 2014 line-up'
+p1031
+sa(dp1032
+g2
+S'http://www.reuters.com/article/2013/12/21/us-nigeria-violence-idUSBRE9BK04Q20131221'
+p1033
+sg4
+S'20131221\xc2\xa05:03AM UTC'
+p1034
+sg6
+S'Nigerian Islamists attack barracks in volatile northeast: army'
+p1035
+sa(dp1036
+g2
+S'http://www.reuters.com/article/2013/12/21/nigeria-violence-idUSL6N0K003X20131221'
+p1037
+sg4
+S'20131221\xc2\xa04:54AM UTC'
+p1038
+sg6
+S'Nigerian Islamists attack barracks in volatile northeast -army'
+p1039
+sa(dp1040
+g2
+S'http://www.reuters.com/article/2013/12/21/us-japan-gdp-forecast-idUSBRE9BK04920131221'
+p1041
+sg4
+S'20131221\xc2\xa04:41AM UTC'
+p1042
+sg6
+S'Japan forecasts GDP growth of 1.4 percent for fiscal 2014'
+p1043
+sa(dp1044
+g2
+S'http://www.reuters.com/article/2013/12/21/motor-racing-sauber-idUSL3N0K005O20131221'
+p1045
+sg4
+S'20131221\xc2\xa04:40AM UTC'
+p1046
+sg6
+S'UPDATE 1-Motor racing-Gutierrez completes Sauber 2014 line-up'
+p1047
+sa(dp1048
+g2
+S'http://www.reuters.com/article/2013/12/21/us-turkey-corruption-gulen-idUSBRE9BK04220131221'
+p1049
+sg4
+S'20131221\xc2\xa04:35AM UTC'
+p1050
+sg6
+S'Turkish cleric Gulen curses purge of police command'
+p1051
+sa(dp1052
+g2
+S'http://www.reuters.com/article/2013/12/21/sabadell-bhd-idUSL6N0K003W20131221'
+p1053
+sg4
+S'20131221\xc2\xa04:21AM UTC'
+p1054
+sg6
+S"Spain's Sabadell sells Dominican BHD stake for $156 million"
+p1055
+sa(dp1056
+g2
+S'http://www.reuters.com/article/2013/12/21/fennovoima-rosatom-idUSL6N0K003520131221'
+p1057
+sg4
+S'20131221\xc2\xa03:46AM UTC'
+p1058
+sg6
+S'Fennovoima consortium signs reactor deal with Rosatom'
+p1059
+sa(dp1060
+g2
+S'http://www.reuters.com/article/2013/12/21/bkn-timberwolves-lakers-writethru-idUSMTZE9CL584Q0S20131221'
+p1061
+sg4
+S'20131221\xc2\xa03:38AM UTC'
+p1062
+sg6
+S'Young come off bench to spark Lakers past Timberwolves'
+p1063
+sa(dp1064
+g2
+S'http://www.reuters.com/article/2013/12/21/india-usa-idUSL3N0K005220131221'
+p1065
+sg4
+S'20131221\xc2\xa03:37AM UTC'
+p1066
+sg6
+S'India transfers diplomat to U.N. in bid to defuse row with U.S.'
+p1067
+sa(dp1068
+g2
+S'http://www.reuters.com/article/2013/12/21/us-china-property-homes-idUSBRE9BK03T20131221'
+p1069
+sg4
+S'20131221\xc2\xa03:24AM UTC'
+p1070
+sg6
+S'China aims for target of 6 million public homes in 2014'
+p1071
+sa(dp1072
+g2
+S'http://www.reuters.com/article/2013/12/21/srilanka-sec-floating-idUSL3N0K004B20131221'
+p1073
+sg4
+S'20131221\xc2\xa03:21AM UTC'
+p1074
+sg6
+S'Sri Lanka to set minimum share float to up liquidity, curb malpractice'
+p1075
+sa(dp1076
+g2
+S'http://www.reuters.com/article/2013/12/21/china-property-homes-idUSL3N0K005J20131221'
+p1077
+sg4
+S'20131221\xc2\xa03:18AM UTC'
+p1078
+sg6
+S'China aims for target of 6 million public homes in 2014'
+p1079
+sa(dp1080
+g2
+S'http://www.reuters.com/article/2013/12/21/idUSnGNX86k7pr+1c0+GNW20131221'
+p1081
+sg4
+S'20131221\xc2\xa03:14AM UTC'
+p1082
+sg6
+S'Outstanding Drilling Results at Temrezli and Sefaatli'
+p1083
+sa(dp1084
+g2
+S'http://www.reuters.com/article/2013/12/21/idUSnGNX2mpCp0+1c4+GNW20131221'
+p1085
+sg4
+S'20131221\xc2\xa03:12AM UTC'
+p1086
+sg6
+S"Bureau Veritas has signed an agreement to acquire Maxxam, Canada's market leader in petroleum, environmental, food and DNA analytical services"
+p1087
+sa(dp1088
+g2
+S'http://www.reuters.com/article/2013/12/21/idUSnHUGdrGX+73+ONE20131221'
+p1089
+sg4
+S'20131221\xc2\xa03:00AM UTC'
+p1090
+sg6
+S"BUREAU VERITAS: acquisition of Maxxam, Canada's market leader in petroleum, environmental, food and DNA analytical services"
+p1091
+sa(dp1092
+g2
+S'http://www.reuters.com/article/2013/12/21/turkey-corruption-idUSL6N0K002N20131221'
+p1093
+sg4
+S'20131221\xc2\xa02:41AM UTC'
+p1094
+sg6
+S"Turkey arrests 16 people in graft probe; including ministers' sons"
+p1095
+sa(dp1096
+g2
+S'http://www.reuters.com/article/2013/12/21/us-libya-american-idUSBRE9BK03N20131221'
+p1097
+sg4
+S'20131221\xc2\xa02:26AM UTC'
+p1098
+sg6
+S'Wife of U.S. teacher killed in Libya says she forgives gunmen'
+p1099
+sa(dp1100
+g2
+S'http://www.reuters.com/article/2013/12/21/bkn-bobcats-pistons-recap-idUSMTZE9CL4ZEDJ020131221'
+p1101
+sg4
+S'20131221\xc2\xa02:08AM UTC'
+p1102
+sg6
+S'Bobcats 116, Pistons 106'
+p1103
+sa(dp1104
+g2
+S'http://www.reuters.com/article/2013/12/21/us-baseball-japan-youkilis-idUSBRE9BK03J20131221'
+p1105
+sg4
+S'20131221\xc2\xa01:58AM UTC'
+p1106
+sg6
+S"Japan's Golden Eagles swoop for Yankee Youkilis"
+p1107
+sa(dp1108
+g2
+S'http://www.reuters.com/article/2013/12/21/us-nba-highlights-idUSBRE9BK01Y20131221'
+p1109
+sg4
+S'20131221\xc2\xa01:56AM UTC'
+p1110
+sg6
+S"Highlights of Friday's NBA games"
+p1111
+sa(dp1112
+g2
+S'http://www.reuters.com/article/2013/12/21/us-usa-retail-supersaturday-idUSBRE9BK03H20131221'
+p1113
+sg4
+S'20131221\xc2\xa01:31AM UTC'
+p1114
+sg6
+S'Pressure builds as retailers near the holiday finish line'
+p1115
+sa(dp1116
+g2
+S'http://www.reuters.com/article/2013/12/21/us-usa-healthcare-youth-analysis-idUSBRE9BK03E20131221'
+p1117
+sg4
+S'20131221\xc2\xa01:05AM UTC'
+p1118
+sg6
+S"Analysis: How the White House is rebranding Obamacare for 'young invincibles'"
+p1119
+sa(dp1120
+g2
+S'http://www.reuters.com/article/2013/12/21/usa-retail-supersaturday-idUSL2N0JZ08J20131221'
+p1121
+sg4
+S'20131221\xc2\xa01:00AM UTC'
+p1122
+sg6
+S'Pressure builds as retailers near the holiday finish line'
+p1123
+sa(dp1124
+g2
+S'http://www.reuters.com/article/2013/12/21/hkn-panthers-jets-recap-idUSMTZE9CL5102RM20131221'
+p1125
+sg4
+S'20131221\xc2\xa012:52AM UTC'
+p1126
+sg6
+S'Jets 5, Panthers 2'
+p1127
+sa(dp1128
+g2
+S'http://www.reuters.com/article/2013/12/21/co-piaget-idUSnBw206166a+100+BSW20131221'
+p1129
+sg4
+S'20131221\xc2\xa012:50AM UTC'
+p1130
+sg6
+S'Piaget World Snow Polo Championship Debuts in Aspen'
+p1131
+sa(dp1132
+g2
+S'http://www.reuters.com/article/2013/12/21/nv-caesars-acquires-idUSnPnLAfSy5+b4+PRN20131221'
+p1133
+sg4
+S'20131221\xc2\xa012:05AM UTC'
+p1134
+sg6
+S'Caesars Entertainment Agrees To Acquire Non-Gaming Assets Of Atlantic Club in Bankruptcy Auction'
+p1135
+sa(dp1136
+g2
+S'http://www.reuters.com/article/2013/12/21/us-usa-obama-daughters-idUSBRE9BK03A20131221'
+p1137
+sg4
+S'20131221\xc2\xa012:04AM UTC'
+p1138
+sg6
+S'Obama girls get dating advice from their watchful dad'
+p1139
+sa(dp1140
+g2
+S'http://www.reuters.com/article/2013/12/21/census-daily-feature-idUSnPnDCbKR1+b6+PRN20131221'
+p1141
+sg4
+S'20131221\xc2\xa012:01AM UTC'
+p1142
+sg6
+S'U.S. Census Bureau Daily Feature for December 21'
+p1143
+sa(dp1144
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=75106338'
+p1145
+sg4
+S'20131221\xc2\xa09:32PM UTC'
+p1146
+sg6
+S"Georgians mark Soviet dictator Josef Stalin's birthday"
+p1147
+sa(dp1148
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=75104344'
+p1149
+sg4
+S'20131221\xc2\xa08:46PM UTC'
+p1150
+sg6
+S'U.S. marks 25th anniversary of Lockerbie bombing'
+p1151
+sa(dp1152
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=75098420'
+p1153
+sg4
+S'20131221\xc2\xa06:34PM UTC'
+p1154
+sg6
+S'Chase limits debit cards used at Target stores'
+p1155
+sa(dp1156
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=75098238'
+p1157
+sg4
+S'20131221\xc2\xa06:29PM UTC'
+p1158
+sg6
+S'Khodorkovsky has emotional reunion with parents'
+p1159
+sa(dp1160
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=75096821'
+p1161
+sg4
+S'20131221\xc2\xa06:05PM UTC'
+p1162
+sg6
+S"'Tis the season to feed the animals, in Chile"
+p1163
+sa(dp1164
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=75096532'
+p1165
+sg4
+S'20131221\xc2\xa05:58PM UTC'
+p1166
+sg6
+S"Khodorkovsky's final dramatic hours in Russia"
+p1167
+sa(dp1168
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=75096539'
+p1169
+sg4
+S'20131221\xc2\xa05:54PM UTC'
+p1170
+sg6
+S'Pope Francis visits sick children'
+p1171
+sa(dp1172
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=75095561'
+p1173
+sg4
+S'20131221\xc2\xa05:34PM UTC'
+p1174
+sg6
+S"World's top robots battle it out in international competition"
+p1175
+sa(dp1176
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=75093002'
+p1177
+sg4
+S'20131221\xc2\xa04:23PM UTC'
+p1178
+sg6
+S'Pope: "Gossip is harmful to people"'
+p1179
+sa(dp1180
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=75091361'
+p1181
+sg4
+S'20131221\xc2\xa03:04PM UTC'
+p1182
+sg6
+S'Freezing rain blankets Oklahoma'
+p1183
+sa(dp1184
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=75090762'
+p1185
+sg4
+S'20131221\xc2\xa02:54PM UTC'
+p1186
+sg6
+S"Heading into harm's way in South Sudan"
+p1187
+sa(dp1188
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=75090600'
+p1189
+sg4
+S'20131221\xc2\xa02:46PM UTC'
+p1190
+sg6
+S"Khodorkovsky's parents arrive at Berlin hotel to meet freed son"
+p1191
+sa(dp1192
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=75089515'
+p1193
+sg4
+S'20131221\xc2\xa02:07PM UTC'
+p1194
+sg6
+S'GOP address blasts healthcare law'
+p1195
+sa(dp1196
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=75088518'
+p1197
+sg4
+S'20131221\xc2\xa01:26PM UTC'
+p1198
+sg6
+S'No recovery as hospital explodes in Aleppo'
+p1199
+sa(dp1200
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=75087673'
+p1201
+sg4
+S'20131221\xc2\xa012:57PM UTC'
+p1202
+sg6
+S'Former PM reacts to release of Russian tycoon Khodorkovsky'
+p1203
+sa(dp1204
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=75087677'
+p1205
+sg4
+S'20131221\xc2\xa012:51PM UTC'
+p1206
+sg6
+S'NASA spacewalkers at it again, after helmet leak months ago'
+p1207
+sa(dp1208
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=75086207'
+p1209
+sg4
+S'20131221\xc2\xa011:56AM UTC'
+p1210
+sg6
+S'Mourning in Gaza'
+p1211
+sa(dp1212
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=75083318'
+p1213
+sg4
+S'20131221\xc2\xa010:24AM UTC'
+p1214
+sg6
+S'First gay marriages for Salt Lake City'
+p1215
+sa(dp1216
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=75081578'
+p1217
+sg4
+S'20131221\xc2\xa08:56AM UTC'
+p1218
+sg6
+S'First Family arrives in Hawaii for vacation'
+p1219
+sa(dp1220
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=75080678'
+p1221
+sg4
+S'20131221\xc2\xa08:22AM UTC'
+p1222
+sg6
+S'In weekly address, Obama focuses on work of Congress'
+p1223
+sa(dp1224
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=75076153'
+p1225
+sg4
+S'20131221\xc2\xa05:31AM UTC'
+p1226
+sg6
+S'Chinese moon rover releases pictures'
+p1227
+sa(dp1228
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=75076015'
+p1229
+sg4
+S'20131221\xc2\xa05:31AM UTC'
+p1230
+sg6
+S'Preparations underway for massive demonstration'
+p1231
+sa(dp1232
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=75074611'
+p1233
+sg4
+S'20131221\xc2\xa04:13AM UTC'
+p1234
+sg6
+S'Diplomatic row simmers in both US, India'
+p1235
+sa.

@@ -1,0 +1,2275 @@
+(lp0
+(dp1
+S'href'
+p2
+S'http://www.reuters.com/article/worldNews/idUSTRE6340F020100405'
+p3
+sS'ts'
+p4
+S'20100404\xc2\xa011:59PM UTC'
+p5
+sS'title'
+p6
+S'North Korea threatens to abandon U.S. MIA remains'
+p7
+sa(dp8
+g2
+S'http://www.reuters.com/article/televisionNews/idUSTRE6340EP20100405'
+p9
+sg4
+S'20100404\xc2\xa011:58PM UTC'
+p10
+sg6
+S'Martin couple each cast in TV pilots'
+p11
+sa(dp12
+g2
+S'http://www.reuters.com/article/reutersComService_3_MOLT/idUSTRE63319Z20100405'
+p13
+sg4
+S'20100404\xc2\xa011:49PM UTC'
+p14
+sg6
+S'South Korea sends destroyer after pirates seize tanker'
+p15
+sa(dp16
+g2
+S'http://www.reuters.com/article/companyNewsAndPR/idUSN0415746920100405'
+p17
+sg4
+S'20100404\xc2\xa011:49PM UTC'
+p18
+sg6
+S'UPDATE 5-Major 7.2 quake near Mexico-US border kills one'
+p19
+sa(dp20
+g2
+S'http://www.reuters.com/article/peopleNews/idUSTRE6340D920100405'
+p21
+sg4
+S'20100404\xc2\xa011:40PM UTC'
+p22
+sg6
+S'Bruce Lee remembered for more than his movies'
+p23
+sa(dp24
+g2
+S'http://www.reuters.com/article/financialsSector/idUSSGE63402R20100405'
+p25
+sg4
+S'20100404\xc2\xa011:38PM UTC'
+p26
+sg6
+S'India Reliance Cap mulls health JV with Swiss Re-report'
+p27
+sa(dp28
+g2
+S'http://www.reuters.com/article/rbssInvestmentTrusts/idUSBMA00728320100405'
+p29
+sg4
+S'20100404\xc2\xa011:33PM UTC'
+p30
+sg6
+S'Indian shares rise 0.6 pct; ICICI, Reliance lead'
+p31
+sa(dp32
+g2
+S'http://www.reuters.com/article/energySector/idUSJAK20288320100405'
+p33
+sg4
+S'20100404\xc2\xa011:33PM UTC'
+p34
+sg6
+S'DIARY-Indonesia to Sept 10, 2010'
+p35
+sa(dp36
+g2
+S'http://www.reuters.com/article/americasPrivateEquityNews/idUSTRE6340CV20100405'
+p37
+sg4
+S'20100404\xc2\xa011:32PM UTC'
+p38
+sg6
+S'Extended Stay backs new proposed offer: source'
+p39
+sa(dp40
+g2
+S'http://www.reuters.com/article/goldMktRpt/idUSSGE63402S20100405'
+p41
+sg4
+S'20100404\xc2\xa011:32PM UTC'
+p42
+sg6
+S'PRECIOUS-Gold gives up early gains; ETF unchanged'
+p43
+sa(dp44
+g2
+S'http://www.reuters.com/article/privateEquity/idUSN0415750120100405'
+p45
+sg4
+S'20100404\xc2\xa011:31PM UTC'
+p46
+sg6
+S'Extended Stay backs new proposed offer - source'
+p47
+sa(dp48
+g2
+S'http://www.reuters.com/article/idgSmallBusiness/idUS244683820520100405'
+p49
+sg4
+S'20100404\xc2\xa011:30PM UTC'
+p50
+sg6
+S'Google Buys Episodic'
+p51
+sa(dp52
+g2
+S'http://www.reuters.com/article/pressRelease/idUS22142+05-Apr-2010+BW20100405'
+p53
+sg4
+S'20100404\xc2\xa011:20PM UTC'
+p54
+sg6
+S'Electronic Press Kit Service myPPK - Power Press Kits Used by More Booking and Management Agencies Globally'
+p55
+sa(dp56
+g2
+S'http://www.reuters.com/article/hotStocksNews/idUSJAK23516820100405'
+p57
+sg4
+S'20100404\xc2\xa011:19PM UTC'
+p58
+sg6
+S'UPDATE 1-Indonesia Market factors to watch - April 5'
+p59
+sa(dp60
+g2
+S'http://www.reuters.com/article/entertainmentNews/idUSTRE6340BB20100405'
+p61
+sg4
+S'20100404\xc2\xa011:15PM UTC'
+p62
+sg6
+S"Chieftains' new album explores Irish-Mexican ties"
+p63
+sa(dp64
+g2
+S'http://www.reuters.com/article/idgSmallBusiness/idUS102856749620100405'
+p65
+sg4
+S'20100404\xc2\xa011:13PM UTC'
+p66
+sg6
+S'Microsoft ending support for Itanium'
+p67
+sa(dp68
+g2
+S'http://www.reuters.com/article/financialsSector/idUSTOE63400R20100405'
+p69
+sg4
+S'20100404\xc2\xa011:10PM UTC'
+p70
+sg6
+S'Japan corp pension funds return jumps in 2009/10'
+p71
+sa(dp72
+g2
+S'http://www.reuters.com/article/companyNews/idUSSGE63402Q20100405'
+p73
+sg4
+S'20100404\xc2\xa011:09PM UTC'
+p74
+sg6
+S'RPT-GLOBAL MARKETS-Asia stocks, dollar firm on strong US jobs'
+p75
+sa(dp76
+g2
+S'http://www.reuters.com/article/tokyoMktRpt/idUSTOE63401J20100405'
+p77
+sg4
+S'20100404\xc2\xa011:05PM UTC'
+p78
+sg6
+S'Nikkei hits 18-mth peak after solid US jobs data'
+p79
+sa(dp80
+g2
+S'http://www.reuters.com/article/domesticNews/idUSTRE6331EH20100405'
+p81
+sg4
+S'20100404\xc2\xa011:05PM UTC'
+p82
+sg6
+S'Tesoro refinery fire ignited suddenly: safety board'
+p83
+sa(dp84
+g2
+S'http://www.reuters.com/article/rbssOilGasRefiningMarketing/idUSN0415030420100405'
+p85
+sg4
+S'20100404\xc2\xa011:03PM UTC'
+p86
+sg6
+S'RPT-UPDATE 2-Tesoro refinery fire ignited suddenly -safety board'
+p87
+sa(dp88
+g2
+S'http://www.reuters.com/article/usDollarRpt/idUSTOE63401I20100405'
+p89
+sg4
+S'20100404\xc2\xa010:57PM UTC'
+p90
+sg6
+S'FOREX-Dollar pauses after hitting 7-month high vs yen'
+p91
+sa(dp92
+g2
+S'http://www.reuters.com/article/BROKER/idUSLDE63400J20100405'
+p93
+sg4
+S'20100404\xc2\xa010:56PM UTC'
+p94
+sg6
+S'PRESS DIGEST - British business - April 5'
+p95
+sa(dp96
+g2
+S'http://www.reuters.com/article/rbssInvestmentServices/idUSSGE63402E20100405'
+p97
+sg4
+S'20100404\xc2\xa010:56PM UTC'
+p98
+sg6
+S'Seoul shares slip on shipyards; techs advance'
+p99
+sa(dp100
+g2
+S'http://www.reuters.com/article/newsMaps/idUSTRE63408720100405'
+p101
+sg4
+S'20100404\xc2\xa010:55PM UTC'
+p102
+sg6
+S'Factbox: Key political risks to watch in Japan'
+p103
+sa(dp104
+g2
+S'http://www.reuters.com/article/sportsNews/idUSTRE63403E20100405'
+p105
+sg4
+S'20100404\xc2\xa010:49PM UTC'
+p106
+sg6
+S'Redskins acquire quarterback McNabb from Eagles'
+p107
+sa(dp108
+g2
+S'http://www.reuters.com/article/bondsNews/idUSTOE63400G20100405'
+p109
+sg4
+S'20100404\xc2\xa010:42PM UTC'
+p110
+sg6
+S'JGBs fall; positions cut after US data, before sale'
+p111
+sa(dp112
+g2
+S'http://www.reuters.com/article/basicMaterialsSector/idUSTOE63400Z20100405'
+p113
+sg4
+S'20100404\xc2\xa010:40PM UTC'
+p114
+sg6
+S'Shin-Etsu to build $1.1 bln PVC material plant'
+p115
+sa(dp116
+g2
+S'http://www.reuters.com/article/financialsSector/idUSSGE63401P20100405'
+p117
+sg4
+S'20100404\xc2\xa010:36PM UTC'
+p118
+sg6
+S'Thai stocks may fall, protests to hurt tourism stocks'
+p119
+sa(dp120
+g2
+S'http://www.reuters.com/article/hotStocksNews/idUSBAK00301920100405'
+p121
+sg4
+S'20100404\xc2\xa010:35PM UTC'
+p122
+sg6
+S'Indonesia stock market hits all-time high'
+p123
+sa(dp124
+g2
+S'http://www.reuters.com/article/rbssSteel/idUSSGE63400K20100405'
+p125
+sg4
+S'20100404\xc2\xa010:24PM UTC'
+p126
+sg6
+S'PRESS DIGEST - Thai newspapers April 5'
+p127
+sa(dp128
+g2
+S'http://www.reuters.com/article/worldNews/idUSTRE63402W20100405'
+p129
+sg4
+S'20100404\xc2\xa010:21PM UTC'
+p130
+sg6
+S'Factbox: Key political risks to watch in Thailand'
+p131
+sa(dp132
+g2
+S'http://www.reuters.com/article/rbssFinancialServicesAndRealEstateNews/idUSSGE63401G20100405'
+p133
+sg4
+S'20100404\xc2\xa010:19PM UTC'
+p134
+sg6
+S'Thai authorities struggle to end mass street protest'
+p135
+sa(dp136
+g2
+S'http://www.reuters.com/article/newsMaps/idUSTRE63404U20100405'
+p137
+sg4
+S'20100404\xc2\xa010:12PM UTC'
+p138
+sg6
+S'Cuba says no giving in to dissident "blackmail"'
+p139
+sa(dp140
+g2
+S'http://www.reuters.com/article/pressRelease/idUS16893+05-Apr-2010+BW20100405'
+p141
+sg4
+S'20100404\xc2\xa010:00PM UTC'
+p142
+sg6
+S"Mitsubishi Electric Completes Installation of Diamond Vision LED Screen at Kumamoto's KKWING"
+p143
+sa(dp144
+g2
+S'http://www.reuters.com/article/environmentNews/idUSTRE6330QM20100405'
+p145
+sg4
+S'20100404\xc2\xa09:56PM UTC'
+p146
+sg6
+S"U.N.'s Ban urges Central Asia talks on shrinking Aral Sea"
+p147
+sa(dp148
+g2
+S'http://www.reuters.com/article/mediaNews/idUSN0415021520100405'
+p149
+sg4
+S'20100404\xc2\xa09:51PM UTC'
+p150
+sg6
+S'UPDATE 1-Golf-Surprise! Tiger turns up early at Augusta National'
+p151
+sa(dp152
+g2
+S'http://www.reuters.com/article/cyclicalConsumerGoodsSector/idUST5I0SL7RN20100405'
+p153
+sg4
+S'20100404\xc2\xa09:48PM UTC'
+p154
+sg6
+S'Morishita <3594.Q>-2009/10 parent results'
+p155
+sa(dp156
+g2
+S'http://www.reuters.com/article/rbssIntegratedOilGas/idUSLDE63400D20100405'
+p157
+sg4
+S'20100404\xc2\xa09:45PM UTC'
+p158
+sg6
+S'PRESS DIGEST - Financial Times - April 5'
+p159
+sa(dp160
+g2
+S'http://www.reuters.com/article/financialsSector/idUSTOE63400X20100405'
+p161
+sg4
+S'20100404\xc2\xa09:40PM UTC'
+p162
+sg6
+S'Nikkei hits 18-mth high after solid US jobs data'
+p163
+sa(dp164
+g2
+S'http://www.reuters.com/article/sportsNews/idUSTRE6331C820100405'
+p165
+sg4
+S'20100404\xc2\xa09:36PM UTC'
+p166
+sg6
+S'Ginobili leads Spurs to convincing win over Lakers'
+p167
+sa(dp168
+g2
+S'http://www.reuters.com/article/rbssCoal/idUSJAK20576920100405'
+p169
+sg4
+S'20100404\xc2\xa09:32PM UTC'
+p170
+sg6
+S'Bumi Resources 2009 net profit down nearly 50 pct'
+p171
+sa(dp172
+g2
+S'http://www.reuters.com/article/bondsNews/idUSTOE63301320100405'
+p173
+sg4
+S'20100404\xc2\xa09:32PM UTC'
+p174
+sg6
+S'TREASURIES-10-year note yield stays near 9-\xc2\xbd   mth high in Asia'
+p175
+sa(dp176
+g2
+S'http://www.reuters.com/article/companyNews/idUSRISKTH20100405'
+p177
+sg4
+S'20100404\xc2\xa09:30PM UTC'
+p178
+sg6
+S'FACTBOX-Key political risks to watch in Thailand'
+p179
+sa(dp180
+g2
+S'http://www.reuters.com/article/usDollarRpt/idUSRISKTW20100405'
+p181
+sg4
+S'20100404\xc2\xa09:29PM UTC'
+p182
+sg6
+S'FACTBOX-Key political risks to watch in Taiwan'
+p183
+sa(dp184
+g2
+S'http://www.reuters.com/article/usDollarRpt/idUSRISKLK20100405'
+p185
+sg4
+S'20100404\xc2\xa09:28PM UTC'
+p186
+sg6
+S'FACTBOX-Key political risks to watch in Sri Lanka'
+p187
+sa(dp188
+g2
+S'http://www.reuters.com/article/asianCurrencyNews/idUSRISKNZ20100405'
+p189
+sg4
+S'20100404\xc2\xa09:25PM UTC'
+p190
+sg6
+S'FACTBOX-Key political risks to watch in New Zealand'
+p191
+sa(dp192
+g2
+S'http://www.reuters.com/article/usDollarRpt/idUSRISKJP20100405'
+p193
+sg4
+S'20100404\xc2\xa09:24PM UTC'
+p194
+sg6
+S'FACTBOX-Key political risks to watch in Japan'
+p195
+sa(dp196
+g2
+S'http://www.reuters.com/article/usDollarRpt/idUSRISKID20100405'
+p197
+sg4
+S'20100404\xc2\xa09:23PM UTC'
+p198
+sg6
+S'FACTBOX-Key political risks to watch in Indonesia'
+p199
+sa(dp200
+g2
+S'http://www.reuters.com/article/marketsNews/idUSRISKIN20100405'
+p201
+sg4
+S'20100404\xc2\xa09:22PM UTC'
+p202
+sg6
+S'FACTBOX-Key political risks to watch in India'
+p203
+sa(dp204
+g2
+S'http://www.reuters.com/article/europeanCurrencyNews/idUSRISKCN20100405'
+p205
+sg4
+S'20100404\xc2\xa09:20PM UTC'
+p206
+sg6
+S'FACTBOX-Key political risks to watch in China'
+p207
+sa(dp208
+g2
+S'http://www.reuters.com/article/companyNewsAndPR/idUSRISKAU20100405'
+p209
+sg4
+S'20100404\xc2\xa09:14PM UTC'
+p210
+sg6
+S'FACTBOX-Key political risks to watch in Australia'
+p211
+sa(dp212
+g2
+S'http://www.reuters.com/article/hotStocksNews/idUSJAK21428720100405'
+p213
+sg4
+S'20100404\xc2\xa09:08PM UTC'
+p214
+sg6
+S'Indonesia Market factors to watch - April 5'
+p215
+sa(dp216
+g2
+S'http://www.reuters.com/article/goldMktRpt/idUSSGE63000920100405'
+p217
+sg4
+S'20100404\xc2\xa08:57PM UTC'
+p218
+sg6
+S'PRECIOUS-Gold barely moved in thin trade; ETF unchanged'
+p219
+sa(dp220
+g2
+S'http://www.reuters.com/article/rbssOilGasExplorationProduction/idUSLDE63400920100405'
+p221
+sg4
+S'20100404\xc2\xa08:52PM UTC'
+p222
+sg6
+S"<lng.ax>-Sana'a -Yemen LNG Company announcesment</lng.ax>"
+p223
+sa(dp224
+g2
+S'http://www.reuters.com/article/bondsNews/idUSTOE63302320100405'
+p225
+sg4
+S'20100404\xc2\xa08:44PM UTC'
+p226
+sg6
+S'JGB futures fall, positions cut on US jobs data'
+p227
+sa(dp228
+g2
+S'http://www.reuters.com/article/industrialsSector/idUSSGE63400620100405'
+p229
+sg4
+S'20100404\xc2\xa08:37PM UTC'
+p230
+sg6
+S'PRESS DIGEST - Malaysia - Apr 5'
+p231
+sa(dp232
+g2
+S'http://www.reuters.com/article/newsOne/idUSTRE63401H20100405'
+p233
+sg4
+S'20100404\xc2\xa08:37PM UTC'
+p234
+sg6
+S"Britain's Brown says bank levy accord close: report"
+p235
+sa(dp236
+g2
+S'http://www.reuters.com/article/rbssConsumerElectronics/idUSTOE63301U20100405'
+p237
+sg4
+S'20100404\xc2\xa08:36PM UTC'
+p238
+sg6
+S'UPDATE 1-Samsung Elec chairman orders new chip line-paper'
+p239
+sa(dp240
+g2
+S'http://www.reuters.com/article/reutersComService_3_MOLT/idUSTRE63400Q20100405'
+p241
+sg4
+S'20100404\xc2\xa08:31PM UTC'
+p242
+sg6
+S'EIA to make gas data revisions: report'
+p243
+sa(dp244
+g2
+S'http://www.reuters.com/article/companyNewsAndPR/idUSLDE6330CV20100405'
+p245
+sg4
+S'20100404\xc2\xa08:31PM UTC'
+p246
+sg6
+S"Britain's Brown says bank levy accord close - FT"
+p247
+sa(dp248
+g2
+S'http://www.reuters.com/article/rbssIntegratedOilGas/idUSN0415220520100405'
+p249
+sg4
+S'20100404\xc2\xa08:30PM UTC'
+p250
+sg6
+S'U.S. EIA to make gas data revisions - WSJ'
+p251
+sa(dp252
+g2
+S'http://www.reuters.com/article/industrialsSector/idUSSGE62T00P20100405'
+p253
+sg4
+S'20100404\xc2\xa08:29PM UTC'
+p254
+sg6
+S'PRESS DIGEST - Malaysia - Apr 5'
+p255
+sa(dp256
+g2
+S'http://www.reuters.com/article/marketsNews/idUSTOE63400B20100405'
+p257
+sg4
+S'20100404\xc2\xa08:26PM UTC'
+p258
+sg6
+S'RPT-PREVIEW-BOJ seen pausing in its battle against deflation'
+p259
+sa(dp260
+g2
+S'http://www.reuters.com/article/rbssConsumerGoodsAndRetailNews/idUSSGE63302420100405'
+p261
+sg4
+S'20100404\xc2\xa08:16PM UTC'
+p262
+sg6
+S'Singapore Hot Stocks-Property firms may be in focus'
+p263
+sa(dp264
+g2
+S'http://www.reuters.com/article/rbssInvestmentServices/idUSTKW00688620100405'
+p265
+sg4
+S'20100404\xc2\xa08:11PM UTC'
+p266
+sg6
+S'Nikkei climbs, US jobs data underscores recovery'
+p267
+sa(dp268
+g2
+S'http://www.reuters.com/article/hotStocksNews/idUSTOE63400120100405'
+p269
+sg4
+S'20100404\xc2\xa08:08PM UTC'
+p270
+sg6
+S'Seoul shares open higher on U.S. data, exporters'
+p271
+sa(dp272
+g2
+S'http://www.reuters.com/article/sportsNews/idUSTRE63302Y20100405'
+p273
+sg4
+S'20100404\xc2\xa08:07PM UTC'
+p274
+sg6
+S'Tseng holds off Pettersen to capture second major'
+p275
+sa(dp276
+g2
+S'http://www.reuters.com/article/bondsNews/idUSN0415730120100405'
+p277
+sg4
+S'20100404\xc2\xa08:06PM UTC'
+p278
+sg6
+S'USGS upgrades strong Mexico quake to 7.2 magnitude'
+p279
+sa(dp280
+g2
+S'http://www.reuters.com/article/rbssHeavyElectricalEquipment/idUSTOE63301W20100404'
+p281
+sg4
+S'20100404\xc2\xa07:58PM UTC'
+p282
+sg6
+S'PRESS DIGEST - South Korean newspapers - April 5'
+p283
+sa(dp284
+g2
+S'http://www.reuters.com/article/domesticNews/idUSTRE6331CO20100404'
+p285
+sg4
+S'20100404\xc2\xa07:53PM UTC'
+p286
+sg6
+S'Strong 6.9 quake jolts Baja California, Mexico'
+p287
+sa(dp288
+g2
+S'http://www.reuters.com/article/BROKER/idUSTKW00688520100404'
+p289
+sg4
+S'20100404\xc2\xa07:51PM UTC'
+p290
+sg6
+S'Nikkei futures up 0.3 pct after U.S. jobs data'
+p291
+sa(dp292
+g2
+S'http://www.reuters.com/article/bondsNews/idUSN0415746920100404'
+p293
+sg4
+S'20100404\xc2\xa07:50PM UTC'
+p294
+sg6
+S'UPDATE 2-Strong 6.9 quake jolts Baja California, Mexico'
+p295
+sa(dp296
+g2
+S'http://www.reuters.com/article/sportsNews/idUSTRE6331DQ20100404'
+p297
+sg4
+S'20100404\xc2\xa07:49PM UTC'
+p298
+sg6
+S'Kim wins Houston Open after playoff'
+p299
+sa(dp300
+g2
+S'http://www.reuters.com/article/ousivMolt/idUSTRE62E3Q020100404'
+p301
+sg4
+S'20100404\xc2\xa07:49PM UTC'
+p302
+sg6
+S'Dollar firms to 7-month high vs yen; Fed eyed'
+p303
+sa(dp304
+g2
+S'http://www.reuters.com/article/asianCurrencyNews/idUSTOE63301420100404'
+p305
+sg4
+S'20100404\xc2\xa07:45PM UTC'
+p306
+sg6
+S'FOREX-Dollar firms to 7-month high vs yen; Fed eyed'
+p307
+sa(dp308
+g2
+S'http://www.reuters.com/article/rbssConsumerGoodsAndRetailNews/idUSTOE63301P20100404'
+p309
+sg4
+S'20100404\xc2\xa07:44PM UTC'
+p310
+sg6
+S'Seoul shares seen up on U.S. job data'
+p311
+sa(dp312
+g2
+S'http://www.reuters.com/article/rbssTechMediaTelecomNews/idUSLDE6330CJ20100404'
+p313
+sg4
+S'20100404\xc2\xa07:38PM UTC'
+p314
+sg6
+S'Orascom Tel appeals against Algeria tax claims'
+p315
+sa(dp316
+g2
+S'http://www.reuters.com/article/pressReleasesMolt/idUSTRE6330MV20100404'
+p317
+sg4
+S'20100404\xc2\xa07:38PM UTC'
+p318
+sg6
+S'Wilbur Ross backing Virgin Money in RBS branch bid'
+p319
+sa(dp320
+g2
+S'http://www.reuters.com/article/euMergersNews/idUSN0415763820100404'
+p321
+sg4
+S'20100404\xc2\xa07:34PM UTC'
+p322
+sg6
+S'UPDATE 1-Wilbur Ross backing Virgin Money in RBS branch bid'
+p323
+sa(dp324
+g2
+S'http://www.reuters.com/article/sportsNews/idUSTRE63302Y20100404'
+p325
+sg4
+S'20100404\xc2\xa07:32PM UTC'
+p326
+sg6
+S'Tseng holds off Pettersen to capture second major'
+p327
+sa(dp328
+g2
+S'http://www.reuters.com/article/reutersComService_3_MOLT/idUSTRE6331EH20100404'
+p329
+sg4
+S'20100404\xc2\xa07:26PM UTC'
+p330
+sg6
+S'Tesoro refinery fire ignited suddenly: safety board'
+p331
+sa(dp332
+g2
+S'http://www.reuters.com/article/rbssOilGasRefiningMarketing/idUSWEN240420100404'
+p333
+sg4
+S'20100404\xc2\xa07:25PM UTC'
+p334
+sg6
+S'Tesoro refinery fire ignited suddenly -safety board'
+p335
+sa(dp336
+g2
+S'http://www.reuters.com/article/companyNews/idUSTOE63301A20100404'
+p337
+sg4
+S'20100404\xc2\xa07:22PM UTC'
+p338
+sg6
+S'Nikkei may rise; US jobs data underscores recovery'
+p339
+sa(dp340
+g2
+S'http://www.reuters.com/article/topNews/idUSTRE6331DZ20100404'
+p341
+sg4
+S'20100404\xc2\xa07:17PM UTC'
+p342
+sg6
+S'Mexican cartels cannot be defeated, drug lord says'
+p343
+sa(dp344
+g2
+S'http://www.reuters.com/article/cyclicalConsumerGoodsSector/idUSSEL00304420100404'
+p345
+sg4
+S'20100404\xc2\xa07:15PM UTC'
+p346
+sg6
+S'Samsung Elec chairman orders new chip line-paper'
+p347
+sa(dp348
+g2
+S'http://www.reuters.com/article/rbssFinancialServicesAndRealEstateNews/idUSSGE63200E20100404'
+p349
+sg4
+S'20100404\xc2\xa07:11PM UTC'
+p350
+sg6
+S'Malaysia-Market factors to watch April 5'
+p351
+sa(dp352
+g2
+S'http://www.reuters.com/article/GCA-BusinessofGreen/idUSTRE6331CZ20100404'
+p353
+sg4
+S'20100404\xc2\xa07:03PM UTC'
+p354
+sg6
+S'Electric cars win hype, staying power questioned'
+p355
+sa(dp356
+g2
+S'http://www.reuters.com/article/europeanCurrencyNews/idUSLDE63309X20100404'
+p357
+sg4
+S'20100404\xc2\xa07:01PM UTC'
+p358
+sg6
+S"UK's Brown says economy like injured soccer player"
+p359
+sa(dp360
+g2
+S'http://www.reuters.com/article/hotStocksNews/idUSN0414280920100404'
+p361
+sg4
+S'20100404\xc2\xa06:50PM UTC'
+p362
+sg6
+S'Strong 6.9 Baja California, Mexico quake - USGS'
+p363
+sa(dp364
+g2
+S'http://www.reuters.com/article/sportsNews/idUSTRE6331BI20100404'
+p365
+sg4
+S'20100404\xc2\xa06:50PM UTC'
+p366
+sg6
+S'Surprise! Tiger Woods turns up early at Augusta National'
+p367
+sa(dp368
+g2
+S'http://www.reuters.com/article/sportsNews/idUSTRE6331C820100404'
+p369
+sg4
+S'20100404\xc2\xa06:49PM UTC'
+p370
+sg6
+S'Ginobili leads Spurs to convincing win over Lakers'
+p371
+sa(dp372
+g2
+S'http://www.reuters.com/article/topNews/idUSTRE6320SL20100404'
+p373
+sg4
+S'20100404\xc2\xa06:43PM UTC'
+p374
+sg6
+S'Cardinal defends pope, denounces "petty gossip"'
+p375
+sa(dp376
+g2
+S'http://www.reuters.com/article/companyNews/idUSTKW00688420100404'
+p377
+sg4
+S'20100404\xc2\xa06:39PM UTC'
+p378
+sg6
+S'US S&P; futures extend post-jobs data gains in Asia'
+p379
+sa(dp380
+g2
+S'http://www.reuters.com/article/mediaNews/idUSN0415021520100404'
+p381
+sg4
+S'20100404\xc2\xa06:35PM UTC'
+p382
+sg6
+S'Golf-Surprise! Tiger turns up early at Augusta National'
+p383
+sa(dp384
+g2
+S'http://www.reuters.com/article/filmNews/idUSTRE63006R20100404'
+p385
+sg4
+S'20100404\xc2\xa06:35PM UTC'
+p386
+sg6
+S'"Clash of the Titans" leads worldwide box office'
+p387
+sa(dp388
+g2
+S'http://www.reuters.com/article/GCA-Afghanistan-Pakistan/idUSTRE63313M20100404'
+p389
+sg4
+S'20100404\xc2\xa06:24PM UTC'
+p390
+sg6
+S'NATO admits Afghan civilian deaths in night raid'
+p391
+sa(dp392
+g2
+S'http://www.reuters.com/article/newsOne/idUSTRE63319Z20100404'
+p393
+sg4
+S'20100404\xc2\xa06:22PM UTC'
+p394
+sg6
+S'South Korean oil supertanker seized by Somali pirates'
+p395
+sa(dp396
+g2
+S'http://www.reuters.com/article/marketsNews/idUSLDE63309120100404'
+p397
+sg4
+S'20100404\xc2\xa06:21PM UTC'
+p398
+sg6
+S'UPDATE 2-S.Korean oil supertanker seized by Somali pirates'
+p399
+sa(dp400
+g2
+S'http://www.reuters.com/article/topNews/idUSTRE6321F320100404'
+p401
+sg4
+S'20100404\xc2\xa06:19PM UTC'
+p402
+sg6
+S"South Africa urges calm after Terre'blanche murder"
+p403
+sa(dp404
+g2
+S'http://www.reuters.com/article/reviewsNews/idUSTRE63318O20100404'
+p405
+sg4
+S'20100404\xc2\xa06:09PM UTC'
+p406
+sg6
+S'Tucci, LaPaglia having a ball in "Lend Me a Tenor"'
+p407
+sa(dp408
+g2
+S'http://www.reuters.com/article/sportsNews/idUSTRE63318E20100404'
+p409
+sg4
+S'20100404\xc2\xa06:05PM UTC'
+p410
+sg6
+S'Roddick can emulate Agassi, says coach Stefanki'
+p411
+sa(dp412
+g2
+S'http://www.reuters.com/article/newsOne/idUSTRE6320EK20100404'
+p413
+sg4
+S'20100404\xc2\xa05:59PM UTC'
+p414
+sg6
+S'Suicide car bombers kill 41 in central Baghdad'
+p415
+sa(dp416
+g2
+S'http://www.reuters.com/article/businessNews/idUSTRE63214920100404'
+p417
+sg4
+S'20100404\xc2\xa05:50PM UTC'
+p418
+sg6
+S'U.S. delays China yuan ruling ahead of Hu visit'
+p419
+sa(dp420
+g2
+S'http://www.reuters.com/article/newsMaps/idUSTRE6330ZJ20100404'
+p421
+sg4
+S'20100404\xc2\xa05:49PM UTC'
+p422
+sg6
+S'Karzai rallies tribes, distances self from West'
+p423
+sa(dp424
+g2
+S'http://www.reuters.com/article/sportsNews/idUSTRE63302I20100404'
+p425
+sg4
+S'20100404\xc2\xa05:48PM UTC'
+p426
+sg6
+S'Unsung Butler faces powerhouse Duke for the title'
+p427
+sa(dp428
+g2
+S'http://www.reuters.com/article/reutersComService_3_MOLT/idUSTRE63316S20100404'
+p429
+sg4
+S'20100404\xc2\xa05:46PM UTC'
+p430
+sg6
+S'Valero confirms ownership of cargo on hijacked VLCC'
+p431
+sa(dp432
+g2
+S'http://www.reuters.com/article/rbssOilGasRefiningMarketing/idUSWEN240320100404'
+p433
+sg4
+S'20100404\xc2\xa05:45PM UTC'
+p434
+sg6
+S'Valero confirms ownership of cargo on hijacked VLCC'
+p435
+sa(dp436
+g2
+S'http://www.reuters.com/article/americasMergersNews/idUSN0415606220100404'
+p437
+sg4
+S'20100404\xc2\xa05:26PM UTC'
+p438
+sg6
+S'UPDATE 2-SandRidge Energy to buy Arena for $1.55 bln'
+p439
+sa(dp440
+g2
+S'http://www.reuters.com/article/sportsNews/idUSTRE63313520100404'
+p441
+sg4
+S'20100404\xc2\xa05:11PM UTC'
+p442
+sg6
+S'Roddick sinks Berdych to win Miami title'
+p443
+sa(dp444
+g2
+S'http://www.reuters.com/article/pressRelease/idUS43866+04-Apr-2010+MW20100404'
+p445
+sg4
+S'20100404\xc2\xa05:09PM UTC'
+p446
+sg6
+S' At UB.com and Absolute Poker, Mixed Power Hour Is Back to Deliver More Double Points Rewards for HORSE Lovers'
+p447
+sa(dp448
+g2
+S'http://www.reuters.com/article/pressRelease/idUS43858+04-Apr-2010+MW20100404'
+p449
+sg4
+S'20100404\xc2\xa05:09PM UTC'
+p450
+sg6
+S' At UB.com and Absolute Poker, Mixed Power Hour Is Back to Deliver More Double Points Rewards for HORSE Lovers'
+p451
+sa(dp452
+g2
+S'http://www.reuters.com/article/newsOne/idUSTRE63316320100404'
+p453
+sg4
+S'20100404\xc2\xa05:04PM UTC'
+p454
+sg6
+S"Buffett's Berkshire is best-regarded U.S. company"
+p455
+sa(dp456
+g2
+S'http://www.reuters.com/article/mediaNews/idUSN0110654220100404'
+p457
+sg4
+S'20100404\xc2\xa05:00PM UTC'
+p458
+sg6
+S'FACTBOX-The 10 best and worst regarded U.S. companies'
+p459
+sa(dp460
+g2
+S'http://www.reuters.com/article/americasPrivateEquityNews/idUSTRE63315W20100404'
+p461
+sg4
+S'20100404\xc2\xa05:00PM UTC'
+p462
+sg6
+S'SandRidge Energy to buy Arena for $1.55 billion'
+p463
+sa(dp464
+g2
+S'http://www.reuters.com/article/rbssIntegratedOilGas/idUSN0415030420100404'
+p465
+sg4
+S'20100404\xc2\xa04:56PM UTC'
+p466
+sg6
+S'UPDATE 1-Tesoro says Anacortes refinery production cut'
+p467
+sa(dp468
+g2
+S'http://www.reuters.com/article/politicsNews/idUSTRE63315N20100404'
+p469
+sg4
+S'20100404\xc2\xa04:42PM UTC'
+p470
+sg6
+S'Republicans withhold confidence in Steele'
+p471
+sa(dp472
+g2
+S'http://www.reuters.com/article/worldNews/idUSTRE63315D20100404'
+p473
+sg4
+S'20100404\xc2\xa04:19PM UTC'
+p474
+sg6
+S'Fighters kill U.N. peacekeeper in north Congo attack'
+p475
+sa(dp476
+g2
+S'http://www.reuters.com/article/environmentNews/idUSTRE63314X20100404'
+p477
+sg4
+S'20100404\xc2\xa04:08PM UTC'
+p478
+sg6
+S"NY's Indian Point nuclear plant denied key permit"
+p479
+sa(dp480
+g2
+S'http://www.reuters.com/article/americasRegulatoryNews/idUSN0413003220100404'
+p481
+sg4
+S'20100404\xc2\xa04:06PM UTC'
+p482
+sg6
+S"UPDATE 1-NY's Indian Point nuclear plant denied key permit"
+p483
+sa(dp484
+g2
+S'http://www.reuters.com/article/mediaNews/idUSN0413950420100404'
+p485
+sg4
+S'20100404\xc2\xa03:51PM UTC'
+p486
+sg6
+S"'Clash of the Titans' leads worldwide box office"
+p487
+sa(dp488
+g2
+S'http://www.reuters.com/article/sportsNews/idUSTRE63314220100404'
+p489
+sg4
+S'20100404\xc2\xa03:46PM UTC'
+p490
+sg6
+S'Humble Hayward unshaven, not stirred by limelight'
+p491
+sa(dp492
+g2
+S'http://www.reuters.com/article/energySector/idUSN0415538220100404'
+p493
+sg4
+S'20100404\xc2\xa03:01PM UTC'
+p494
+sg6
+S"Energy Conversion share value to erode-Barron's"
+p495
+sa(dp496
+g2
+S'http://www.reuters.com/article/pressRelease/idUS40317+04-Apr-2010+PRN20100404'
+p497
+sg4
+S'20100404\xc2\xa02:35PM UTC'
+p498
+sg6
+S'REG-Not Available: Test Message - Please Delete'
+p499
+sa(dp500
+g2
+S'http://www.reuters.com/article/GCA-Economy2010/idUSTRE6330RG20100404'
+p501
+sg4
+S'20100404\xc2\xa02:33PM UTC'
+p502
+sg6
+S'U.S. expects accelerating job creation'
+p503
+sa(dp504
+g2
+S'http://www.reuters.com/article/bondsNews/idUSN0414107820100404'
+p505
+sg4
+S'20100404\xc2\xa02:32PM UTC'
+p506
+sg6
+S'UPDATE 2-US expects accelerating job creation-econ adviser'
+p507
+sa(dp508
+g2
+S'http://www.reuters.com/article/newsOne/idUSTRE63312820100404'
+p509
+sg4
+S'20100404\xc2\xa02:29PM UTC'
+p510
+sg6
+S"China's yuan casts shadow over U.S. - India talks"
+p511
+sa(dp512
+g2
+S'http://www.reuters.com/article/pressRelease/idUS40200+04-Apr-2010+PRN20100404'
+p513
+sg4
+S'20100404\xc2\xa02:29PM UTC'
+p514
+sg6
+S'REG-Not Available: Service Test Message'
+p515
+sa(dp516
+g2
+S'http://www.reuters.com/article/environmentNews/idUSTRE63311Z20100404'
+p517
+sg4
+S'20100404\xc2\xa02:26PM UTC'
+p518
+sg6
+S'Arctic thaw frees overlooked greenhouse gas: study'
+p519
+sa(dp520
+g2
+S'http://www.reuters.com/article/usDollarRpt/idUSN0415322120100404'
+p521
+sg4
+S'20100404\xc2\xa02:25PM UTC'
+p522
+sg6
+S"PREVIEW-China's yuan casts shadow over US-India talks"
+p523
+sa(dp524
+g2
+S'http://www.reuters.com/article/healthcareSector/idUSN0415527820100404'
+p525
+sg4
+S'20100404\xc2\xa02:17PM UTC'
+p526
+sg6
+S"McKesson shares held back by merger worry-Barron's"
+p527
+sa(dp528
+g2
+S'http://www.reuters.com/article/globalMarketsNews/idUSTRE63311G20100404'
+p529
+sg4
+S'20100404\xc2\xa01:58PM UTC'
+p530
+sg6
+S'Washington Post stock is "dirt cheap": Barron\'s'
+p531
+sa(dp532
+g2
+S'http://www.reuters.com/article/rbssOilGasRefiningMarketing/idUSWEN240220100404'
+p533
+sg4
+S'20100404\xc2\xa01:46PM UTC'
+p534
+sg6
+S'Tesoro says Anacortes crude intake at about 70 pct'
+p535
+sa(dp536
+g2
+S'http://www.reuters.com/article/technology-media-telco-SP/idUSN0415433520100404'
+p537
+sg4
+S'20100404\xc2\xa01:36PM UTC'
+p538
+sg6
+S'Washington Post stock is "dirt cheap" - Barron\'s'
+p539
+sa(dp540
+g2
+S'http://www.reuters.com/article/pressRelease/idUS38788+04-Apr-2010+PRN20100404'
+p541
+sg4
+S'20100404\xc2\xa01:29PM UTC'
+p542
+sg6
+S'REG-Not Available: Service Test Message'
+p543
+sa(dp544
+g2
+S'http://www.reuters.com/article/idgSmallBusiness/idUS77484176720100404'
+p545
+sg4
+S'20100404\xc2\xa01:25PM UTC'
+p546
+sg6
+S'iPad teardown reveals first-rate design, build'
+p547
+sa(dp548
+g2
+S'http://www.reuters.com/article/cyclicalConsumerGoodsSector/idUSN0413888320100404'
+p549
+sg4
+S'20100404\xc2\xa01:08PM UTC'
+p550
+sg6
+S"'Clash of the Titans' leads US, Canada box office"
+p551
+sa(dp552
+g2
+S'http://www.reuters.com/article/healthNews/idUSTRE6330ZU20100404'
+p553
+sg4
+S'20100404\xc2\xa01:03PM UTC'
+p554
+sg6
+S'Thalidomide drug may fight blood vessel disorder'
+p555
+sa(dp556
+g2
+S'http://www.reuters.com/article/pressRelease/idUS38045+04-Apr-2010+BW20100404'
+p557
+sg4
+S'20100404\xc2\xa01:01PM UTC'
+p558
+sg6
+S'EA k\xc3\xbcndigt f\xc3\xbcnf Kassenschlager-Spiele f\xc3\xbcr das Apple iPad an'
+p559
+sa(dp560
+g2
+S'http://www.reuters.com/article/rbssBiotechnology/idUSLDE62U2CA20100404'
+p561
+sg4
+S'20100404\xc2\xa01:00PM UTC'
+p562
+sg6
+S'Thalidomide drug may fight blood vessel disorder'
+p563
+sa(dp564
+g2
+S'http://www.reuters.com/article/pressRelease/idUS38014+04-Apr-2010+BW20100404'
+p565
+sg4
+S'20100404\xc2\xa01:00PM UTC'
+p566
+sg6
+S'EA kondigt vijf Blockbuster Games aan voor Apple`s iPad'
+p567
+sa(dp568
+g2
+S'http://www.reuters.com/article/utilitiesSector/idUSN0410142920100404'
+p569
+sg4
+S'20100404\xc2\xa012:43PM UTC'
+p570
+sg6
+S"NY denies permit for Entergy's Indian Point"
+p571
+sa(dp572
+g2
+S'http://www.reuters.com/article/pressRelease/idUS37284+04-Apr-2010+MW20100404'
+p573
+sg4
+S'20100404\xc2\xa012:30PM UTC'
+p574
+sg6
+S' Go800(TM) Holiday Update'
+p575
+sa(dp576
+g2
+S'http://www.reuters.com/article/rbssConsumerElectronics/idUSN0422603420100404'
+p577
+sg4
+S'20100404\xc2\xa012:25PM UTC'
+p578
+sg6
+S'The top movies at the North American box office'
+p579
+sa(dp580
+g2
+S'http://www.reuters.com/article/newsOne/idUSTRE6330XK20100404'
+p581
+sg4
+S'20100404\xc2\xa012:10PM UTC'
+p582
+sg6
+S'Teacher identified by father as 2nd Moscow bomber'
+p583
+sa(dp584
+g2
+S'http://www.reuters.com/article/newsOne/idUSTRE6330X220100404'
+p585
+sg4
+S'20100404\xc2\xa012:00PM UTC'
+p586
+sg6
+S'CEO pay down 15 percent, Ellison tops list: NYT'
+p587
+sa(dp588
+g2
+S'http://www.reuters.com/article/financialsSector/idUSN0414199620100404'
+p589
+sg4
+S'20100404\xc2\xa011:52AM UTC'
+p590
+sg6
+S'US CEO pay down 15 pct, Ellison tops list-NY Times'
+p591
+sa(dp592
+g2
+S'http://www.reuters.com/article/pressRelease/idUS35694+04-Apr-2010+PRN20100404'
+p593
+sg4
+S'20100404\xc2\xa011:23AM UTC'
+p594
+sg6
+S'REG-Not Available: Service Test Message'
+p595
+sa(dp596
+g2
+S'http://www.reuters.com/article/ousivMolt/idUSTRE6311V220100404'
+p597
+sg4
+S'20100404\xc2\xa011:20AM UTC'
+p598
+sg6
+S'Stocks may fly on jobs, profit hopes'
+p599
+sa(dp600
+g2
+S'http://www.reuters.com/article/asianCurrencyNews/idUSN0415254420100404'
+p601
+sg4
+S'20100404\xc2\xa011:12AM UTC'
+p602
+sg6
+S'UPDATE 1-Yuan needs to respond to market forces - Romer'
+p603
+sa(dp604
+g2
+S'http://www.reuters.com/article/economicNews/idUSLDE63307520100404'
+p605
+sg4
+S'20100404\xc2\xa011:00AM UTC'
+p606
+sg6
+S'IMF\'s head says world economy "not out of woods"'
+p607
+sa(dp608
+g2
+S'http://www.reuters.com/article/pressRelease/idUS35149+04-Apr-2010+BW20100404'
+p609
+sg4
+S'20100404\xc2\xa011:00AM UTC'
+p610
+sg6
+S'Carney Shegerian Addresses Religious Discrimination in the Workplace'
+p611
+sa(dp612
+g2
+S'http://www.reuters.com/article/hotStocksNews/idUSN0418216120100404'
+p613
+sg4
+S'20100404\xc2\xa010:56AM UTC'
+p614
+sg6
+S'Yuan needs to respond to market forces - Romer'
+p615
+sa(dp616
+g2
+S'http://www.reuters.com/article/CMPSRV/idUSN0217794720100404'
+p617
+sg4
+S'20100404\xc2\xa010:36AM UTC'
+p618
+sg6
+S'UPDATE-Wall St Week Ahead: Stocks may fly on jobs, profit hopes'
+p619
+sa(dp620
+g2
+S'http://www.reuters.com/article/swissMktRpt/idUSLDE63308720100404'
+p621
+sg4
+S'20100404\xc2\xa010:34AM UTC'
+p622
+sg6
+S'Ex-Credit Suisse head defends hefty bonuses-paper'
+p623
+sa(dp624
+g2
+S'http://www.reuters.com/article/newsMaps/idUSTRE6320LL20100404'
+p625
+sg4
+S'20100404\xc2\xa010:31AM UTC'
+p626
+sg6
+S'Protesters defiant in siege of key Bangkok district'
+p627
+sa(dp628
+g2
+S'http://www.reuters.com/article/rbssFinancialServicesAndRealEstateNews/idUSSGE63300C20100404'
+p629
+sg4
+S'20100404\xc2\xa010:27AM UTC'
+p630
+sg6
+S'UPDATE 3-Protesters defiant in siege of key Bangkok district'
+p631
+sa(dp632
+g2
+S'http://www.reuters.com/article/pressRelease/idUS34286+04-Apr-2010+PRN20100404'
+p633
+sg4
+S'20100404\xc2\xa010:23AM UTC'
+p634
+sg6
+S'REG-Not Available: Service Test Message'
+p635
+sa(dp636
+g2
+S'http://www.reuters.com/article/mediaNews/idUSLDE63302X20100404'
+p637
+sg4
+S'20100404\xc2\xa010:15AM UTC'
+p638
+sg6
+S'UPDATE 3-Cardinal defends pope, denounces "petty gossip"'
+p639
+sa(dp640
+g2
+S'http://www.reuters.com/article/pressRelease/idUS34062+04-Apr-2010+PRN20100404'
+p641
+sg4
+S'20100404\xc2\xa010:14AM UTC'
+p642
+sg6
+S'REG-Not Available: Service Test Message'
+p643
+sa(dp644
+g2
+S'http://www.reuters.com/article/newsMaps/idUSTRE63309320100404'
+p645
+sg4
+S'20100404\xc2\xa010:03AM UTC'
+p646
+sg6
+S'Factbox: Security developments in Iraq'
+p647
+sa(dp648
+g2
+S'http://www.reuters.com/article/reutersComService_3_MOLT/idUSTRE63302920100404'
+p649
+sg4
+S'20100404\xc2\xa09:52AM UTC'
+p650
+sg6
+S'Australia warns stranded Chinese ship could break up'
+p651
+sa(dp652
+g2
+S'http://www.reuters.com/article/environmentNews/idUSTRE6330QM20100404'
+p653
+sg4
+S'20100404\xc2\xa09:51AM UTC'
+p654
+sg6
+S"U.N.'s Ban urges Central Asia talks on shrinking Aral Sea"
+p655
+sa(dp656
+g2
+S'http://www.reuters.com/article/environmentNews/idUSTRE6330QR20100404'
+p657
+sg4
+S'20100404\xc2\xa09:51AM UTC'
+p658
+sg6
+S'Factbox: Key facts about the disappearing Aral Sea'
+p659
+sa(dp660
+g2
+S'http://www.reuters.com/article/rbssBanks/idUSLDE63307020100404'
+p661
+sg4
+S'20100404\xc2\xa09:44AM UTC'
+p662
+sg6
+S'Two listed Saudi firms fined for poor disclosure'
+p663
+sa(dp664
+g2
+S'http://www.reuters.com/article/asianCurrencyNews/idUSN0410442020100404'
+p665
+sg4
+S'20100404\xc2\xa09:42AM UTC'
+p666
+sg6
+S'China\'s "commercial practices" an issue - Summers'
+p667
+sa(dp668
+g2
+S'http://www.reuters.com/article/oddlyEnoughNews/idUSTRE6330IK20100404'
+p669
+sg4
+S'20100404\xc2\xa09:37AM UTC'
+p670
+sg6
+S'"Termite gangs" tunnel into third French bank'
+p671
+sa(dp672
+g2
+S'http://www.reuters.com/article/rbssBanks/idUSLDE63305R20100404'
+p673
+sg4
+S'20100404\xc2\xa09:34AM UTC'
+p674
+sg6
+S'UPDATE 1-"Termite gangs" tunnel into third French bank'
+p675
+sa(dp676
+g2
+S'http://www.reuters.com/article/newsMaps/idUSTRE6330P820100404'
+p677
+sg4
+S'20100404\xc2\xa09:05AM UTC'
+p678
+sg6
+S"Q&A;: What does Terre'blanche killing mean for South Africa?"
+p679
+sa(dp680
+g2
+S'http://www.reuters.com/article/pressRelease/idUS31950+04-Apr-2010+BW20100404'
+p681
+sg4
+S'20100404\xc2\xa09:00AM UTC'
+p682
+sg6
+S'West Coast University Dental Hygiene Clinic to Provide Free Dental Hygiene Services to the Orange County Community'
+p683
+sa(dp684
+g2
+S'http://www.reuters.com/article/marketsNews/idUSDAH44073120100404'
+p685
+sg4
+S'20100404\xc2\xa08:34AM UTC'
+p686
+sg6
+S'Iran says China to attend Tehran nuclear meet'
+p687
+sa(dp688
+g2
+S'http://www.reuters.com/article/financialsSector/idUSLDE62U0CE20100404'
+p689
+sg4
+S'20100404\xc2\xa08:21AM UTC'
+p690
+sg6
+S"Abu Dhabi fund's new chief needs to find balance"
+p691
+sa(dp692
+g2
+S'http://www.reuters.com/article/financialsSector/idUSLDE63304020100404'
+p693
+sg4
+S'20100404\xc2\xa08:07AM UTC'
+p694
+sg6
+S"UPDATE 3-Dubai's Emaar to roll over $1.23 bln debt"
+p695
+sa(dp696
+g2
+S'http://www.reuters.com/article/pressReleasesMolt/idUSTRE6330N020100404'
+p697
+sg4
+S'20100404\xc2\xa08:03AM UTC'
+p698
+sg6
+S'Starbucks goes upmarket with Seattle test cafe'
+p699
+sa(dp700
+g2
+S'http://www.reuters.com/article/rbssRestaurants/idUSN0218566920100404'
+p701
+sg4
+S'20100404\xc2\xa08:00AM UTC'
+p702
+sg6
+S'FEATURE-Starbucks goes upmarket with Seattle test cafe'
+p703
+sa(dp704
+g2
+S'http://www.reuters.com/article/pressRelease/idUS30530+04-Apr-2010+BW20100404'
+p705
+sg4
+S'20100404\xc2\xa08:00AM UTC'
+p706
+sg6
+S'Sponsorship Opportunities for CGDC 2010 Now Available'
+p707
+sa(dp708
+g2
+S'http://www.reuters.com/article/worldNews/idUSTRE6330LQ20100404'
+p709
+sg4
+S'20100404\xc2\xa07:47AM UTC'
+p710
+sg6
+S'Factbox: Sex abuse scandals in the Catholic church'
+p711
+sa(dp712
+g2
+S'http://www.reuters.com/article/mediaNews/idUSLDE63302H20100404'
+p713
+sg4
+S'20100404\xc2\xa07:42AM UTC'
+p714
+sg6
+S'FACTBOX-Sex abuse scandals in the Catholic church'
+p715
+sa(dp716
+g2
+S'http://www.reuters.com/article/newsMaps/idUSTRE6321IL20100404'
+p717
+sg4
+S'20100404\xc2\xa07:41AM UTC'
+p718
+sg6
+S"Factbox: Five facts about Eugene Terre'blanche"
+p719
+sa(dp720
+g2
+S'http://www.reuters.com/article/newsMaps/idUSTRE6330AU20100404'
+p721
+sg4
+S'20100404\xc2\xa07:34AM UTC'
+p722
+sg6
+S'Russia rail bombs seen linked to Moscow attacks'
+p723
+sa(dp724
+g2
+S'http://www.reuters.com/article/rbssBanks/idUSLDE63305D20100404'
+p725
+sg4
+S'20100404\xc2\xa07:27AM UTC'
+p726
+sg6
+S'Wilbur Ross backing Virgin Money bid for RBS branches -papers'
+p727
+sa(dp728
+g2
+S'http://www.reuters.com/article/rbssFinancialServicesAndRealEstateNews/idUSLDE63302S20100404'
+p729
+sg4
+S'20100404\xc2\xa06:47AM UTC'
+p730
+sg6
+S'"Termite gangs" tunnel into third French bank'
+p731
+sa(dp732
+g2
+S'http://www.reuters.com/article/newsMaps/idUSTRE6330I020100404'
+p733
+sg4
+S'20100404\xc2\xa06:35AM UTC'
+p734
+sg6
+S"ETA says France to blame for policeman's death"
+p735
+sa(dp736
+g2
+S'http://www.reuters.com/article/worldNews/idUSTRE6330G020100404'
+p737
+sg4
+S'20100404\xc2\xa05:54AM UTC'
+p738
+sg6
+S'Sex abuse scandals shake Church but not faith'
+p739
+sa(dp740
+g2
+S'http://www.reuters.com/article/hotStocksNews/idUSLDE63303420100404'
+p741
+sg4
+S'20100404\xc2\xa05:42AM UTC'
+p742
+sg6
+S'Motor racing-Vettel wins Malaysian GP for Red Bull'
+p743
+sa(dp744
+g2
+S'http://www.reuters.com/article/companyNewsAndPR/idUSLDE63302L20100404'
+p745
+sg4
+S'20100404\xc2\xa05:37AM UTC'
+p746
+sg6
+S'IMF draft raises 2010 world growth forecast-reports'
+p747
+sa(dp748
+g2
+S'http://www.reuters.com/article/gc05/idUSTRE6330EV20100404'
+p749
+sg4
+S'20100404\xc2\xa05:25AM UTC'
+p750
+sg6
+S'Pakistan troops repulse attacks, "kill 40 militants"'
+p751
+sa(dp752
+g2
+S'http://www.reuters.com/article/mediaNews/idUSLDE63303A20100404'
+p753
+sg4
+S'20100404\xc2\xa05:12AM UTC'
+p754
+sg6
+S'At Easter, cardinal denounces "petty gossip" against Church'
+p755
+sa(dp756
+g2
+S'http://www.reuters.com/article/worldNews/idUSTRE6330DA20100404'
+p757
+sg4
+S'20100404\xc2\xa05:05AM UTC'
+p758
+sg6
+S'Maoist rebels kill 10 policemen in eastern India'
+p759
+sa(dp760
+g2
+S'http://www.reuters.com/article/hotStocksNews/idUSLDE63302R20100404'
+p761
+sg4
+S'20100404\xc2\xa04:42AM UTC'
+p762
+sg6
+S'UPDATE 1-Three explosions shake central Baghdad'
+p763
+sa(dp764
+g2
+S'http://www.reuters.com/article/mediaNews/idUSLDE63302820100404'
+p765
+sg4
+S'20100404\xc2\xa04:32AM UTC'
+p766
+sg6
+S'Cardinal denounces "petty gossip" hostile to Church'
+p767
+sa(dp768
+g2
+S'http://www.reuters.com/article/hotStocksNews/idUSLDE63302C20100404'
+p769
+sg4
+S'20100404\xc2\xa04:31AM UTC'
+p770
+sg6
+S'Three explosions shake central Baghdad'
+p771
+sa(dp772
+g2
+S'http://www.reuters.com/article/newsMaps/idUSTRE6330BY20100404'
+p773
+sg4
+S'20100404\xc2\xa04:17AM UTC'
+p774
+sg6
+S'Papal preacher apologizes for Jewish remarks'
+p775
+sa(dp776
+g2
+S'http://www.reuters.com/article/mediaNews/idUSLDE63301M20100404'
+p777
+sg4
+S'20100404\xc2\xa04:15AM UTC'
+p778
+sg6
+S'Papal preacher apologises for Jewish remarks'
+p779
+sa(dp780
+g2
+S'http://www.reuters.com/article/scienceNews/idUSTRE6330BJ20100404'
+p781
+sg4
+S'20100404\xc2\xa03:43AM UTC'
+p782
+sg6
+S'U.S.-Russian crew dock at space station'
+p783
+sa(dp784
+g2
+S'http://www.reuters.com/article/GCA-Afghanistan-Pakistan/idUSTRE6330BA20100404'
+p785
+sg4
+S'20100404\xc2\xa03:37AM UTC'
+p786
+sg6
+S'Afghanistan seeks arrest of ex-minister over graft'
+p787
+sa(dp788
+g2
+S'http://www.reuters.com/article/telcommunicationsServicesSector/idUSLR68420100404'
+p789
+sg4
+S'20100404\xc2\xa03:36AM UTC'
+p790
+sg6
+S'DIARY - Egypt/Sudan - April 4'
+p791
+sa(dp792
+g2
+S'http://www.reuters.com/article/rbssEnergyNews/idUSLDE63301820100404'
+p793
+sg4
+S'20100404\xc2\xa03:14AM UTC'
+p794
+sg6
+S"Aabar's $2 bln convertible bonds to be issued to IPIC"
+p795
+sa(dp796
+g2
+S'http://www.reuters.com/article/rbssSteel/idUSTOE63300W20100404'
+p797
+sg4
+S'20100404\xc2\xa03:09AM UTC'
+p798
+sg6
+S"Drought cuts power supply to central China's Hubei"
+p799
+sa(dp800
+g2
+S'http://www.reuters.com/article/winterOlympic/idUSTOE63300T20100404'
+p801
+sg4
+S'20100404\xc2\xa02:26AM UTC'
+p802
+sg6
+S'Swimming-Kitajima conquers Colorado in test for London'
+p803
+sa(dp804
+g2
+S'http://www.reuters.com/article/sportsNews/idUSTRE63309U20100404'
+p805
+sg4
+S'20100404\xc2\xa02:10AM UTC'
+p806
+sg6
+S'Krzyzewski bridles at Butler as Cinderella'
+p807
+sa(dp808
+g2
+S'http://www.reuters.com/article/sportsNews/idUSTRE63309M20100404'
+p809
+sg4
+S'20100404\xc2\xa02:08AM UTC'
+p810
+sg6
+S'Krzyzewski bridles at Butler as Cinderella'
+p811
+sa(dp812
+g2
+S'http://www.reuters.com/article/sportsNews/idUSTRE63308120100404'
+p813
+sg4
+S'20100404\xc2\xa01:26AM UTC'
+p814
+sg6
+S'Hopkins beats Jones to scratch 17 year itch'
+p815
+sa(dp816
+g2
+S'http://www.reuters.com/article/pressRelease/idUS14823+04-Apr-2010+BW20100404'
+p817
+sg4
+S'20100404\xc2\xa012:40AM UTC'
+p818
+sg6
+S'Electronic Arts (EA) lance cinq jeux \xc3\xa0 succ\xc3\xa8s con\xc3\xa7us pour l`iPad d`Apple'
+p819
+sa(dp820
+g2
+S'http://www.reuters.com/article/pressRelease/idUS14284+04-Apr-2010+BW20100404'
+p821
+sg4
+S'20100404\xc2\xa012:00AM UTC'
+p822
+sg6
+S'Al Rajhi Capital Chooses Complinet for Its Anti-Money Laundering and Financial Crime Solution'
+p823
+sa(dp824
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=WAO1268952925060'
+p825
+sg4
+S'20100404\xc2\xa08:16PM UTC'
+p826
+sg6
+S'India to appeal UAE death sentence'
+p827
+sa(dp828
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=WAO1268952925055'
+p829
+sg4
+S'20100404\xc2\xa08:13PM UTC'
+p830
+sg6
+S'India lags in health sector: Pranab'
+p831
+sa(dp832
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=WAO1268952925053'
+p833
+sg4
+S'20100404\xc2\xa08:11PM UTC'
+p834
+sg6
+S'US cooperating on Headley: Rao'
+p835
+sa(dp836
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=RCDOVE633H5T1'
+p837
+sg4
+S'20100404\xc2\xa05:44PM UTC'
+p838
+sg6
+S'A call for calm in South Africa.'
+p839
+sa(dp840
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=RCDOVE633H4L1'
+p841
+sg4
+S'20100404\xc2\xa04:29PM UTC'
+p842
+sg6
+S'Memorial in Kunduz'
+p843
+sa(dp844
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=RCDOVE633H291'
+p845
+sg4
+S'20100404\xc2\xa03:24PM UTC'
+p846
+sg6
+S"Karzai's hearts and mind campaign"
+p847
+sa(dp848
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=RCDOVE633H1H1'
+p849
+sg4
+S'20100404\xc2\xa02:39PM UTC'
+p850
+sg6
+S"Bonnets decorate NY's 5th Ave"
+p851
+sa(dp852
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=RCDOVE633GZH1'
+p853
+sg4
+S'20100404\xc2\xa01:34PM UTC'
+p854
+sg6
+S"Questions over China's currency"
+p855
+sa(dp856
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=RCDOVE633GYL1'
+p857
+sg4
+S'20100404\xc2\xa01:19PM UTC'
+p858
+sg6
+S'Pope silent on clergy abuse claims'
+p859
+sa(dp860
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=RCDOVE633GVP1'
+p861
+sg4
+S'20100404\xc2\xa012:24PM UTC'
+p862
+sg6
+S'Easter in a time of crisis'
+p863
+sa(dp864
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=RCDOVE633GUX1'
+p865
+sg4
+S'20100404\xc2\xa012:09PM UTC'
+p866
+sg6
+S'Rescuers struggle to reach miners'
+p867
+sa(dp868
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=RCDOVE633GUT1'
+p869
+sg4
+S'20100404\xc2\xa012:09PM UTC'
+p870
+sg6
+S'Blasts target embassies in Baghdad'
+p871
+sa(dp872
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=RCDOVE633GS11'
+p873
+sg4
+S'20100404\xc2\xa011:19AM UTC'
+p874
+sg6
+S'Greek rocket war tradition'
+p875
+sa(dp876
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=WAO1268952925048'
+p877
+sg4
+S'20100404\xc2\xa011:19AM UTC'
+p878
+sg6
+S'Greek rocket war tradition'
+p879
+sa(dp880
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=RCDOVE633GPL1'
+p881
+sg4
+S'20100404\xc2\xa010:24AM UTC'
+p882
+sg6
+S'Senegal statue stirs controversy'
+p883
+sa(dp884
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=WAO1268952925043'
+p885
+sg4
+S'20100404\xc2\xa010:24AM UTC'
+p886
+sg6
+S'Senegal statue stirs controversy'
+p887
+sa(dp888
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=WAO1268952925020'
+p889
+sg4
+S'20100404\xc2\xa09:52AM UTC'
+p890
+sg6
+S"Protests against Sania's marriage "
+p891
+sa(dp892
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=WAO1268952925005'
+p893
+sg4
+S'20100404\xc2\xa09:39AM UTC'
+p894
+sg6
+S'Easter celebrations in Delhi'
+p895
+sa(dp896
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=WAO1268952925038'
+p897
+sg4
+S'20100404\xc2\xa09:04AM UTC'
+p898
+sg6
+S"Rwanda's traditional genocide courts"
+p899
+sa(dp900
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=RCDOVE633GIP1'
+p901
+sg4
+S'20100404\xc2\xa09:04AM UTC'
+p902
+sg6
+S"Rwanda's traditional genocide courts"
+p903
+sa(dp904
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=WAO1268952924998'
+p905
+sg4
+S'20100404\xc2\xa06:24AM UTC'
+p906
+sg6
+S"Healing Rwanda's genocide victims"
+p907
+sa(dp908
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=RCDOVE633GBT1'
+p909
+sg4
+S'20100404\xc2\xa06:24AM UTC'
+p910
+sg6
+S"Healing Rwanda's genocide victims"
+p911
+sa.

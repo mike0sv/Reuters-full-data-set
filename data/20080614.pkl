@@ -1,0 +1,3535 @@
+(lp0
+(dp1
+S'href'
+p2
+S'http://www.reuters.com/article/reutersEdge/idUSPEK182420080615'
+p3
+sS'ts'
+p4
+S'20080614\xc2\xa011:58 PM EDT'
+p5
+sS'title'
+p6
+S'Bold call for China to rethink Taiwan policy'
+p7
+sa(dp8
+g2
+S'http://www.reuters.com/article/newsMaps/idUST2438120080615'
+p9
+sg4
+S'20080614\xc2\xa011:50 PM EDT'
+p10
+sg6
+S'Fujitsu to restart quake-hit Japan chip plant in 2-3 days'
+p11
+sa(dp12
+g2
+S'http://www.reuters.com/article/newsOne/idUST1864120080615'
+p13
+sg4
+S'20080614\xc2\xa011:50 PM EDT'
+p14
+sg6
+S'Water from dam in quake-hit Japan begins to leak'
+p15
+sa(dp16
+g2
+S'http://www.reuters.com/article/latestCrisis/idUST18641'
+p17
+sg4
+S'20080614\xc2\xa011:37 PM EDT'
+p18
+sg6
+S'Water from dam in quake-hit Japan begins to leak'
+p19
+sa(dp20
+g2
+S'http://www.reuters.com/article/gc08/idUSN1444790120080615'
+p21
+sg4
+S'20080614\xc2\xa011:36 PM EDT'
+p22
+sg6
+S'Argentina farm strike flares again after crackdown'
+p23
+sa(dp24
+g2
+S'http://www.reuters.com/article/rbssElectricalComponentsEquipment/idUST4235620080615'
+p25
+sg4
+S'20080614\xc2\xa011:30 PM EDT'
+p26
+sg6
+S'Fujitsu to restart quake-hit Japan chip plant in 2-3 days'
+p27
+sa(dp28
+g2
+S'http://www.reuters.com/article/pressRelease/idUS15267+15-Jun-2008+PRN20080615'
+p29
+sg4
+S'20080614\xc2\xa011:30 PM EDT'
+p30
+sg6
+S'Following Is a Test Release'
+p31
+sa(dp32
+g2
+S'http://www.reuters.com/article/ousiv/idUSN1364895720080615'
+p33
+sg4
+S'20080614\xc2\xa011:12 PM EDT'
+p34
+sg6
+S'Gas prices top consumer worry, economists say'
+p35
+sa(dp36
+g2
+S'http://www.reuters.com/article/ousivMolt/idUSN1343702220080615'
+p37
+sg4
+S'20080614\xc2\xa011:10 PM EDT'
+p38
+sg6
+S"Lehman's Fuld still has support, for now"
+p39
+sa(dp40
+g2
+S'http://www.reuters.com/article/ousiv/idUSN1327143220080615'
+p41
+sg4
+S'20080614\xc2\xa011:09 PM EDT'
+p42
+sg6
+S"Mexico's Modelo in middle of Anheuser battle"
+p43
+sa(dp44
+g2
+S'http://www.reuters.com/article/ousiv/idUSN1327168620080615'
+p45
+sg4
+S'20080614\xc2\xa011:08 PM EDT'
+p46
+sg6
+S'AIG could hold emergency meeting over CEO: report'
+p47
+sa(dp48
+g2
+S'http://www.reuters.com/article/ousivMolt/idUSN1128460420080615'
+p49
+sg4
+S'20080614\xc2\xa011:07 PM EDT'
+p50
+sg6
+S'Airline cuts to squeeze Las Vegas resorts'
+p51
+sa(dp52
+g2
+S'http://www.reuters.com/article/pressRelease/idUS14722+15-Jun-2008+PRN20080615'
+p53
+sg4
+S'20080614\xc2\xa011:00 PM EDT'
+p54
+sg6
+S'Following Is a Test Release'
+p55
+sa(dp56
+g2
+S'http://www.reuters.com/article/sportsNews/idUSSP21977420080615'
+p57
+sg4
+S'20080614\xc2\xa010:55 PM EDT'
+p58
+sg6
+S'Celtics aim to be as "desperate" as the Lakers'
+p59
+sa(dp60
+g2
+S'http://www.reuters.com/article/newsOne/idUSSP13817820080615'
+p61
+sg4
+S'20080614\xc2\xa010:54 PM EDT'
+p62
+sg6
+S'Garcia targets grandstand finish at Torrey'
+p63
+sa(dp64
+g2
+S'http://www.reuters.com/article/sportsNews/idUSSP14250020080615'
+p65
+sg4
+S'20080614\xc2\xa010:44 PM EDT'
+p66
+sg6
+S"Boston's Youkilis hits homer in hometown Cincinnati"
+p67
+sa(dp68
+g2
+S'http://www.reuters.com/article/GCA-Agflation/idUSN1439474720080615'
+p69
+sg4
+S'20080614\xc2\xa010:39 PM EDT'
+p70
+sg6
+S'Argentine farmers vow new strike starting tonight'
+p71
+sa(dp72
+g2
+S'http://www.reuters.com/article/pressRelease/idUS13815+15-Jun-2008+PRN20080615'
+p73
+sg4
+S'20080614\xc2\xa010:30 PM EDT'
+p74
+sg6
+S'Following Is a Test Release'
+p75
+sa(dp76
+g2
+S'http://www.reuters.com/article/worldNews/idUSN1440222720080615'
+p77
+sg4
+S'20080614\xc2\xa010:16 PM EDT'
+p78
+sg6
+S'Colombia welcomes Chavez shift on guerrilla support'
+p79
+sa(dp80
+g2
+S'http://www.reuters.com/article/lifestyleMolt/idUSSP9686420080615'
+p81
+sg4
+S'20080614\xc2\xa010:08 PM EDT'
+p82
+sg6
+S'Amid woes, some Vietnamese strike, others tough it out'
+p83
+sa(dp84
+g2
+S'http://www.reuters.com/article/pressRelease/idUS13156+15-Jun-2008+PRN20080615'
+p85
+sg4
+S'20080614\xc2\xa010:00 PM EDT'
+p86
+sg6
+S'Following Is a Test Release'
+p87
+sa(dp88
+g2
+S'http://www.reuters.com/article/worldNews/idUST5129020080615'
+p89
+sg4
+S'20080614\xc2\xa009:57 PM EDT'
+p90
+sg6
+S'FACTBOX: Japan and earthquakes'
+p91
+sa(dp92
+g2
+S'http://www.reuters.com/article/politicsNews/idUSN1343197320080615'
+p93
+sg4
+S'20080614\xc2\xa009:54 PM EDT'
+p94
+sg6
+S'FACTBOX: McCain advocate Carly Fiorina'
+p95
+sa(dp96
+g2
+S'http://www.reuters.com/article/lifestyleMolt/idUSHKG2231320080615'
+p97
+sg4
+S'20080614\xc2\xa009:52 PM EDT'
+p98
+sg6
+S'China island sets sights on international tourism market'
+p99
+sa(dp100
+g2
+S'http://www.reuters.com/article/latestCrisis/idUST51290'
+p101
+sg4
+S'20080614\xc2\xa009:47 PM EDT'
+p102
+sg6
+S'FACTBOX-Japan and earthquakes'
+p103
+sa(dp104
+g2
+S'http://www.reuters.com/article/sportsNews/idUSN1441378720080615'
+p105
+sg4
+S'20080614\xc2\xa009:41 PM EDT'
+p106
+sg6
+S'Woods slips, Mediate two ahead in third round'
+p107
+sa(dp108
+g2
+S'http://www.reuters.com/article/pressRelease/idUS12305+15-Jun-2008+PRN20080615'
+p109
+sg4
+S'20080614\xc2\xa009:30 PM EDT'
+p110
+sg6
+S'Following Is a Test Release'
+p111
+sa(dp112
+g2
+S'http://www.reuters.com/article/pressRelease/idUS12288+15-Jun-2008+PRN20080615'
+p113
+sg4
+S'20080614\xc2\xa009:28 PM EDT'
+p114
+sg6
+S'World Governments Misleading and Failing Iraqi Refugees, Says Amnesty International...'
+p115
+sa(dp116
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSSP96864'
+p117
+sg4
+S'20080614\xc2\xa009:23 PM EDT'
+p118
+sg6
+S'FEATURE-Amid woes, some Vietnamese strike, others tough it out'
+p119
+sa(dp120
+g2
+S'http://www.reuters.com/article/lifestyleMolt/idUSL148485920080615'
+p121
+sg4
+S'20080614\xc2\xa009:21 PM EDT'
+p122
+sg6
+S'WITNESS: Siberian pickled tomatoes blew my mind'
+p123
+sa(dp124
+g2
+S'http://www.reuters.com/article/rbssUtilitiesElectric/idUST1084920080615'
+p125
+sg4
+S'20080614\xc2\xa009:17 PM EDT'
+p126
+sg6
+S'Search on for missing after north Japan quake'
+p127
+sa(dp128
+g2
+S'http://www.reuters.com/article/latestCrisis/idUST10849'
+p129
+sg4
+S'20080614\xc2\xa009:17 PM EDT'
+p130
+sg6
+S'Search on for missing after north Japan quake'
+p131
+sa(dp132
+g2
+S'http://www.reuters.com/article/pressRelease/idUS11434+15-Jun-2008+PRN20080615'
+p133
+sg4
+S'20080614\xc2\xa009:00 PM EDT'
+p134
+sg6
+S'Following Is a Test Release'
+p135
+sa(dp136
+g2
+S'http://www.reuters.com/article/sportsNews/idUSN1439635220080615'
+p137
+sg4
+S'20080614\xc2\xa008:53 PM EDT'
+p138
+sg6
+S'Gasol vows to be more aggressive against the Celtics'
+p139
+sa(dp140
+g2
+S'http://www.reuters.com/article/pressRelease/idUS11023+15-Jun-2008+PRN20080615'
+p141
+sg4
+S'20080614\xc2\xa008:41 PM EDT'
+p142
+sg6
+S"56-year-old North Dakota Native Wins AARP The Magazine's National Spelling Bee for..."
+p143
+sa(dp144
+g2
+S'http://www.reuters.com/article/pressRelease/idUS10769+15-Jun-2008+PRN20080615'
+p145
+sg4
+S'20080614\xc2\xa008:30 PM EDT'
+p146
+sg6
+S'Following Is a Test Release'
+p147
+sa(dp148
+g2
+S'http://www.reuters.com/article/pressRelease/idUS10444+15-Jun-2008+PRN20080615'
+p149
+sg4
+S'20080614\xc2\xa008:16 PM EDT'
+p150
+sg6
+S'Food Banks Respond to Catastrophic Midwest Flooding'
+p151
+sa(dp152
+g2
+S'http://www.reuters.com/article/pressRelease/idUS10008+15-Jun-2008+PRN20080615'
+p153
+sg4
+S'20080614\xc2\xa008:00 PM EDT'
+p154
+sg6
+S'Following Is a Test Release'
+p155
+sa(dp156
+g2
+S'http://www.reuters.com/article/sportsNews/idUSL1440786920080614'
+p157
+sg4
+S'20080614\xc2\xa007:55 PM EDT'
+p158
+sg6
+S'Holders Greece go out, Spain in last eight'
+p159
+sa(dp160
+g2
+S'http://www.reuters.com/article/sportsNews/idUSL1443799720080614'
+p161
+sg4
+S'20080614\xc2\xa007:55 PM EDT'
+p162
+sg6
+S'Coach praises Greek fighting spirit as champs exit'
+p163
+sa(dp164
+g2
+S'http://www.reuters.com/article/politicsNews/idUSL1345429520080614'
+p165
+sg4
+S'20080614\xc2\xa007:50 PM EDT'
+p166
+sg6
+S'Bush heads to Britain for last stop of Europe tour'
+p167
+sa(dp168
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSL14433800'
+p169
+sg4
+S'20080614\xc2\xa007:46 PM EDT'
+p170
+sg6
+S'Bush heads to Britain for last stop of Europe tour'
+p171
+sa(dp172
+g2
+S'http://www.reuters.com/article/domesticNews/idUSN1346134820080614'
+p173
+sg4
+S'20080614\xc2\xa007:41 PM EDT'
+p174
+sg6
+S"Iowa's capital swamped by Midwestern floodwaters"
+p175
+sa(dp176
+g2
+S'http://www.reuters.com/article/pressRelease/idUS60299+14-Jun-2008+PRN20080614'
+p177
+sg4
+S'20080614\xc2\xa007:30 PM EDT'
+p178
+sg6
+S'Following Is a Test Release'
+p179
+sa(dp180
+g2
+S'http://www.reuters.com/article/sportsNews/idUSMOL45770720080614'
+p181
+sg4
+S'20080614\xc2\xa007:22 PM EDT'
+p182
+sg6
+S'Holders Greece go out, Spain in last eight'
+p183
+sa(dp184
+g2
+S'http://www.reuters.com/article/sportsNews/idUSL1430774320080614'
+p185
+sg4
+S'20080614\xc2\xa007:22 PM EDT'
+p186
+sg6
+S'Russians reacted to harsh medicine, says Hiddink'
+p187
+sa(dp188
+g2
+S'http://www.reuters.com/article/GCA-Cuba/idUSN1446436420080614'
+p189
+sg4
+S'20080614\xc2\xa007:14 PM EDT'
+p190
+sg6
+S'Argentina pays belated homage to "Che" Guevara'
+p191
+sa(dp192
+g2
+S'http://www.reuters.com/article/sportsNews/idUSN1441378720080614'
+p193
+sg4
+S'20080614\xc2\xa007:11 PM EDT'
+p194
+sg6
+S'Woods slips as third-round shootout gets underway'
+p195
+sa(dp196
+g2
+S'http://www.reuters.com/article/sportsNews/idUSN1439635220080614'
+p197
+sg4
+S'20080614\xc2\xa007:02 PM EDT'
+p198
+sg6
+S'Gasol vows to be more aggressive against the Celtics'
+p199
+sa(dp200
+g2
+S'http://www.reuters.com/article/pressRelease/idUS59639+14-Jun-2008+PRN20080614'
+p201
+sg4
+S'20080614\xc2\xa007:00 PM EDT'
+p202
+sg6
+S'Following Is a Test Release'
+p203
+sa(dp204
+g2
+S'http://www.reuters.com/article/pressRelease/idUS59384+14-Jun-2008+PRN20080614'
+p205
+sg4
+S'20080614\xc2\xa006:48 PM EDT'
+p206
+sg6
+S"The Concerned Shareholders of Biovail Say Biovail's Incumbent Board Misled ISS/RiskMetrics;..."
+p207
+sa(dp208
+g2
+S'http://www.reuters.com/article/pressRelease/idUS59005+14-Jun-2008+PRN20080614'
+p209
+sg4
+S'20080614\xc2\xa006:30 PM EDT'
+p210
+sg6
+S'Following Is a Test Release'
+p211
+sa(dp212
+g2
+S'http://www.reuters.com/article/domesticNews/idUSN1444704020080614'
+p213
+sg4
+S'20080614\xc2\xa006:27 PM EDT'
+p214
+sg6
+S'Fire threatens N. California town, residents leave'
+p215
+sa(dp216
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSN14447040'
+p217
+sg4
+S'20080614\xc2\xa006:24 PM EDT'
+p218
+sg6
+S'Fire threatens N. California town, residents leave'
+p219
+sa(dp220
+g2
+S'http://www.reuters.com/article/pressRelease/idUS58558+14-Jun-2008+BW20080614'
+p221
+sg4
+S'20080614\xc2\xa006:10 PM EDT'
+p222
+sg6
+S'Casa Cupula, Luxury Gay Boutique Hotel, Welcomes Newlyweds With Unique Honeymoon...'
+p223
+sa(dp224
+g2
+S'http://www.reuters.com/article/newsMaps/idUSL1435748120080614'
+p225
+sg4
+S'20080614\xc2\xa006:08 PM EDT'
+p226
+sg6
+S'Iraq prepares new drive against armed groups'
+p227
+sa(dp228
+g2
+S'http://www.reuters.com/article/newsMaps/idUSCOL33273620080614'
+p229
+sg4
+S'20080614\xc2\xa006:08 PM EDT'
+p230
+sg6
+S'Bush still expects security pact with Iraq'
+p231
+sa(dp232
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSN14403219'
+p233
+sg4
+S'20080614\xc2\xa006:07 PM EDT'
+p234
+sg6
+S'Bush heads to UK as last stop on European tour'
+p235
+sa(dp236
+g2
+S'http://www.reuters.com/article/innovationNews/idUSL1443417720080614'
+p237
+sg4
+S'20080614\xc2\xa006:07 PM EDT'
+p238
+sg6
+S'Fortis struggling to sell ABN units: report'
+p239
+sa(dp240
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSL14367'
+p241
+sg4
+S'20080614\xc2\xa006:06 PM EDT'
+p242
+sg6
+S'Macedonia hopes to avoid violence in vote re-run'
+p243
+sa(dp244
+g2
+S'http://www.reuters.com/article/pressRelease/idUS58387+14-Jun-2008+PRN20080614'
+p245
+sg4
+S'20080614\xc2\xa006:00 PM EDT'
+p246
+sg6
+S'Following Is a Test Release'
+p247
+sa(dp248
+g2
+S'http://www.reuters.com/article/pressRelease/idUS57773+14-Jun-2008+PRN20080614'
+p249
+sg4
+S'20080614\xc2\xa005:36 PM EDT'
+p250
+sg6
+S'New Video Exposes Failures of Incumbent Biovail Board and Executives - Reinforces...'
+p251
+sa(dp252
+g2
+S'http://www.reuters.com/article/pressRelease/idUS57618+14-Jun-2008+PRN20080614'
+p253
+sg4
+S'20080614\xc2\xa005:30 PM EDT'
+p254
+sg6
+S'Following Is a Test Release'
+p255
+sa(dp256
+g2
+S'http://www.reuters.com/article/domesticNews/idUSN1128740920080614'
+p257
+sg4
+S'20080614\xc2\xa005:22 PM EDT'
+p258
+sg6
+S'U.S. considers upscale hotel for infamous Alcatraz'
+p259
+sa(dp260
+g2
+S'http://www.reuters.com/article/sportsNews/idUSL1441211720080614'
+p261
+sg4
+S'20080614\xc2\xa005:16 PM EDT'
+p262
+sg6
+S'Greece v Russia highlights'
+p263
+sa(dp264
+g2
+S'http://www.reuters.com/article/worldNews/idUSL1418140420080614'
+p265
+sg4
+S'20080614\xc2\xa005:05 PM EDT'
+p266
+sg6
+S'Result of Gaza truce talks to be known soon: Israel'
+p267
+sa(dp268
+g2
+S'http://www.reuters.com/article/worldNews/idUSL1441057520080614'
+p269
+sg4
+S'20080614\xc2\xa005:05 PM EDT'
+p270
+sg6
+S'Rice presses Israel on settlements, restrictions'
+p271
+sa(dp272
+g2
+S'http://www.reuters.com/article/pressRelease/idUS56818+14-Jun-2008+PRN20080614'
+p273
+sg4
+S'20080614\xc2\xa005:00 PM EDT'
+p274
+sg6
+S'Following Is a Test Release'
+p275
+sa(dp276
+g2
+S'http://www.reuters.com/article/pressRelease/idUS56813+14-Jun-2008+BW20080614'
+p277
+sg4
+S'20080614\xc2\xa005:00 PM EDT'
+p278
+sg6
+S"'Do Research,' Nobel Laureate Roger Kornberg Urges Graduates of Stanford Medical..."
+p279
+sa(dp280
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSL14392244'
+p281
+sg4
+S'20080614\xc2\xa004:49 PM EDT'
+p282
+sg6
+S'Rice presses Israel on settlements, restrictions'
+p283
+sa(dp284
+g2
+S'http://www.reuters.com/article/pressRelease/idUS56347+14-Jun-2008+PRN20080614'
+p285
+sg4
+S'20080614\xc2\xa004:43 PM EDT'
+p286
+sg6
+S"More Than 13,000 Home Healthcare Workers, Clients Protest Governor's Cuts"
+p287
+sa(dp288
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSL14427971'
+p289
+sg4
+S'20080614\xc2\xa004:42 PM EDT'
+p290
+sg6
+S"Iraq's Maliki issues final warning in crackdown"
+p291
+sa(dp292
+g2
+S'http://www.reuters.com/article/companyNewsAndPR/idUSN1440355420080614'
+p293
+sg4
+S'20080614\xc2\xa004:33 PM EDT'
+p294
+sg6
+S"Iowa's capital swamped by Midwestern floodwaters"
+p295
+sa(dp296
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSN14403554'
+p297
+sg4
+S'20080614\xc2\xa004:33 PM EDT'
+p298
+sg6
+S"Iowa's capital swamped by Midwestern floodwaters"
+p299
+sa(dp300
+g2
+S'http://www.reuters.com/article/pressRelease/idUS55967+14-Jun-2008+PRN20080614'
+p301
+sg4
+S'20080614\xc2\xa004:30 PM EDT'
+p302
+sg6
+S'Following Is a Test Release'
+p303
+sa(dp304
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSL14142389'
+p305
+sg4
+S'20080614\xc2\xa004:29 PM EDT'
+p306
+sg6
+S'Turkish train hit by mine blast - security sources'
+p307
+sa(dp308
+g2
+S'http://www.reuters.com/article/pressRelease/idUS55930+14-Jun-2008+PRN20080614'
+p309
+sg4
+S'20080614\xc2\xa004:28 PM EDT'
+p310
+sg6
+S'Trinidad and Tobago Delegation to Visit Middle East, New York for Presentations About...'
+p311
+sa(dp312
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSL14451947'
+p313
+sg4
+S'20080614\xc2\xa004:21 PM EDT'
+p314
+sg6
+S"Iraq's Maliki issues final warning in crackdown"
+p315
+sa(dp316
+g2
+S'http://www.reuters.com/article/politicsNews/idUSDAH33916920080614'
+p317
+sg4
+S'20080614\xc2\xa004:19 PM EDT'
+p318
+sg6
+S"Iran rules out nuclear halt despite powers' offer"
+p319
+sa(dp320
+g2
+S'http://www.reuters.com/article/scienceNews/idUSN1444507420080614'
+p321
+sg4
+S'20080614\xc2\xa004:13 PM EDT'
+p322
+sg6
+S'Stem cell field grows despite controversy: experts'
+p323
+sa(dp324
+g2
+S'http://www.reuters.com/article/homepageCrisis/idUSL14281420._CH_.2400'
+p325
+sg4
+S'20080614\xc2\xa004:09 PM EDT'
+p326
+sg6
+S'Chad rebels attack town, EU troops come under fire'
+p327
+sa(dp328
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSL14281420'
+p329
+sg4
+S'20080614\xc2\xa004:09 PM EDT'
+p330
+sg6
+S'Chad rebels attack town, EU troops come under fire'
+p331
+sa(dp332
+g2
+S'http://www.reuters.com/article/scienceNews/idUSN131220080614'
+p333
+sg4
+S'20080614\xc2\xa004:09 PM EDT'
+p334
+sg6
+S'Bishops condemn stem cell research'
+p335
+sa(dp336
+g2
+S'http://www.reuters.com/article/pressRelease/idUS55198+14-Jun-2008+PRN20080614'
+p337
+sg4
+S'20080614\xc2\xa004:00 PM EDT'
+p338
+sg6
+S'Following Is a Test Release'
+p339
+sa(dp340
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSN14445074'
+p341
+sg4
+S'20080614\xc2\xa003:31 PM EDT'
+p342
+sg6
+S'Stem cell field grows despite controversy -experts'
+p343
+sa(dp344
+g2
+S'http://www.reuters.com/article/pressRelease/idUS54421+14-Jun-2008+PRN20080614'
+p345
+sg4
+S'20080614\xc2\xa003:30 PM EDT'
+p346
+sg6
+S'Following Is a Test Release'
+p347
+sa(dp348
+g2
+S'http://www.reuters.com/article/worldNews/idUSL1427267920080614'
+p349
+sg4
+S'20080614\xc2\xa003:26 PM EDT'
+p350
+sg6
+S'Chad rebels attack town, EU troops shield refugees'
+p351
+sa(dp352
+g2
+S'http://www.reuters.com/article/worldNews/idUSL1452447220080614'
+p353
+sg4
+S'20080614\xc2\xa003:25 PM EDT'
+p354
+sg6
+S'Irish troops say came under fire in Chad fighting'
+p355
+sa(dp356
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSL14524472'
+p357
+sg4
+S'20080614\xc2\xa003:13 PM EDT'
+p358
+sg6
+S'Irish troops say came under fire in Chad fighting'
+p359
+sa(dp360
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSL14453361'
+p361
+sg4
+S'20080614\xc2\xa003:00 PM EDT'
+p362
+sg6
+S'FACTBOX-Security developments in Iraq, June 14'
+p363
+sa(dp364
+g2
+S'http://www.reuters.com/article/pressRelease/idUS53559+14-Jun-2008+PRN20080614'
+p365
+sg4
+S'20080614\xc2\xa003:00 PM EDT'
+p366
+sg6
+S'Following Is a Test Release'
+p367
+sa(dp368
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSL14404111'
+p369
+sg4
+S'20080614\xc2\xa002:50 PM EDT'
+p370
+sg6
+S'Israel to build new homes on occupied West Bank'
+p371
+sa(dp372
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSL14397803'
+p373
+sg4
+S'20080614\xc2\xa002:48 PM EDT'
+p374
+sg6
+S'Irish troops say came under fire in Chad fighting'
+p375
+sa(dp376
+g2
+S'http://www.reuters.com/article/pressRelease/idUS53153+14-Jun-2008+PRN20080614'
+p377
+sg4
+S'20080614\xc2\xa002:43 PM EDT'
+p378
+sg6
+S'Republican National Committee: Obama Fundraising Hypocrisy'
+p379
+sa(dp380
+g2
+S'http://www.reuters.com/article/pressRelease/idUS52921+14-Jun-2008+PRN20080614'
+p381
+sg4
+S'20080614\xc2\xa002:35 PM EDT'
+p382
+sg6
+S'Republican National Committee: They Said It!'
+p383
+sa(dp384
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSL14410575'
+p385
+sg4
+S'20080614\xc2\xa002:33 PM EDT'
+p386
+sg6
+S'Rice presses Israel on settlements, WBank barriers'
+p387
+sa(dp388
+g2
+S'http://www.reuters.com/article/politicsNews/idUSDAH45961020080614'
+p389
+sg4
+S'20080614\xc2\xa002:33 PM EDT'
+p390
+sg6
+S'FACTBOX: World powers incentives package to Iran'
+p391
+sa(dp392
+g2
+S'http://www.reuters.com/article/pressRelease/idUS52758+14-Jun-2008+PRN20080614'
+p393
+sg4
+S'20080614\xc2\xa002:30 PM EDT'
+p394
+sg6
+S'Following Is a Test Release'
+p395
+sa(dp396
+g2
+S'http://www.reuters.com/article/pressRelease/idUS52753+14-Jun-2008+BW20080614'
+p397
+sg4
+S'20080614\xc2\xa002:30 PM EDT'
+p398
+sg6
+S"Sun Country Airlines Celebrates Father's Day With Golf Galaxy"
+p399
+sa(dp400
+g2
+S'http://www.reuters.com/article/sportsNews/idUSL1276341220080614'
+p401
+sg4
+S'20080614\xc2\xa002:28 PM EDT'
+p402
+sg6
+S"Nadal to face Djokovic in Queen's final"
+p403
+sa(dp404
+g2
+S'http://www.reuters.com/article/sportsNews/idUSL1450528620080614'
+p405
+sg4
+S'20080614\xc2\xa002:28 PM EDT'
+p406
+sg6
+S'Bondarenko sets up final with Wickmayer'
+p407
+sa(dp408
+g2
+S'http://www.reuters.com/article/sportsNews/idUSL1455816320080614'
+p409
+sg4
+S'20080614\xc2\xa002:26 PM EDT'
+p410
+sg6
+S'Djokovic ready to take on Nadal again in revenge match'
+p411
+sa(dp412
+g2
+S'http://www.reuters.com/article/pressRelease/idUS52232+14-Jun-2008+BW20080614'
+p413
+sg4
+S'20080614\xc2\xa002:14 PM EDT'
+p414
+sg6
+S"Astute Networks to Exhibit the Industry's First ATCA Storage Blade and Partner Solutions..."
+p415
+sa(dp416
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSN14301872'
+p417
+sg4
+S'20080614\xc2\xa002:11 PM EDT'
+p418
+sg6
+S'Strong winds fan forest fires in Nova Scotia'
+p419
+sa(dp420
+g2
+S'http://www.reuters.com/article/sportsNews/idUSL1431708420080614'
+p421
+sg4
+S'20080614\xc2\xa002:10 PM EDT'
+p422
+sg6
+S'Federer sees off Kiefer to reach Halle final'
+p423
+sa(dp424
+g2
+S'http://www.reuters.com/article/GCA-Oil/idUSN1444568420080614'
+p425
+sg4
+S'20080614\xc2\xa002:00 PM EDT'
+p426
+sg6
+S'Ecuador says oil firms agree to temporary deals'
+p427
+sa(dp428
+g2
+S'http://www.reuters.com/article/pressRelease/idUS51421+14-Jun-2008+PRN20080614'
+p429
+sg4
+S'20080614\xc2\xa002:00 PM EDT'
+p430
+sg6
+S'Following Is a Test Release'
+p431
+sa(dp432
+g2
+S'http://www.reuters.com/article/worldNews/idUSKUA46456820080614'
+p433
+sg4
+S'20080614\xc2\xa001:57 PM EDT'
+p434
+sg6
+S"TIMELINE: Iran's nuclear program"
+p435
+sa(dp436
+g2
+S'http://www.reuters.com/article/worldNews/idUSL1264166720080614'
+p437
+sg4
+S'20080614\xc2\xa001:55 PM EDT'
+p438
+sg6
+S'Mugabe vows opposition will never rule Zimbabwe'
+p439
+sa(dp440
+g2
+S'http://www.reuters.com/article/pressRelease/idUS50970+14-Jun-2008+BW20080614'
+p441
+sg4
+S'20080614\xc2\xa001:49 PM EDT'
+p442
+sg6
+S"Santa Clara University: Class of 2008 Celebrates SCU's 157th Commencement"
+p443
+sa(dp444
+g2
+S'http://www.reuters.com/article/newsMaps/idUSL1446013920080614'
+p445
+sg4
+S'20080614\xc2\xa001:41 PM EDT'
+p446
+sg6
+S'Pope says Church role in politics "for good of all"'
+p447
+sa(dp448
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSL14276518'
+p449
+sg4
+S'20080614\xc2\xa001:38 PM EDT'
+p450
+sg6
+S'Result of Gaza truce talks to be known soon-Israel'
+p451
+sa(dp452
+g2
+S'http://www.reuters.com/article/homepageCrisis/idUSL14276518._CH_.2400'
+p453
+sg4
+S'20080614\xc2\xa001:38 PM EDT'
+p454
+sg6
+S'Result of Gaza truce talks to be known soon-Israel'
+p455
+sa(dp456
+g2
+S'http://www.reuters.com/article/olympicsNews/idUSL1439411220080614'
+p457
+sg4
+S'20080614\xc2\xa001:35 PM EDT'
+p458
+sg6
+S"Soccer-China's World Cup bid ends in recriminations and tears"
+p459
+sa(dp460
+g2
+S'http://www.reuters.com/article/pressRelease/idUS50408+14-Jun-2008+BW20080614'
+p461
+sg4
+S'20080614\xc2\xa001:35 PM EDT'
+p462
+sg6
+S'Statement by the Press Secretary'
+p463
+sa(dp464
+g2
+S'http://www.reuters.com/article/pressRelease/idUS50219+14-Jun-2008+PRN20080614'
+p465
+sg4
+S'20080614\xc2\xa001:30 PM EDT'
+p466
+sg6
+S'Following Is a Test Release'
+p467
+sa(dp468
+g2
+S'http://www.reuters.com/article/worldNews/idUSL1438691920080614'
+p469
+sg4
+S'20080614\xc2\xa001:27 PM EDT'
+p470
+sg6
+S'Japanese man seized in Iran last year freed: IRNA'
+p471
+sa(dp472
+g2
+S'http://www.reuters.com/article/sportsNews/idUSL141710120080614'
+p473
+sg4
+S'20080614\xc2\xa001:23 PM EDT'
+p474
+sg6
+S"Roddick buoyed by Queen's workout"
+p475
+sa(dp476
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSL14386919'
+p477
+sg4
+S'20080614\xc2\xa001:22 PM EDT'
+p478
+sg6
+S'Japanese man seized in Iran last year freed -IRNA'
+p479
+sa(dp480
+g2
+S'http://www.reuters.com/article/pressRelease/idUS49984+14-Jun-2008+PRN20080614'
+p481
+sg4
+S'20080614\xc2\xa001:22 PM EDT'
+p482
+sg6
+S'U.S. Preventive Medicine Experts Available to Discuss Role of Prevention in Avoiding...'
+p483
+sa(dp484
+g2
+S'http://www.reuters.com/article/topNews/idUSSP15445720080614'
+p485
+sg4
+S'20080614\xc2\xa001:22 PM EDT'
+p486
+sg6
+S"Pakistan's Sharif stirs call for Musharraf to be hanged"
+p487
+sa(dp488
+g2
+S'http://www.reuters.com/article/topNews/idUSSIN17938220080614'
+p489
+sg4
+S'20080614\xc2\xa001:22 PM EDT'
+p490
+sg6
+S'Pakistan to pass on oil price rises automatically'
+p491
+sa(dp492
+g2
+S'http://www.reuters.com/article/africaCrisis/idUSL14379882'
+p493
+sg4
+S'20080614\xc2\xa001:19 PM EDT'
+p494
+sg6
+S'U.N. urges dialogue to solve Sahel Tuareg revolts'
+p495
+sa(dp496
+g2
+S'http://www.reuters.com/article/homepageCrisis/idUSL14379882._CH_.2400'
+p497
+sg4
+S'20080614\xc2\xa001:19 PM EDT'
+p498
+sg6
+S'U.N. urges dialogue to solve Sahel Tuareg revolts'
+p499
+sa(dp500
+g2
+S'http://www.reuters.com/article/newsOne/idUST1820520080614'
+p501
+sg4
+S'20080614\xc2\xa001:09 PM EDT'
+p502
+sg6
+S'North Japan quake kills at least 5, more missing'
+p503
+sa(dp504
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSL14304427'
+p505
+sg4
+S'20080614\xc2\xa001:03 PM EDT'
+p506
+sg6
+S'Djibouti president accuses Eritrea over border fight'
+p507
+sa(dp508
+g2
+S'http://www.reuters.com/article/homepageCrisis/idUSL14304427._CH_.2400'
+p509
+sg4
+S'20080614\xc2\xa001:03 PM EDT'
+p510
+sg6
+S'Djibouti president accuses Eritrea over border fight'
+p511
+sa(dp512
+g2
+S'http://www.reuters.com/article/pressRelease/idUS49169+14-Jun-2008+PRN20080614'
+p513
+sg4
+S'20080614\xc2\xa001:00 PM EDT'
+p514
+sg6
+S'Following Is a Test Release'
+p515
+sa(dp516
+g2
+S'http://www.reuters.com/article/pressRelease/idUS49166+14-Jun-2008+PRN20080614'
+p517
+sg4
+S'20080614\xc2\xa001:00 PM EDT'
+p518
+sg6
+S'Governor Rendell Awards $1 Million for Neighborhood Parks in Philadelphia'
+p519
+sa(dp520
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSDAH460708'
+p521
+sg4
+S'20080614\xc2\xa012:58 PM EDT'
+p522
+sg6
+S'Japanese tourist seized by bandits in Iran freed-IRNA'
+p523
+sa(dp524
+g2
+S'http://www.reuters.com/article/rbssUtilitiesElectric/idUSSP17649620080614'
+p525
+sg4
+S'20080614\xc2\xa012:56 PM EDT'
+p526
+sg6
+S'UPDATE 11-North Japan quake kills at least 5, more missing'
+p527
+sa(dp528
+g2
+S'http://www.reuters.com/article/homepageCrisis/idUSSP176496._CH_.2400'
+p529
+sg4
+S'20080614\xc2\xa012:56 PM EDT'
+p530
+sg6
+S'North Japan quake kills at least 5, more missing'
+p531
+sa(dp532
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSL14371515'
+p533
+sg4
+S'20080614\xc2\xa012:56 PM EDT'
+p534
+sg6
+S'Saudi denies report of militant suspect death'
+p535
+sa(dp536
+g2
+S'http://www.reuters.com/article/pressRelease/idUS48805+14-Jun-2008+PRN20080614'
+p537
+sg4
+S'20080614\xc2\xa012:50 PM EDT'
+p538
+sg6
+S"Obama: Wrong For Pennsylvania's Economy, Says Republican National Committee"
+p539
+sa(dp540
+g2
+S'http://www.reuters.com/article/scienceNews/idUSN1345600720080614'
+p541
+sg4
+S'20080614\xc2\xa012:50 PM EDT'
+p542
+sg6
+S'Space shuttle Discovery returns to Earth'
+p543
+sa(dp544
+g2
+S'http://www.reuters.com/article/GCA-Oil/idUSL1435766520080614'
+p545
+sg4
+S'20080614\xc2\xa012:36 PM EDT'
+p546
+sg6
+S'High oil prices hitting poor nations: UK minister'
+p547
+sa(dp548
+g2
+S'http://www.reuters.com/article/worldNews/idUSL1442755120080614'
+p549
+sg4
+S'20080614\xc2\xa012:33 PM EDT'
+p550
+sg6
+S'Qaeda claims Algeria bombs that killed Frenchman'
+p551
+sa(dp552
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSL14427551'
+p553
+sg4
+S'20080614\xc2\xa012:30 PM EDT'
+p554
+sg6
+S'Qaeda claims Algeria bombs that killed Frenchman'
+p555
+sa(dp556
+g2
+S'http://www.reuters.com/article/pressRelease/idUS48063+14-Jun-2008+PRN20080614'
+p557
+sg4
+S'20080614\xc2\xa012:30 PM EDT'
+p558
+sg6
+S'Following Is a Test Release'
+p559
+sa(dp560
+g2
+S'http://www.reuters.com/article/pressRelease/idUS48056+14-Jun-2008+BW20080614'
+p561
+sg4
+S'20080614\xc2\xa012:30 PM EDT'
+p562
+sg6
+S"Peyton, Archie and Eli Manning Kick off Father's Day Weekend with the NERF Father's..."
+p563
+sa(dp564
+g2
+S'http://www.reuters.com/article/newsMaps/idUSL1436662420080614'
+p565
+sg4
+S'20080614\xc2\xa012:22 PM EDT'
+p566
+sg6
+S'Powers offer to help Iran with civilian atom power'
+p567
+sa(dp568
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSL14362742'
+p569
+sg4
+S'20080614\xc2\xa012:18 PM EDT'
+p570
+sg6
+S'Swaziland king ends parliament ahead of polls'
+p571
+sa(dp572
+g2
+S'http://www.reuters.com/article/pressRelease/idUS47473+14-Jun-2008+BW20080614'
+p573
+sg4
+S'20080614\xc2\xa012:15 PM EDT'
+p574
+sg6
+S'Health Economic Analysis Reports That Revlimid is a Cost Effective Treatment for...'
+p575
+sa(dp576
+g2
+S'http://www.reuters.com/article/artsNews/idUSN1237595620080614'
+p577
+sg4
+S'20080614\xc2\xa012:13 PM EDT'
+p578
+sg6
+S'Picassos stolen in second recent Brazil art heist'
+p579
+sa(dp580
+g2
+S'http://www.reuters.com/article/artsNews/idUSN1134497620080614'
+p581
+sg4
+S'20080614\xc2\xa012:13 PM EDT'
+p582
+sg6
+S'Rocker and rapper up for top Broadway honors'
+p583
+sa(dp584
+g2
+S'http://www.reuters.com/article/artsNews/idUSL128094820080614'
+p585
+sg4
+S'20080614\xc2\xa012:13 PM EDT'
+p586
+sg6
+S'Sean Connery to unveil autobiography at festival'
+p587
+sa(dp588
+g2
+S'http://www.reuters.com/article/artsNews/idUSL1155752920080614'
+p589
+sg4
+S'20080614\xc2\xa012:13 PM EDT'
+p590
+sg6
+S'Onassis jewels sell for $13.3 million at auction'
+p591
+sa(dp592
+g2
+S'http://www.reuters.com/article/artsNews/idUSPEK25297320080614'
+p593
+sg4
+S'20080614\xc2\xa012:13 PM EDT'
+p594
+sg6
+S'Chinese art may face bubble trouble as prices soar'
+p595
+sa(dp596
+g2
+S'http://www.reuters.com/article/artsNews/idUSN1347444920080614'
+p597
+sg4
+S'20080614\xc2\xa012:13 PM EDT'
+p598
+sg6
+S'Affordable Art Fair cashes in on economic gloom'
+p599
+sa(dp600
+g2
+S'http://www.reuters.com/article/artsNews/idUSN1243281620080614'
+p601
+sg4
+S'20080614\xc2\xa012:13 PM EDT'
+p602
+sg6
+S"Madonna's brother to publish book on life with her"
+p603
+sa(dp604
+g2
+S'http://www.reuters.com/article/artsNews/idUSN1239701220080614'
+p605
+sg4
+S'20080614\xc2\xa012:13 PM EDT'
+p606
+sg6
+S'Author Keyes takes on domestic violence with humor'
+p607
+sa(dp608
+g2
+S'http://www.reuters.com/article/entertainmentNews/idUSL1340662420080614'
+p609
+sg4
+S'20080614\xc2\xa012:13 PM EDT'
+p610
+sg6
+S'Cologne museum to show long Jewish ties to the city'
+p611
+sa(dp612
+g2
+S'http://www.reuters.com/article/pressRelease/idUS47058+14-Jun-2008+PRN20080614'
+p613
+sg4
+S'20080614\xc2\xa012:03 PM EDT'
+p614
+sg6
+S'RNC Chairman Statement on Flag Day'
+p615
+sa(dp616
+g2
+S'http://www.reuters.com/article/pressRelease/idUS46948+14-Jun-2008+MW20080614'
+p617
+sg4
+S'20080614\xc2\xa012:00 PM EDT'
+p618
+sg6
+S' Positive Clinical Data for PBI-1402 Presented at the Annual Congress of the European Hematology Association'
+p619
+sa(dp620
+g2
+S'http://www.reuters.com/article/pressRelease/idUS46929+14-Jun-2008+PRN20080614'
+p621
+sg4
+S'20080614\xc2\xa012:00 PM EDT'
+p622
+sg6
+S'Following Is a Test Release'
+p623
+sa(dp624
+g2
+S'http://www.reuters.com/article/pressRelease/idUS46924+14-Jun-2008+PRN20080614'
+p625
+sg4
+S'20080614\xc2\xa012:00 PM EDT'
+p626
+sg6
+S'Positive clinical data for PBI-1402 presented at the Annual Congress of the European...'
+p627
+sa(dp628
+g2
+S'http://www.reuters.com/article/pressRelease/idUS46918+14-Jun-2008+BW20080614'
+p629
+sg4
+S'20080614\xc2\xa012:00 PM EDT'
+p630
+sg6
+S'Tavis Smiley and Nationwide Insurance Bring Message of Empowerment and Personal Accountability...'
+p631
+sa(dp632
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSL14357481'
+p633
+sg4
+S'20080614\xc2\xa011:58 AM EDT'
+p634
+sg6
+S'Iraq prepares new drive against armed groups'
+p635
+sa(dp636
+g2
+S'http://www.reuters.com/article/pressRelease/idUS46320+14-Jun-2008+PRN20080614'
+p637
+sg4
+S'20080614\xc2\xa011:47 AM EDT'
+p638
+sg6
+S"NASA's Shuttle Discovery Glides Home After Successful Mission"
+p639
+sa(dp640
+g2
+S'http://www.reuters.com/article/politicsNews/idUSKUA45648420080614'
+p641
+sg4
+S'20080614\xc2\xa011:42 AM EDT'
+p642
+sg6
+S"TIMELINE: Iran's nuclear program"
+p643
+sa(dp644
+g2
+S'http://www.reuters.com/article/worldNews/idUSDAH45568620080614'
+p645
+sg4
+S'20080614\xc2\xa011:39 AM EDT'
+p646
+sg6
+S'Big powers want Iran nuclear suspension during talks'
+p647
+sa(dp648
+g2
+S'http://www.reuters.com/article/newsOne/idUSN1233928120080614'
+p649
+sg4
+S'20080614\xc2\xa011:31 AM EDT'
+p650
+sg6
+S'Disaster-prone deltas next climate risk: ecologist'
+p651
+sa(dp652
+g2
+S'http://www.reuters.com/article/pressRelease/idUS45552+14-Jun-2008+PRN20080614'
+p653
+sg4
+S'20080614\xc2\xa011:30 AM EDT'
+p654
+sg6
+S'Following Is a Test Release'
+p655
+sa(dp656
+g2
+S'http://www.reuters.com/article/pressRelease/idUS45289+14-Jun-2008+BW20080614'
+p657
+sg4
+S'20080614\xc2\xa011:25 AM EDT'
+p658
+sg6
+S'Interview of the Vice President by Matt Lauer of NBC News 8:08 A.M. EDT'
+p659
+sa(dp660
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSN14428723'
+p661
+sg4
+S'20080614\xc2\xa011:21 AM EDT'
+p662
+sg6
+S'Space shuttle Discovery returns to Earth'
+p663
+sa(dp664
+g2
+S'http://www.reuters.com/article/homepageCrisis/idUSN12339281._CH_.2400'
+p665
+sg4
+S'20080614\xc2\xa011:21 AM EDT'
+p666
+sg6
+S'INTERVIEW-Disaster-prone deltas next climate risk-ecologist'
+p667
+sa(dp668
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSN12339281'
+p669
+sg4
+S'20080614\xc2\xa011:21 AM EDT'
+p670
+sg6
+S'INTERVIEW-Disaster-prone deltas next climate risk-ecologist'
+p671
+sa(dp672
+g2
+S'http://www.reuters.com/article/politicsNews/idUSDAH44966120080614'
+p673
+sg4
+S'20080614\xc2\xa011:19 AM EDT'
+p674
+sg6
+S'Solana says Iran aims for reply to atomic offer soon'
+p675
+sa(dp676
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSN14432848'
+p677
+sg4
+S'20080614\xc2\xa011:16 AM EDT'
+p678
+sg6
+S'Space shuttle Discovery lands safely in Florida'
+p679
+sa(dp680
+g2
+S'http://www.reuters.com/article/pressRelease/idUS44336+14-Jun-2008+PRN20080614'
+p681
+sg4
+S'20080614\xc2\xa011:00 AM EDT'
+p682
+sg6
+S'Following Is a Test Release'
+p683
+sa(dp684
+g2
+S'http://www.reuters.com/article/pressRelease/idUS44330+14-Jun-2008+BW20080614'
+p685
+sg4
+S'20080614\xc2\xa011:00 AM EDT'
+p686
+sg6
+S"Put Up Your Dukes for the Super Smash Bros. Brawl Wii Father's Day Tournament"
+p687
+sa(dp688
+g2
+S'http://www.reuters.com/article/internetNews/idUSL1428614320080614'
+p689
+sg4
+S'20080614\xc2\xa010:58 AM EDT'
+p690
+sg6
+S"No teams here but UK tops internet users' poll"
+p691
+sa(dp692
+g2
+S'http://www.reuters.com/article/pressRelease/idUS43932+14-Jun-2008+PRN20080614'
+p693
+sg4
+S'20080614\xc2\xa010:47 AM EDT'
+p694
+sg6
+S'American Heart Association Extends Sympathy to Family of Journalist Tim Russert'
+p695
+sa(dp696
+g2
+S'http://www.reuters.com/article/pressRelease/idUS43910+14-Jun-2008+PRN20080614'
+p697
+sg4
+S'20080614\xc2\xa010:46 AM EDT'
+p698
+sg6
+S"Stock Picker RT Software from Investing Systems Network Delivers 'One-Click Stock..."
+p699
+sa(dp700
+g2
+S'http://www.reuters.com/article/newsMaps/idUSL1414347020080614'
+p701
+sg4
+S'20080614\xc2\xa010:45 AM EDT'
+p702
+sg6
+S'Kyrgyzstan buries writer, perestroika ally Aitmatov'
+p703
+sa(dp704
+g2
+S'http://www.reuters.com/article/homepageCrisis/idUSL14249613._CH_.2400'
+p705
+sg4
+S'20080614\xc2\xa010:42 AM EDT'
+p706
+sg6
+S'Mugabe vows opposition will never rule Zimbabwe'
+p707
+sa(dp708
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSB668369'
+p709
+sg4
+S'20080614\xc2\xa010:37 AM EDT'
+p710
+sg6
+S'Indian minister warns Kashmir violence could worsen'
+p711
+sa(dp712
+g2
+S'http://www.reuters.com/article/pressRelease/idUS43322+14-Jun-2008+PRN20080614'
+p713
+sg4
+S'20080614\xc2\xa010:30 AM EDT'
+p714
+sg6
+S'John McCain Should Return $300,000 Raised from Donor Notorious for Sexist Remark,...'
+p715
+sa(dp716
+g2
+S'http://www.reuters.com/article/pressRelease/idUS43305+14-Jun-2008+PRN20080614'
+p717
+sg4
+S'20080614\xc2\xa010:30 AM EDT'
+p718
+sg6
+S'Following Is a Test Release'
+p719
+sa(dp720
+g2
+S'http://www.reuters.com/article/topNews/idUSISL17250920080614'
+p721
+sg4
+S'20080614\xc2\xa010:28 AM EDT'
+p722
+sg6
+S'Afghans hunt for prison escapees'
+p723
+sa(dp724
+g2
+S'http://www.reuters.com/article/topNews/idUSSP17606020080614'
+p725
+sg4
+S'20080614\xc2\xa010:28 AM EDT'
+p726
+sg6
+S'Blast kills four U.S.-led soldiers in Afghan west'
+p727
+sa(dp728
+g2
+S'http://www.reuters.com/article/pressRelease/idUS43198+14-Jun-2008+MW20080614'
+p729
+sg4
+S'20080614\xc2\xa010:27 AM EDT'
+p730
+sg6
+S' Health Canada Reminds Canadians of Steps They Can Take to Prevent Foodborne Illnesses in Fresh Tomatoes'
+p731
+sa(dp732
+g2
+S'http://www.reuters.com/article/pressRelease/idUS43120+14-Jun-2008+MW20080614'
+p733
+sg4
+S'20080614\xc2\xa010:24 AM EDT'
+p734
+sg6
+S' Health Canada Reminds Canadians of Steps They Can Take to Prevent Foodborne Illnesses in Fresh Tomatoes'
+p735
+sa(dp736
+g2
+S'http://www.reuters.com/article/politicsNews/idUSL1425385120080614'
+p737
+sg4
+S'20080614\xc2\xa010:15 AM EDT'
+p738
+sg6
+S"France's Sarkozy tells Syria to cool its Iran ties"
+p739
+sa(dp740
+g2
+S'http://www.reuters.com/article/newsMaps/idUSDEL17657620080614'
+p741
+sg4
+S'20080614\xc2\xa010:13 AM EDT'
+p742
+sg6
+S'Nepal police break up Tibet protests, 182 held'
+p743
+sa(dp744
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSN14466901'
+p745
+sg4
+S'20080614\xc2\xa010:11 AM EDT'
+p746
+sg6
+S'US space shuttle leaves orbit for Florida landing'
+p747
+sa(dp748
+g2
+S'http://www.reuters.com/article/pressRelease/idUS42633+14-Jun-2008+BW20080614'
+p749
+sg4
+S'20080614\xc2\xa010:10 AM EDT'
+p750
+sg6
+S'Radio Address by the President to the Nation'
+p751
+sa(dp752
+g2
+S'http://www.reuters.com/article/olympicsNews/idUSPEK15464220080614'
+p753
+sg4
+S'20080614\xc2\xa010:07 AM EDT'
+p754
+sg6
+S'Soccer-Iraq keep World Cup hopes alive with win in China'
+p755
+sa(dp756
+g2
+S'http://www.reuters.com/article/pressRelease/idUS42514+14-Jun-2008+PRN20080614'
+p757
+sg4
+S'20080614\xc2\xa010:06 AM EDT'
+p758
+sg6
+S'Radio Address by President Bush to the Nation'
+p759
+sa(dp760
+g2
+S'http://www.reuters.com/article/pressRelease/idUS42300+14-Jun-2008+PRN20080614'
+p761
+sg4
+S'20080614\xc2\xa010:00 AM EDT'
+p762
+sg6
+S'/C O R R E C T I O N from Source -- Good Life China Corporation/'
+p763
+sa(dp764
+g2
+S'http://www.reuters.com/article/pressRelease/idUS42250+14-Jun-2008+PRN20080614'
+p765
+sg4
+S'20080614\xc2\xa010:00 AM EDT'
+p766
+sg6
+S'Following Is a Test Release'
+p767
+sa(dp768
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSDEL176576'
+p769
+sg4
+S'20080614\xc2\xa009:59 AM EDT'
+p770
+sg6
+S'Nepal police break up Tibet protests, 182 held'
+p771
+sa(dp772
+g2
+S'http://www.reuters.com/article/pressRelease/idUS41361+14-Jun-2008+PRN20080614'
+p773
+sg4
+S'20080614\xc2\xa009:30 AM EDT'
+p774
+sg6
+S'Following Is a Test Release'
+p775
+sa(dp776
+g2
+S'http://www.reuters.com/article/pressRelease/idUS41333+14-Jun-2008+PRN20080614'
+p777
+sg4
+S'20080614\xc2\xa009:28 AM EDT'
+p778
+sg6
+S"Gov. Ed Rendell (D-PA) Attacked Obama on His 'Bitter' Comment About Pennsylvanians"
+p779
+sa(dp780
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSL14159956'
+p781
+sg4
+S'20080614\xc2\xa009:11 AM EDT'
+p782
+sg6
+S"Egypt's jailed Eritreans say they fear going home"
+p783
+sa(dp784
+g2
+S'http://www.reuters.com/article/topNews/idUSDAH44638220080614'
+p785
+sg4
+S'20080614\xc2\xa009:06 AM EDT'
+p786
+sg6
+S'Iran sees "new diplomatic path" in nuclear dispute'
+p787
+sa(dp788
+g2
+S'http://www.reuters.com/article/pressRelease/idUS40668+14-Jun-2008+PRN20080614'
+p789
+sg4
+S'20080614\xc2\xa009:00 AM EDT'
+p790
+sg6
+S'Following Is a Test Release'
+p791
+sa(dp792
+g2
+S'http://www.reuters.com/article/topNews/idUSDAH44576020080614'
+p793
+sg4
+S'20080614\xc2\xa008:57 AM EDT'
+p794
+sg6
+S"EU's Solana, Iran agree to keep working on atom row"
+p795
+sa(dp796
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSSP176496'
+p797
+sg4
+S'20080614\xc2\xa008:55 AM EDT'
+p798
+sg6
+S'North Japan quake kills at least 5, more missing'
+p799
+sa(dp800
+g2
+S'http://www.reuters.com/article/ousiv/idUSWEN625520080614'
+p801
+sg4
+S'20080614\xc2\xa008:51 AM EDT'
+p802
+sg6
+S'Time Warner scraps Weather Channel bid'
+p803
+sa(dp804
+g2
+S'http://www.reuters.com/article/ousiv/idUSN1364895720080614'
+p805
+sg4
+S'20080614\xc2\xa008:51 AM EDT'
+p806
+sg6
+S'Gas prices top consumer worry, economists say'
+p807
+sa(dp808
+g2
+S'http://www.reuters.com/article/ousiv/idUSN1345730020080614'
+p809
+sg4
+S'20080614\xc2\xa008:51 AM EDT'
+p810
+sg6
+S'Greenspan sees Fed getting tough on inflation'
+p811
+sa(dp812
+g2
+S'http://www.reuters.com/article/ousiv/idUSN1327168620080614'
+p813
+sg4
+S'20080614\xc2\xa008:51 AM EDT'
+p814
+sg6
+S'AIG could hold emergency meeting over CEO: report'
+p815
+sa(dp816
+g2
+S'http://www.reuters.com/article/ousivMolt/idUSSP2149020080614'
+p817
+sg4
+S'20080614\xc2\xa008:50 AM EDT'
+p818
+sg6
+S'G8 frets over commodity shock'
+p819
+sa(dp820
+g2
+S'http://www.reuters.com/article/pressRelease/idUS40022+14-Jun-2008+BW20080614'
+p821
+sg4
+S'20080614\xc2\xa008:40 AM EDT'
+p822
+sg6
+S"Biovail Announces That RiskMetrics Group Recommends Shareholders Vote ''For'' Biovail's..."
+p823
+sa(dp824
+g2
+S'http://www.reuters.com/article/topNews/idUSKUA44549120080614'
+p825
+sg4
+S'20080614\xc2\xa008:39 AM EDT'
+p826
+sg6
+S"TIMELINE: Iran's nuclear program"
+p827
+sa(dp828
+g2
+S'http://www.reuters.com/article/africaCrisis/idUSL14249613'
+p829
+sg4
+S'20080614\xc2\xa008:38 AM EDT'
+p830
+sg6
+S'Mugabe vows opposition will never rule Zimbabwe'
+p831
+sa(dp832
+g2
+S'http://www.reuters.com/article/worldNews/idUSKUA44532320080614'
+p833
+sg4
+S'20080614\xc2\xa008:36 AM EDT'
+p834
+sg6
+S'Zimbabwe opposition leader Tsvangirai released: MDC'
+p835
+sa(dp836
+g2
+S'http://www.reuters.com/article/pressRelease/idUS39657+14-Jun-2008+BW20080614'
+p837
+sg4
+S'20080614\xc2\xa008:31 AM EDT'
+p838
+sg6
+S'Remarks by President Bush and President Sarkozy of France in Joint Press Availability'
+p839
+sa(dp840
+g2
+S'http://www.reuters.com/article/pressRelease/idUS39604+14-Jun-2008+PRN20080614'
+p841
+sg4
+S'20080614\xc2\xa008:30 AM EDT'
+p842
+sg6
+S'Following Is a Test Release'
+p843
+sa(dp844
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSB278437'
+p845
+sg4
+S'20080614\xc2\xa008:29 AM EDT'
+p846
+sg6
+S'Zimbabwe opposition leader Tsvangirai released-MDC'
+p847
+sa(dp848
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSL14272679'
+p849
+sg4
+S'20080614\xc2\xa008:27 AM EDT'
+p850
+sg6
+S'Chad rebels attack eastern town, fighting under way'
+p851
+sa(dp852
+g2
+S'http://www.reuters.com/article/GCA-GCA-iraq/idUSRAS32213520080614'
+p853
+sg4
+S'20080614\xc2\xa008:15 AM EDT'
+p854
+sg6
+S'FACTBOX: Security developments in Iraq'
+p855
+sa(dp856
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSL14238117'
+p857
+sg4
+S'20080614\xc2\xa008:13 AM EDT'
+p858
+sg6
+S'Saudi militant suspect dies in custody - website'
+p859
+sa(dp860
+g2
+S'http://www.reuters.com/article/homepageCrisis/idUSL14181404._CH_.2400'
+p861
+sg4
+S'20080614\xc2\xa008:10 AM EDT'
+p862
+sg6
+S'Result of Gaza truce talks to be known soon-Israel'
+p863
+sa(dp864
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSL14181404'
+p865
+sg4
+S'20080614\xc2\xa008:10 AM EDT'
+p866
+sg6
+S'Result of Gaza truce talks to be known soon-Israel'
+p867
+sa(dp868
+g2
+S'http://www.reuters.com/article/pressRelease/idUS38212+14-Jun-2008+PRN20080614'
+p869
+sg4
+S'20080614\xc2\xa008:00 AM EDT'
+p870
+sg6
+S'Following Is a Test Release'
+p871
+sa(dp872
+g2
+S'http://www.reuters.com/article/newsOne/idUSN1441388420080614'
+p873
+sg4
+S'20080614\xc2\xa007:56 AM EDT'
+p874
+sg6
+S'Bush, Sarkozy seek united front against Iran'
+p875
+sa(dp876
+g2
+S'http://www.reuters.com/article/pressRelease/idUS37230+14-Jun-2008+PRN20080614'
+p877
+sg4
+S'20080614\xc2\xa007:30 AM EDT'
+p878
+sg6
+S'Following Is a Test Release'
+p879
+sa(dp880
+g2
+S'http://www.reuters.com/article/GCA-Oil/idUSL1424704920080614'
+p881
+sg4
+S'20080614\xc2\xa007:25 AM EDT'
+p882
+sg6
+S'Germany warns oil prices threaten global economy'
+p883
+sa(dp884
+g2
+S'http://www.reuters.com/article/worldNews/idUST5129020080614'
+p885
+sg4
+S'20080614\xc2\xa007:18 AM EDT'
+p886
+sg6
+S'FACTBOX: Japan and earthquakes'
+p887
+sa(dp888
+g2
+S'http://www.reuters.com/article/worldNews/idUST438720080614'
+p889
+sg4
+S'20080614\xc2\xa007:18 AM EDT'
+p890
+sg6
+S'Small radioactive water leak within TEPCO plant'
+p891
+sa(dp892
+g2
+S'http://www.reuters.com/article/worldNews/idUST2438120080614'
+p893
+sg4
+S'20080614\xc2\xa007:18 AM EDT'
+p894
+sg6
+S'Toyota suffers minor quake damage'
+p895
+sa(dp896
+g2
+S'http://www.reuters.com/article/pressRelease/idUS36818+14-Jun-2008+BW20080614'
+p897
+sg4
+S'20080614\xc2\xa007:17 AM EDT'
+p898
+sg6
+S'Santa Clara University Graduate School Commencement: B.J. Cassin Gives Class of 2008...'
+p899
+sa(dp900
+g2
+S'http://www.reuters.com/article/GCA-Oil/idUSPAB00413420080614'
+p901
+sg4
+S'20080614\xc2\xa007:16 AM EDT'
+p902
+sg6
+S'Bush says disappointed Iran rejects offer'
+p903
+sa(dp904
+g2
+S'http://www.reuters.com/article/GCA-Oil/idUSHOS43965520080614'
+p905
+sg4
+S'20080614\xc2\xa007:16 AM EDT'
+p906
+sg6
+S'Iran discovers new oilfield in southwest: minister'
+p907
+sa(dp908
+g2
+S'http://www.reuters.com/article/worldNews/idUST1365020080614'
+p909
+sg4
+S'20080614\xc2\xa007:13 AM EDT'
+p910
+sg6
+S'Japan keeps up pressure on China over defense'
+p911
+sa(dp912
+g2
+S'http://www.reuters.com/article/worldNews/idUSL1424329420080614'
+p913
+sg4
+S'20080614\xc2\xa007:11 AM EDT'
+p914
+sg6
+S'Zimbabwe opposition leader Tsvangirai arrested: MDC'
+p915
+sa(dp916
+g2
+S'http://www.reuters.com/article/homepageCrisis/idUSL14243294._CH_.2400'
+p917
+sg4
+S'20080614\xc2\xa007:05 AM EDT'
+p918
+sg6
+S'Zimbabwe opposition leader Tsvangirai arrested-MDC'
+p919
+sa(dp920
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSL14243294'
+p921
+sg4
+S'20080614\xc2\xa007:05 AM EDT'
+p922
+sg6
+S'Zimbabwe opposition leader Tsvangirai arrested-MDC'
+p923
+sa(dp924
+g2
+S'http://www.reuters.com/article/pressRelease/idUS36142+14-Jun-2008+PRN20080614'
+p925
+sg4
+S'20080614\xc2\xa007:00 AM EDT'
+p926
+sg6
+S'Following Is a Test Release'
+p927
+sa(dp928
+g2
+S'http://www.reuters.com/article/rbssBanks/idUSL1458934120080614'
+p929
+sg4
+S'20080614\xc2\xa006:58 AM EDT'
+p930
+sg6
+S'BPI says rights issue fully subscribed'
+p931
+sa(dp932
+g2
+S'http://www.reuters.com/article/pressRelease/idUS36105+14-Jun-2008+PRN20080614'
+p933
+sg4
+S'20080614\xc2\xa006:58 AM EDT'
+p934
+sg6
+S"Hillary Clinton's Legacy: Health Insurance Truth"
+p935
+sa(dp936
+g2
+S'http://www.reuters.com/article/GCA-Agflation/idUSL1420967720080614'
+p937
+sg4
+S'20080614\xc2\xa006:53 AM EDT'
+p938
+sg6
+S'Saudi Arabia to grow strategic grains abroad'
+p939
+sa(dp940
+g2
+S'http://www.reuters.com/article/worldNews/idUSL1419507620080614'
+p941
+sg4
+S'20080614\xc2\xa006:49 AM EDT'
+p942
+sg6
+S'Spanish police arrest 14 in child pornography raids'
+p943
+sa(dp944
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSB239019'
+p945
+sg4
+S'20080614\xc2\xa006:37 AM EDT'
+p946
+sg6
+S"Zimbabwe MDC's Biti appears before judge"
+p947
+sa(dp948
+g2
+S'http://www.reuters.com/article/topNews/idUSN1347719020080614'
+p949
+sg4
+S'20080614\xc2\xa006:35 AM EDT'
+p950
+sg6
+S'U.S. forces begin to shift posture in Iraq: analysts'
+p951
+sa(dp952
+g2
+S'http://www.reuters.com/article/topNews/idUSL1368640120080614'
+p953
+sg4
+S'20080614\xc2\xa006:35 AM EDT'
+p954
+sg6
+S'FACTBOX: Military and civilian deaths in Iraq'
+p955
+sa(dp956
+g2
+S'http://www.reuters.com/article/topNews/idUSL1359142720080614'
+p957
+sg4
+S'20080614\xc2\xa006:35 AM EDT'
+p958
+sg6
+S"FACTBOX: Iraq's thorny negotiations with U.S"
+p959
+sa(dp960
+g2
+S'http://www.reuters.com/article/pressRelease/idUS35240+14-Jun-2008+PRN20080614'
+p961
+sg4
+S'20080614\xc2\xa006:30 AM EDT'
+p962
+sg6
+S'Following Is a Test Release'
+p963
+sa(dp964
+g2
+S'http://www.reuters.com/article/worldNews/idUSL1421194320080614'
+p965
+sg4
+S'20080614\xc2\xa006:29 AM EDT'
+p966
+sg6
+S'U.N. criticizes "excessive" Congo crackdown'
+p967
+sa(dp968
+g2
+S'http://www.reuters.com/article/companyNewsAndPR/idUST33120080614'
+p969
+sg4
+S'20080614\xc2\xa006:25 AM EDT'
+p970
+sg6
+S"Highlights 11-G8 finance ministers' meeting in Osaka, Japan"
+p971
+sa(dp972
+g2
+S'http://www.reuters.com/article/newsOne/idUSL1381481020080614'
+p973
+sg4
+S'20080614\xc2\xa006:24 AM EDT'
+p974
+sg6
+S"Spain's Expo 2008 on world water opens"
+p975
+sa(dp976
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSL14211943'
+p977
+sg4
+S'20080614\xc2\xa006:21 AM EDT'
+p978
+sg6
+S'U.N. criticises "excessive" Congo crackdown on sect'
+p979
+sa(dp980
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSL14227949'
+p981
+sg4
+S'20080614\xc2\xa006:19 AM EDT'
+p982
+sg6
+S"Zimbabwe's Mugabe vows MDC will not rule"
+p983
+sa(dp984
+g2
+S'http://www.reuters.com/article/rbssSteel/idUSL1462454820080614'
+p985
+sg4
+S'20080614\xc2\xa006:08 AM EDT'
+p986
+sg6
+S'SGS sees lower takeover prices,looking at targets-paper'
+p987
+sa(dp988
+g2
+S'http://www.reuters.com/article/pressRelease/idUS34053+14-Jun-2008+PRN20080614'
+p989
+sg4
+S'20080614\xc2\xa006:00 AM EDT'
+p990
+sg6
+S'Following Is a Test Release'
+p991
+sa(dp992
+g2
+S'http://www.reuters.com/article/homepageCrisis/idUSL14210357._CH_.2400'
+p993
+sg4
+S'20080614\xc2\xa006:00 AM EDT'
+p994
+sg6
+S'Zimbabwe army chief brands opposition "treacherous"'
+p995
+sa(dp996
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSL14210357'
+p997
+sg4
+S'20080614\xc2\xa006:00 AM EDT'
+p998
+sg6
+S'Zimbabwe army chief brands opposition "treacherous"'
+p999
+sa(dp1000
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSB139933'
+p1001
+sg4
+S'20080614\xc2\xa006:00 AM EDT'
+p1002
+sg6
+S'Reuters quote of the day, June 14'
+p1003
+sa(dp1004
+g2
+S'http://www.reuters.com/article/pressRelease/idUS34029+14-Jun-2008+PRN20080614'
+p1005
+sg4
+S'20080614\xc2\xa005:59 AM EDT'
+p1006
+sg6
+S'GOOD MORNING -- June 14, 2008'
+p1007
+sa(dp1008
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSSP109008'
+p1009
+sg4
+S'20080614\xc2\xa005:57 AM EDT'
+p1010
+sg6
+S'Afghans hunt for prison escapees, blast kills 4 troops'
+p1011
+sa(dp1012
+g2
+S'http://www.reuters.com/article/pressRelease/idUS33575+14-Jun-2008+BW20080614'
+p1013
+sg4
+S'20080614\xc2\xa005:43 AM EDT'
+p1014
+sg6
+S'Preliminary Results from International Study Report That REVLIMID(R) Provides Responses...'
+p1015
+sa(dp1016
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSBYT431718'
+p1017
+sg4
+S'20080614\xc2\xa005:37 AM EDT'
+p1018
+sg6
+S'Kosovo officer and man wounded in shootout'
+p1019
+sa(dp1020
+g2
+S'http://www.reuters.com/article/rbssUtilitiesElectric/idUSL1466127520080614'
+p1021
+sg4
+S'20080614\xc2\xa005:34 AM EDT'
+p1022
+sg6
+S'UPDATE 8-Northern Japan quake kills 3, more missing'
+p1023
+sa(dp1024
+g2
+S'http://www.reuters.com/article/homepageCrisis/idUSL14661275._CH_.2400'
+p1025
+sg4
+S'20080614\xc2\xa005:34 AM EDT'
+p1026
+sg6
+S'Northern Japan quake kills 3, more missing'
+p1027
+sa(dp1028
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSL14661275'
+p1029
+sg4
+S'20080614\xc2\xa005:34 AM EDT'
+p1030
+sg6
+S'Northern Japan quake kills 3, more missing'
+p1031
+sa(dp1032
+g2
+S'http://www.reuters.com/article/pressRelease/idUS33182+14-Jun-2008+PRN20080614'
+p1033
+sg4
+S'20080614\xc2\xa005:30 AM EDT'
+p1034
+sg6
+S'Following Is a Test Release'
+p1035
+sa(dp1036
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSL14199761'
+p1037
+sg4
+S'20080614\xc2\xa005:29 AM EDT'
+p1038
+sg6
+S'Zimbabwe judge orders Biti brought to court'
+p1039
+sa(dp1040
+g2
+S'http://www.reuters.com/article/rbssEngineeringConstruction/idUSL1418023620080614'
+p1041
+sg4
+S'20080614\xc2\xa005:23 AM EDT'
+p1042
+sg6
+S'ACS renews derivatives holding in Iberdrola-report'
+p1043
+sa(dp1044
+g2
+S'http://www.reuters.com/article/companyNewsAndPR/idUST1084620080614'
+p1045
+sg4
+S'20080614\xc2\xa005:17 AM EDT'
+p1046
+sg6
+S'UPDATE 1-Draghi tells G8 banks on track on reform'
+p1047
+sa(dp1048
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSL14147401'
+p1049
+sg4
+S'20080614\xc2\xa005:12 AM EDT'
+p1050
+sg6
+S"Case of Zimbabwe's Biti adjourned after no-show"
+p1051
+sa(dp1052
+g2
+S'http://www.reuters.com/article/pressRelease/idUS32623+14-Jun-2008+BW20080614'
+p1053
+sg4
+S'20080614\xc2\xa005:10 AM EDT'
+p1054
+sg6
+S'New Analysis of Phase III Studies Shows That REVLIMID(R) Plus Dexamethasone Yielded...'
+p1055
+sa(dp1056
+g2
+S'http://www.reuters.com/article/ousivMolt/idUSN1128460420080614'
+p1057
+sg4
+S'20080614\xc2\xa005:05 AM EDT'
+p1058
+sg6
+S'Airline cuts to squeeze Las Vegas resorts'
+p1059
+sa(dp1060
+g2
+S'http://www.reuters.com/article/homepageCrisis/idUSL14154294._CH_.2400'
+p1061
+sg4
+S'20080614\xc2\xa005:03 AM EDT'
+p1062
+sg6
+S'Guinea settles army pay dispute with mass promotion'
+p1063
+sa(dp1064
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSL14154294'
+p1065
+sg4
+S'20080614\xc2\xa005:03 AM EDT'
+p1066
+sg6
+S'Guinea settles army pay dispute with mass promotion'
+p1067
+sa(dp1068
+g2
+S'http://www.reuters.com/article/pressRelease/idUS32357+14-Jun-2008+PRN20080614'
+p1069
+sg4
+S'20080614\xc2\xa005:00 AM EDT'
+p1070
+sg6
+S'Following Is a Test Release'
+p1071
+sa(dp1072
+g2
+S'http://www.reuters.com/article/latestCrisis/idUST9805'
+p1073
+sg4
+S'20080614\xc2\xa004:54 AM EDT'
+p1074
+sg6
+S'TEXT-G8 statement on action plan for climate change'
+p1075
+sa(dp1076
+g2
+S'http://www.reuters.com/article/worldNews/idUSSHA2487120080614'
+p1077
+sg4
+S'20080614\xc2\xa004:35 AM EDT'
+p1078
+sg6
+S'China blast kills 27 coal miners'
+p1079
+sa(dp1080
+g2
+S'http://www.reuters.com/article/pressRelease/idUS31439+14-Jun-2008+PRN20080614'
+p1081
+sg4
+S'20080614\xc2\xa004:30 AM EDT'
+p1082
+sg6
+S'Following Is a Test Release'
+p1083
+sa(dp1084
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSSHA250538'
+p1085
+sg4
+S'20080614\xc2\xa004:27 AM EDT'
+p1086
+sg6
+S'China blast kills 27 coal miners, 7 trapped'
+p1087
+sa(dp1088
+g2
+S'http://www.reuters.com/article/latestCrisis/idUST2352'
+p1089
+sg4
+S'20080614\xc2\xa004:19 AM EDT'
+p1090
+sg6
+S"TEXT-G8 finance ministers' statement on climate investment funds"
+p1091
+sa(dp1092
+g2
+S'http://www.reuters.com/article/homepageCrisis/idUSMAN163843._CH_.2400'
+p1093
+sg4
+S'20080614\xc2\xa004:14 AM EDT'
+p1094
+sg6
+S'Philippine army says seizes Maoist-led rebel base'
+p1095
+sa(dp1096
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSMAN163843'
+p1097
+sg4
+S'20080614\xc2\xa004:14 AM EDT'
+p1098
+sg6
+S'Philippine army says seizes Maoist-led rebel base'
+p1099
+sa(dp1100
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSISL149773'
+p1101
+sg4
+S'20080614\xc2\xa004:12 AM EDT'
+p1102
+sg6
+S"Pakistan's Sharif stirs call for Musharraf to be hanged"
+p1103
+sa(dp1104
+g2
+S'http://www.reuters.com/article/domesticNews/idUSN1340488120080614'
+p1105
+sg4
+S'20080614\xc2\xa004:06 AM EDT'
+p1106
+sg6
+S'U.S. Open spectators arrested after fracas with caddie'
+p1107
+sa(dp1108
+g2
+S'http://www.reuters.com/article/pressRelease/idUS30708+14-Jun-2008+PRN20080614'
+p1109
+sg4
+S'20080614\xc2\xa004:00 AM EDT'
+p1110
+sg6
+S'Following Is a Test Release'
+p1111
+sa(dp1112
+g2
+S'http://www.reuters.com/article/worldNews/idUSSHA722320080614'
+p1113
+sg4
+S'20080614\xc2\xa003:42 AM EDT'
+p1114
+sg6
+S'Quake-hit China province to re-open tourist services'
+p1115
+sa(dp1116
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSHOS426335'
+p1117
+sg4
+S'20080614\xc2\xa003:41 AM EDT'
+p1118
+sg6
+S'Iran says gunmen kidnap 16 police officers'
+p1119
+sa(dp1120
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSSHA7223'
+p1121
+sg4
+S'20080614\xc2\xa003:38 AM EDT'
+p1122
+sg6
+S'Quake-hit China province to re-open tourist services'
+p1123
+sa(dp1124
+g2
+S'http://www.reuters.com/article/pressRelease/idUS29998+14-Jun-2008+PRN20080614'
+p1125
+sg4
+S'20080614\xc2\xa003:30 AM EDT'
+p1126
+sg6
+S'Following Is a Test Release'
+p1127
+sa(dp1128
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSJAK169042'
+p1129
+sg4
+S'20080614\xc2\xa003:15 AM EDT'
+p1130
+sg6
+S"Australia pledges long-term help for Indonesia's Aceh"
+p1131
+sa(dp1132
+g2
+S'http://www.reuters.com/article/worldNews/idUSDAH42528220080614'
+p1133
+sg4
+S'20080614\xc2\xa003:10 AM EDT'
+p1134
+sg6
+S'Iran rules out halting sensitive nuclear work'
+p1135
+sa(dp1136
+g2
+S'http://www.reuters.com/article/worldNews/idUSDAH42375420080614'
+p1137
+sg4
+S'20080614\xc2\xa003:10 AM EDT'
+p1138
+sg6
+S"EU's Solana hands Iran world powers' nuclear offer"
+p1139
+sa(dp1140
+g2
+S'http://www.reuters.com/article/pressRelease/idUS29370+14-Jun-2008+PRN20080614'
+p1141
+sg4
+S'20080614\xc2\xa003:00 AM EDT'
+p1142
+sg6
+S'Following Is a Test Release'
+p1143
+sa(dp1144
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSDHA327991'
+p1145
+sg4
+S'20080614\xc2\xa002:56 AM EDT'
+p1146
+sg6
+S'ANALYSIS-Ex-PMs regain grip on Bangladesh politics'
+p1147
+sa(dp1148
+g2
+S'http://www.reuters.com/article/gc06/idUST978020080614'
+p1149
+sg4
+S'20080614\xc2\xa002:50 AM EDT'
+p1150
+sg6
+S'Paulson says oil spike could prolong U.S. downturn'
+p1151
+sa(dp1152
+g2
+S'http://www.reuters.com/article/companyNewsAndPR/idUST192420080614'
+p1153
+sg4
+S'20080614\xc2\xa002:42 AM EDT'
+p1154
+sg6
+S'UPDATE 2-Paulson says oil spike could prolong U.S. downturn'
+p1155
+sa(dp1156
+g2
+S'http://www.reuters.com/article/companyNewsAndPR/idUST2556620080614'
+p1157
+sg4
+S'20080614\xc2\xa002:42 AM EDT'
+p1158
+sg6
+S"TEXT-G8 finance ministers' communique"
+p1159
+sa(dp1160
+g2
+S'http://www.reuters.com/article/sportsNews/idUSSP16387620080614'
+p1161
+sg4
+S'20080614\xc2\xa002:38 AM EDT'
+p1162
+sg6
+S"Yankees' Chamberlain impresses in first road start"
+p1163
+sa(dp1164
+g2
+S'http://www.reuters.com/article/pressRelease/idUS28863+14-Jun-2008+PRN20080614'
+p1165
+sg4
+S'20080614\xc2\xa002:30 AM EDT'
+p1166
+sg6
+S'Following Is a Test Release'
+p1167
+sa(dp1168
+g2
+S'http://www.reuters.com/article/pressRelease/idUS28149+14-Jun-2008+PRN20080614'
+p1169
+sg4
+S'20080614\xc2\xa002:00 AM EDT'
+p1170
+sg6
+S'Following Is a Test Release'
+p1171
+sa(dp1172
+g2
+S'http://www.reuters.com/article/rbssRealEstateOperations/idUSBOM3649820080614'
+p1173
+sg4
+S'20080614\xc2\xa001:59 AM EDT'
+p1174
+sg6
+S"India's DLF, Unitech shelve REIT IPOs - paper"
+p1175
+sa(dp1176
+g2
+S'http://www.reuters.com/article/ousiv/idUSN1328012720080614'
+p1177
+sg4
+S'20080614\xc2\xa001:53 AM EDT'
+p1178
+sg6
+S'Air fares up, but fuel costs far outpace the rise'
+p1179
+sa(dp1180
+g2
+S'http://www.reuters.com/article/ousivMolt/idUSTKN00293620080614'
+p1181
+sg4
+S'20080614\xc2\xa001:50 AM EDT'
+p1182
+sg6
+S'Paulson repeats support for strong dollar'
+p1183
+sa(dp1184
+g2
+S'http://www.reuters.com/article/musicNews/idUSN1344720020080614'
+p1185
+sg4
+S'20080614\xc2\xa001:44 AM EDT'
+p1186
+sg6
+S'Stone Temple Pilots says surprised by lawsuit'
+p1187
+sa(dp1188
+g2
+S'http://www.reuters.com/article/musicNews/idUSN1343733620080614'
+p1189
+sg4
+S'20080614\xc2\xa001:44 AM EDT'
+p1190
+sg6
+S'Reggae artists getting back to their roots'
+p1191
+sa(dp1192
+g2
+S'http://www.reuters.com/article/musicNews/idUSN1342022020080614'
+p1193
+sg4
+S'20080614\xc2\xa001:44 AM EDT'
+p1194
+sg6
+S'Q&A;: Neil Young hopes documentary will spur debate'
+p1195
+sa(dp1196
+g2
+S'http://www.reuters.com/article/musicNews/idUSL1321605220080614'
+p1197
+sg4
+S'20080614\xc2\xa001:44 AM EDT'
+p1198
+sg6
+S"Coldplay album selling fast, music to EMI's ears"
+p1199
+sa(dp1200
+g2
+S'http://www.reuters.com/article/domesticNews/idUSN1341073120080614'
+p1201
+sg4
+S'20080614\xc2\xa001:43 AM EDT'
+p1202
+sg6
+S'Atlanta becoming big market for Mexican acts'
+p1203
+sa(dp1204
+g2
+S'http://www.reuters.com/article/musicNews/idUSN1343736920080614'
+p1205
+sg4
+S'20080614\xc2\xa001:36 AM EDT'
+p1206
+sg6
+S'Post-Oscar, Three 6 Mafia stays true to roots'
+p1207
+sa(dp1208
+g2
+S'http://www.reuters.com/article/peopleNews/idUSN1341471820080614'
+p1209
+sg4
+S'20080614\xc2\xa001:34 AM EDT'
+p1210
+sg6
+S'Film and politics mix at Warren Beatty tribute'
+p1211
+sa(dp1212
+g2
+S'http://www.reuters.com/article/televisionNews/idUSN1326320820080614'
+p1213
+sg4
+S'20080614\xc2\xa001:34 AM EDT'
+p1214
+sg6
+S"HBO, Reyes team for Latino drama 'Palladium'"
+p1215
+sa(dp1216
+g2
+S'http://www.reuters.com/article/peopleNews/idUSN1334223520080614'
+p1217
+sg4
+S'20080614\xc2\xa001:34 AM EDT'
+p1218
+sg6
+S'Tommy Lee, Pamela Anderson rekindle romance'
+p1219
+sa(dp1220
+g2
+S'http://www.reuters.com/article/televisionNews/idUSN1247787920080614'
+p1221
+sg4
+S'20080614\xc2\xa001:34 AM EDT'
+p1222
+sg6
+S'Denise Richards to ex-husband Sheen: "be civil"'
+p1223
+sa(dp1224
+g2
+S'http://www.reuters.com/article/peopleNews/idUSN1333814820080614'
+p1225
+sg4
+S'20080614\xc2\xa001:34 AM EDT'
+p1226
+sg6
+S'Danny Davis, who put horns in country music, dies'
+p1227
+sa(dp1228
+g2
+S'http://www.reuters.com/article/televisionNews/idUSN1242082220080614'
+p1229
+sg4
+S'20080614\xc2\xa001:34 AM EDT'
+p1230
+sg6
+S'Brad Garrett into online "Dating"'
+p1231
+sa(dp1232
+g2
+S'http://www.reuters.com/article/televisionNews/idUSN1332627820080614'
+p1233
+sg4
+S'20080614\xc2\xa001:34 AM EDT'
+p1234
+sg6
+S'Voight signs on for villainous role on "24"'
+p1235
+sa(dp1236
+g2
+S'http://www.reuters.com/article/televisionNews/idUSN1240134420080614'
+p1237
+sg4
+S'20080614\xc2\xa001:34 AM EDT'
+p1238
+sg6
+S'Fox News hearts Huckabee'
+p1239
+sa(dp1240
+g2
+S'http://www.reuters.com/article/televisionNews/idUSN1238570920080614'
+p1241
+sg4
+S'20080614\xc2\xa001:34 AM EDT'
+p1242
+sg6
+S'Warner Bros. TV fare lines up new digital homes'
+p1243
+sa(dp1244
+g2
+S'http://www.reuters.com/article/peopleNews/idUSN1238021420080614'
+p1245
+sg4
+S'20080614\xc2\xa001:34 AM EDT'
+p1246
+sg6
+S'Plant, Krauss "in no hurry" to end collaboration'
+p1247
+sa(dp1248
+g2
+S'http://www.reuters.com/article/televisionNews/idUSN1237243120080614'
+p1249
+sg4
+S'20080614\xc2\xa001:34 AM EDT'
+p1250
+sg6
+S'First woman "Top Chef" gives men culinary schooling'
+p1251
+sa(dp1252
+g2
+S'http://www.reuters.com/article/televisionNews/idUSN1230493020080614'
+p1253
+sg4
+S'20080614\xc2\xa001:34 AM EDT'
+p1254
+sg6
+S'"Top Chef" spinoff puts teens in kitchen'
+p1255
+sa(dp1256
+g2
+S'http://www.reuters.com/article/televisionNews/idUSN1130178920080614'
+p1257
+sg4
+S'20080614\xc2\xa001:34 AM EDT'
+p1258
+sg6
+S'"Grey\'s Anatomy" co-star Heigl bows out of Emmy race'
+p1259
+sa(dp1260
+g2
+S'http://www.reuters.com/article/peopleNews/idUSMAN7712020080614'
+p1261
+sg4
+S'20080614\xc2\xa001:34 AM EDT'
+p1262
+sg6
+S'Imelda Marcos welcomes U.S. court ruling over money'
+p1263
+sa(dp1264
+g2
+S'http://www.reuters.com/article/newsOne/idUSN1338241920080614'
+p1265
+sg4
+S'20080614\xc2\xa001:33 AM EDT'
+p1266
+sg6
+S'TV newsman Tim Russert dies of heart attack'
+p1267
+sa(dp1268
+g2
+S'http://www.reuters.com/article/newsOne/idUSREE37280720080614'
+p1269
+sg4
+S'20080614\xc2\xa001:33 AM EDT'
+p1270
+sg6
+S'FACTBOX: Tim Russert, host of NBC\'s "Meet the Press"'
+p1271
+sa(dp1272
+g2
+S'http://www.reuters.com/article/pressRelease/idUS27284+14-Jun-2008+PRN20080614'
+p1273
+sg4
+S'20080614\xc2\xa001:30 AM EDT'
+p1274
+sg6
+S'Following Is a Test Release'
+p1275
+sa(dp1276
+g2
+S'http://www.reuters.com/article/reutersEdge/idUSN1345430720080614'
+p1277
+sg4
+S'20080614\xc2\xa001:28 AM EDT'
+p1278
+sg6
+S'Microsoft seeks support against Google-Yahoo deal'
+p1279
+sa(dp1280
+g2
+S'http://www.reuters.com/article/reutersEdge/idUSN1247863820080614'
+p1281
+sg4
+S'20080614\xc2\xa001:28 AM EDT'
+p1282
+sg6
+S'Microsoft offered $9 bln for Yahoo stake, search deal'
+p1283
+sa(dp1284
+g2
+S'http://www.reuters.com/article/rbssOilGasExplorationProduction/idUST87720080614'
+p1285
+sg4
+S'20080614\xc2\xa001:27 AM EDT'
+p1286
+sg6
+S'TEPCO sees no impact on nuclear plant ops after leak'
+p1287
+sa(dp1288
+g2
+S'http://www.reuters.com/article/rbssSoftware/idUSN1439151220080614'
+p1289
+sg4
+S'20080614\xc2\xa001:21 AM EDT'
+p1290
+sg6
+S'UPDATE 1-Microsoft seeks support against Google-Yahoo deal'
+p1291
+sa(dp1292
+g2
+S'http://www.reuters.com/article/newsOne/idUST362220080614'
+p1293
+sg4
+S'20080614\xc2\xa001:19 AM EDT'
+p1294
+sg6
+S'At least 10 missing in Japan quake'
+p1295
+sa(dp1296
+g2
+S'http://www.reuters.com/article/latestCrisis/idUST3622'
+p1297
+sg4
+S'20080614\xc2\xa001:18 AM EDT'
+p1298
+sg6
+S'10 missing in Japan quake in addition to 2 dead -TV'
+p1299
+sa(dp1300
+g2
+S'http://www.reuters.com/article/pressRelease/idUS26868+14-Jun-2008+PRN20080614'
+p1301
+sg4
+S'20080614\xc2\xa001:14 AM EDT'
+p1302
+sg6
+S'SEPTA Statement on FOTP Settlement'
+p1303
+sa(dp1304
+g2
+S'http://www.reuters.com/article/latestCrisis/idUST877'
+p1305
+sg4
+S'20080614\xc2\xa001:09 AM EDT'
+p1306
+sg6
+S'TOKYO ELECTRIC SAYS NO IMPACT ON NUCLEAR PLANT OPERATIONS AFTER '
+p1307
+sa(dp1308
+g2
+S'http://www.reuters.com/article/ousivMolt/idUSTKY00292020080614'
+p1309
+sg4
+S'20080614\xc2\xa001:08 AM EDT'
+p1310
+sg6
+S'Paulson says oil prices could prolong U.S. downturn'
+p1311
+sa(dp1312
+g2
+S'http://www.reuters.com/article/companyNewsAndPR/idUSTKM00293520080614'
+p1313
+sg4
+S'20080614\xc2\xa001:03 AM EDT'
+p1314
+sg6
+S'Draghi: financial sector in "fragile stability"'
+p1315
+sa(dp1316
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSN13436897'
+p1317
+sg4
+S'20080614\xc2\xa001:00 AM EDT'
+p1318
+sg6
+S'Space shuttle Discovery heads for landing in Florida'
+p1319
+sa(dp1320
+g2
+S'http://www.reuters.com/article/pressRelease/idUS26236+14-Jun-2008+PRN20080614'
+p1321
+sg4
+S'20080614\xc2\xa001:00 AM EDT'
+p1322
+sg6
+S'Following Is a Test Release'
+p1323
+sa(dp1324
+g2
+S'http://www.reuters.com/article/ELECTU/idUST143320080614'
+p1325
+sg4
+S'20080614\xc2\xa012:59 AM EDT'
+p1326
+sg6
+S'Small radioactive water leak within plant-TEPCO'
+p1327
+sa(dp1328
+g2
+S'http://www.reuters.com/article/companyNewsAndPR/idUSID20080614'
+p1329
+sg4
+S'20080614\xc2\xa012:52 AM EDT'
+p1330
+sg6
+S"Highlights-G8 finance ministers' meeting in Osaka, Japan"
+p1331
+sa(dp1332
+g2
+S'http://www.reuters.com/article/companyNewsAndPR/idUSTKN00293220080614'
+p1333
+sg4
+S'20080614\xc2\xa012:36 AM EDT'
+p1334
+sg6
+S'G8/STATEMENT (URGENT)'
+p1335
+sa(dp1336
+g2
+S'http://www.reuters.com/article/companyNewsAndPR/idUSTKM00293220080614'
+p1337
+sg4
+S'20080614\xc2\xa012:34 AM EDT'
+p1338
+sg6
+S'High commodity prices serious growth challenge - G8'
+p1339
+sa(dp1340
+g2
+S'http://www.reuters.com/article/pressRelease/idUS25255+14-Jun-2008+PRN20080614'
+p1341
+sg4
+S'20080614\xc2\xa012:30 AM EDT'
+p1342
+sg6
+S'Following Is a Test Release'
+p1343
+sa(dp1344
+g2
+S'http://www.reuters.com/article/BANKSL/idUSL143167420080614'
+p1345
+sg4
+S'20080614\xc2\xa012:21 AM EDT'
+p1346
+sg6
+S'PRESS DIGEST - British business - June 14'
+p1347
+sa(dp1348
+g2
+S'http://www.reuters.com/article/companyNewsAndPR/idUSG820080614'
+p1349
+sg4
+S'20080614\xc2\xa012:17 AM EDT'
+p1350
+sg6
+S"Highlights-G8 finance ministers' meeting in Osaka, Japan"
+p1351
+sa(dp1352
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSISL136392'
+p1353
+sg4
+S'20080614\xc2\xa012:10 AM EDT'
+p1354
+sg6
+S'Afghans probe prison raid, hunt for escapees'
+p1355
+sa(dp1356
+g2
+S'http://www.reuters.com/article/sportsNews/idUSN1340071220080614'
+p1357
+sg4
+S'20080614\xc2\xa012:09 AM EDT'
+p1358
+sg6
+S'Appleby takes lead, Woods one shot back'
+p1359
+sa(dp1360
+g2
+S'http://www.reuters.com/article/sportsNews/idUSN1327572720080614'
+p1361
+sg4
+S'20080614\xc2\xa012:09 AM EDT'
+p1362
+sg6
+S'Ogilvy balances good and bad at Torrey Pines'
+p1363
+sa(dp1364
+g2
+S'http://www.reuters.com/article/pressRelease/idUS24075+14-Jun-2008+PRN20080614'
+p1365
+sg4
+S'20080614\xc2\xa012:00 AM EDT'
+p1366
+sg6
+S'Following Is a Test Release'
+p1367
+sa(dp1368
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=ftpo1213053509526'
+p1369
+sg4
+S'20080614\xc2\xa006:23 PM EDT'
+p1370
+sg6
+S"Houston we don't have a problem"
+p1371
+sa(dp1372
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=ftpo1213053509521'
+p1373
+sg4
+S'20080614\xc2\xa005:32 PM EDT'
+p1374
+sg6
+S"Rally cries for Musharraf's exit"
+p1375
+sa(dp1376
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=ftpo1213053509516'
+p1377
+sg4
+S'20080614\xc2\xa005:11 PM EDT'
+p1378
+sg6
+S'1200 Afghan inmates escape'
+p1379
+sa(dp1380
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=ftpo1213053509506'
+p1381
+sg4
+S'20080614\xc2\xa001:23 PM EDT'
+p1382
+sg6
+S'Mugabe vows MDC will not rule'
+p1383
+sa(dp1384
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=WAO1213054022385'
+p1385
+sg4
+S'20080614\xc2\xa001:23 PM EDT'
+p1386
+sg6
+S'Bush says goodbye in France'
+p1387
+sa(dp1388
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=ftpo1213053509501'
+p1389
+sg4
+S'20080614\xc2\xa012:38 PM EDT'
+p1390
+sg6
+S"Iran says it won't stop nuclear work"
+p1391
+sa(dp1392
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=ftpo1213053509496'
+p1393
+sg4
+S'20080614\xc2\xa010:59 AM EDT'
+p1394
+sg6
+S'China coal mine blast kills scores'
+p1395
+sa(dp1396
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=ftpo1213053509486'
+p1397
+sg4
+S'20080614\xc2\xa010:36 AM EDT'
+p1398
+sg6
+S'Quake jolts northern Japan'
+p1399
+sa(dp1400
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=WAO1213054022370'
+p1401
+sg4
+S'20080614\xc2\xa010:16 AM EDT'
+p1402
+sg6
+S'Mythical ship sets sail'
+p1403
+sa(dp1404
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=ftpo1213053509476'
+p1405
+sg4
+S'20080614\xc2\xa006:41 AM EDT'
+p1406
+sg6
+S'Dutch Euro 2008 victory over France'
+p1407
+sa(dp1408
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=ftpo1213053509471'
+p1409
+sg4
+S'20080614\xc2\xa006:34 AM EDT'
+p1410
+sg6
+S'G8 FinMins eye oil, food prices'
+p1411
+sa(dp1412
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=ftpo1213053509466'
+p1413
+sg4
+S'20080614\xc2\xa004:56 AM EDT'
+p1414
+sg6
+S'Audacious Afghan prison break'
+p1415
+sa.

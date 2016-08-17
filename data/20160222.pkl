@@ -1,0 +1,3445 @@
+(lp0
+(dp1
+S'href'
+p2
+S'http://www.reuters.com/article/us-china-yuan-midday-idUSKCN0VV0A7'
+p3
+sS'ts'
+p4
+S'20160222\xc2\xa011:57PM UTC'
+p5
+sS'title'
+p6
+S"China's yuan flat, central bank keeps firm hand ahead of G20 "
+p7
+sa(dp8
+g2
+S'http://www.reuters.com/article/hsbc-turkey-idUSH9N14500J'
+p9
+sg4
+S'20160222\xc2\xa011:44PM UTC'
+p10
+sg6
+S'HSBC CEO says to retain Turkey business after review'
+p11
+sa(dp12
+g2
+S'http://www.reuters.com/article/china-stocks-midday-idUSL3N1611OY'
+p13
+sg4
+S'20160222\xc2\xa011:41PM UTC'
+p14
+sg6
+S'China stocks gain on new regulator chief; Hong Kong also up'
+p15
+sa(dp16
+g2
+S'http://www.reuters.com/article/northkorea-satellite-china-banks-idUSL3N16114N'
+p17
+sg4
+S'20160222\xc2\xa011:40PM UTC'
+p18
+sg6
+S'Chinese banks freeze N.Korean accounts- S.Korean media report'
+p19
+sa(dp20
+g2
+S'http://www.reuters.com/article/us-nba-goldenstate-varejao-idUSKCN0VV09M'
+p21
+sg4
+S'20160222\xc2\xa011:40PM UTC'
+p22
+sg6
+S'Anderson Varejao signs with Golden State: reports'
+p23
+sa(dp24
+g2
+S'http://www.reuters.com/article/india-bangladesh-idUSKCN0VV04C'
+p25
+sg4
+S'20160222\xc2\xa011:36PM UTC'
+p26
+sg6
+S'India set to seal major power deal in Bangladesh, beating China'
+p27
+sa(dp28
+g2
+S'http://www.reuters.com/article/idUSP9N15J00H'
+p29
+sg4
+S'20160222\xc2\xa011:33PM UTC'
+p30
+sg6
+S"BRIEF-Philippines' SM Prime income up 54 pct in 2015"
+p31
+sa(dp32
+g2
+S'http://www.reuters.com/article/bkn-lakers-bulls-writethru-idUSMTZEC2MXK3XKO'
+p33
+sg4
+S'20160222\xc2\xa011:28PM UTC'
+p34
+sg6
+S'Gasol, Bulls shut down Lakers'
+p35
+sa(dp36
+g2
+S'http://www.reuters.com/article/tokyo-steel-prices-idUSL3N1611NZ'
+p37
+sg4
+S'20160222\xc2\xa011:26PM UTC'
+p38
+sg6
+S'Tokyo Steel cuts March prices as much as 14 pct to fight imports'
+p39
+sa(dp40
+g2
+S'http://www.reuters.com/article/idUS200663594620160222'
+p41
+sg4
+S'20160222\xc2\xa011:25PM UTC'
+p42
+sg6
+S'Appoint a few more Scalias, kiss democracy goodbye'
+p43
+sa(dp44
+g2
+S'http://www.reuters.com/article/mideast-crisis-usa-russia-idUSKCN0VU0DZ'
+p45
+sg4
+S'20160222\xc2\xa011:20PM UTC'
+p46
+sg6
+S'Violence rages in Syria as Kerry and Lavrov reach provisional deal on ceasefire'
+p47
+sa(dp48
+g2
+S'http://www.reuters.com/article/hsbc-results-idUSL8N161054'
+p49
+sg4
+S'20160222\xc2\xa011:20PM UTC'
+p50
+sg6
+S'HSBC annual pre-tax profits edge up to $18.87 bln'
+p51
+sa(dp52
+g2
+S'http://www.reuters.com/article/mexico-fdi-idUSL3N1611QS'
+p53
+sg4
+S'20160222\xc2\xa010:58PM UTC'
+p54
+sg6
+S"CORRECTED-Mexico's foreign direct investment jumped by a quarter in 2015"
+p55
+sa(dp56
+g2
+S'http://www.reuters.com/article/us-bolivia-referendum-idUSKCN0VU05A'
+p57
+sg4
+S'20160222\xc2\xa010:53PM UTC'
+p58
+sg6
+S'Evo Morales looks set to lose Bolivia referendum on fourth term'
+p59
+sa(dp60
+g2
+S'http://www.reuters.com/article/mexico-fdi-idUSL2N1600J0'
+p61
+sg4
+S'20160222\xc2\xa010:50PM UTC'
+p62
+sg6
+S"CORRECTED-Mexico's foreign direct investment jumped by a quarter in 2015"
+p63
+sa(dp64
+g2
+S'http://www.reuters.com/article/bolivia-referendum-idUSL2N1600GR'
+p65
+sg4
+S'20160222\xc2\xa010:50PM UTC'
+p66
+sg6
+S'UPDATE 4-Evo Morales looks set to lose Bolivia referendum on fourth term'
+p67
+sa(dp68
+g2
+S'http://www.reuters.com/article/global-forex-idUSL3N1611O1'
+p69
+sg4
+S'20160222\xc2\xa010:45PM UTC'
+p70
+sg6
+S'FOREX-Sterling hit by \'Brexit\' worries after London Mayor joins "out" camp'
+p71
+sa(dp72
+g2
+S'http://www.reuters.com/article/japan-nuclear-idUSL3N1611CY'
+p73
+sg4
+S'20160222\xc2\xa010:45PM UTC'
+p74
+sg6
+S'Kansai Electric may delay reactor restart after leak'
+p75
+sa(dp76
+g2
+S'http://www.reuters.com/article/china-pharmaceuticals-ali-health-idUSL3N1611MJ'
+p77
+sg4
+S'20160222\xc2\xa010:39PM UTC'
+p78
+sg6
+S"China's Ali Health shares plunge after drug monitoring platform suspended"
+p79
+sa(dp80
+g2
+S'http://www.reuters.com/article/india-protests-idUSL3N1611MF'
+p81
+sg4
+S'20160222\xc2\xa010:36PM UTC'
+p82
+sg6
+S'Indian army retakes control of key Delhi water supply'
+p83
+sa(dp84
+g2
+S'http://www.reuters.com/article/mideast-factors-idUSL8N1600LB'
+p85
+sg4
+S'20160222\xc2\xa010:31PM UTC'
+p86
+sg6
+S'MIDEAST STOCKS - Factors to watch - Feb 22'
+p87
+sa(dp88
+g2
+S'http://www.reuters.com/article/us-nba-raptors-idUSKCN0VV07X'
+p89
+sg4
+S'20160222\xc2\xa010:27PM UTC'
+p90
+sg6
+S'Raptors end skid with win over Grizzlies'
+p91
+sa(dp92
+g2
+S'http://www.reuters.com/article/dbs-oil-loans-idUSL3N1611GZ'
+p93
+sg4
+S'20160222\xc2\xa010:27PM UTC'
+p94
+sg6
+S"DBS says even at $20/bbl for 2 years provisions won't exceed S$200 mln"
+p95
+sa(dp96
+g2
+S'http://www.reuters.com/article/soccer-women-olympics-idUSL3N1611H8'
+p97
+sg4
+S'20160222\xc2\xa010:25PM UTC'
+p98
+sg6
+S"Soccer-United States beat Canada 2-0 at women's Olympic qualifier"
+p99
+sa(dp100
+g2
+S'http://www.reuters.com/article/india-morningcall-idUSL3N1611M8'
+p101
+sg4
+S'20160222\xc2\xa010:24PM UTC'
+p102
+sg6
+S'Morning News Call - India, February 22'
+p103
+sa(dp104
+g2
+S'http://www.reuters.com/article/hkn-lightning-hurricanes-writethru-idUSMTZEC2MXH3HHE'
+p105
+sg4
+S'20160222\xc2\xa010:22PM UTC'
+p106
+sg6
+S'Stamkos, Bishop lead Lightning over Hurricanes'
+p107
+sa(dp108
+g2
+S'http://www.reuters.com/article/us-people-cosby-idUSKCN0VV03W'
+p109
+sg4
+S'20160222\xc2\xa010:21PM UTC'
+p110
+sg6
+S"Judge blocks attempt to halt deposition of Bill Cosby's wife"
+p111
+sa(dp112
+g2
+S'http://www.reuters.com/article/hkn-redwings-rangers-writethru-idUSMTZEC2MXHSGHZ'
+p113
+sg4
+S'20160222\xc2\xa010:11PM UTC'
+p114
+sg6
+S'Klein nets winner in OT as Rangers blank Red Wings'
+p115
+sa(dp116
+g2
+S'http://www.reuters.com/article/australia-stocks-midday-idUSL3N1611GV'
+p117
+sg4
+S'20160222\xc2\xa010:07PM UTC'
+p118
+sg6
+S'Australia shares lifted as industrials rally, NZ subdued'
+p119
+sa(dp120
+g2
+S'http://www.reuters.com/article/soccer-england-cup-idUSKCN0VU0PX'
+p121
+sg4
+S'20160222\xc2\xa010:07PM UTC'
+p122
+sg6
+S'Chelsea crush weakened City in FA Cup, Spurs knocked out '
+p123
+sa(dp124
+g2
+S'http://www.reuters.com/article/us-soccer-copaamerica-draw-groups-idUSKCN0VV06O'
+p125
+sg4
+S'20160222\xc2\xa010:06PM UTC'
+p126
+sg6
+S'Draw for the Copa America Centenario'
+p127
+sa(dp128
+g2
+S'http://www.reuters.com/article/hkn-flames-ducks-writethru-idUSMTZEC2MXHIKHI'
+p129
+sg4
+S'20160222\xc2\xa010:06PM UTC'
+p130
+sg6
+S'Kesler, Ducks snuff Flames'
+p131
+sa(dp132
+g2
+S'http://www.reuters.com/article/bkn-grizzlies-raptors-writethru-idUSMTZEC2MXED1CF'
+p133
+sg4
+S'20160222\xc2\xa010:04PM UTC'
+p134
+sg6
+S'Raptors end skid with win over Grizzlies'
+p135
+sa(dp136
+g2
+S'http://www.reuters.com/article/soccer-europe-roundup-idUSKCN0VV06E'
+p137
+sg4
+S'20160222\xc2\xa010:03PM UTC'
+p138
+sg6
+S'European roundup - Barca tighten grip, Man City out of Cup'
+p139
+sa(dp140
+g2
+S'http://www.reuters.com/article/us-japan-economy-boj-idUSKCN0VV02W'
+p141
+sg4
+S'20160222\xc2\xa09:59PM UTC'
+p142
+sg6
+S"BOJ's Kuroda blames 'excessive' risk aversion for market tumult"
+p143
+sa(dp144
+g2
+S'http://www.reuters.com/article/japan-economy-boj-idUSL3N16119W'
+p145
+sg4
+S'20160222\xc2\xa09:57PM UTC'
+p146
+sg6
+S'UPDATE 1-BOJ\'s Kuroda blames "excessive" risk aversion for market tumult'
+p147
+sa(dp148
+g2
+S'http://www.reuters.com/article/cheniere-energy-lng-idUSL3N1611GE'
+p149
+sg4
+S'20160222\xc2\xa09:57PM UTC'
+p150
+sg6
+S"First LNG shipment imminent as tanker docks at US Cheniere's Sabine Pass"
+p151
+sa(dp152
+g2
+S'http://www.reuters.com/article/taiwan-stocks-idUSL3N1611GT'
+p153
+sg4
+S'20160222\xc2\xa09:57PM UTC'
+p154
+sg6
+S'Taiwan stocks fall on selling in tech, financials'
+p155
+sa(dp156
+g2
+S'http://www.reuters.com/article/bkc-california-washingtonst-writethru-idUSMTZEC2MXJSBKH'
+p157
+sg4
+S'20160222\xc2\xa09:55PM UTC'
+p158
+sg6
+S'California 80, Washington State 62'
+p159
+sa(dp160
+g2
+S'http://www.reuters.com/article/soccer-england-cup-che-idUSKCN0VU0TT'
+p161
+sg4
+S'20160222\xc2\xa09:54PM UTC'
+p162
+sg6
+S'Hiddink defends FA Cup after Chelsea thrash Man City '
+p163
+sa(dp164
+g2
+S'http://www.reuters.com/article/bkn-76ers-mavericks-writethru-idUSMTZEC2MXH8KHG'
+p165
+sg4
+S'20160222\xc2\xa09:54PM UTC'
+p166
+sg6
+S'Nowitzki hits milestone as Mavericks defeat 76ers'
+p167
+sa(dp168
+g2
+S'http://www.reuters.com/article/usa-iran-opec-idUSKCN0VV05Y'
+p169
+sg4
+S'20160222\xc2\xa09:50PM UTC'
+p170
+sg6
+S'U.S. official doubts success of deal to freeze oil output'
+p171
+sa(dp172
+g2
+S'http://www.reuters.com/article/us-china-overcapacity-idUSKCN0VV05R'
+p173
+sg4
+S'20160222\xc2\xa09:43PM UTC'
+p174
+sg6
+S'China overcapacity problems worsen over 2008-2015: EU chamber'
+p175
+sa(dp176
+g2
+S'http://www.reuters.com/article/telecoms-mobileworld-nokia-corp-idUSKCN0VV05J'
+p177
+sg4
+S'20160222\xc2\xa09:38PM UTC'
+p178
+sg6
+S'Nokia 5G pickup could begin as early as 2017 - chief executive'
+p179
+sa(dp180
+g2
+S'http://www.reuters.com/article/michigan-shooting-idUSL2N160077'
+p181
+sg4
+S'20160222\xc2\xa09:37PM UTC'
+p182
+sg6
+S'UPDATE 12-Uber driver suspected in Michigan shootings, six dead'
+p183
+sa(dp184
+g2
+S'http://www.reuters.com/article/us-nba-thunder-idUSKCN0VV05C'
+p185
+sg4
+S'20160222\xc2\xa09:36PM UTC'
+p186
+sg6
+S'Hot Love propels Cavs to thumping win over Thunder'
+p187
+sa(dp188
+g2
+S'http://www.reuters.com/article/india-budget-jaitley-idUSKCN0VV054'
+p189
+sg4
+S'20160222\xc2\xa09:34PM UTC'
+p190
+sg6
+S"India's $16 billion wage bonanza may force Jaitley to cut capex"
+p191
+sa(dp192
+g2
+S'http://www.reuters.com/article/china-overcapacity-idUST9N0NH05J'
+p193
+sg4
+S'20160222\xc2\xa09:30PM UTC'
+p194
+sg6
+S'China overcapacity problems worsen over 2008-2015 -EU chamber'
+p195
+sa(dp196
+g2
+S'http://www.reuters.com/article/us-usa-iran-opec-idUSKCN0VV048'
+p197
+sg4
+S'20160222\xc2\xa09:22PM UTC'
+p198
+sg6
+S'U.S. official doubts success of deal to freeze oil output'
+p199
+sa(dp200
+g2
+S'http://www.reuters.com/article/japan-stocks-midday-idUSL3N1611D2'
+p201
+sg4
+S'20160222\xc2\xa09:18PM UTC'
+p202
+sg6
+S'Nikkei rises in choppy trade; exporters trim losses on USD/JPY'
+p203
+sa(dp204
+g2
+S'http://www.reuters.com/article/us-golf-pga-watson-idUSKCN0VV03Q'
+p205
+sg4
+S'20160222\xc2\xa09:12PM UTC'
+p206
+sg6
+S'Mental strength still a work in progress for Bubba'
+p207
+sa(dp208
+g2
+S'http://www.reuters.com/article/bkn-pacers-magic-writethru-idUSMTZEC2MXE84C6'
+p209
+sg4
+S'20160222\xc2\xa09:10PM UTC'
+p210
+sg6
+S'Pacers stay hot, beat Magic'
+p211
+sa(dp212
+g2
+S'http://www.reuters.com/article/bkc-illinois-wisconsin-writethru-idUSMTZEC2MXHI7HH'
+p213
+sg4
+S'20160222\xc2\xa09:06PM UTC'
+p214
+sg6
+S'Wisconsin 69, Illinois 60'
+p215
+sa(dp216
+g2
+S'http://www.reuters.com/article/us-japan-economy-pmi-idUSKCN0VV03C'
+p217
+sg4
+S'20160222\xc2\xa09:04PM UTC'
+p218
+sg6
+S'Japan February flash manufacturing PMI shows growth slowing sharply as export orders shrink'
+p219
+sa(dp220
+g2
+S'http://www.reuters.com/article/bkn-hornets-pistons-writethru-idUSMTZEC2MXH8JHF'
+p221
+sg4
+S'20160222\xc2\xa09:00PM UTC'
+p222
+sg6
+S'Walker leads Hornets past Nets'
+p223
+sa(dp224
+g2
+S'http://www.reuters.com/article/lg-chem-chrysler-idUSL3N161089'
+p225
+sg4
+S'20160222\xc2\xa09:00PM UTC'
+p226
+sg6
+S"LG Chem to supply batteries for Chrysler's minivan"
+p227
+sa(dp228
+g2
+S'http://www.reuters.com/article/us-motor-nascar-daytona-idUSKCN0VU0YL'
+p229
+sg4
+S'20160222\xc2\xa08:56PM UTC'
+p230
+sg6
+S'Hamlin wins Daytona 500'
+p231
+sa(dp232
+g2
+S'http://www.reuters.com/article/us-motor-nascar-hamlin-idUSKCN0VV034'
+p233
+sg4
+S'20160222\xc2\xa08:56PM UTC'
+p234
+sg6
+S'Hamlin childhood dream comes true with Daytona win'
+p235
+sa(dp236
+g2
+S'http://www.reuters.com/article/us-niger-election-idUSKCN0VU07Q'
+p237
+sg4
+S'20160222\xc2\xa08:49PM UTC'
+p238
+sg6
+S'Niger holds tense vote, with Issoufou running for second term'
+p239
+sa(dp240
+g2
+S'http://www.reuters.com/article/niger-election-idUSL8N16004M'
+p241
+sg4
+S'20160222\xc2\xa08:48PM UTC'
+p242
+sg6
+S'UPDATE 5-Niger holds tense vote, with Issoufou running for second term'
+p243
+sa(dp244
+g2
+S'http://www.reuters.com/article/us-motor-nascar-daytona-toyota-idUSKCN0VV02E'
+p245
+sg4
+S'20160222\xc2\xa08:40PM UTC'
+p246
+sg6
+S'Toyota wins first Daytona 500 and more fans'
+p247
+sa(dp248
+g2
+S'http://www.reuters.com/article/trafigura-beheer-israel-oil-idUSL3N16114V'
+p249
+sg4
+S'20160222\xc2\xa08:36PM UTC'
+p250
+sg6
+S'Trafigura to ship West Texas oil to Israel in the coming weeks -FT'
+p251
+sa(dp252
+g2
+S'http://www.reuters.com/article/hkn-blackhawks-wild-writethru-idUSMTZEC2LX863FC'
+p253
+sg4
+S'20160222\xc2\xa08:36PM UTC'
+p254
+sg6
+S'Wild blast Blackhawks in Stadium Series game'
+p255
+sa(dp256
+g2
+S'http://www.reuters.com/article/china-stocks-open-idUSZZN2QO700'
+p257
+sg4
+S'20160222\xc2\xa08:34PM UTC'
+p258
+sg6
+S'China stocks rise at market open after top stock regulator removed'
+p259
+sa(dp260
+g2
+S'http://www.reuters.com/article/motor-nascar-daytona-toyota-idUSL3N1610AD'
+p261
+sg4
+S'20160222\xc2\xa08:30PM UTC'
+p262
+sg6
+S'Motor racing-Toyota wins first Daytona 500 and more fans'
+p263
+sa(dp264
+g2
+S'http://www.reuters.com/article/pfl-results-idUSL3N161154'
+p265
+sg4
+S'20160222\xc2\xa08:23PM UTC'
+p266
+sg6
+S"Australia's Patties Foods H1 net profit falls on China-packaged berry woes"
+p267
+sa(dp268
+g2
+S'http://www.reuters.com/article/us-usa-election-pope-idUSMTZSAPEC2LX4QU81'
+p269
+sg4
+S'20160222\xc2\xa08:22PM UTC'
+p270
+sg6
+S"Many U.S. Catholics unfazed by pope's clash with Trump"
+p271
+sa(dp272
+g2
+S'http://www.reuters.com/article/us-usa-election-pope-idUSKCN0VU0ZI'
+p273
+sg4
+S'20160222\xc2\xa08:22PM UTC'
+p274
+sg6
+S"Many U.S. Catholics unfazed by pope's clash with Trump"
+p275
+sa(dp276
+g2
+S'http://www.reuters.com/article/idUSFit949850'
+p277
+sg4
+S'20160222\xc2\xa08:22PM UTC'
+p278
+sg6
+S"Fitch Rates DBS Bank's Callable Range Accrual Notes 'AA-(emr)'"
+p279
+sa(dp280
+g2
+S'http://www.reuters.com/article/bkc-temple-houston-writethru-idUSMTZEC2MXFEPFJ'
+p281
+sg4
+S'20160222\xc2\xa08:21PM UTC'
+p282
+sg6
+S'Temple 69, Houston 66'
+p283
+sa(dp284
+g2
+S'http://www.reuters.com/article/bkn-bobcats-nets-recap-idUSMTZEC2MXDT4BX'
+p285
+sg4
+S'20160222\xc2\xa08:17PM UTC'
+p286
+sg6
+S'Hornets 104, Nets 96'
+p287
+sa(dp288
+g2
+S'http://www.reuters.com/article/us-at-t-investment-idUSKCN0VV022'
+p289
+sg4
+S'20160222\xc2\xa08:14PM UTC'
+p290
+sg6
+S'AT&T; to invest $10 billion to bolster global enterprise services'
+p291
+sa(dp292
+g2
+S'http://www.reuters.com/article/btg-pactual-sa-results-idUSL2N16101K'
+p293
+sg4
+S'20160222\xc2\xa08:13PM UTC'
+p294
+sg6
+S'BTG Pactual assets had bigger decline than previously reported'
+p295
+sa(dp296
+g2
+S'http://www.reuters.com/article/bkn-celtics-nuggets-writethru-idUSMTZEC2MXB9E7C'
+p297
+sg4
+S'20160222\xc2\xa08:07PM UTC'
+p298
+sg6
+S'Celtics use defense to beat Nuggets'
+p299
+sa(dp300
+g2
+S'http://www.reuters.com/article/us-michigan-carbonmonoxide-idUSKCN0VV01Y'
+p301
+sg4
+S'20160222\xc2\xa08:04PM UTC'
+p302
+sg6
+S'Family of six dead in Michigan, carbon monoxide suspected'
+p303
+sa(dp304
+g2
+S'http://www.reuters.com/article/bkn-spurs-suns-recap-idUSMTZEC2MXBTG8O'
+p305
+sg4
+S'20160222\xc2\xa08:04PM UTC'
+p306
+sg6
+S'Spurs 118, Suns 111'
+p307
+sa(dp308
+g2
+S'http://www.reuters.com/article/us-usa-boxoffice-idUSKCN0VU0V4'
+p309
+sg4
+S'20160222\xc2\xa08:03PM UTC'
+p310
+sg6
+S"'Deadpool' dominates' The Witch,' 'Risen'"
+p311
+sa(dp312
+g2
+S'http://www.reuters.com/article/oil-workforce-kemp-idUSL8N15Y30X'
+p313
+sg4
+S'20160222\xc2\xa08:00PM UTC'
+p314
+sg6
+S"RPT-COLUMN-Oil's slump is scattering the workforce and supply chain: Kemp"
+p315
+sa(dp316
+g2
+S'http://www.reuters.com/article/att-investment-idUSL2N15Y1TT'
+p317
+sg4
+S'20160222\xc2\xa08:00PM UTC'
+p318
+sg6
+S'AT&T; to invest $10 billion to bolster global enterprise services'
+p319
+sa(dp320
+g2
+S'http://www.reuters.com/article/britain-press-business-idUSL3N1600UD'
+p321
+sg4
+S'20160222\xc2\xa07:57PM UTC'
+p322
+sg6
+S'PRESS DIGEST- British Business - Feb 22'
+p323
+sa(dp324
+g2
+S'http://www.reuters.com/article/britain-press-ft-idUSL3N16108K'
+p325
+sg4
+S'20160222\xc2\xa07:57PM UTC'
+p326
+sg6
+S'PRESS DIGEST- Financial Times - Feb 22'
+p327
+sa(dp328
+g2
+S'http://www.reuters.com/article/malaysia-corporate-earnings-idUSL3N1610CU'
+p329
+sg4
+S'20160222\xc2\xa07:56PM UTC'
+p330
+sg6
+S'DIARY-Malaysia 2016 corporate earnings'
+p331
+sa(dp332
+g2
+S'http://www.reuters.com/article/us-tennis-delray-idUSKCN0VV01M'
+p333
+sg4
+S'20160222\xc2\xa07:56PM UTC'
+p334
+sg6
+S'Querrey ends drought with Delray Beach victory'
+p335
+sa(dp336
+g2
+S'http://www.reuters.com/article/bkc-bostoncollege-wakeforest-recap-idUSMTZEC2MXDUTBY'
+p337
+sg4
+S'20160222\xc2\xa07:47PM UTC'
+p338
+sg6
+S'Wake Forest 74, Boston College 48'
+p339
+sa(dp340
+g2
+S'http://www.reuters.com/article/global-precious-idUSL3N16105L'
+p341
+sg4
+S'20160222\xc2\xa07:41PM UTC'
+p342
+sg6
+S'PRECIOUS-Gold eases, but holds above $1,200 as caution prevails'
+p343
+sa(dp344
+g2
+S'http://www.reuters.com/article/global-oil-idUSL3N16105B'
+p345
+sg4
+S'20160222\xc2\xa07:40PM UTC'
+p346
+sg6
+S'Oil prices stay weak on ongoing overproduction, brimming crude stocks'
+p347
+sa(dp348
+g2
+S'http://www.reuters.com/article/us-britain-eu-companies-idUSKCN0VV00Y'
+p349
+sg4
+S'20160222\xc2\xa07:39PM UTC'
+p350
+sg6
+S'Majority of British business leaders back staying in EU, survey shows'
+p351
+sa(dp352
+g2
+S'http://www.reuters.com/article/basketball-australia-idUSL3N1600UG'
+p353
+sg4
+S'20160222\xc2\xa07:28PM UTC'
+p354
+sg6
+S'Basketball-Australia forward draws ire for blackface post'
+p355
+sa(dp356
+g2
+S'http://www.reuters.com/article/us-golf-pga-idUSKCN0VU11W'
+p357
+sg4
+S'20160222\xc2\xa07:28PM UTC'
+p358
+sg6
+S'Watson triumphs by one shot at Riviera'
+p359
+sa(dp360
+g2
+S'http://www.reuters.com/article/bkc-utah-southerncalifornia-writethru-idUSMTZEC2MXCRSAI'
+p361
+sg4
+S'20160222\xc2\xa07:24PM UTC'
+p362
+sg6
+S'Utah 80, USC 69'
+p363
+sa(dp364
+g2
+S'http://www.reuters.com/article/us-digitalglobe-saudi-venture-idUSKCN0VU11F'
+p365
+sg4
+S'20160222\xc2\xa07:21PM UTC'
+p366
+sg6
+S'DigitalGlobe forms satellite joint venture with Saudi firms'
+p367
+sa(dp368
+g2
+S'http://www.reuters.com/article/us-banks-investment-trading-idUSKCN0VV007'
+p369
+sg4
+S'20160222\xc2\xa07:15PM UTC'
+p370
+sg6
+S"Investment banks' trading revenue declined 9 percent in 2015: survey "
+p371
+sa(dp372
+g2
+S'http://www.reuters.com/article/digitalglobe-saudi-venture-idUSL2N1600LU'
+p373
+sg4
+S'20160222\xc2\xa07:15PM UTC'
+p374
+sg6
+S'REFILE-DigitalGlobe forms satellite joint venture with Saudi firms'
+p375
+sa(dp376
+g2
+S'http://www.reuters.com/article/car-nascar-sprint-writethru-idUSMTZEC2LX4CI8Y'
+p377
+sg4
+S'20160222\xc2\xa07:10PM UTC'
+p378
+sg6
+S'Photo finish: Hamlin takes Daytona'
+p379
+sa(dp380
+g2
+S'http://www.reuters.com/article/bluescope-stl-results-idUSL3N1600U3'
+p381
+sg4
+S'20160222\xc2\xa07:10PM UTC'
+p382
+sg6
+S"UPDATE 1-Australia's BlueScope Steel H1 net profit doubles after U.S. mill buyout"
+p383
+sa(dp384
+g2
+S'http://www.reuters.com/article/us-bolivia-referendum-exitpolls-idUSKCN0VV009'
+p385
+sg4
+S'20160222\xc2\xa07:07PM UTC'
+p386
+sg6
+S'Morales looks set to lose Bolivia referendum on re-election: exit polls'
+p387
+sa(dp388
+g2
+S'http://www.reuters.com/article/bkn-cavaliers-thunder-writethru-idUSMTZEC2LX7KZCU'
+p389
+sg4
+S'20160222\xc2\xa07:06PM UTC'
+p390
+sg6
+S'Love helps Cavaliers beat Thunder'
+p391
+sa(dp392
+g2
+S'http://www.reuters.com/article/diary-emrg-econ-idUSL3N15Y4NM'
+p393
+sg4
+S'20160222\xc2\xa07:02PM UTC'
+p394
+sg6
+S'DIARY-Emerging Markets Economic Events to March 3'
+p395
+sa(dp396
+g2
+S'http://www.reuters.com/article/diary-top-econ-idUSL3N15Y4O8'
+p397
+sg4
+S'20160222\xc2\xa07:01PM UTC'
+p398
+sg6
+S'DIARY-Top Economic Events to March 3'
+p399
+sa(dp400
+g2
+S'http://www.reuters.com/article/banks-investment-trading-idUSL8N15Y2EZ'
+p401
+sg4
+S'20160222\xc2\xa07:00PM UTC'
+p402
+sg6
+S"Investment banks' trading revenue declined 9 pct in 2015 - survey"
+p403
+sa(dp404
+g2
+S'http://www.reuters.com/article/us-britain-eu-boris-profile-idUSKCN0VU122'
+p405
+sg4
+S'20160222\xc2\xa06:50PM UTC'
+p406
+sg6
+S'With eye on Downing Street, Boris bets all on Brexit'
+p407
+sa(dp408
+g2
+S'http://www.reuters.com/article/britain-eu-boris-profile-idUSL8N1600TJ'
+p409
+sg4
+S'20160222\xc2\xa06:43PM UTC'
+p410
+sg6
+S'PROFILE-With eye on Downing Street, Boris bets all on Brexit'
+p411
+sa(dp412
+g2
+S'http://www.reuters.com/article/us-china-defence-exports-idUSKCN0VU11Q'
+p413
+sg4
+S'20160222\xc2\xa06:43PM UTC'
+p414
+sg6
+S'China weapons exports surge over past five years: report'
+p415
+sa(dp416
+g2
+S'http://www.reuters.com/article/bluescope-stl-results-idUSL3N1600RL'
+p417
+sg4
+S'20160222\xc2\xa06:41PM UTC'
+p418
+sg6
+S"Australia's BlueScope Steel says H1 NPAT doubles on U.S. steel mill buyout"
+p419
+sa(dp420
+g2
+S'http://www.reuters.com/article/motor-nascar-daytona-idUSL3N1600NP'
+p421
+sg4
+S'20160222\xc2\xa06:38PM UTC'
+p422
+sg6
+S'UPDATE 2-Motor racing-Hamlin wins Daytona 500 in closest-ever finish'
+p423
+sa(dp424
+g2
+S'http://www.reuters.com/article/china-defence-exports-idUSL3N15Y1XO'
+p425
+sg4
+S'20160222\xc2\xa06:37PM UTC'
+p426
+sg6
+S'China weapons exports surge over past five years -report'
+p427
+sa(dp428
+g2
+S'http://www.reuters.com/article/dbs-results-idUSL3N15Y19P'
+p429
+sg4
+S'20160222\xc2\xa06:32PM UTC'
+p430
+sg6
+S"Singapore's DBS profit up 20 pct, beats expectations"
+p431
+sa(dp432
+g2
+S'http://www.reuters.com/article/us-usa-election-trump-muslim-idUSMTZSAPEC2KV6J6AZ'
+p433
+sg4
+S'20160222\xc2\xa06:23PM UTC'
+p434
+sg6
+S"How Egypt's changing culture led one emigre to Trump"
+p435
+sa(dp436
+g2
+S'http://www.reuters.com/article/us-usa-election-trump-muslim-idUSKCN0VT0WD'
+p437
+sg4
+S'20160222\xc2\xa06:23PM UTC'
+p438
+sg6
+S"How Egypt's changing culture led one emigre to Trump"
+p439
+sa(dp440
+g2
+S'http://www.reuters.com/article/us-pope-capitalpunishment-idUSKCN0VU0GH'
+p441
+sg4
+S'20160222\xc2\xa06:13PM UTC'
+p442
+sg6
+S'Pope calls for worldwide abolition of death penalty'
+p443
+sa(dp444
+g2
+S'http://www.reuters.com/article/fashion-london-idUSL8N15X4AR'
+p445
+sg4
+S'20160222\xc2\xa06:13PM UTC'
+p446
+sg6
+S'London designers call upon Shakespeare, nature for inspiration'
+p447
+sa(dp448
+g2
+S'http://www.reuters.com/article/southchinasea-china-paracels-pix-graphic-idUSL3N16005S'
+p449
+sg4
+S'20160222\xc2\xa06:00PM UTC'
+p450
+sg6
+S"RPT-Paracels build-up a pointer to China's broader South China Sea ambitions"
+p451
+sa(dp452
+g2
+S'http://www.reuters.com/article/agriculture-avocado-supply-idUSL8N15Y21R'
+p453
+sg4
+S'20160222\xc2\xa06:00PM UTC'
+p454
+sg6
+S'RPT-Australian avocado prices soar as supply goes pear-shaped'
+p455
+sa(dp456
+g2
+S'http://www.reuters.com/article/india-bangladesh-idUSL3N15X3QV'
+p457
+sg4
+S'20160222\xc2\xa06:00PM UTC'
+p458
+sg6
+S'India set to seal major power deal in Bangladesh, beating China'
+p459
+sa(dp460
+g2
+S'http://www.reuters.com/article/india-budget-idUSL3N15W2DW'
+p461
+sg4
+S'20160222\xc2\xa06:00PM UTC'
+p462
+sg6
+S"India's $16 bln wage bonanza may force Jaitley to cut capex"
+p463
+sa(dp464
+g2
+S'http://www.reuters.com/article/us-macedonia-government-idUSKCN0VU0YD'
+p465
+sg4
+S'20160222\xc2\xa05:29PM UTC'
+p466
+sg6
+S'Conditions not met for April 24 elections in Macedonia: EU, U.S.'
+p467
+sa(dp468
+g2
+S'http://www.reuters.com/article/us-japan-companies-idUSKCN0VU0ZX'
+p469
+sg4
+S'20160222\xc2\xa05:28PM UTC'
+p470
+sg6
+S'Japan Inc set to lose momentum on wage growth this year: Reuters poll'
+p471
+sa(dp472
+g2
+S'http://www.reuters.com/article/bkc-sandiegost-sanjosest-recap-idUSMTZEC2LX6Z7BA'
+p473
+sg4
+S'20160222\xc2\xa05:19PM UTC'
+p474
+sg6
+S'San Diego State 78, San Jose State 56'
+p475
+sa(dp476
+g2
+S'http://www.reuters.com/article/us-libya-security-benghazi-idUSKCN0VU0UM'
+p477
+sg4
+S'20160222\xc2\xa05:04PM UTC'
+p478
+sg6
+S'Army claims advances in Libyan cities of Benghazi and Ajdabiya'
+p479
+sa(dp480
+g2
+S'http://www.reuters.com/article/usa-gasoline-survey-idUSL2N1600M7'
+p481
+sg4
+S'20160222\xc2\xa05:04PM UTC'
+p482
+sg6
+S'Average U.S. gas prices fell a nickel in two weeks - Lundberg'
+p483
+sa(dp484
+g2
+S'http://www.reuters.com/article/us-egypt-rights-torture-idUSKCN0VU0YT'
+p485
+sg4
+S'20160222\xc2\xa05:03PM UTC'
+p486
+sg6
+S'Egyptian rights group asks court to halt official move to shut it down'
+p487
+sa(dp488
+g2
+S'http://www.reuters.com/article/us-ivorycoast-prison-idUSKCN0VU0YR'
+p489
+sg4
+S'20160222\xc2\xa04:56PM UTC'
+p490
+sg6
+S'Ten killed in thwarted Ivory Coast prison break: authorities'
+p491
+sa(dp492
+g2
+S'http://www.reuters.com/article/global-forex-idUSL3N1600H8'
+p493
+sg4
+S'20160222\xc2\xa04:55PM UTC'
+p494
+sg6
+S"FOREX-Sterling hit by 'Brexit' worries, others major currencies calm"
+p495
+sa(dp496
+g2
+S'http://www.reuters.com/article/egypt-banks-ipo-idUSL8N1600XC'
+p497
+sg4
+S'20160222\xc2\xa04:51PM UTC'
+p498
+sg6
+S'Egypt to float United Bank of Egypt - c.bank governor'
+p499
+sa(dp500
+g2
+S'http://www.reuters.com/article/australia-stocks-morning-idUSL3N1600EO'
+p501
+sg4
+S'20160222\xc2\xa04:27PM UTC'
+p502
+sg6
+S'Australia shares set for quiet start, NZ stocks subdued'
+p503
+sa(dp504
+g2
+S'http://www.reuters.com/article/hkn-penguins-sabres-writethru-idUSMTZEC2LX0FT5A'
+p505
+sg4
+S'20160222\xc2\xa04:26PM UTC'
+p506
+sg6
+S'Letang, Penguins bounce back to beat Sabres'
+p507
+sa(dp508
+g2
+S'http://www.reuters.com/article/morningcall-idUSL3N1600ED'
+p509
+sg4
+S'20160222\xc2\xa04:13PM UTC'
+p510
+sg6
+S'RPT-UPDATE 1-New Zealand/Australia Morning Call-Global markets'
+p511
+sa(dp512
+g2
+S'http://www.reuters.com/article/us-new-york-airplane-idUSKCN0VU0PB'
+p513
+sg4
+S'20160222\xc2\xa04:13PM UTC'
+p514
+sg6
+S"One missing as small plane crashes off New York's Long Island"
+p515
+sa(dp516
+g2
+S'http://www.reuters.com/article/australia-sp-court-idUSL3N1600E5'
+p517
+sg4
+S'20160222\xc2\xa04:06PM UTC'
+p518
+sg6
+S'RPT-S&P; settles Australian lawsuit over Lehman Bros collapse'
+p519
+sa(dp520
+g2
+S'http://www.reuters.com/article/pictures-report-idUSRTX27Y88'
+p521
+sg4
+S'20160222\xc2\xa03:55PM UTC'
+p522
+sg6
+S'Bush bows out'
+p523
+sa(dp524
+g2
+S'http://www.reuters.com/article/morningcall-idUSL3N1600CH'
+p525
+sg4
+S'20160222\xc2\xa03:43PM UTC'
+p526
+sg6
+S'UPDATE 1-New Zealand/Australia Morning Call-Global markets'
+p527
+sa(dp528
+g2
+S'http://www.reuters.com/article/us-israel-palestinians-usa-idUSKCN0VU0X4'
+p529
+sg4
+S'20160222\xc2\xa03:25PM UTC'
+p530
+sg6
+S'Kerry meets with Abbas, urges calm, decrease in violence'
+p531
+sa(dp532
+g2
+S'http://www.reuters.com/article/agriculture-avocado-supply-idUSL3N1600CR'
+p533
+sg4
+S'20160222\xc2\xa03:23PM UTC'
+p534
+sg6
+S'RPT-Australian avocado prices soar as supply goes pear-shaped'
+p535
+sa(dp536
+g2
+S'http://www.reuters.com/article/malaysia-security-australia-idUSL3N1600CL'
+p537
+sg4
+S'20160222\xc2\xa03:19PM UTC'
+p538
+sg6
+S'RPT-Australia issues security alert for Kuala Lumpur'
+p539
+sa(dp540
+g2
+S'http://www.reuters.com/article/barwa-results-idUSL8N1600T8'
+p541
+sg4
+S'20160222\xc2\xa03:05PM UTC'
+p542
+sg6
+S"Qatar's Barwa Real Estate swings to Q4 net loss"
+p543
+sa(dp544
+g2
+S'http://www.reuters.com/article/us-iran-usa-prisoner-namazi-idUSKCN0VU0VK'
+p545
+sg4
+S'20160222\xc2\xa02:35PM UTC'
+p546
+sg6
+S'U.S. businessman detained in Iran denied access to lawyer'
+p547
+sa(dp548
+g2
+S'http://www.reuters.com/article/us-telecoms-mobileworld-nokia-corp-idUSKCN0VU0WE'
+p549
+sg4
+S'20160222\xc2\xa02:30PM UTC'
+p550
+sg6
+S'Nokia 5G pickup could begin as early as 2017: chief executive'
+p551
+sa(dp552
+g2
+S'http://www.reuters.com/article/telecoms-mobileworld-nokia-corp-idUSL8N1600T9'
+p553
+sg4
+S'20160222\xc2\xa02:27PM UTC'
+p554
+sg6
+S'Nokia 5G pickup could begin as early as 2017 - chief executive'
+p555
+sa(dp556
+g2
+S'http://www.reuters.com/article/us-britain-eu-reaction-idUSKCN0VU0W5'
+p557
+sg4
+S'20160222\xc2\xa02:26PM UTC'
+p558
+sg6
+S'London Mayor Boris to campaign for British exit from EU'
+p559
+sa(dp560
+g2
+S'http://www.reuters.com/article/britain-eu-reaction-idUSL8N1600SF'
+p561
+sg4
+S'20160222\xc2\xa02:23PM UTC'
+p562
+sg6
+S'HIGHLIGHTS-London Mayor Boris to campaign for British exit from EU'
+p563
+sa(dp564
+g2
+S'http://www.reuters.com/article/us-michigan-norovirus-idUSKCN0VU0VT'
+p565
+sg4
+S'20160222\xc2\xa02:18PM UTC'
+p566
+sg6
+S'Dozens of University of Michigan students complain of norovirus symptoms'
+p567
+sa(dp568
+g2
+S'http://www.reuters.com/article/michigan-norovirus-idUSL2N1600HL'
+p569
+sg4
+S'20160222\xc2\xa02:17PM UTC'
+p570
+sg6
+S'Dozens of University of Michigan students complain of norovirus symptoms'
+p571
+sa(dp572
+g2
+S'http://www.reuters.com/article/us-india-protests-idUSKCN0VU07W'
+p573
+sg4
+S'20160222\xc2\xa02:14PM UTC'
+p574
+sg6
+S'Indian army deploys to quell protests, water cut to Delhi'
+p575
+sa(dp576
+g2
+S'http://www.reuters.com/article/idUS55421164620160221'
+p577
+sg4
+S'20160222\xc2\xa02:08PM UTC'
+p578
+sg6
+S'Dixon: Investors yet to price in Brexit risks'
+p579
+sa(dp580
+g2
+S'http://www.reuters.com/article/us-telecoms-mobileworld-huawei-tech-idUSKCN0VU0VD'
+p581
+sg4
+S'20160222\xc2\xa02:08PM UTC'
+p582
+sg6
+S"China's Huawei backs Apple in fight over encryption"
+p583
+sa(dp584
+g2
+S'http://www.reuters.com/article/telecoms-mobileworld-huawei-tech-idUSL8N1600OA'
+p585
+sg4
+S'20160222\xc2\xa02:03PM UTC'
+p586
+sg6
+S"China's Huawei backs Apple in fight over encryption"
+p587
+sa(dp588
+g2
+S'http://www.reuters.com/article/usa-boxoffice-idUSL2N1600HU'
+p589
+sg4
+S'20160222\xc2\xa01:40PM UTC'
+p590
+sg6
+S"Box Office:'Deadpool' dominates'The Witch,''Risen'"
+p591
+sa(dp592
+g2
+S'http://www.reuters.com/article/us-britain-eu-gambling-idUSKCN0VU0RP'
+p593
+sg4
+S'20160222\xc2\xa01:40PM UTC'
+p594
+sg6
+S"'Brexit' odds shorten as London mayor Johnson supports 'out' campaign"
+p595
+sa(dp596
+g2
+S'http://www.reuters.com/article/us-peru-election-poll-idUSKCN0VU0U8'
+p597
+sg4
+S'20160222\xc2\xa01:23PM UTC'
+p598
+sg6
+S'Close runoff seen in Peru election as Fujimori loses ground: poll'
+p599
+sa(dp600
+g2
+S'http://www.reuters.com/article/us-usa-stocks-weekahead-idUSKCN0VS2OQ'
+p601
+sg4
+S'20160222\xc2\xa01:16PM UTC'
+p602
+sg6
+S'Focus sharpens on Fed after hot inflation data'
+p603
+sa(dp604
+g2
+S'http://www.reuters.com/article/india-haryana-jat-protests-delhi-idUSKCN0VU07Y'
+p605
+sg4
+S'20160222\xc2\xa01:11PM UTC'
+p606
+sg6
+S'Army deployed to quell protests, water cut to Delhi'
+p607
+sa(dp608
+g2
+S'http://www.reuters.com/article/telecoms-mobileworld-samsung-elec-idUSL8N1600FX'
+p609
+sg4
+S'20160222\xc2\xa01:00PM UTC'
+p610
+sg6
+S"Samsung's new Galaxy phones short on innovation in a tough 2016"
+p611
+sa(dp612
+g2
+S'http://www.reuters.com/article/telecoms-lenovo-roaming-idUSL8N15Z0QC'
+p613
+sg4
+S'20160222\xc2\xa01:00PM UTC'
+p614
+sg6
+S'Lenovo launches global wireless roaming service'
+p615
+sa(dp616
+g2
+S'http://www.reuters.com/article/usa-stocks-weekahead-idUSL2N15Y26O'
+p617
+sg4
+S'20160222\xc2\xa01:00PM UTC'
+p618
+sg6
+S'Wall St Week Ahead-Focus sharpens on Fed after hot inflation data'
+p619
+sa(dp620
+g2
+S'http://www.reuters.com/article/us-mideast-crisis-syria-homs-idUSKCN0VU08C'
+p621
+sg4
+S'20160222\xc2\xa012:34PM UTC'
+p622
+sg6
+S"Twin bombings claimed by Islamic State kill dozens in Syria's Homs"
+p623
+sa(dp624
+g2
+S'http://www.reuters.com/article/us-mideast-crisis-syria-damascus-toll-idUSKCN0VU0T8'
+p625
+sg4
+S'20160222\xc2\xa012:34PM UTC'
+p626
+sg6
+S'Death toll in southern Damascus bombings reaches 62'
+p627
+sa(dp628
+g2
+S'http://www.reuters.com/article/us-vivendi-telecom-italia-filing-idUSKCN0VU0T2'
+p629
+sg4
+S'20160222\xc2\xa012:32PM UTC'
+p630
+sg6
+S'Vivendi buys further 1.4 percent of Telecom Italia, reaching 22.8 percent'
+p631
+sa(dp632
+g2
+S'http://www.reuters.com/article/vivendi-telecom-italia-filing-idUSL8N1600QH'
+p633
+sg4
+S'20160222\xc2\xa012:30PM UTC'
+p634
+sg6
+S'Vivendi buys further 1.4 pct of Telecom Italia, reaching 22.8 pct'
+p635
+sa(dp636
+g2
+S'http://www.reuters.com/article/idUSL8N1600PB'
+p637
+sg4
+S'20160222\xc2\xa012:07PM UTC'
+p638
+sg6
+S'BRIEF-Nokia to acquire identity-access security firm nakina in Q1'
+p639
+sa(dp640
+g2
+S'http://www.reuters.com/article/hkn-penguins-playerwatch-idUSMTZEC2LWSUQ1O'
+p641
+sg4
+S'20160222\xc2\xa012:04PM UTC'
+p642
+sg6
+S'Pittsburgh Penguins - PlayerWatch'
+p643
+sa(dp644
+g2
+S'http://www.reuters.com/article/hkn-avalanche-playerwatch-idUSMTZEC2LWSUP1I'
+p645
+sg4
+S'20160222\xc2\xa012:04PM UTC'
+p646
+sg6
+S'Colorado Avalanche - PlayerWatch'
+p647
+sa(dp648
+g2
+S'http://www.reuters.com/article/hkn-redwings-playerwatch-idUSMTZEC2LWSUP1F'
+p649
+sg4
+S'20160222\xc2\xa012:04PM UTC'
+p650
+sg6
+S'Detroit Red Wings - PlayerWatch'
+p651
+sa(dp652
+g2
+S'http://www.reuters.com/article/hkn-lightning-playerwatch-idUSMTZEC2LWSUP1D'
+p653
+sg4
+S'20160222\xc2\xa012:04PM UTC'
+p654
+sg6
+S'Tampa Bay Lightning - PlayerWatch'
+p655
+sa(dp656
+g2
+S'http://www.reuters.com/article/bkn-nuggets-playerwatch-idUSMTZEC2LWSRD17'
+p657
+sg4
+S'20160222\xc2\xa012:02PM UTC'
+p658
+sg6
+S'Denver Nuggets - PlayerWatch'
+p659
+sa(dp660
+g2
+S'http://www.reuters.com/article/bkn-nets-playerwatch-idUSMTZEC2LWSRD11'
+p661
+sg4
+S'20160222\xc2\xa012:02PM UTC'
+p662
+sg6
+S'Brooklyn Nets - PlayerWatch'
+p663
+sa(dp664
+g2
+S'http://www.reuters.com/article/bkn-76ers-playerwatch-idUSMTZEC2LWSRD10'
+p665
+sg4
+S'20160222\xc2\xa012:02PM UTC'
+p666
+sg6
+S'Philadelphia 76ers - PlayerWatch'
+p667
+sa(dp668
+g2
+S'http://www.reuters.com/article/us-egypt-police-trial-idUSKCN0VU0F6'
+p669
+sg4
+S'20160222\xc2\xa011:49AM UTC'
+p670
+sg6
+S'Criticism of crackdown mounts in Egypt as policeman sent to trial'
+p671
+sa(dp672
+g2
+S'http://www.reuters.com/article/bangladesh-attacks-idUSKCN0VU09W'
+p673
+sg4
+S'20160222\xc2\xa011:47AM UTC'
+p674
+sg6
+S'Hindu priest killed in Bangladesh '
+p675
+sa(dp676
+g2
+S'http://www.reuters.com/article/us-bangladesh-attacks-idUSKCN0VU09Y'
+p677
+sg4
+S'20160222\xc2\xa011:43AM UTC'
+p678
+sg6
+S'Hindu priest killed in Bangladesh'
+p679
+sa(dp680
+g2
+S'http://www.reuters.com/article/egypt-police-trial-idUSL8N1600MP'
+p681
+sg4
+S'20160222\xc2\xa011:42AM UTC'
+p682
+sg6
+S'UPDATE 1-Criticism of crackdown mounts in Egypt as policeman sent to trial'
+p683
+sa(dp684
+g2
+S'http://www.reuters.com/article/britain-eu-gambling-idUSU8N14B00Y'
+p685
+sg4
+S'20160222\xc2\xa011:34AM UTC'
+p686
+sg6
+S"'Brexit' odds shorten as London mayor Johnson supports 'out' campaign"
+p687
+sa(dp688
+g2
+S'http://www.reuters.com/article/us-usa-election-rubio-idUSMTZSAPEC2LVTX679'
+p689
+sg4
+S'20160222\xc2\xa011:31AM UTC'
+p690
+sg6
+S'Wealthy donors drawn to Rubio White House bid after Bush drops out'
+p691
+sa(dp692
+g2
+S'http://www.reuters.com/article/us-usa-election-rubio-idUSKCN0VU05O'
+p693
+sg4
+S'20160222\xc2\xa011:31AM UTC'
+p694
+sg6
+S'Wealthy donors drawn to Rubio White House bid after Bush drops out'
+p695
+sa(dp696
+g2
+S'http://www.reuters.com/article/us-usa-election-bush-insight-idUSMTZSAPEC2KUKE6AD'
+p697
+sg4
+S'20160222\xc2\xa011:30AM UTC'
+p698
+sg6
+S"Unforced errors and miscalculations end Bush's White House hopes"
+p699
+sa(dp700
+g2
+S'http://www.reuters.com/article/us-usa-election-bush-insight-idUSKCN0VT0JI'
+p701
+sg4
+S'20160222\xc2\xa011:30AM UTC'
+p702
+sg6
+S"Unforced errors and miscalculations end Bush's White House hopes"
+p703
+sa(dp704
+g2
+S'http://www.reuters.com/article/us-tennis-men-marseille-idUSKCN0VU0RK'
+p705
+sg4
+S'20160222\xc2\xa011:29AM UTC'
+p706
+sg6
+S'Kyrgios captures first ATP title in Marseille'
+p707
+sa(dp708
+g2
+S'http://www.reuters.com/article/us-usa-election-bush-idUSKCN0VU019'
+p709
+sg4
+S'20160222\xc2\xa011:18AM UTC'
+p710
+sg6
+S'Republican Jeb Bush ends 2016 presidential campaign'
+p711
+sa(dp712
+g2
+S'http://www.reuters.com/article/us-usa-election-cruz-eligibility-idUSKCN0VS28N'
+p713
+sg4
+S'20160222\xc2\xa011:17AM UTC'
+p714
+sg6
+S'Illinois judge to decide jurisdiction over Cruz eligibility complaint'
+p715
+sa(dp716
+g2
+S'http://www.reuters.com/article/mideast-crisis-syria-homs-idUSKCN0VU08A'
+p717
+sg4
+S'20160222\xc2\xa011:11AM UTC'
+p718
+sg6
+S"Twin bombings claimed by Islamic State kill dozens in Syria's Homs"
+p719
+sa(dp720
+g2
+S'http://www.reuters.com/article/us-italy-civil-unions-renzi-idUSKCN0VU0QP'
+p721
+sg4
+S'20160222\xc2\xa011:11AM UTC'
+p722
+sg6
+S'Italy PM calls for coalition deal, confidence vote over civil unions'
+p723
+sa(dp724
+g2
+S'http://www.reuters.com/article/us-mideast-crisis-syria-claim-idUSKCN0VU0QI'
+p725
+sg4
+S'20160222\xc2\xa011:08AM UTC'
+p726
+sg6
+S'Islamic State claims bomb attacks in Damascus suburb'
+p727
+sa(dp728
+g2
+S'http://www.reuters.com/article/italy-civil-unions-renzi-idUSL8N1600MF'
+p729
+sg4
+S'20160222\xc2\xa011:08AM UTC'
+p730
+sg6
+S'Italy PM calls for coalition deal, confidence vote over civil unions'
+p731
+sa(dp732
+g2
+S'http://www.reuters.com/article/us-russia-czech-nato-idUSKCN0VU0QB'
+p733
+sg4
+S'20160222\xc2\xa011:07AM UTC'
+p734
+sg6
+S"Czechs to send 100 troops to NATO's eastern flank: defense minister"
+p735
+sa(dp736
+g2
+S'http://www.reuters.com/article/us-motor-f1-haas-idUSKCN0VU0Q7'
+p737
+sg4
+S'20160222\xc2\xa011:06AM UTC'
+p738
+sg6
+S"Haas aim for points with their 'very first' F1 car"
+p739
+sa(dp740
+g2
+S'http://www.reuters.com/article/us-china-government-pollution-idUSKCN0VU0Q1'
+p741
+sg4
+S'20160222\xc2\xa011:04AM UTC'
+p742
+sg6
+S"Beijing to raise threshold for issuing air pollution 'red alerts'"
+p743
+sa(dp744
+g2
+S'http://www.reuters.com/article/russia-czech-nato-idUSL8N1600NH'
+p745
+sg4
+S'20160222\xc2\xa011:01AM UTC'
+p746
+sg6
+S"Czechs to send 100 troops to NATO's eastern flank -defence minister"
+p747
+sa(dp748
+g2
+S'http://www.reuters.com/article/tennis-men-dubai-djokovic-idUSKCN0VU0PZ'
+p749
+sg4
+S'20160222\xc2\xa011:01AM UTC'
+p750
+sg6
+S'Djokovic determined not to get carried away with success'
+p751
+sa(dp752
+g2
+S'http://www.reuters.com/article/us-mideast-crisis-syria-assad-idUSKCN0VT0WP'
+p753
+sg4
+S'20160222\xc2\xa010:52AM UTC'
+p754
+sg6
+S"Syria's Assad says he is ready for truce if 'terrorists' do not exploit it"
+p755
+sa(dp756
+g2
+S'http://www.reuters.com/article/us-tennis-men-dubai-djokovic-idUSKCN0VU0PN'
+p757
+sg4
+S'20160222\xc2\xa010:51AM UTC'
+p758
+sg6
+S'Djokovic determined not to get carried away with success'
+p759
+sa(dp760
+g2
+S'http://www.reuters.com/article/us-mideast-crisis-syria-damascus-idUSKCN0VU0N4'
+p761
+sg4
+S'20160222\xc2\xa010:48AM UTC'
+p762
+sg6
+S'At least 30 killed in four bomb blasts in southern Damascus district'
+p763
+sa(dp764
+g2
+S'http://www.reuters.com/article/us-telecoms-mobileworld-lg-idUSKCN0VU0L3'
+p765
+sg4
+S'20160222\xc2\xa010:35AM UTC'
+p766
+sg6
+S'LG Electronics displays first G5 modular smartphone'
+p767
+sa(dp768
+g2
+S'http://www.reuters.com/article/telecoms-mobileworld-lg-idUSL8N1600KW'
+p769
+sg4
+S'20160222\xc2\xa010:31AM UTC'
+p770
+sg6
+S'UPDATE 1-LG Electronics displays first G5 modular smartphone'
+p771
+sa(dp772
+g2
+S'http://www.reuters.com/article/us-alpine-skiing-women-idUSKCN0VU0P7'
+p773
+sg4
+S'20160222\xc2\xa010:31AM UTC'
+p774
+sg6
+S'Battle rages on between Vonn and Gut'
+p775
+sa(dp776
+g2
+S'http://www.reuters.com/article/us-britain-eu-boris-idUSKCN0VU0OZ'
+p777
+sg4
+S'20160222\xc2\xa010:27AM UTC'
+p778
+sg6
+S'London mayor Boris Johnson will campaign to leave the EU: BBC'
+p779
+sa(dp780
+g2
+S'http://www.reuters.com/article/us-gm-brazil-idUSKCN0VU0OV'
+p781
+sg4
+S'20160222\xc2\xa010:24AM UTC'
+p782
+sg6
+S'GM could cancel $1.6 billion investment in Brazil'
+p783
+sa(dp784
+g2
+S'http://www.reuters.com/article/gm-brazil-idUSL2N1600DL'
+p785
+sg4
+S'20160222\xc2\xa010:22AM UTC'
+p786
+sg6
+S'GM could cancel $1.6 bln investment in Brazil - company president'
+p787
+sa(dp788
+g2
+S'http://www.reuters.com/article/us-india-attack-idUSKCN0VU0OR'
+p789
+sg4
+S'20160222\xc2\xa010:18AM UTC'
+p790
+sg6
+S'Death toll rises to seven in Kashmir militant clash'
+p791
+sa(dp792
+g2
+S'http://www.reuters.com/article/us-uganda-election-idUSKCN0VU0B8'
+p793
+sg4
+S'20160222\xc2\xa010:14AM UTC'
+p794
+sg6
+S"'I don't need lectures,' Museveni tells EU after poll criticism"
+p795
+sa(dp796
+g2
+S'http://www.reuters.com/article/india-kashmir-attack-idUSKCN0VT0RT'
+p797
+sg4
+S'20160222\xc2\xa010:14AM UTC'
+p798
+sg6
+S'Death toll rises to seven in Kashmir militant clash'
+p799
+sa(dp800
+g2
+S'http://www.reuters.com/article/us-opec-nigeria-idUSKCN0VU0OG'
+p801
+sg4
+S'20160222\xc2\xa010:13AM UTC'
+p802
+sg6
+S"Nigeria's Buhari to discuss oil price stability with Saudi king - presidency"
+p803
+sa(dp804
+g2
+S'http://www.reuters.com/article/idUSL2N1600DI'
+p805
+sg4
+S'20160222\xc2\xa010:07AM UTC'
+p806
+sg6
+S'MEDIA-Tesla acquires tesla.com domain name - Bloomberg'
+p807
+sa(dp808
+g2
+S'http://www.reuters.com/article/us-burkina-ivorycoast-idUSKCN0VU0OE'
+p809
+sg4
+S'20160222\xc2\xa010:02AM UTC'
+p810
+sg6
+S'Ivory Coast sends soldiers wanted for failed coup to Burkina Faso, sources say'
+p811
+sa(dp812
+g2
+S'http://www.reuters.com/article/us-motor-f1-testing-idUSKCN0VU0NX'
+p813
+sg4
+S'20160222\xc2\xa010:00AM UTC'
+p814
+sg6
+S'Fun and games ahead as Formula One testing starts'
+p815
+sa(dp816
+g2
+S'http://www.reuters.com/article/us-turkey-kidnapping-idUSKCN0VU0DK'
+p817
+sg4
+S'20160222\xc2\xa09:54AM UTC'
+p818
+sg6
+S'Three Turkish journalists freed after kidnapping by Kurdish militants: agency'
+p819
+sa(dp820
+g2
+S'http://www.reuters.com/article/us-mideast-crisis-iraq-radioactive-idUSKCN0VU0JY'
+p821
+sg4
+S'20160222\xc2\xa09:36AM UTC'
+p822
+sg6
+S'Missing radioactive material found dumped in south Iraq'
+p823
+sa(dp824
+g2
+S'http://www.reuters.com/article/mideast-crisis-iraq-radioactive-idUSL8N1600H7'
+p825
+sg4
+S'20160222\xc2\xa09:35AM UTC'
+p826
+sg6
+S'UPDATE 2-Missing radioactive material found dumped in south Iraq'
+p827
+sa(dp828
+g2
+S'http://www.reuters.com/article/us-china-pharmaceuticals-ali-health-idUSKCN0VU0H4'
+p829
+sg4
+S'20160222\xc2\xa09:31AM UTC'
+p830
+sg6
+S'China suspends Ali Health-run online drug monitoring platform'
+p831
+sa(dp832
+g2
+S'http://www.reuters.com/article/china-pharmaceuticals-ali-health-idUSL3N16008V'
+p833
+sg4
+S'20160222\xc2\xa09:29AM UTC'
+p834
+sg6
+S'UPDATE 1-China suspends Ali Health-run online drug monitoring platform'
+p835
+sa(dp836
+g2
+S'http://www.reuters.com/article/us-europe-migrants-austria-idUSKCN0VU0LB'
+p837
+sg4
+S'20160222\xc2\xa09:19AM UTC'
+p838
+sg6
+S'Austria seeks talks with Balkan neighbors after capping migrant flow'
+p839
+sa(dp840
+g2
+S'http://www.reuters.com/article/india-protests-idUSL3N16005Z'
+p841
+sg4
+S'20160222\xc2\xa09:15AM UTC'
+p842
+sg6
+S'UPDATE 4-Indian army deploys to quell protests, water cut to Delhi'
+p843
+sa(dp844
+g2
+S'http://www.reuters.com/article/us-israel-palestinians-general-idUSKCN0VU0KI'
+p845
+sg4
+S'20160222\xc2\xa09:15AM UTC'
+p846
+sg6
+S'Netanyahu defends top general in excessive force debate'
+p847
+sa(dp848
+g2
+S'http://www.reuters.com/article/mideast-stocks-idUSL8N1600DT'
+p849
+sg4
+S'20160222\xc2\xa08:59AM UTC'
+p850
+sg6
+S'MIDEAST STOCKS-Gulf loses steam as optimism over oil producer deal fades'
+p851
+sa(dp852
+g2
+S'http://www.reuters.com/article/us-mideast-crisis-usa-airstrikes-idUSKCN0VU0LW'
+p853
+sg4
+S'20160222\xc2\xa08:39AM UTC'
+p854
+sg6
+S'U.S., allies conduct 38 strikes against Islamic State: U.S. military'
+p855
+sa(dp856
+g2
+S'http://www.reuters.com/article/us-usa-court-cases-idUSKCN0VU0KU'
+p857
+sg4
+S'20160222\xc2\xa08:04AM UTC'
+p858
+sg6
+S"Scalia's absence to be felt as U.S. Supreme Court returns"
+p859
+sa(dp860
+g2
+S'http://www.reuters.com/article/telecoms-mobileworld-lg-idUSL8N1600FA'
+p861
+sg4
+S'20160222\xc2\xa08:00AM UTC'
+p862
+sg6
+S'LG Electronics unwraps first G5 modular smartphone'
+p863
+sa(dp864
+g2
+S'http://www.reuters.com/article/mideast-crisis-iraq-radioactive-idUSL8N1600HF'
+p865
+sg4
+S'20160222\xc2\xa07:54AM UTC'
+p866
+sg6
+S'Missing radioactive material found dumped in south Iraq'
+p867
+sa(dp868
+g2
+S'http://www.reuters.com/article/us-britain-eu-future-analysis-idUSKCN0VU0JI'
+p869
+sg4
+S'20160222\xc2\xa07:34AM UTC'
+p870
+sg6
+S"EU's real brake isn't Britain but Franco-German impasse"
+p871
+sa(dp872
+g2
+S'http://www.reuters.com/article/us-volkswagen-emissions-usa-idUSKCN0VU0JA'
+p873
+sg4
+S'20160222\xc2\xa07:27AM UTC'
+p874
+sg6
+S'EPA asks Volkswagen to make electric cars in U.S.: Welt am Sonntag'
+p875
+sa(dp876
+g2
+S'http://www.reuters.com/article/volkswagen-emissions-usa-idUSL8N1600D4'
+p877
+sg4
+S'20160222\xc2\xa07:24AM UTC'
+p878
+sg6
+S'UPDATE 1-U.S. EPA asks Volkswagen to make electric cars in U.S. -Welt am Sonntag'
+p879
+sa(dp880
+g2
+S'http://www.reuters.com/article/us-mideast-crisis-lebanon-idUSKCN0VU0EL'
+p881
+sg4
+S'20160222\xc2\xa07:12AM UTC'
+p882
+sg6
+S'Lebanese justice minister resigns, blames Hezbollah over deadlock, court case'
+p883
+sa(dp884
+g2
+S'http://www.reuters.com/article/turkey-kidnapping-idUSL8N1600CS'
+p885
+sg4
+S'20160222\xc2\xa07:10AM UTC'
+p886
+sg6
+S'UPDATE 2-Three Turkish journalists freed after kidnapping by Kurdish militants - agency'
+p887
+sa(dp888
+g2
+S'http://www.reuters.com/article/turkey-kidnapping-release-idUSL8N1600G0'
+p889
+sg4
+S'20160222\xc2\xa07:07AM UTC'
+p890
+sg6
+S'Three Turkish journalists freed after kidnapping by PKK - news agency'
+p891
+sa(dp892
+g2
+S'http://www.reuters.com/article/al-baraka-bk-grp-results-idUSD5N15800U'
+p893
+sg4
+S'20160222\xc2\xa07:03AM UTC'
+p894
+sg6
+S"Bahrain's Al Baraka Banking Group Q4 net attributable profit up 15 pct"
+p895
+sa(dp896
+g2
+S'http://www.reuters.com/article/ceraweek-saudi-idUSL2N15Y2AR'
+p897
+sg4
+S'20160222\xc2\xa07:00AM UTC'
+p898
+sg6
+S'RPT-Saudi oil minister to face rival U.S. producers as price rout bites'
+p899
+sa(dp900
+g2
+S'http://www.reuters.com/article/mideast-crisis-lebanon-idUSL8N1600DK'
+p901
+sg4
+S'20160222\xc2\xa06:58AM UTC'
+p902
+sg6
+S'UPDATE 1-Lebanese justice minister resigns, blames Hezbollah over deadlock, court case'
+p903
+sa(dp904
+g2
+S'http://www.reuters.com/article/us-volkswagen-recall-takata-idUSKCN0VU0IL'
+p905
+sg4
+S'20160222\xc2\xa06:53AM UTC'
+p906
+sg6
+S'Takata air bag recall could cost VW up to $445 million: Welt am Sonntag'
+p907
+sa(dp908
+g2
+S'http://www.reuters.com/article/volkswagen-recall-takata-idUSL8N1600DZ'
+p909
+sg4
+S'20160222\xc2\xa06:49AM UTC'
+p910
+sg6
+S'Takata air bag recall could cost VW up to $445 mln -Welt am Sonntag'
+p911
+sa(dp912
+g2
+S'http://www.reuters.com/article/china-pharmaceuticals-ali-health-idUSL3N160086'
+p913
+sg4
+S'20160222\xc2\xa06:28AM UTC'
+p914
+sg6
+S'China suspends Ali Health-run online drug monitoring platform'
+p915
+sa(dp916
+g2
+S'http://www.reuters.com/article/india-autos-maruti-haryan-protest-jat-idUSKCN0VU03T'
+p917
+sg4
+S'20160222\xc2\xa06:17AM UTC'
+p918
+sg6
+S'Maruti Suzuki says suspends production in north India amid protests'
+p919
+sa(dp920
+g2
+S'http://www.reuters.com/article/us-malaysia-security-australia-idUSKCN0VU0FQ'
+p921
+sg4
+S'20160222\xc2\xa06:09AM UTC'
+p922
+sg6
+S'Australia issues security alert for Kuala Lumpur'
+p923
+sa(dp924
+g2
+S'http://www.reuters.com/article/malaysia-security-australia-idUSL3N160081'
+p925
+sg4
+S'20160222\xc2\xa06:07AM UTC'
+p926
+sg6
+S'Australia issues security alert for Kuala Lumpur'
+p927
+sa(dp928
+g2
+S'http://www.reuters.com/article/hkn-lightning-hurricanes-preview-idUSMTZEC2LWC3HZ5'
+p929
+sg4
+S'20160222\xc2\xa06:02AM UTC'
+p930
+sg6
+S'Preview: Lightning at Hurricanes'
+p931
+sa(dp932
+g2
+S'http://www.reuters.com/article/bkn-celtics-nuggets-preview-idUSMTZEC2LWC3HZ4'
+p933
+sg4
+S'20160222\xc2\xa06:02AM UTC'
+p934
+sg6
+S'Preview: Celtics at Nuggets'
+p935
+sa(dp936
+g2
+S'http://www.reuters.com/article/bkn-bobcats-nets-preview-idUSMTZEC2LWC3HZ7'
+p937
+sg4
+S'20160222\xc2\xa06:02AM UTC'
+p938
+sg6
+S'Preview: Hornets at Nets'
+p939
+sa(dp940
+g2
+S'http://www.reuters.com/article/bkc-illinois-wisconsin-preview-idUSMTZEC2LWC3HZ6'
+p941
+sg4
+S'20160222\xc2\xa06:02AM UTC'
+p942
+sg6
+S'Preview: Illinois at Wisconsin'
+p943
+sa(dp944
+g2
+S'http://www.reuters.com/article/hkn-avalanche-canucks-preview-idUSMTZEC2LWC3GZ2'
+p945
+sg4
+S'20160222\xc2\xa06:02AM UTC'
+p946
+sg6
+S'Preview: Avalanche at Canucks'
+p947
+sa(dp948
+g2
+S'http://www.reuters.com/article/bkn-lakers-bulls-preview-idUSMTZEC2LWC3GZ1'
+p949
+sg4
+S'20160222\xc2\xa06:02AM UTC'
+p950
+sg6
+S'Preview: Lakers at Bulls'
+p951
+sa(dp952
+g2
+S'http://www.reuters.com/article/bkc-california-washingtonst-preview-idUSMTZEC2LWC3GZ0'
+p953
+sg4
+S'20160222\xc2\xa06:02AM UTC'
+p954
+sg6
+S'Preview: California at Washington State'
+p955
+sa(dp956
+g2
+S'http://www.reuters.com/article/bkc-temple-houston-preview-idUSMTZEC2LWC3GYZ'
+p957
+sg4
+S'20160222\xc2\xa06:02AM UTC'
+p958
+sg6
+S'Preview: Temple at Houston'
+p959
+sa(dp960
+g2
+S'http://www.reuters.com/article/bkn-spurs-suns-preview-idUSMTZEC2LWC3GYY'
+p961
+sg4
+S'20160222\xc2\xa06:02AM UTC'
+p962
+sg6
+S'Preview: Spurs at Suns'
+p963
+sa(dp964
+g2
+S'http://www.reuters.com/article/hkn-redwings-rangers-preview-idUSMTZEC2LWC3GYX'
+p965
+sg4
+S'20160222\xc2\xa06:02AM UTC'
+p966
+sg6
+S'Preview: Red Wings at Rangers'
+p967
+sa(dp968
+g2
+S'http://www.reuters.com/article/bkn-76ers-mavericks-preview-idUSMTZEC2LWC3GYW'
+p969
+sg4
+S'20160222\xc2\xa06:02AM UTC'
+p970
+sg6
+S'Preview: 76ers at Mavericks'
+p971
+sa(dp972
+g2
+S'http://www.reuters.com/article/hkn-flames-ducks-preview-idUSMTZEC2LWC3GYV'
+p973
+sg4
+S'20160222\xc2\xa06:02AM UTC'
+p974
+sg6
+S'Preview: Flames at Ducks'
+p975
+sa(dp976
+g2
+S'http://www.reuters.com/article/hkn-blackhawks-wild-preview-idUSMTZEC2LWC3GYU'
+p977
+sg4
+S'20160222\xc2\xa06:02AM UTC'
+p978
+sg6
+S'Preview: Blackhawks at Wild'
+p979
+sa(dp980
+g2
+S'http://www.reuters.com/article/bkn-grizzlies-raptors-preview-idUSMTZEC2LWC3FYT'
+p981
+sg4
+S'20160222\xc2\xa06:02AM UTC'
+p982
+sg6
+S'Preview: Grizzlies at Raptors'
+p983
+sa(dp984
+g2
+S'http://www.reuters.com/article/bkc-bostoncollege-wakeforest-preview-idUSMTZEC2LWC3FYS'
+p985
+sg4
+S'20160222\xc2\xa06:02AM UTC'
+p986
+sg6
+S'Preview: Boston College at Wake Forest'
+p987
+sa(dp988
+g2
+S'http://www.reuters.com/article/bkn-pacers-magic-preview-idUSMTZEC2LWC3FYR'
+p989
+sg4
+S'20160222\xc2\xa06:02AM UTC'
+p990
+sg6
+S'Preview: Pacers at Magic'
+p991
+sa(dp992
+g2
+S'http://www.reuters.com/article/bkn-cavaliers-thunder-preview-idUSMTZEC2LWC3FYQ'
+p993
+sg4
+S'20160222\xc2\xa06:02AM UTC'
+p994
+sg6
+S'Preview: Cavaliers at Thunder'
+p995
+sa(dp996
+g2
+S'http://www.reuters.com/article/hkn-penguins-sabres-preview-idUSMTZEC2LWC3FYP'
+p997
+sg4
+S'20160222\xc2\xa06:02AM UTC'
+p998
+sg6
+S'Preview: Penguins at Sabres'
+p999
+sa(dp1000
+g2
+S'http://www.reuters.com/article/mideast-crisis-abadi-idUSL8N15X4AU'
+p1001
+sg4
+S'20160222\xc2\xa05:48AM UTC'
+p1002
+sg6
+S"INSIGHT-Iraq's Abadi keeps Iran at arm's length in war on Islamic State"
+p1003
+sa(dp1004
+g2
+S'http://www.reuters.com/article/us-cyclone-fiji-idUSKCN0VT002'
+p1005
+sg4
+S'20160222\xc2\xa05:42AM UTC'
+p1006
+sg6
+S'Fiji super cyclone kills five, raises fears of health crisis'
+p1007
+sa(dp1008
+g2
+S'http://www.reuters.com/article/implenia-ceo-idUSL8N1600BP'
+p1009
+sg4
+S'20160222\xc2\xa05:41AM UTC'
+p1010
+sg6
+S'Affentranger to stay at Implenia 2 more years - paper'
+p1011
+sa(dp1012
+g2
+S'http://www.reuters.com/article/us-mideast-crisis-lavrov-kerry-idUSKCN0VU0E5'
+p1013
+sg4
+S'20160222\xc2\xa05:40AM UTC'
+p1014
+sg6
+S"Russia's Lavrov, Kerry discussed conditions for Syria ceasefire"
+p1015
+sa(dp1016
+g2
+S'http://www.reuters.com/article/hsbc-results-succession-idUSL8N1600D1'
+p1017
+sg4
+S'20160222\xc2\xa05:39AM UTC'
+p1018
+sg6
+S'RPT-HQ debate settled, HSBC spotlight turns to top-level succession'
+p1019
+sa(dp1020
+g2
+S'http://www.reuters.com/article/us-turkey-kidnapping-agency-idUSKCN0VU0DO'
+p1021
+sg4
+S'20160222\xc2\xa05:33AM UTC'
+p1022
+sg6
+S"Turkey's Anadolu says three of its journalists kidnapped by PKK"
+p1023
+sa(dp1024
+g2
+S'http://www.reuters.com/article/us-rates-impact-idUSKCN0VU0D4'
+p1025
+sg4
+S'20160222\xc2\xa05:24AM UTC'
+p1026
+sg6
+S'Zero rates wrecked your savings? Relax on a $17,000 footstool'
+p1027
+sa(dp1028
+g2
+S'http://www.reuters.com/article/china-agbank-china-resignation-idUSB9N15V00V'
+p1029
+sg4
+S'20160222\xc2\xa05:23AM UTC'
+p1030
+sg6
+S'Agricultural Bank of China says chairman Liu Shiyu resigns'
+p1031
+sa(dp1032
+g2
+S'http://www.reuters.com/article/us-ireland-election-inequalities-insight-idUSKCN0VU0D0'
+p1033
+sg4
+S'20160222\xc2\xa05:20AM UTC'
+p1034
+sg6
+S'Unevenness of Irish recovery weighs on February 26 election'
+p1035
+sa(dp1036
+g2
+S'http://www.reuters.com/article/egypt-currency-auction-idUSL8N1600AU'
+p1037
+sg4
+S'20160222\xc2\xa05:13AM UTC'
+p1038
+sg6
+S'Egyptian pound steady at forex sale and black market'
+p1039
+sa(dp1040
+g2
+S'http://www.reuters.com/article/us-iran-election-assembly-idUSKCN0VU0CU'
+p1041
+sg4
+S'20160222\xc2\xa05:11AM UTC'
+p1042
+sg6
+S'Moderates could gain influence over choice of next leader in Iran vote'
+p1043
+sa(dp1044
+g2
+S'http://www.reuters.com/article/cyclone-fiji-idUSKCN0VU02C'
+p1045
+sg4
+S'20160222\xc2\xa05:09AM UTC'
+p1046
+sg6
+S'Fiji super cyclone kills five, raises fears of health crisis'
+p1047
+sa(dp1048
+g2
+S'http://www.reuters.com/article/us-nestle-india-recall-idUSKCN0VU0CS'
+p1049
+sg4
+S'20160222\xc2\xa05:04AM UTC'
+p1050
+sg6
+S'Nestle Asia works to restore India revenue after noodle ban: paper'
+p1051
+sa(dp1052
+g2
+S'http://www.reuters.com/article/iran-election-assembly-idUSL8N15Y368'
+p1053
+sg4
+S'20160222\xc2\xa05:00AM UTC'
+p1054
+sg6
+S'Moderates could gain influence over choice of next leader in Iran vote'
+p1055
+sa(dp1056
+g2
+S'http://www.reuters.com/article/rates-impact-idUSL8N15V3CE'
+p1057
+sg4
+S'20160222\xc2\xa05:00AM UTC'
+p1058
+sg6
+S'Zero rates wrecked your savings? Relax on a $17,000 footstool'
+p1059
+sa(dp1060
+g2
+S'http://www.reuters.com/article/us-motor-f1-mclaren-idUSKCN0VU0CC'
+p1061
+sg4
+S'20160222\xc2\xa04:50AM UTC'
+p1062
+sg6
+S'McLaren reluctant to predict when wins will come'
+p1063
+sa(dp1064
+g2
+S'http://www.reuters.com/article/nestle-india-recall-idUSKCN0VU0C9'
+p1065
+sg4
+S'20160222\xc2\xa04:49AM UTC'
+p1066
+sg6
+S'Nestle Asia works to restore India revenue after noodle ban - paper'
+p1067
+sa(dp1068
+g2
+S'http://www.reuters.com/article/motor-f1-mclaren-idUSL3N16007A'
+p1069
+sg4
+S'20160222\xc2\xa04:46AM UTC'
+p1070
+sg6
+S'Motor racing-McLaren reluctant to predict when wins will come'
+p1071
+sa(dp1072
+g2
+S'http://www.reuters.com/article/nestle-india-recall-idUSL8N16008I'
+p1073
+sg4
+S'20160222\xc2\xa04:46AM UTC'
+p1074
+sg6
+S'Nestle Asia works to restore India revenue after noodle ban - paper'
+p1075
+sa(dp1076
+g2
+S'http://www.reuters.com/article/us-britain-eu-idUSKCN0VT09I'
+p1077
+sg4
+S'20160222\xc2\xa04:34AM UTC'
+p1078
+sg6
+S'Cameron calls June 23 poll that will shape fate of Britain and EU '
+p1079
+sa(dp1080
+g2
+S'http://www.reuters.com/article/us-britain-eu-sun-idUSKCN0VU0BQ'
+p1081
+sg4
+S'20160222\xc2\xa04:34AM UTC'
+p1082
+sg6
+S"Murdoch's Sun newspaper opposes British PM Cameron's EU deal "
+p1083
+sa(dp1084
+g2
+S'http://www.reuters.com/article/us-japan-politics-okinawa-idUSKCN0VU0BG'
+p1085
+sg4
+S'20160222\xc2\xa04:32AM UTC'
+p1086
+sg6
+S'Thousands in Japan rally against U.S. base on Okinawa'
+p1087
+sa(dp1088
+g2
+S'http://www.reuters.com/article/britain-eu-sun-idUSL8N16007U'
+p1089
+sg4
+S'20160222\xc2\xa04:31AM UTC'
+p1090
+sg6
+S"Murdoch's Sun newspaper opposes British PM Cameron's EU deal"
+p1091
+sa(dp1092
+g2
+S'http://www.reuters.com/article/mideast-stocks-saudi-egypt-idUSL8N16007Y'
+p1093
+sg4
+S'20160222\xc2\xa04:26AM UTC'
+p1094
+sg6
+S'MIDEAST STOCKS-Saudi, Egyptian stocks firm in early trade'
+p1095
+sa(dp1096
+g2
+S'http://www.reuters.com/article/bahrain-telecm-jordan-ma-idUSD5N14X018'
+p1097
+sg4
+S'20160222\xc2\xa04:22AM UTC'
+p1098
+sg6
+S"Bahrain's Batelco cancels plan to sell Jordan unit Umniah - CEO"
+p1099
+sa(dp1100
+g2
+S'http://www.reuters.com/article/us-iran-oman-energy-idUSKCN0VU0AY'
+p1101
+sg4
+S'20160222\xc2\xa04:19AM UTC'
+p1102
+sg6
+S'Iran, Oman hold talks to forge closer energy ties: Shana'
+p1103
+sa(dp1104
+g2
+S'http://www.reuters.com/article/nordic-banks-idUSL8N15W24E'
+p1105
+sg4
+S'20160222\xc2\xa04:00AM UTC'
+p1106
+sg6
+S'For some Nordic banks, boring may be better than bonuses'
+p1107
+sa(dp1108
+g2
+S'http://www.reuters.com/article/mideast-crisis-syria-homs-toll-idUSKCN0VU0AE'
+p1109
+sg4
+S'20160222\xc2\xa03:51AM UTC'
+p1110
+sg6
+S'Death toll in Homs bombings reaches 46 - Syrian Observatory for Human Rights'
+p1111
+sa(dp1112
+g2
+S'http://www.reuters.com/article/us-mideast-crisis-syria-homs-toll-idUSKCN0VU0A6'
+p1113
+sg4
+S'20160222\xc2\xa03:48AM UTC'
+p1114
+sg6
+S'Death toll in Homs bombings reaches 46: Syrian Observatory for Human Rights'
+p1115
+sa(dp1116
+g2
+S'http://www.reuters.com/article/us-burundi-un-idUSKCN0VU09Q'
+p1117
+sg4
+S'20160222\xc2\xa03:38AM UTC'
+p1118
+sg6
+S'U.N. under pressure to show it can help end Burundi violence'
+p1119
+sa(dp1120
+g2
+S'http://www.reuters.com/article/burundi-un-idUSL2N15R2C7'
+p1121
+sg4
+S'20160222\xc2\xa03:30AM UTC'
+p1122
+sg6
+S'UN under pressure to show it can help end Burundi violence'
+p1123
+sa(dp1124
+g2
+S'http://www.reuters.com/article/us-egypt-rights-novelist-idUSKCN0VU09I'
+p1125
+sg4
+S'20160222\xc2\xa03:13AM UTC'
+p1126
+sg6
+S'Egypt jails author for two years over sexually explicit novel'
+p1127
+sa(dp1128
+g2
+S'http://www.reuters.com/article/hkn-avalanche-oilers-writethru-idUSMTZEC2LVUZPV0'
+p1129
+sg4
+S'20160222\xc2\xa03:12AM UTC'
+p1130
+sg6
+S'Avalanche pick up road win over Oilers'
+p1131
+sa(dp1132
+g2
+S'http://www.reuters.com/article/us-britain-eu-cameron-insight-idUSKCN0VT0VV'
+p1133
+sg4
+S'20160222\xc2\xa03:09AM UTC'
+p1134
+sg6
+S"After winning EU deal, Britain's Cameron faces harder battle"
+p1135
+sa(dp1136
+g2
+S'http://www.reuters.com/article/egypt-rights-novelist-idUSL8N16005L'
+p1137
+sg4
+S'20160222\xc2\xa03:07AM UTC'
+p1138
+sg6
+S'Egypt jails author for two years over sexually explicit novel'
+p1139
+sa(dp1140
+g2
+S'http://www.reuters.com/article/us-golf-lpga-idUSKCN0VU096'
+p1141
+sg4
+S'20160222\xc2\xa03:06AM UTC'
+p1142
+sg6
+S'Nomura holds off Ko to land first LPGA title'
+p1143
+sa(dp1144
+g2
+S'http://www.reuters.com/article/us-golf-european-idUSKCN0VU08Q'
+p1145
+sg4
+S'20160222\xc2\xa03:04AM UTC'
+p1146
+sg6
+S'Fraser lands Malaysia title after Lee falters'
+p1147
+sa(dp1148
+g2
+S'http://www.reuters.com/article/us-eurozone-storm-analysis-idUSKCN0VU090'
+p1149
+sg4
+S'20160222\xc2\xa03:03AM UTC'
+p1150
+sg6
+S'New market storm could catch euro zone unprepared'
+p1151
+sa(dp1152
+g2
+S'http://www.reuters.com/article/hkn-oilers-playerwatch-idUSMTZEC2LW3CMWR'
+p1153
+sg4
+S'20160222\xc2\xa02:53AM UTC'
+p1154
+sg6
+S'Edmonton Oilers - PlayerWatch'
+p1155
+sa(dp1156
+g2
+S'http://www.reuters.com/article/hkn-avalanche-playerwatch-idUSMTZEC2LW3CMWQ'
+p1157
+sg4
+S'20160222\xc2\xa02:53AM UTC'
+p1158
+sg6
+S'Colorado Avalanche - PlayerWatch'
+p1159
+sa(dp1160
+g2
+S'http://www.reuters.com/article/china-economy-pensions-idUSL3N16005W'
+p1161
+sg4
+S'20160222\xc2\xa02:50AM UTC'
+p1162
+sg6
+S"China's pension fund posts higher return in 2015 - Caijing"
+p1163
+sa(dp1164
+g2
+S'http://www.reuters.com/article/us-china-economy-realestate-idUSKCN0VU04Y'
+p1165
+sg4
+S'20160222\xc2\xa02:33AM UTC'
+p1166
+sg6
+S'China to limit land available for homes in cities with property oversupply'
+p1167
+sa(dp1168
+g2
+S'http://www.reuters.com/article/china-economy-realestate-idUSL3N16004K'
+p1169
+sg4
+S'20160222\xc2\xa02:32AM UTC'
+p1170
+sg6
+S'UPDATE 1-China to limit land available for homes in cities with property oversupply'
+p1171
+sa(dp1172
+g2
+S'http://www.reuters.com/article/us-japan-nuclear-idUSKCN0VU060'
+p1173
+sg4
+S'20160222\xc2\xa02:25AM UTC'
+p1174
+sg6
+S'Kansai Electric finds leaked radioactive water at nuclear plant'
+p1175
+sa(dp1176
+g2
+S'http://www.reuters.com/article/us-southchinasea-china-paracels-idUSKCN0VT0YA'
+p1177
+sg4
+S'20160222\xc2\xa02:24AM UTC'
+p1178
+sg6
+S"Paracels build-up a pointer to China's broader South China Sea ambitions"
+p1179
+sa(dp1180
+g2
+S'http://www.reuters.com/article/mideast-stocks-idUSL8N160048'
+p1181
+sg4
+S'20160222\xc2\xa02:14AM UTC'
+p1182
+sg6
+S'MIDEAST STOCKS-Gulf markets edge down in early trade'
+p1183
+sa(dp1184
+g2
+S'http://www.reuters.com/article/india-protests-idUSL3N16005A'
+p1185
+sg4
+S'20160222\xc2\xa02:13AM UTC'
+p1186
+sg6
+S'Caste protests cut water to Indian capital, hit industry'
+p1187
+sa(dp1188
+g2
+S'http://www.reuters.com/article/niger-election-idUSL8N16004H'
+p1189
+sg4
+S'20160222\xc2\xa02:09AM UTC'
+p1190
+sg6
+S'Niger starts voting in presidential election'
+p1191
+sa(dp1192
+g2
+S'http://www.reuters.com/article/usa-election-idUSKCN0VU021'
+p1193
+sg4
+S'20160222\xc2\xa01:44AM UTC'
+p1194
+sg6
+S'Trump wins decisively in South Carolina, Clinton clinches Nevada'
+p1195
+sa(dp1196
+g2
+S'http://www.reuters.com/article/us-tennis-rio-nadal-idUSKCN0VU06W'
+p1197
+sg4
+S'20160222\xc2\xa01:35AM UTC'
+p1198
+sg6
+S'Nadal dumped from Rio semi-finals by Uruguayan battler'
+p1199
+sa(dp1200
+g2
+S'http://www.reuters.com/article/us-afghanistan-drones-idUSKCN0VU06S'
+p1201
+sg4
+S'20160222\xc2\xa01:18AM UTC'
+p1202
+sg6
+S'U.S. Air Force drone crashes in southern Afghanistan'
+p1203
+sa(dp1204
+g2
+S'http://www.reuters.com/article/us-sharp-restructuring-idUSKCN0VT0O6'
+p1205
+sg4
+S'20160222\xc2\xa01:16AM UTC'
+p1206
+sg6
+S"Japan's Sharp to vote on rival takeover bids on Thursday: sources"
+p1207
+sa(dp1208
+g2
+S'http://www.reuters.com/article/afghanistan-drones-idUSL3N16004S'
+p1209
+sg4
+S'20160222\xc2\xa01:16AM UTC'
+p1210
+sg6
+S'U.S. Air Force drone crashes in southern Afghanistan'
+p1211
+sa(dp1212
+g2
+S'http://www.reuters.com/article/idUS315423782620160221'
+p1213
+sg4
+S'20160222\xc2\xa01:14AM UTC'
+p1214
+sg6
+S'India Markets Weekahead: Downside limited, get ready to nibble in'
+p1215
+sa(dp1216
+g2
+S'http://www.reuters.com/article/sharp-restructuring-idUSL3N16004N'
+p1217
+sg4
+S'20160222\xc2\xa01:14AM UTC'
+p1218
+sg6
+S"UPDATE 1-Japan's Sharp to vote on rival takeover bids on Thursday - sources"
+p1219
+sa(dp1220
+g2
+S'http://www.reuters.com/article/us-ceraweek-saudi-idUSKCN0VU06I'
+p1221
+sg4
+S'20160222\xc2\xa01:06AM UTC'
+p1222
+sg6
+S'Saudi oil minister to face rival U.S. producers as price rout bites'
+p1223
+sa(dp1224
+g2
+S'http://www.reuters.com/article/volkswagen-emissions-usa-idUSL8N15Z0JC'
+p1225
+sg4
+S'20160222\xc2\xa01:00AM UTC'
+p1226
+sg6
+S'U.S. EPA asks Volkswagen to make electric cars in U.S. -Welt am Sonntag'
+p1227
+sa(dp1228
+g2
+S'http://www.reuters.com/article/ceraweek-saudi-idUSL2N15V0SF'
+p1229
+sg4
+S'20160222\xc2\xa01:00AM UTC'
+p1230
+sg6
+S'Saudi oil minister to face rival U.S. producers as price rout bites'
+p1231
+sa(dp1232
+g2
+S'http://www.reuters.com/article/japan-nuclear-idUSL3N16004P'
+p1233
+sg4
+S'20160222\xc2\xa012:42AM UTC'
+p1234
+sg6
+S'Kansai Electric finds leaked radioactive water at nuclear plant'
+p1235
+sa(dp1236
+g2
+S'http://www.reuters.com/article/us-australia-asylum-baby-idUSKCN0VT0XC'
+p1237
+sg4
+S'20160222\xc2\xa012:38AM UTC'
+p1238
+sg6
+S'Infant refugee at center of Australian hospital protest gets reprieve'
+p1239
+sa(dp1240
+g2
+S'http://www.reuters.com/article/mideast-stocks-idUSL8N160033'
+p1241
+sg4
+S'20160222\xc2\xa012:37AM UTC'
+p1242
+sg6
+S'MIDEAST STOCKS-Gulf may lose steam as oil stalls'
+p1243
+sa(dp1244
+g2
+S'http://www.reuters.com/article/michigan-shooting-idUSL2N16006S'
+p1245
+sg4
+S'20160222\xc2\xa012:36AM UTC'
+p1246
+sg6
+S'Several people shot, killed in random Michigan shootings - reports'
+p1247
+sa(dp1248
+g2
+S'http://www.reuters.com/article/soccer-spain-barcelona-idUSKCN0VT0SG'
+p1249
+sg4
+S'20160222\xc2\xa012:29AM UTC'
+p1250
+sg6
+S'Suarez and Neymar strike again in Barca win'
+p1251
+sa(dp1252
+g2
+S'http://www.reuters.com/article/bkc-oregonst-oregon-writethru-idUSMTZEC2LVW77VZ'
+p1253
+sg4
+S'20160222\xc2\xa012:28AM UTC'
+p1254
+sg6
+S'No. 16 Oregon shares Pac-12 lead after win'
+p1255
+sa(dp1256
+g2
+S'http://www.reuters.com/article/bkc-colorado-ucla-writethru-idUSMTZEC2LVVKVVS'
+p1257
+sg4
+S'20160222\xc2\xa012:15AM UTC'
+p1258
+sg6
+S'UCLA 77, Colorado 53'
+p1259
+sa(dp1260
+g2
+S'http://www.reuters.com/article/hkn-blues-coyotes-writethru-idUSMTZEC2LVSEGSL'
+p1261
+sg4
+S'20160222\xc2\xa012:14AM UTC'
+p1262
+sg6
+S'Blues crank out 6-4 win over Coyotes'
+p1263
+sa(dp1264
+g2
+S'http://www.reuters.com/article/us-nba-clippers-idUSKCN0VU05E'
+p1265
+sg4
+S'20160222\xc2\xa012:10AM UTC'
+p1266
+sg6
+S"Green's 11th triple-double leads Warriors over Clippers"
+p1267
+sa(dp1268
+g2
+S'http://www.reuters.com/article/bkn-warriors-clippers-writethru-idUSMTZEC2LVQZBOS'
+p1269
+sg4
+S'20160222\xc2\xa012:08AM UTC'
+p1270
+sg6
+S'Warriors rebound from bad loss, beat Clippers'
+p1271
+sa(dp1272
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=116219981'
+p1273
+sg4
+S'20160222\xc2\xa010:40PM UTC'
+p1274
+sg6
+S'London mayor backs Brexit'
+p1275
+sa(dp1276
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=116218815'
+p1277
+sg4
+S'20160222\xc2\xa09:32PM UTC'
+p1278
+sg6
+S'Runners bare it all for a good cause'
+p1279
+sa(dp1280
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=116218438'
+p1281
+sg4
+S'20160222\xc2\xa08:07PM UTC'
+p1282
+sg6
+S'France to evict 1,000 migrants from camp near Calais'
+p1283
+sa(dp1284
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=116216726'
+p1285
+sg4
+S'20160222\xc2\xa06:36PM UTC'
+p1286
+sg6
+S"Shooting spree by Uber driver tops week's crime stories"
+p1287
+sa(dp1288
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=116216396'
+p1289
+sg4
+S'20160222\xc2\xa06:13PM UTC'
+p1290
+sg6
+S'Rubio vows to unify Republican party'
+p1291
+sa(dp1292
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=116215969'
+p1293
+sg4
+S'20160222\xc2\xa06:02PM UTC'
+p1294
+sg6
+S'Trump yells for rally lights to be turned off'
+p1295
+sa(dp1296
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=116215410'
+p1297
+sg4
+S'20160222\xc2\xa05:50PM UTC'
+p1298
+sg6
+S'Trump rally instructs supporters on how to deal with protesters'
+p1299
+sa(dp1300
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=116214936'
+p1301
+sg4
+S'20160222\xc2\xa04:16PM UTC'
+p1302
+sg6
+S"'Deadpool' comes alive at U.S. box office"
+p1303
+sa(dp1304
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=116215188'
+p1305
+sg4
+S'20160222\xc2\xa04:10PM UTC'
+p1306
+sg6
+S'Pope calls for worldwide abolition of death penalty'
+p1307
+sa(dp1308
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=116214774'
+p1309
+sg4
+S'20160222\xc2\xa04:05PM UTC'
+p1310
+sg6
+S'Surfing dogs and \xe2\x80\x98barking\xe2\x80\x99 candidates'
+p1311
+sa(dp1312
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=116214391'
+p1313
+sg4
+S'20160222\xc2\xa03:16PM UTC'
+p1314
+sg6
+S'Kurds clash with police over round-the-clock curfew'
+p1315
+sa(dp1316
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=116214100'
+p1317
+sg4
+S'20160222\xc2\xa02:38PM UTC'
+p1318
+sg6
+S"Tight security during Niger's tense presidential vote"
+p1319
+sa(dp1320
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=116214104'
+p1321
+sg4
+S'20160222\xc2\xa02:32PM UTC'
+p1322
+sg6
+S'IS bombings rock Damascus, scores dead'
+p1323
+sa(dp1324
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=116213393'
+p1325
+sg4
+S'20160222\xc2\xa01:51PM UTC'
+p1326
+sg6
+S'Cruz declares himself the anti-Trump alternative'
+p1327
+sa(dp1328
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=116212832'
+p1329
+sg4
+S'20160222\xc2\xa012:32PM UTC'
+p1330
+sg6
+S'Indian army deployed to quell protests'
+p1331
+sa(dp1332
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=116212722'
+p1333
+sg4
+S'20160222\xc2\xa012:17PM UTC'
+p1334
+sg6
+S'Trump tackles election, pope, Iraq'
+p1335
+sa(dp1336
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=116212568'
+p1337
+sg4
+S'20160222\xc2\xa012:06PM UTC'
+p1338
+sg6
+S'Sanders confident of heading into Super Tuesday'
+p1339
+sa(dp1340
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=116211931'
+p1341
+sg4
+S'20160222\xc2\xa010:44AM UTC'
+p1342
+sg6
+S'Michigan police arrest suspect in deadly random shootings'
+p1343
+sa(dp1344
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=116211165'
+p1345
+sg4
+S'20160222\xc2\xa09:56AM UTC'
+p1346
+sg6
+S'As Syria ceasefire looms, 46 killed in Homs blasts'
+p1347
+sa(dp1348
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=116210616'
+p1349
+sg4
+S'20160222\xc2\xa09:02AM UTC'
+p1350
+sg6
+S'Kalamazoo official: "no question" more could have died'
+p1351
+sa(dp1352
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=116210468'
+p1353
+sg4
+S'20160222\xc2\xa08:14AM UTC'
+p1354
+sg6
+S'Kerry: Syria ceasefire possible in "hours"'
+p1355
+sa(dp1356
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=116209267'
+p1357
+sg4
+S'20160222\xc2\xa05:02AM UTC'
+p1358
+sg6
+S'Fiji super cyclone kills five'
+p1359
+sa(dp1360
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=116208949'
+p1361
+sg4
+S'20160222\xc2\xa04:12AM UTC'
+p1362
+sg6
+S'Baby tiger born in Indonesian zoo'
+p1363
+sa(dp1364
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=116208464'
+p1365
+sg4
+S'20160222\xc2\xa03:47AM UTC'
+p1366
+sg6
+S'No "rhyme or reason": official on Michigan shooting'
+p1367
+sa(dp1368
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=116208060'
+p1369
+sg4
+S'20160222\xc2\xa02:38AM UTC'
+p1370
+sg6
+S'Gunman kills several in Michigan, US'
+p1371
+sa(dp1372
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=116207654'
+p1373
+sg4
+S'20160222\xc2\xa01:11AM UTC'
+p1374
+sg6
+S'Nevada "put out the Bern": Hillary Clinton\'s supporters'
+p1375
+sa(dp1376
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=116206583'
+p1377
+sg4
+S'20160222\xc2\xa012:07AM UTC'
+p1378
+sg6
+S'Cyclone slams into Fiji, leaves trail of destruction'
+p1379
+sa.

@@ -1,0 +1,2795 @@
+(lp0
+(dp1
+S'href'
+p2
+S'http://www.reuters.com/article/2012/12/16/idUS15892+16-Dec-2012+PRN20121216'
+p3
+sS'ts'
+p4
+S'20121215\xc2\xa011:30PM UTC'
+p5
+sS'title'
+p6
+S'Following Is a Test Release'
+p7
+sa(dp8
+g2
+S'http://www.reuters.com/article/2012/12/16/usa-shooting-connecticut-update-12-pix-t-idUSL1E8NG00220121216'
+p9
+sg4
+S'20121215\xc2\xa011:23PM UTC'
+p10
+sg6
+S'UPDATE 12-Children in Connecticut rampage, all 6 and 7, shot repeatedly'
+p11
+sa(dp12
+g2
+S'http://www.reuters.com/article/2012/12/16/us-nba-spurs-idUSBRE8BF01W20121216'
+p13
+sg4
+S'20121215\xc2\xa011:20PM UTC'
+p14
+sg6
+S'Spurs roll over Celtics to edge closer to Thunder'
+p15
+sa(dp16
+g2
+S'http://www.reuters.com/article/2012/12/16/us-egypt-politics-tally-idUSBRE8BF01R20121216'
+p17
+sg4
+S'20121215\xc2\xa011:17PM UTC'
+p18
+sg6
+S'Egyptians narrowly back constitution, says Islamist official'
+p19
+sa(dp20
+g2
+S'http://www.reuters.com/article/2012/12/16/us-usa-fiscal-republicans-idUSBRE8BE0AN20121216'
+p21
+sg4
+S'20121215\xc2\xa011:02PM UTC'
+p22
+sg6
+S"White House won't accept new tax offer from Republican leader"
+p23
+sa(dp24
+g2
+S'http://www.reuters.com/article/2012/12/16/egypt-politics-tally-idUSL5E8NG09I20121216'
+p25
+sg4
+S'20121215\xc2\xa011:01PM UTC'
+p26
+sg6
+S'UPDATE 1-Egyptians narrowly back constitution, says Islamist official'
+p27
+sa(dp28
+g2
+S'http://www.reuters.com/article/2012/12/16/usa-fiscal-republicans-idUSL1E8NEEBQ20121216'
+p29
+sg4
+S'20121215\xc2\xa011:00PM UTC'
+p30
+sg6
+S"UPDATE 1-White House won't accept new tax offer from Republican leader"
+p31
+sa(dp32
+g2
+S'http://www.reuters.com/article/2012/12/16/idUS15494+16-Dec-2012+PRN20121216'
+p33
+sg4
+S'20121215\xc2\xa011:00PM UTC'
+p34
+sg6
+S'Following Is a Test Release'
+p35
+sa(dp36
+g2
+S'http://www.reuters.com/article/2012/12/16/us-nfl-redskins-idUSBRE8BF01S20121216'
+p37
+sg4
+S'20121215\xc2\xa010:50PM UTC'
+p38
+sg6
+S"Redskins' Griffin III to miss game against Browns"
+p39
+sa(dp40
+g2
+S'http://www.reuters.com/article/2012/12/16/us-kerry-state-idUSBRE8BF01G20121216'
+p41
+sg4
+S'20121215\xc2\xa010:47PM UTC'
+p42
+sg6
+S'Obama expected to nominate Kerry to head State Department'
+p43
+sa(dp44
+g2
+S'http://www.reuters.com/article/2012/12/16/kerry-state-idUSL1E8NG09620121216'
+p45
+sg4
+S'20121215\xc2\xa010:46PM UTC'
+p46
+sg6
+S'UPDATE 2-Obama expected to nominate Kerry to head State Department'
+p47
+sa(dp48
+g2
+S'http://www.reuters.com/article/2012/12/16/china-wealthfund-idUSL4N09Q03020121216'
+p49
+sg4
+S'20121215\xc2\xa010:41PM UTC'
+p50
+sg6
+S'UPDATE 1-China wealth fund warns of bleak eurozone outlook'
+p51
+sa(dp52
+g2
+S'http://www.reuters.com/article/2012/12/16/egypt-politics-tally-idUSL5E8NG09E20121216'
+p53
+sg4
+S'20121215\xc2\xa010:38PM UTC'
+p54
+sg6
+S'Egyptians narrowly back constitution, says Islamist official'
+p55
+sa(dp56
+g2
+S'http://www.reuters.com/article/2012/12/16/idUS14013+16-Dec-2012+PRN20121216'
+p57
+sg4
+S'20121215\xc2\xa010:30PM UTC'
+p58
+sg6
+S'Following Is a Test Release'
+p59
+sa(dp60
+g2
+S'http://www.reuters.com/article/2012/12/16/idUS13393+16-Dec-2012+PRN20121216'
+p61
+sg4
+S'20121215\xc2\xa010:00PM UTC'
+p62
+sg6
+S'Following Is a Test Release'
+p63
+sa(dp64
+g2
+S'http://www.reuters.com/article/2012/12/16/us-usa-shooting-public-opinion-idUSBRE8BF01L20121216'
+p65
+sg4
+S'20121215\xc2\xa09:33PM UTC'
+p66
+sg6
+S'Gun control movement tries to shed election losing reputation'
+p67
+sa(dp68
+g2
+S'http://www.reuters.com/article/2012/12/16/idUS12959+16-Dec-2012+PRN20121216'
+p69
+sg4
+S'20121215\xc2\xa09:30PM UTC'
+p70
+sg6
+S'Following Is a Test Release'
+p71
+sa(dp72
+g2
+S'http://www.reuters.com/article/2012/12/16/usa-fiscal-boehner-idUSL1E8NG06Q20121216'
+p73
+sg4
+S'20121215\xc2\xa09:19PM UTC'
+p74
+sg6
+S'W.House says Boehner offered tax increase for entitlement cuts'
+p75
+sa(dp76
+g2
+S'http://www.reuters.com/article/2012/12/16/kerry-state-idUSL1E8NG05W20121216'
+p77
+sg4
+S'20121215\xc2\xa09:05PM UTC'
+p78
+sg6
+S'Obama expected to nominate Kerry for State Department'
+p79
+sa(dp80
+g2
+S'http://www.reuters.com/article/2012/12/16/idUS12611+16-Dec-2012+PRN20121216'
+p81
+sg4
+S'20121215\xc2\xa09:00PM UTC'
+p82
+sg6
+S'Following Is a Test Release'
+p83
+sa(dp84
+g2
+S'http://www.reuters.com/article/2012/12/16/china-wealthfund-europe-idUSL4N09Q00R20121216'
+p85
+sg4
+S'20121215\xc2\xa08:47PM UTC'
+p86
+sg6
+S'China wealth fund urges Europe to create friendly investing environment'
+p87
+sa(dp88
+g2
+S'http://www.reuters.com/article/2012/12/16/us-china-wealthfund-idUSBRE8BF01820121216'
+p89
+sg4
+S'20121215\xc2\xa08:37PM UTC'
+p90
+sg6
+S'China wealth fund: "Not optimistic" about debt crisis in eurozone'
+p91
+sa(dp92
+g2
+S'http://www.reuters.com/article/2012/12/16/china-wealthfund-idUSL4N09Q00Q20121216'
+p93
+sg4
+S'20121215\xc2\xa08:34PM UTC'
+p94
+sg6
+S'China wealth fund: "Not optimistic" about debt crisis in eurozone'
+p95
+sa(dp96
+g2
+S'http://www.reuters.com/article/2012/12/16/idUS12073+16-Dec-2012+PRN20121216'
+p97
+sg4
+S'20121215\xc2\xa08:30PM UTC'
+p98
+sg6
+S'Following Is a Test Release'
+p99
+sa(dp100
+g2
+S'http://www.reuters.com/article/2012/12/16/us-usa-obama-kerry-idUSBRE8BF01320121216'
+p101
+sg4
+S'20121215\xc2\xa08:27PM UTC'
+p102
+sg6
+S'Obama to nominate Senator Kerry for secretary of state: media'
+p103
+sa(dp104
+g2
+S'http://www.reuters.com/article/2012/12/16/usa-obama-kerry-idUSL1E8NG05J20121216'
+p105
+sg4
+S'20121215\xc2\xa08:25PM UTC'
+p106
+sg6
+S'Obama to nominate Senator Kerry for secretary of state -media'
+p107
+sa(dp108
+g2
+S'http://www.reuters.com/article/2012/12/16/us-nfl-shooting-idUSBRE8BE0BC20121216'
+p109
+sg4
+S'20121215\xc2\xa08:14PM UTC'
+p110
+sg6
+S'Teams to remember Newtown victims with decal on helmets'
+p111
+sa(dp112
+g2
+S'http://www.reuters.com/article/2012/12/16/idUS11457+16-Dec-2012+PRN20121216'
+p113
+sg4
+S'20121215\xc2\xa08:00PM UTC'
+p114
+sg6
+S'Following Is a Test Release'
+p115
+sa(dp116
+g2
+S'http://www.reuters.com/article/2012/12/16/us-venezuela-chavez-idUSBRE8BF00T20121216'
+p117
+sg4
+S'20121215\xc2\xa07:53PM UTC'
+p118
+sg6
+S'Venezuela\'s Chavez has "full intellectual capacity" after surgery'
+p119
+sa(dp120
+g2
+S'http://www.reuters.com/article/2012/12/16/us-usa-shooting-connecticut-obama-idUSBRE8BF00H20121216'
+p121
+sg4
+S'20121215\xc2\xa07:51PM UTC'
+p122
+sg6
+S'Obama to speak Sunday at Connecticut vigil for shooting victims'
+p123
+sa(dp124
+g2
+S'http://www.reuters.com/article/2012/12/16/venezuela-chavez-idUSL1E8NF28W20121216'
+p125
+sg4
+S'20121215\xc2\xa07:51PM UTC'
+p126
+sg6
+S"Venezuela's Chavez has 'full intellectual capacity' after surgery"
+p127
+sa(dp128
+g2
+S'http://www.reuters.com/article/2012/12/16/us-nigeria-crash-idUSBRE8BE0A520121216'
+p129
+sg4
+S'20121215\xc2\xa07:49PM UTC'
+p130
+sg6
+S'Nigerian governor, ex-security head die in air crash'
+p131
+sa(dp132
+g2
+S'http://www.reuters.com/article/2012/12/16/us-usa-shooting-connecticut-father-idUSBRE8BF00Q20121216'
+p133
+sg4
+S'20121215\xc2\xa07:45PM UTC'
+p134
+sg6
+S'Father of suspected Connecticut shooter "in state of disbelief"'
+p135
+sa(dp136
+g2
+S'http://www.reuters.com/article/2012/12/16/us-usa-clinton-idUSBRE8BE09Q20121216'
+p137
+sg4
+S'20121215\xc2\xa07:42PM UTC'
+p138
+sg6
+S'Clinton sustains concussion; Benghazi testimony postponed'
+p139
+sa(dp140
+g2
+S'http://www.reuters.com/article/2012/12/16/usa-clinton-idUSL1E8NF1KQ20121216'
+p141
+sg4
+S'20121215\xc2\xa07:41PM UTC'
+p142
+sg6
+S'UPDATE 4-Clinton sustains concussion; Benghazi testimony postponed'
+p143
+sa(dp144
+g2
+S'http://www.reuters.com/article/2012/12/16/us-usa-shooting-connecticut-factbox-idUSBRE8BE0DD20121216'
+p145
+sg4
+S'20121215\xc2\xa07:40PM UTC'
+p146
+sg6
+S'Factbox: Identities of Connecticut shooting victims'
+p147
+sa(dp148
+g2
+S'http://www.reuters.com/article/2012/12/16/us-usa-shooting-connecticut-victims-idUSBRE8BE0D820121216'
+p149
+sg4
+S'20121215\xc2\xa07:40PM UTC'
+p150
+sg6
+S'Twelve girls, 8 boys, 6 women killed in Connecticut school shooting'
+p151
+sa(dp152
+g2
+S'http://www.reuters.com/article/2012/12/16/us-usa-shooting-connecticut-principal-idUSBRE8BE0CV20121216'
+p153
+sg4
+S'20121215\xc2\xa07:40PM UTC'
+p154
+sg6
+S'Slain Connecticut principal worked hard to promote school'
+p155
+sa(dp156
+g2
+S'http://www.reuters.com/article/2012/12/16/us-usa-shooting-connecticut-examiner-idUSBRE8BE0CG20121216'
+p157
+sg4
+S'20121215\xc2\xa07:40PM UTC'
+p158
+sg6
+S'Connecticut massacre victims shot multiple times: medical examiner'
+p159
+sa(dp160
+g2
+S'http://www.reuters.com/article/2012/12/16/us-usa-shooting-connecticut-newtown-idUSBRE8BF00820121216'
+p161
+sg4
+S'20121215\xc2\xa07:40PM UTC'
+p162
+sg6
+S'Connecticut massacre shatters way of life in quiet town'
+p163
+sa(dp164
+g2
+S'http://www.reuters.com/article/2012/12/16/us-motor-racing-champions-idUSBRE8BF00F20121216'
+p165
+sg4
+S'20121215\xc2\xa07:35PM UTC'
+p166
+sg6
+S'Vettel and Schumacher win Race of Champions again'
+p167
+sa(dp168
+g2
+S'http://www.reuters.com/article/2012/12/16/usa-shooting-connecticut-obama-idUSL1E8NG00L20121216'
+p169
+sg4
+S'20121215\xc2\xa07:34PM UTC'
+p170
+sg6
+S'Obama to speak Sunday at Connecticut vigil for shooting victims'
+p171
+sa(dp172
+g2
+S'http://www.reuters.com/article/2012/12/16/idUS10699+16-Dec-2012+PRN20121216'
+p173
+sg4
+S'20121215\xc2\xa07:30PM UTC'
+p174
+sg6
+S'Following Is a Test Release'
+p175
+sa(dp176
+g2
+S'http://www.reuters.com/article/2012/12/16/us-nhl-labor-idUSBRE8BF00220121216'
+p177
+sg4
+S'20121215\xc2\xa07:10PM UTC'
+p178
+sg6
+S'Players to vote on whether board can dissolve union'
+p179
+sa(dp180
+g2
+S'http://www.reuters.com/article/2012/12/16/usa-shooting-connecticut-update-9-pix-tv-idUSL1E8NF0YT20121216'
+p181
+sg4
+S'20121215\xc2\xa07:01PM UTC'
+p182
+sg6
+S'CORRECTED-UPDATE 9-Children in Connecticut rampage, all 6 and 7, shot repeatedly'
+p183
+sa(dp184
+g2
+S'http://www.reuters.com/article/2012/12/16/idUS10025+16-Dec-2012+PRN20121216'
+p185
+sg4
+S'20121215\xc2\xa07:00PM UTC'
+p186
+sg6
+S'Following Is a Test Release'
+p187
+sa(dp188
+g2
+S'http://www.reuters.com/article/2012/12/16/idUS228289429320121216'
+p189
+sg4
+S'20121215\xc2\xa07:00PM UTC'
+p190
+sg6
+S'The Gift Tax Exclusion: Use It or Lose It'
+p191
+sa(dp192
+g2
+S'http://www.reuters.com/article/2012/12/15/codelco-chile-chuquicamata-idUSL1E8NF2BQ20121215'
+p193
+sg4
+S'20121215\xc2\xa06:53PM UTC'
+p194
+sg6
+S"RPT-Chile Codelco's Chuquicamata miners accept wage deal"
+p195
+sa(dp196
+g2
+S'http://www.reuters.com/article/2012/12/15/us-connecticut-towns-idUSBRE8BD0U120121215'
+p197
+sg4
+S'20121215\xc2\xa06:47PM UTC'
+p198
+sg6
+S'Children in Connecticut rampage, all 6 and 7, shot repeatedly'
+p199
+sa(dp200
+g2
+S'http://www.reuters.com/article/2012/12/15/usa-shooting-connecticut-update-9-pix-tv-idUSL1E8NF0YT20121215'
+p201
+sg4
+S'20121215\xc2\xa06:45PM UTC'
+p202
+sg6
+S'UPDATE 9-Children in Connecticut rampage, all 6 and 7, shot repeatedly'
+p203
+sa(dp204
+g2
+S'http://www.reuters.com/article/2012/12/15/codelco-chile-chuquicamata-idUSL1E8NF2BE20121215'
+p205
+sg4
+S'20121215\xc2\xa06:40PM UTC'
+p206
+sg6
+S"Workers at Codelco's Chuquicamata mine accept wage deal"
+p207
+sa(dp208
+g2
+S'http://www.reuters.com/article/2012/12/15/idUS67330+15-Dec-2012+PRN20121215'
+p209
+sg4
+S'20121215\xc2\xa06:30PM UTC'
+p210
+sg6
+S'Following Is a Test Release'
+p211
+sa(dp212
+g2
+S'http://www.reuters.com/article/2012/12/15/idUS66926+15-Dec-2012+PRN20121215'
+p213
+sg4
+S'20121215\xc2\xa06:00PM UTC'
+p214
+sg6
+S'Following Is a Test Release'
+p215
+sa(dp216
+g2
+S'http://www.reuters.com/article/2012/12/15/us-usa-home-inquiry-idUSBRE8BE0DR20121215'
+p217
+sg4
+S'20121215\xc2\xa05:45PM UTC'
+p218
+sg6
+S'California home for developmentally disabled faces abuse inquiry'
+p219
+sa(dp220
+g2
+S'http://www.reuters.com/article/2012/12/15/usa-home-inquiry-idUSL1E8NF0LT20121215'
+p221
+sg4
+S'20121215\xc2\xa05:43PM UTC'
+p222
+sg6
+S'California home for developmentally disabled faces abuse inquiry'
+p223
+sa(dp224
+g2
+S'http://www.reuters.com/article/2012/12/15/us-hungary-cbank-minister-idUSBRE8BE0DN20121215'
+p225
+sg4
+S'20121215\xc2\xa05:41PM UTC'
+p226
+sg6
+S'Hungary government, central bank in "alliance" from 2013'
+p227
+sa(dp228
+g2
+S'http://www.reuters.com/article/2012/12/15/idUS331567802920121215'
+p229
+sg4
+S'20121215\xc2\xa05:40PM UTC'
+p230
+sg6
+S'Larry Gagosian\xe2\x80\x99s feet of clay'
+p231
+sa(dp232
+g2
+S'http://www.reuters.com/article/2012/12/15/idUS66541+15-Dec-2012+PRN20121215'
+p233
+sg4
+S'20121215\xc2\xa05:34PM UTC'
+p234
+sg6
+S'Luxury Curacao Resort Renamed Santa Barbara Beach & Golf Resort, Curacao; Hyatt Terminated as Property Manager'
+p235
+sa(dp236
+g2
+S'http://www.reuters.com/article/2012/12/15/idUS66495+15-Dec-2012+PRN20121215'
+p237
+sg4
+S'20121215\xc2\xa05:30PM UTC'
+p238
+sg6
+S'Following Is a Test Release'
+p239
+sa(dp240
+g2
+S'http://www.reuters.com/article/2012/12/15/us-egypt-politics-idUSBRE8BD0CO20121215'
+p241
+sg4
+S'20121215\xc2\xa05:19PM UTC'
+p242
+sg6
+S'Violence flares in Cairo as Egyptians vote'
+p243
+sa(dp244
+g2
+S'http://www.reuters.com/article/2012/12/15/egypt-politics-idUSL5E8NF3EM20121215'
+p245
+sg4
+S'20121215\xc2\xa05:17PM UTC'
+p246
+sg6
+S'Violence flares in Cairo as Egyptians vote'
+p247
+sa(dp248
+g2
+S'http://www.reuters.com/article/2012/12/15/idUS66134+15-Dec-2012+BW20121215'
+p249
+sg4
+S'20121215\xc2\xa05:15PM UTC'
+p250
+sg6
+S'Calpine Employee Cycling Team Emphasizes Safety with Bike Donations'
+p251
+sa(dp252
+g2
+S'http://www.reuters.com/article/2012/12/15/idUS66111+15-Dec-2012+BW20121215'
+p253
+sg4
+S'20121215\xc2\xa05:14PM UTC'
+p254
+sg6
+S'FUMC Fort Worth Lights Christmas Eve Candles Early for Local First Responders'
+p255
+sa(dp256
+g2
+S'http://www.reuters.com/article/2012/12/15/us-nigeria-crash-idUSBRE8BE0A520121215'
+p257
+sg4
+S'20121215\xc2\xa05:10PM UTC'
+p258
+sg6
+S'Nigerian governor, ex-security head die in air crash'
+p259
+sa(dp260
+g2
+S'http://www.reuters.com/article/2012/12/15/nigeria-crash-idUSL5E8NF3N920121215'
+p261
+sg4
+S'20121215\xc2\xa05:06PM UTC'
+p262
+sg6
+S'UPDATE 3-Nigerian governor, ex-security head die in air crash'
+p263
+sa(dp264
+g2
+S'http://www.reuters.com/article/2012/12/15/us-baseball-angels-hamilton-idUSBRE8BE0DJ20121215'
+p265
+sg4
+S'20121215\xc2\xa05:04PM UTC'
+p266
+sg6
+S'Hamilton to give Angels everything on and off field'
+p267
+sa(dp268
+g2
+S'http://www.reuters.com/article/2012/12/15/idUS65791+15-Dec-2012+PRN20121215'
+p269
+sg4
+S'20121215\xc2\xa05:00PM UTC'
+p270
+sg6
+S'Following Is a Test Release'
+p271
+sa(dp272
+g2
+S'http://www.reuters.com/article/2012/12/15/japan-diary-idUSL4N09D1V620121215'
+p273
+sg4
+S'20121215\xc2\xa05:00PM UTC'
+p274
+sg6
+S'DIARY-Japan - Dec 16'
+p275
+sa(dp276
+g2
+S'http://www.reuters.com/article/2012/12/15/us-usa-shooting-connecticut-factbox-idUSBRE8BE0DD20121215'
+p277
+sg4
+S'20121215\xc2\xa04:46PM UTC'
+p278
+sg6
+S'Factbox: Identities of Connecticut shooting victims'
+p279
+sa(dp280
+g2
+S'http://www.reuters.com/article/2012/12/15/idUS65467+15-Dec-2012+PRN20121215'
+p281
+sg4
+S'20121215\xc2\xa04:45PM UTC'
+p282
+sg6
+S'PRN Test PLEASE IGNORE USCAL'
+p283
+sa(dp284
+g2
+S'http://www.reuters.com/article/2012/12/15/us-big-east-basketfall-idUSBRE8BE0CO20121215'
+p285
+sg4
+S'20121215\xc2\xa04:45PM UTC'
+p286
+sg6
+S'Seven Big East basketball teams leaving conference'
+p287
+sa(dp288
+g2
+S'http://www.reuters.com/article/2012/12/15/us-usa-shooting-connecticut-victims-idUSBRE8BE0D820121215'
+p289
+sg4
+S'20121215\xc2\xa04:38PM UTC'
+p290
+sg6
+S'Twelve girls, 8 boys, 6 women killed in Connecticut school shooting'
+p291
+sa(dp292
+g2
+S'http://www.reuters.com/article/2012/12/15/usa-shooting-connecticut-victims-idUSL1E8NF27M20121215'
+p293
+sg4
+S'20121215\xc2\xa04:32PM UTC'
+p294
+sg6
+S'Twelve girls, 8 boys, 6 women killed in Connecticut school shooting'
+p295
+sa(dp296
+g2
+S'http://www.reuters.com/article/2012/12/15/us-syria-crisis-idUSBRE8AJ1FK20121215'
+p297
+sg4
+S'20121215\xc2\xa04:31PM UTC'
+p298
+sg6
+S'Iran warns against Patriot deployment on Syria frontier'
+p299
+sa(dp300
+g2
+S'http://www.reuters.com/article/2012/12/15/us-syria-opposition-state-idUSBRE8BE0D320121215'
+p301
+sg4
+S'20121215\xc2\xa04:31PM UTC'
+p302
+sg6
+S'Syria opposition forms body to preserve state institutions'
+p303
+sa(dp304
+g2
+S'http://www.reuters.com/article/2012/12/15/idUS65091+15-Dec-2012+PRN20121215'
+p305
+sg4
+S'20121215\xc2\xa04:30PM UTC'
+p306
+sg6
+S'Following Is a Test Release'
+p307
+sa(dp308
+g2
+S'http://www.reuters.com/article/2012/12/15/us-usa-shooting-connecticut-guncontrol-idUSBRE8BE0CW20121215'
+p309
+sg4
+S'20121215\xc2\xa04:20PM UTC'
+p310
+sg6
+S'Some Democrats call for action on gun control after Connecticut shootings'
+p311
+sa(dp312
+g2
+S'http://www.reuters.com/article/2012/12/15/us-usa-shooting-connecticut-principal-idUSBRE8BE0CV20121215'
+p313
+sg4
+S'20121215\xc2\xa04:19PM UTC'
+p314
+sg6
+S'Slain Connecticut principal worked hard to promote school'
+p315
+sa(dp316
+g2
+S'http://www.reuters.com/article/2012/12/15/idUS64800+15-Dec-2012+MW20121215'
+p317
+sg4
+S'20121215\xc2\xa04:19PM UTC'
+p318
+sg6
+S' Jewelry Exchange Awarded Best Jeweler'
+p319
+sa(dp320
+g2
+S'http://www.reuters.com/article/2012/12/15/us-usa-shooting-connecticut-examiner-idUSBRE8BE0CG20121215'
+p321
+sg4
+S'20121215\xc2\xa04:18PM UTC'
+p322
+sg6
+S'Connecticut massacre victims shot multiple times: medical examiner'
+p323
+sa(dp324
+g2
+S'http://www.reuters.com/article/2012/12/15/usa-shooting-connecticut-guncontrol-idUSL1E8NF1ZQ20121215'
+p325
+sg4
+S'20121215\xc2\xa04:07PM UTC'
+p326
+sg6
+S'Some Democrats call for action on gun control after Connecticut shootings'
+p327
+sa(dp328
+g2
+S'http://www.reuters.com/article/2012/12/15/idUS64096+15-Dec-2012+PRN20121215'
+p329
+sg4
+S'20121215\xc2\xa04:00PM UTC'
+p330
+sg6
+S'Following Is a Test Release'
+p331
+sa(dp332
+g2
+S'http://www.reuters.com/article/2012/12/15/usa-shooting-connecticut-examiner-idUSL1E8NF25L20121215'
+p333
+sg4
+S'20121215\xc2\xa03:59PM UTC'
+p334
+sg6
+S'Connecticut massacre victims shot multiple times -medical examiner'
+p335
+sa(dp336
+g2
+S'http://www.reuters.com/article/2012/12/15/us-egypt-politics-violence-idUSBRE8BE0BU20121215'
+p337
+sg4
+S'20121215\xc2\xa03:51PM UTC'
+p338
+sg6
+S'Egypt opposition party building attacked by rivals'
+p339
+sa(dp340
+g2
+S'http://www.reuters.com/article/2012/12/15/egypt-politics-violence-idUSL5E8NF3U620121215'
+p341
+sg4
+S'20121215\xc2\xa03:44PM UTC'
+p342
+sg6
+S'UPDATE 1-Egypt opposition party building attacked by rivals'
+p343
+sa(dp344
+g2
+S'http://www.reuters.com/article/2012/12/15/us-hungary-orban-tuition-idUSBRE8BE0C820121215'
+p345
+sg4
+S'20121215\xc2\xa03:39PM UTC'
+p346
+sg6
+S'Hungary PM backtracks on college reform after rally'
+p347
+sa(dp348
+g2
+S'http://www.reuters.com/article/2012/12/15/us-greece-taxation-idUSBRE8BE0C320121215'
+p349
+sg4
+S'20121215\xc2\xa03:32PM UTC'
+p350
+sg6
+S'Tax evasion costs Greece 5 pct of GDP : EU tax chief'
+p351
+sa(dp352
+g2
+S'http://www.reuters.com/article/2012/12/15/us-usa-clinton-idUSBRE8BE09Q20121215'
+p353
+sg4
+S'20121215\xc2\xa03:31PM UTC'
+p354
+sg6
+S'Clinton sustains concussion; Benghazi testimony postponed'
+p355
+sa(dp356
+g2
+S'http://www.reuters.com/article/2012/12/15/idUS63037+15-Dec-2012+PRN20121215'
+p357
+sg4
+S'20121215\xc2\xa03:30PM UTC'
+p358
+sg6
+S'Following Is a Test Release'
+p359
+sa(dp360
+g2
+S'http://www.reuters.com/article/2012/12/15/usa-clinton-idUSL1E8NF1KQ20121215'
+p361
+sg4
+S'20121215\xc2\xa03:29PM UTC'
+p362
+sg6
+S'UPDATE 3-Clinton sustains concussion; Benghazi testimony postponed'
+p363
+sa(dp364
+g2
+S'http://www.reuters.com/article/2012/12/15/us-pakistan-attack-idUSBRE8BE09420121215'
+p365
+sg4
+S'20121215\xc2\xa03:28PM UTC'
+p366
+sg6
+S'Nine dead as Taliban attack airport in North West Pakistan'
+p367
+sa(dp368
+g2
+S'http://www.reuters.com/article/2012/12/15/pakistan-attack-idUSL4N09P0GQ20121215'
+p369
+sg4
+S'20121215\xc2\xa03:25PM UTC'
+p370
+sg6
+S'UPDATE 3-Nine dead as Taliban attack airport in NW Pakistan'
+p371
+sa(dp372
+g2
+S'http://www.reuters.com/article/2012/12/15/idUS62705+15-Dec-2012+MW20121215'
+p373
+sg4
+S'20121215\xc2\xa03:23PM UTC'
+p374
+sg6
+S' Celebrating 25 Years of RV Shows in Northern California'
+p375
+sa(dp376
+g2
+S'http://www.reuters.com/article/2012/12/15/egypt-politics-violence-idUSL5E8NF3QT20121215'
+p377
+sg4
+S'20121215\xc2\xa03:09PM UTC'
+p378
+sg6
+S'Egypt opposition party says HQ attacked by rivals'
+p379
+sa(dp380
+g2
+S'http://www.reuters.com/article/2012/12/15/us-usa-shooting-connecticut-heroes-idUSBRE8BE0BK20121215'
+p381
+sg4
+S'20121215\xc2\xa03:07PM UTC'
+p382
+sg6
+S"Tales of heroism emerge from 'evil' school shooting"
+p383
+sa(dp384
+g2
+S'http://www.reuters.com/article/2012/12/15/us-usa-shooting-connecticut-heroes-idUSBRE8BE07T20121215'
+p385
+sg4
+S'20121215\xc2\xa03:07PM UTC'
+p386
+sg6
+S'Tales of heroism emerge from "evil" school shooting'
+p387
+sa(dp388
+g2
+S'http://www.reuters.com/article/2012/12/15/usa-shooting-connecticut-heroes-idUSL1E8NF1KN20121215'
+p389
+sg4
+S'20121215\xc2\xa03:04PM UTC'
+p390
+sg6
+S"Tales of heroism emerge from 'evil' school shooting"
+p391
+sa(dp392
+g2
+S'http://www.reuters.com/article/2012/12/15/us-alpine-skiing-women-vonn-idUSBRE8BE0BF20121215'
+p393
+sg4
+S'20121215\xc2\xa03:04PM UTC'
+p394
+sg6
+S'Tired Vonn says she is losing self belief'
+p395
+sa(dp396
+g2
+S'http://www.reuters.com/article/2012/12/15/idUS61728+15-Dec-2012+PRN20121215'
+p397
+sg4
+S'20121215\xc2\xa03:00PM UTC'
+p398
+sg6
+S'Following Is a Test Release'
+p399
+sa(dp400
+g2
+S'http://www.reuters.com/article/2012/12/15/us-nfl-shooting-idUSBRE8BE0BC20121215'
+p401
+sg4
+S'20121215\xc2\xa02:54PM UTC'
+p402
+sg6
+S'Giants to remember Newtown victims with decal on helmets'
+p403
+sa(dp404
+g2
+S'http://www.reuters.com/article/2012/12/15/idUS60556+15-Dec-2012+PRN20121215'
+p405
+sg4
+S'20121215\xc2\xa02:30PM UTC'
+p406
+sg6
+S'Following Is a Test Release'
+p407
+sa(dp408
+g2
+S'http://www.reuters.com/article/2012/12/15/us-usa-school-oklahoma-idUSBRE8BE0B220121215'
+p409
+sg4
+S'20121215\xc2\xa02:19PM UTC'
+p410
+sg6
+S'Oklahoma student arrested in alleged school massacre plot'
+p411
+sa(dp412
+g2
+S'http://www.reuters.com/article/2012/12/15/us-usa-shooting-connecticut-global-idUSBRE8BE0AU20121215'
+p413
+sg4
+S'20121215\xc2\xa02:14PM UTC'
+p414
+sg6
+S'Iran, other countries horrified by Connecticut massacre'
+p415
+sa(dp416
+g2
+S'http://www.reuters.com/article/2012/12/15/us-usa-fiscal-republicans-idUSBRE8BE0AN20121215'
+p417
+sg4
+S'20121215\xc2\xa02:12PM UTC'
+p418
+sg6
+S'School murders silence "cliff" rhetoric as deadline nears'
+p419
+sa(dp420
+g2
+S'http://www.reuters.com/article/2012/12/15/idUS59835+15-Dec-2012+PRN20121215'
+p421
+sg4
+S'20121215\xc2\xa02:00PM UTC'
+p422
+sg6
+S'Following Is a Test Release'
+p423
+sa(dp424
+g2
+S'http://www.reuters.com/article/2012/12/15/usa-shooting-connecticut-global-idUSL1E8NF1JJ20121215'
+p425
+sg4
+S'20121215\xc2\xa01:58PM UTC'
+p426
+sg6
+S'Iran, other countries horrified by Connecticut massacre'
+p427
+sa(dp428
+g2
+S'http://www.reuters.com/article/2012/12/15/usa-fiscal-republicans-idUSL1E8NEEBQ20121215'
+p429
+sg4
+S'20121215\xc2\xa01:54PM UTC'
+p430
+sg6
+S"School murders silence 'cliff' rhetoric as deadline nears"
+p431
+sa(dp432
+g2
+S'http://www.reuters.com/article/2012/12/15/us-baseball-phillies-adams-idUSBRE8BE0AK20121215'
+p433
+sg4
+S'20121215\xc2\xa01:46PM UTC'
+p434
+sg6
+S'Pitcher Adams agrees to two-year deal with Phillies'
+p435
+sa(dp436
+g2
+S'http://www.reuters.com/article/2012/12/15/idUS59246+15-Dec-2012+PRN20121215'
+p437
+sg4
+S'20121215\xc2\xa01:43PM UTC'
+p438
+sg6
+S'Illinois State Bar Association Assembly Approves Judicial Recusal Rule, Supports Same-sex Marriage, Medical Marijuana Bills'
+p439
+sa(dp440
+g2
+S'http://www.reuters.com/article/2012/12/15/idUS59221+15-Dec-2012+PRN20121215'
+p441
+sg4
+S'20121215\xc2\xa01:42PM UTC'
+p442
+sg6
+S"The Press Club Of Western Pennsylvania And Women's Press Club Of Pittsburgh Host Tour Of 'Warhol:  Headlines'"
+p443
+sa(dp444
+g2
+S'http://www.reuters.com/article/2012/12/15/idUS59128+15-Dec-2012+PRN20121215'
+p445
+sg4
+S'20121215\xc2\xa01:40PM UTC'
+p446
+sg6
+S'UT Awards Alumnus Chad Holliday Honorary Doctorate at Commencement'
+p447
+sa(dp448
+g2
+S'http://www.reuters.com/article/2012/12/15/colombia-drummond-idUSL1E8NF1KI20121215'
+p449
+sg4
+S'20121215\xc2\xa01:39PM UTC'
+p450
+sg6
+S'Drummond sees Colombia coal output up to 31 mln T in 2013-report'
+p451
+sa(dp452
+g2
+S'http://www.reuters.com/article/2012/12/15/us-usa-spill-newyork-idUSBRE8BE07N20121215'
+p453
+sg4
+S'20121215\xc2\xa01:37PM UTC'
+p454
+sg6
+S'Leaking barge spilling fuel oil into New York waters'
+p455
+sa(dp456
+g2
+S'http://www.reuters.com/article/2012/12/15/usa-spill-newyork-idUSL1E8NF1MJ20121215'
+p457
+sg4
+S'20121215\xc2\xa01:33PM UTC'
+p458
+sg6
+S'UPDATE 1-Leaking barge spilling fuel oil into New York waters'
+p459
+sa(dp460
+g2
+S'http://www.reuters.com/article/2012/12/15/idUS58787+15-Dec-2012+PRN20121215'
+p461
+sg4
+S'20121215\xc2\xa01:30PM UTC'
+p462
+sg6
+S'Following Is a Test Release'
+p463
+sa(dp464
+g2
+S'http://www.reuters.com/article/2012/12/15/nigeria-crash-idUSL5E8NF3MM20121215'
+p465
+sg4
+S'20121215\xc2\xa01:16PM UTC'
+p466
+sg6
+S'Helicopter crash kills Nigerian state governor - source'
+p467
+sa(dp468
+g2
+S'http://www.reuters.com/article/2012/12/15/idUS316233174020121215'
+p469
+sg4
+S'20121215\xc2\xa01:11PM UTC'
+p470
+sg6
+S'Public agrees: Next step is gun control'
+p471
+sa(dp472
+g2
+S'http://www.reuters.com/article/2012/12/15/us-usa-detroit-financialreview-idUSBRE8BE0A320121215'
+p473
+sg4
+S'20121215\xc2\xa01:10PM UTC'
+p474
+sg6
+S'Detroit has "serious financial problem": Michigan treasurer'
+p475
+sa(dp476
+g2
+S'http://www.reuters.com/article/2012/12/15/usa-detroit-financialreview-idUSL1E8NF1K020121215'
+p477
+sg4
+S'20121215\xc2\xa01:08PM UTC'
+p478
+sg6
+S"Detroit has 'serious financial problem': Michigan treasurer"
+p479
+sa(dp480
+g2
+S'http://www.reuters.com/article/2012/12/15/us-japan-election-idUSBRE8BE05E20121215'
+p481
+sg4
+S'20121215\xc2\xa01:06PM UTC'
+p482
+sg6
+S'Japan heads to polls, conservative LDP seen returning to power'
+p483
+sa(dp484
+g2
+S'http://www.reuters.com/article/2012/12/15/idUS57781+15-Dec-2012+PRN20121215'
+p485
+sg4
+S'20121215\xc2\xa01:00PM UTC'
+p486
+sg6
+S'Following Is a Test Release'
+p487
+sa(dp488
+g2
+S'http://www.reuters.com/article/2012/12/15/idUS57723+15-Dec-2012+BW20121215'
+p489
+sg4
+S'20121215\xc2\xa012:59PM UTC'
+p490
+sg6
+S'Save the Children Opens Safe Space for Newtown Children, Offers 10 Tips to Help All Children Cope'
+p491
+sa(dp492
+g2
+S'http://www.reuters.com/article/2012/12/15/retail-holiday-freeshipping-idUSL1E8NE8VX20121215'
+p493
+sg4
+S'20121215\xc2\xa012:52PM UTC'
+p494
+sg6
+S'YOUR MONEY-The true cost of free shipping'
+p495
+sa(dp496
+g2
+S'http://www.reuters.com/article/2012/12/15/portugal-debt-un-idUSL5E8NF3ID20121215'
+p497
+sg4
+S'20121215\xc2\xa012:48PM UTC'
+p498
+sg6
+S'UN economist: Portugal needs partial debt renegotiation'
+p499
+sa(dp500
+g2
+S'http://www.reuters.com/article/2012/12/15/us-unitedcontinental-pilots-idUSBRE8BE08820121215'
+p501
+sg4
+S'20121215\xc2\xa012:44PM UTC'
+p502
+sg6
+S'United Continental pilots ratify new contract'
+p503
+sa(dp504
+g2
+S'http://www.reuters.com/article/2012/12/15/idUS55749+15-Dec-2012+MW20121215'
+p505
+sg4
+S'20121215\xc2\xa012:39PM UTC'
+p506
+sg6
+S' Media Advisory: Canadian Food Inspection Agency'
+p507
+sa(dp508
+g2
+S'http://www.reuters.com/article/2012/12/15/us-ghana-argentina-ship-idUSBRE8BE07020121215'
+p509
+sg4
+S'20121215\xc2\xa012:32PM UTC'
+p510
+sg6
+S'U.N. court orders Ghana to release Argentine naval ship'
+p511
+sa(dp512
+g2
+S'http://www.reuters.com/article/2012/12/15/usa-clinton-idUSL1E8NF1K920121215'
+p513
+sg4
+S'20121215\xc2\xa012:30PM UTC'
+p514
+sg6
+S'Hillary Clinton recovering after sustaining concussion -spokesman'
+p515
+sa(dp516
+g2
+S'http://www.reuters.com/article/2012/12/15/idUS55496+15-Dec-2012+PRN20121215'
+p517
+sg4
+S'20121215\xc2\xa012:30PM UTC'
+p518
+sg6
+S'Following Is a Test Release'
+p519
+sa(dp520
+g2
+S'http://www.reuters.com/article/2012/12/15/ghana-argentina-ship-idUSL5E8NF34C20121215'
+p521
+sg4
+S'20121215\xc2\xa012:29PM UTC'
+p522
+sg6
+S'UPDATE 4-UN court orders Ghana to release Argentine naval ship'
+p523
+sa(dp524
+g2
+S'http://www.reuters.com/article/2012/12/15/us-syria-crisis-palestinians-idUSBRE8BE09O20121215'
+p525
+sg4
+S'20121215\xc2\xa012:29PM UTC'
+p526
+sg6
+S'Palestinian faction leader Jibril leaves Damascus: rebels'
+p527
+sa(dp528
+g2
+S'http://www.reuters.com/article/2012/12/15/us-russia-protest-idUSBRE8BE04W20121215'
+p529
+sg4
+S'20121215\xc2\xa012:19PM UTC'
+p530
+sg6
+S'Russia opposition leaders held as protesters defy police'
+p531
+sa(dp532
+g2
+S'http://www.reuters.com/article/2012/12/15/russia-protest-idUSL5E8NF2FP20121215'
+p533
+sg4
+S'20121215\xc2\xa012:17PM UTC'
+p534
+sg6
+S'UPDATE 3-Russia opposition leaders held as protesters defy police'
+p535
+sa(dp536
+g2
+S'http://www.reuters.com/article/2012/12/15/us-israel-lieberman-idUSBRE8BE09H20121215'
+p537
+sg4
+S'20121215\xc2\xa012:13PM UTC'
+p538
+sg6
+S'Lieberman to run in Israeli election despite graft charge'
+p539
+sa(dp540
+g2
+S'http://www.reuters.com/article/2012/12/15/idUS54804+15-Dec-2012+PRN20121215'
+p541
+sg4
+S'20121215\xc2\xa012:09PM UTC'
+p542
+sg6
+S"Multimedia Assets: Novartis drug Signifor\xc2\xae gains FDA approval as the first medication to treat Cushing's disease, a serious endocrine disorder"
+p543
+sa(dp544
+g2
+S'http://www.reuters.com/article/2012/12/15/pakistan-attack-idUSL4N09P0GK20121215'
+p545
+sg4
+S'20121215\xc2\xa012:05PM UTC'
+p546
+sg6
+S'UPDATE 1-Four dead as militants attack airport in NW Pakistan'
+p547
+sa(dp548
+g2
+S'http://www.reuters.com/article/2012/12/15/us-congo-democratic-kabila-idUSBRE8BE05320121215'
+p549
+sg4
+S'20121215\xc2\xa012:05PM UTC'
+p550
+sg6
+S"Congo's Kabila says plans initiative to unite country"
+p551
+sa(dp552
+g2
+S'http://www.reuters.com/article/2012/12/15/us-yemen-military-court-idUSBRE8BE06020121215'
+p553
+sg4
+S'20121215\xc2\xa012:04PM UTC'
+p554
+sg6
+S'Yemen gives 93 soldiers jail terms for attack on base'
+p555
+sa(dp556
+g2
+S'http://www.reuters.com/article/2012/12/15/idUS54444+15-Dec-2012+PRN20121215'
+p557
+sg4
+S'20121215\xc2\xa012:00PM UTC'
+p558
+sg6
+S'Following Is a Test Release'
+p559
+sa(dp560
+g2
+S'http://www.reuters.com/article/2012/12/15/idUS54411+15-Dec-2012+BW20121215'
+p561
+sg4
+S'20121215\xc2\xa012:00PM UTC'
+p562
+sg6
+S'Law Office of Brodsky & Smith, LLC Announces Investigation of Young Innovations, Inc.'
+p563
+sa(dp564
+g2
+S'http://www.reuters.com/article/2012/12/15/idUS54415+15-Dec-2012+BW20121215'
+p565
+sg4
+S'20121215\xc2\xa012:00PM UTC'
+p566
+sg6
+S'Laguna Niguel Site of First Planned Ultra-Premium Life Time Fitness Destination in California'
+p567
+sa(dp568
+g2
+S'http://www.reuters.com/article/2012/12/15/syria-crisis-idUSL5E8NF39W20121215'
+p569
+sg4
+S'20121215\xc2\xa011:59AM UTC'
+p570
+sg6
+S'WRAPUP 3-Iran warns against Patriot deployment on Syria frontier'
+p571
+sa(dp572
+g2
+S'http://www.reuters.com/article/2012/12/15/pakistan-attack-idUSL4N09P0GI20121215'
+p573
+sg4
+S'20121215\xc2\xa011:50AM UTC'
+p574
+sg6
+S'Four dead as militants attack airport in northwest Pakistan'
+p575
+sa(dp576
+g2
+S'http://www.reuters.com/article/2012/12/15/us-russia-elephants-vodka-idUSBRE8BE08Y20121215'
+p577
+sg4
+S'20121215\xc2\xa011:42AM UTC'
+p578
+sg6
+S'Vodka helps stranded elephants survive in Russia: RIA'
+p579
+sa(dp580
+g2
+S'http://www.reuters.com/article/2012/12/15/russia-elephants-vodka-idUSL5E8NF34X20121215'
+p581
+sg4
+S'20121215\xc2\xa011:41AM UTC'
+p582
+sg6
+S'Vodka helps stranded elephants survive in Russia-RIA'
+p583
+sa(dp584
+g2
+S'http://www.reuters.com/article/2012/12/15/us-financial-esma-derivatives-idUSBRE8BE08V20121215'
+p585
+sg4
+S'20121215\xc2\xa011:38AM UTC'
+p586
+sg6
+S'Central clearing of derivatives in EU delayed: report'
+p587
+sa(dp588
+g2
+S'http://www.reuters.com/article/2012/12/15/us-syria-crisis-iran-idUSBRE8BE07K20121215'
+p589
+sg4
+S'20121215\xc2\xa011:35AM UTC'
+p590
+sg6
+S'Patriot missiles in Turkey threaten "world war:" Iran army chief'
+p591
+sa(dp592
+g2
+S'http://www.reuters.com/article/2012/12/15/idUS53513+15-Dec-2012+PRN20121215'
+p593
+sg4
+S'20121215\xc2\xa011:30AM UTC'
+p594
+sg6
+S'Following Is a Test Release'
+p595
+sa(dp596
+g2
+S'http://www.reuters.com/article/2012/12/15/us-usa-hospital-alabama-idUSBRE8BE08H20121215'
+p597
+sg4
+S'20121215\xc2\xa011:19AM UTC'
+p598
+sg6
+S'Police kill gunman in Alabama hospital'
+p599
+sa(dp600
+g2
+S'http://www.reuters.com/article/2012/12/15/italy-tobintax-idUSL5E8NF35020121215'
+p601
+sg4
+S'20121215\xc2\xa011:16AM UTC'
+p602
+sg6
+S'Italy to exclude exporters from Tobin tax on derivatives -report'
+p603
+sa(dp604
+g2
+S'http://www.reuters.com/article/2012/12/15/idUS52990+15-Dec-2012+PRN20121215'
+p605
+sg4
+S'20121215\xc2\xa011:12AM UTC'
+p606
+sg6
+S'United Pilots Ratify Agreement'
+p607
+sa(dp608
+g2
+S'http://www.reuters.com/article/2012/12/15/syria-crisis-iran-idUSL5E8NF36A20121215'
+p609
+sg4
+S'20121215\xc2\xa011:11AM UTC'
+p610
+sg6
+S'UPDATE 2-Patriot missiles in Turkey threaten "world war" -Iran army chief'
+p611
+sa(dp612
+g2
+S'http://www.reuters.com/article/2012/12/15/idUS52868+15-Dec-2012+PRN20121215'
+p613
+sg4
+S'20121215\xc2\xa011:08AM UTC'
+p614
+sg6
+S'United, Continental Pilots Ratify Joint Collective Bargaining Agreement'
+p615
+sa(dp616
+g2
+S'http://www.reuters.com/article/2012/12/15/unitedcontinental-pilots-idUSL1E8NEDLF20121215'
+p617
+sg4
+S'20121215\xc2\xa011:08AM UTC'
+p618
+sg6
+S'United Continental pilots ratify new contract'
+p619
+sa(dp620
+g2
+S'http://www.reuters.com/article/2012/12/15/idUS52742+15-Dec-2012+MW20121215'
+p621
+sg4
+S'20121215\xc2\xa011:05AM UTC'
+p622
+sg6
+S' Harper Government Supports Nova Scotia Communities in Fight Against Crime'
+p623
+sa(dp624
+g2
+S'http://www.reuters.com/article/2012/12/15/idUS52543+15-Dec-2012+PRN20121215'
+p625
+sg4
+S'20121215\xc2\xa011:00AM UTC'
+p626
+sg6
+S'Following Is a Test Release'
+p627
+sa(dp628
+g2
+S'http://www.reuters.com/article/2012/12/15/us-georgia-russia-idUSBRE8BE08020121215'
+p629
+sg4
+S'20121215\xc2\xa010:58AM UTC'
+p630
+sg6
+S'Georgia, Russia tiptoe toward partial restoration of ties'
+p631
+sa(dp632
+g2
+S'http://www.reuters.com/article/2012/12/15/georgia-russia-idUSL5E8NF21J20121215'
+p633
+sg4
+S'20121215\xc2\xa010:56AM UTC'
+p634
+sg6
+S'Georgia, Russia tiptoe toward partial restoration of ties'
+p635
+sa(dp636
+g2
+S'http://www.reuters.com/article/2012/12/15/usa-shooting-connecticut-motive-idUSL1E8NF1BE20121215'
+p637
+sg4
+S'20121215\xc2\xa010:48AM UTC'
+p638
+sg6
+S'Police find solid evidence for motive in Connecticut shooting'
+p639
+sa(dp640
+g2
+S'http://www.reuters.com/article/2012/12/15/pictures-report-idUSRTR3BKQG'
+p641
+sg4
+S'20121215\xc2\xa010:45AM UTC'
+p642
+sg6
+S'Elementary school shooting'
+p643
+sa(dp644
+g2
+S'http://www.reuters.com/article/2012/12/15/usa-spill-newyork-idUSL1E8NF1BA20121215'
+p645
+sg4
+S'20121215\xc2\xa010:33AM UTC'
+p646
+sg6
+S'Leaking barge spilling fuel oil into New York waters-Coast Guard'
+p647
+sa(dp648
+g2
+S'http://www.reuters.com/article/2012/12/15/idUS51520+15-Dec-2012+PRN20121215'
+p649
+sg4
+S'20121215\xc2\xa010:30AM UTC'
+p650
+sg6
+S'Following Is a Test Release'
+p651
+sa(dp652
+g2
+S'http://www.reuters.com/article/2012/12/15/syria-crisis-iran-idUSL5E8NF35T20121215'
+p653
+sg4
+S'20121215\xc2\xa010:29AM UTC'
+p654
+sg6
+S'Patriot missiles in Turkey threaten "world war" -Iran army chief'
+p655
+sa(dp656
+g2
+S'http://www.reuters.com/article/2012/12/15/brazil-paodeacucar-idUSL1E8NF1AU20121215'
+p657
+sg4
+S'20121215\xc2\xa010:28AM UTC'
+p658
+sg6
+S"STXNEWS LATAM-Brazil's Pao de Acucar board vetoes move to Novo Mercado"
+p659
+sa(dp660
+g2
+S'http://www.reuters.com/article/2012/12/15/us-turkey-kurds-idUSBRE8BE07E20121215'
+p661
+sg4
+S'20121215\xc2\xa010:10AM UTC'
+p662
+sg6
+S'Turkey seizes drugs, guns, ammo in raid on Kurdish rebels'
+p663
+sa(dp664
+g2
+S'http://www.reuters.com/article/2012/12/15/idUS50384+15-Dec-2012+PRN20121215'
+p665
+sg4
+S'20121215\xc2\xa010:00AM UTC'
+p666
+sg6
+S'Following Is a Test Release'
+p667
+sa(dp668
+g2
+S'http://www.reuters.com/article/2012/12/15/us-usa-shooting-connecticut-president-idUSBRE8BD17P20121215'
+p669
+sg4
+S'20121215\xc2\xa09:46AM UTC'
+p670
+sg6
+S'Obama urges solidarity as America mourns shooting victims'
+p671
+sa(dp672
+g2
+S'http://www.reuters.com/article/2012/12/15/us-india-economy-singh-idUSBRE8BE03O20121215'
+p673
+sg4
+S'20121215\xc2\xa09:45AM UTC'
+p674
+sg6
+S"India's Singh says to speed up sale of stakes in state firms"
+p675
+sa(dp676
+g2
+S'http://www.reuters.com/article/2012/12/15/egypt-politics-exhaustion-idUSL5E8NF31T20121215'
+p677
+sg4
+S'20121215\xc2\xa09:44AM UTC'
+p678
+sg6
+S'"No" vote in Egypt referendum is a luxury for some'
+p679
+sa(dp680
+g2
+S'http://www.reuters.com/article/2012/12/15/ghana-argentina-ship-idUSL5E8NF31L20121215'
+p681
+sg4
+S'20121215\xc2\xa09:43AM UTC'
+p682
+sg6
+S'UN court orders Ghana to release detained Argentine naval ship'
+p683
+sa(dp684
+g2
+S'http://www.reuters.com/article/2012/12/15/us-greece-economy-idUSBRE8BE06U20121215'
+p685
+sg4
+S'20121215\xc2\xa09:40AM UTC'
+p686
+sg6
+S'Greek economy may start to grow in 2014, minister says'
+p687
+sa(dp688
+g2
+S'http://www.reuters.com/article/2012/12/15/greece-economy-idUSL5E8NF2YA20121215'
+p689
+sg4
+S'20121215\xc2\xa09:39AM UTC'
+p690
+sg6
+S'Greek economy may start to grow in 2014, minister says'
+p691
+sa(dp692
+g2
+S'http://www.reuters.com/article/2012/12/15/egypt-politics-idUSL5E8NF0R620121215'
+p693
+sg4
+S'20121215\xc2\xa09:32AM UTC'
+p694
+sg6
+S'UPDATE 3-Egyptians vote on divisive constitution'
+p695
+sa(dp696
+g2
+S'http://www.reuters.com/article/2012/12/15/hochtief-hamburg-idUSL5E8NF33D20121215'
+p697
+sg4
+S'20121215\xc2\xa09:31AM UTC'
+p698
+sg6
+S'Hochtief settles dispute over Hamburg concert hall'
+p699
+sa(dp700
+g2
+S'http://www.reuters.com/article/2012/12/15/idUS49158+15-Dec-2012+PRN20121215'
+p701
+sg4
+S'20121215\xc2\xa09:30AM UTC'
+p702
+sg6
+S'Following Is a Test Release'
+p703
+sa(dp704
+g2
+S'http://www.reuters.com/article/2012/12/15/us-egypt-politics-exhaustion-idUSBRE8BE06R20121215'
+p705
+sg4
+S'20121215\xc2\xa09:28AM UTC'
+p706
+sg6
+S'"No" vote in Egypt referendum is a luxury for some'
+p707
+sa(dp708
+g2
+S'http://www.reuters.com/article/2012/12/15/us-safrica-mandela-idUSBRE8BE06620121215'
+p709
+sg4
+S'20121215\xc2\xa09:17AM UTC'
+p710
+sg6
+S'Nelson Mandela had gallstones removed, recovering: South Africa'
+p711
+sa(dp712
+g2
+S'http://www.reuters.com/article/2012/12/15/safrica-mandela-idUSL5E8NF30J20121215'
+p713
+sg4
+S'20121215\xc2\xa09:15AM UTC'
+p714
+sg6
+S"UPDATE 3-S.Africa's Mandela had gallstones removed, recovering-govt"
+p715
+sa(dp716
+g2
+S'http://www.reuters.com/article/2012/12/15/idUS48686+15-Dec-2012+PRN20121215'
+p717
+sg4
+S'20121215\xc2\xa09:15AM UTC'
+p718
+sg6
+S'Aiseesoft Updates Blu-ray Player software - Experience the Full Potential of Blu-ray'
+p719
+sa(dp720
+g2
+S'http://www.reuters.com/article/2012/12/15/idUS48208+15-Dec-2012+PRN20121215'
+p721
+sg4
+S'20121215\xc2\xa09:00AM UTC'
+p722
+sg6
+S'Following Is a Test Release'
+p723
+sa(dp724
+g2
+S'http://www.reuters.com/article/2012/12/15/idUS48189+15-Dec-2012+BW20121215'
+p725
+sg4
+S'20121215\xc2\xa09:00AM UTC'
+p726
+sg6
+S'Law Office of Brodsky & Smith, LLC Announces Investigation of Epoch Holding Corp.'
+p727
+sa(dp728
+g2
+S'http://www.reuters.com/article/2012/12/15/us-golf-royal-idUSBRE8BE04P20121215'
+p729
+sg4
+S'20121215\xc2\xa08:52AM UTC'
+p730
+sg6
+S'Asia fight back against Europe in Royal Trophy'
+p731
+sa(dp732
+g2
+S'http://www.reuters.com/article/2012/12/15/us-usa-politics-illinois-congress-idUSBRE8BE06F20121215'
+p733
+sg4
+S'20121215\xc2\xa08:43AM UTC'
+p734
+sg6
+S'Illinois Democrats to endorse candidate for vacant House seat'
+p735
+sa(dp736
+g2
+S'http://www.reuters.com/article/2012/12/15/us-golf-asia-idUSBRE8BE06C20121215'
+p737
+sg4
+S'20121215\xc2\xa08:41AM UTC'
+p738
+sg6
+S'Chopra takes slender lead in weather-hit Malaysia'
+p739
+sa(dp740
+g2
+S'http://www.reuters.com/article/2012/12/15/idUS47411+15-Dec-2012+PRN20121215'
+p741
+sg4
+S'20121215\xc2\xa08:30AM UTC'
+p742
+sg6
+S'Following Is a Test Release'
+p743
+sa(dp744
+g2
+S'http://www.reuters.com/article/2012/12/15/congo-democratic-kabila-idUSL5E8NF2QW20121215'
+p745
+sg4
+S'20121215\xc2\xa08:10AM UTC'
+p746
+sg6
+S"UPDATE 1-Congo's Kabila says plans initiative to unite country"
+p747
+sa(dp748
+g2
+S'http://www.reuters.com/article/2012/12/15/us-cycling-katusha-appeal-idUSBRE8BE06220121215'
+p749
+sg4
+S'20121215\xc2\xa08:06AM UTC'
+p750
+sg6
+S'Katusha appeal to CAS over World Tour snub'
+p751
+sa(dp752
+g2
+S'http://www.reuters.com/article/2012/12/15/idUS46338+15-Dec-2012+PRN20121215'
+p753
+sg4
+S'20121215\xc2\xa08:00AM UTC'
+p754
+sg6
+S'Following Is a Test Release'
+p755
+sa(dp756
+g2
+S'http://www.reuters.com/article/2012/12/15/idUS46324+15-Dec-2012+PRN20121215'
+p757
+sg4
+S'20121215\xc2\xa08:00AM UTC'
+p758
+sg6
+S'Walmart Gives $110,000 to 11 Nonprofits Supporting Our Military and Veterans on the Sixth Day of "12 Days of Giving" Holiday Campaign'
+p759
+sa(dp760
+g2
+S'http://www.reuters.com/article/2012/12/15/idUS46315+15-Dec-2012+BW20121215'
+p761
+sg4
+S'20121215\xc2\xa08:00AM UTC'
+p762
+sg6
+S'Children`s Hospital Los Angeles Experts Advice on How to Talk to Your Kids about the Connecticut Shooting'
+p763
+sa(dp764
+g2
+S'http://www.reuters.com/article/2012/12/15/us-britain-royals-nurse-idUSBRE8BE05X20121215'
+p765
+sg4
+S'20121215\xc2\xa07:54AM UTC'
+p766
+sg6
+S'Family of royal hoax nurse tell of "unfillable void"'
+p767
+sa(dp768
+g2
+S'http://www.reuters.com/article/2012/12/15/syria-crisis-idUSL5E8NEEL420121215'
+p769
+sg4
+S'20121215\xc2\xa07:52AM UTC'
+p770
+sg6
+S'WRAPUP 2-Syrian jets strike rebels around Damascus'
+p771
+sa(dp772
+g2
+S'http://www.reuters.com/article/2012/12/15/britain-royals-nurse-idUSL5E8NF2UZ20121215'
+p773
+sg4
+S'20121215\xc2\xa07:48AM UTC'
+p774
+sg6
+S'Family of royal hoax nurse tell of "unfillable void"'
+p775
+sa(dp776
+g2
+S'http://www.reuters.com/article/2012/12/15/portugal-ana-privatisation-idUSL5E8NF2K620121215'
+p777
+sg4
+S'20121215\xc2\xa07:47AM UTC'
+p778
+sg6
+S'Portugal gets 4 binding bids for airport operator'
+p779
+sa(dp780
+g2
+S'http://www.reuters.com/article/2012/12/15/soccer-club-world-chelsea-idUSL4N09P0CI20121215'
+p781
+sg4
+S'20121215\xc2\xa07:44AM UTC'
+p782
+sg6
+S"UPDATE 1-Soccer-Benitez praises Chelsea's passion and commitment"
+p783
+sa(dp784
+g2
+S'http://www.reuters.com/article/2012/12/15/soccer-fifa-kosovo-idUSL4N09P0BQ20121215'
+p785
+sg4
+S'20121215\xc2\xa07:43AM UTC'
+p786
+sg6
+S'Soccer-Kosovo wants FIFA membership in bid to play friendlies'
+p787
+sa(dp788
+g2
+S'http://www.reuters.com/article/2012/12/15/us-poland-euro-idUSBRE8BE04K20121215'
+p789
+sg4
+S'20121215\xc2\xa07:41AM UTC'
+p790
+sg6
+S'Poland could adopt euro in 2016: presidential adviser'
+p791
+sa(dp792
+g2
+S'http://www.reuters.com/article/2012/12/15/us-ubs-libor-fine-idUSBRE8BE05M20121215'
+p793
+sg4
+S'20121215\xc2\xa07:36AM UTC'
+p794
+sg6
+S'UBS faces $1.6 billion fine over Libor rigging: paper'
+p795
+sa(dp796
+g2
+S'http://www.reuters.com/article/2012/12/15/italiaindependent-fashion-idUSL5E8NDET920121215'
+p797
+sg4
+S'20121215\xc2\xa07:34AM UTC'
+p798
+sg6
+S'Italian luxury sunglass maker eyes opening up to outside investors'
+p799
+sa(dp800
+g2
+S'http://www.reuters.com/article/2012/12/15/ubs-libor-fine-idUSL5E8NF29F20121215'
+p801
+sg4
+S'20121215\xc2\xa07:33AM UTC'
+p802
+sg6
+S'UBS faces $1.6 bln fine over Libor rigging - paper'
+p803
+sa(dp804
+g2
+S'http://www.reuters.com/article/2012/12/15/idUS45369+15-Dec-2012+PRN20121215'
+p805
+sg4
+S'20121215\xc2\xa07:30AM UTC'
+p806
+sg6
+S'Following Is a Test Release'
+p807
+sa(dp808
+g2
+S'http://www.reuters.com/article/2012/12/15/soccer-club-world-chelsea-idUSL4N09P0BG20121215'
+p809
+sg4
+S'20121215\xc2\xa07:21AM UTC'
+p810
+sg6
+S'Soccer-Benitez praises commitment and passion of Chelsea side'
+p811
+sa(dp812
+g2
+S'http://www.reuters.com/article/2012/12/15/japan-election-idUSL4N09N1VM20121215'
+p813
+sg4
+S'20121215\xc2\xa07:13AM UTC'
+p814
+sg6
+S"Japan's LDP leads as candidates make last appeals for votes"
+p815
+sa(dp816
+g2
+S'http://www.reuters.com/article/2012/12/15/idUS44369+15-Dec-2012+PRN20121215'
+p817
+sg4
+S'20121215\xc2\xa07:00AM UTC'
+p818
+sg6
+S'Following Is a Test Release'
+p819
+sa(dp820
+g2
+S'http://www.reuters.com/article/2012/12/15/us-telekomaustria-yesss-idUSBRE8BE05920121215'
+p821
+sg4
+S'20121215\xc2\xa06:54AM UTC'
+p822
+sg6
+S'Telekom Austria: "will do everything" to complete Yesss purchase'
+p823
+sa(dp824
+g2
+S'http://www.reuters.com/article/2012/12/15/us-greece-boat-idUSBRE8BE05720121215'
+p825
+sg4
+S'20121215\xc2\xa06:54AM UTC'
+p826
+sg6
+S'Small boat sinks off Greek island, 20 migrants drown'
+p827
+sa(dp828
+g2
+S'http://www.reuters.com/article/2012/12/15/greece-boat-idUSL5E8NF28E20121215'
+p829
+sg4
+S'20121215\xc2\xa06:52AM UTC'
+p830
+sg6
+S'Small boat sinks off Greek island, 20 migrants drown'
+p831
+sa(dp832
+g2
+S'http://www.reuters.com/article/2012/12/15/telekomaustria-yesss-idUSL5E8NF2CD20121215'
+p833
+sg4
+S'20121215\xc2\xa06:51AM UTC'
+p834
+sg6
+S'Telekom Austria: "will do everything" to complete Yesss purchase'
+p835
+sa(dp836
+g2
+S'http://www.reuters.com/article/2012/12/15/us-finmeccanica-ansaldoenergia-bid-idUSBRE8BE05520121215'
+p837
+sg4
+S'20121215\xc2\xa06:47AM UTC'
+p838
+sg6
+S"Italy's FSI to bid for Finmeccanica's unit next week: source"
+p839
+sa(dp840
+g2
+S'http://www.reuters.com/article/2012/12/15/finmeccanica-ansaldoenergia-bid-idUSL5E8NF21I20121215'
+p841
+sg4
+S'20121215\xc2\xa06:44AM UTC'
+p842
+sg6
+S"Italy's FSI to bid for Finmeccanica's unit next week - source"
+p843
+sa(dp844
+g2
+S'http://www.reuters.com/article/2012/12/15/us-ecb-economy-liikanen-idUSBRE8BE04Z20121215'
+p845
+sg4
+S'20121215\xc2\xa06:43AM UTC'
+p846
+sg6
+S'Economic slowdown throughout euro zone a worry for ECB: Liikanen'
+p847
+sa(dp848
+g2
+S'http://www.reuters.com/article/2012/12/15/congo-democratic-kabila-idUSL5E8NF1WC20121215'
+p849
+sg4
+S'20121215\xc2\xa06:40AM UTC'
+p850
+sg6
+S"Congo's Kabila says plans initiative to unite divided country"
+p851
+sa(dp852
+g2
+S'http://www.reuters.com/article/2012/12/15/idUS42960+15-Dec-2012+PRN20121215'
+p853
+sg4
+S'20121215\xc2\xa06:30AM UTC'
+p854
+sg6
+S'Following Is a Test Release'
+p855
+sa(dp856
+g2
+S'http://www.reuters.com/article/2012/12/15/russia-protest-idUSL5E8NF2CQ20121215'
+p857
+sg4
+S'20121215\xc2\xa06:25AM UTC'
+p858
+sg6
+S'Russian police detain opposition leaders before rally'
+p859
+sa(dp860
+g2
+S'http://www.reuters.com/article/2012/12/15/idUS359109266420121215'
+p861
+sg4
+S'20121215\xc2\xa06:13AM UTC'
+p862
+sg6
+S'A roof for the roofless'
+p863
+sa(dp864
+g2
+S'http://www.reuters.com/article/2012/12/15/us-kenya-arms-idUSBRE8BE04M20121215'
+p865
+sg4
+S'20121215\xc2\xa06:10AM UTC'
+p866
+sg6
+S'Kenya police say seize machetes, bows from coast separatists'
+p867
+sa(dp868
+g2
+S'http://www.reuters.com/article/2012/12/15/idUS36032+15-Dec-2012+BW20121215'
+p869
+sg4
+S'20121215\xc2\xa06:01AM UTC'
+p870
+sg6
+S'Yahoo! Brings Fans the Exclusive Global Online Live Stream of the Rolling Stones 50TH Anniversary Concert on December 15'
+p871
+sa(dp872
+g2
+S'http://www.reuters.com/article/2012/12/15/idUS36002+15-Dec-2012+PRN20121215'
+p873
+sg4
+S'20121215\xc2\xa06:00AM UTC'
+p874
+sg6
+S'Following Is a Test Release'
+p875
+sa(dp876
+g2
+S'http://www.reuters.com/article/2012/12/15/idUS35983+15-Dec-2012+MW20121215'
+p877
+sg4
+S'20121215\xc2\xa06:00AM UTC'
+p878
+sg6
+S' REPEAT-Global Family Trees: BMO Study Shows Canadians with Family and Investments Abroad Unfamiliar with Tax and Estate Laws'
+p879
+sa(dp880
+g2
+S'http://www.reuters.com/article/2012/12/15/idUS35947+15-Dec-2012+PRN20121215'
+p881
+sg4
+S'20121215\xc2\xa05:59AM UTC'
+p882
+sg6
+S'GOOD MORNING'
+p883
+sa(dp884
+g2
+S'http://www.reuters.com/article/2012/12/15/us-nba-nuggets-idUSBRE8BE02Y20121215'
+p885
+sg4
+S'20121215\xc2\xa05:34AM UTC'
+p886
+sg6
+S'Nuggets tame Grizzlies on return to Denver'
+p887
+sa(dp888
+g2
+S'http://www.reuters.com/article/2012/12/15/srilanka-gasoline-price-idUSL4N09P0B220121215'
+p889
+sg4
+S'20121215\xc2\xa05:32AM UTC'
+p890
+sg6
+S'Sri Lanka raises gasoline price to record to cut losses'
+p891
+sa(dp892
+g2
+S'http://www.reuters.com/article/2012/12/15/idUS32194+15-Dec-2012+PRN20121215'
+p893
+sg4
+S'20121215\xc2\xa05:30AM UTC'
+p894
+sg6
+S'Following Is a Test Release'
+p895
+sa(dp896
+g2
+S'http://www.reuters.com/article/2012/12/15/us-soccer-fifa-brazil-idUSBRE8BE03U20121215'
+p897
+sg4
+S'20121215\xc2\xa05:13AM UTC'
+p898
+sg6
+S'Gun row a warning for Brazil World Cup: Blatter'
+p899
+sa(dp900
+g2
+S'http://www.reuters.com/article/2012/12/15/us-usa-stocks-weekahead-idUSBRE8BE00F20121215'
+p901
+sg4
+S'20121215\xc2\xa05:10AM UTC'
+p902
+sg6
+S'Wall Street Week Ahead: Holiday "on standby" as clock ticks on cliff'
+p903
+sa(dp904
+g2
+S'http://www.reuters.com/article/2012/12/15/idUS30782+15-Dec-2012+PRN20121215'
+p905
+sg4
+S'20121215\xc2\xa05:00AM UTC'
+p906
+sg6
+S'Following Is a Test Release'
+p907
+sa(dp908
+g2
+S'http://www.reuters.com/article/2012/12/15/idUSL5E8NF1LC20121215'
+p909
+sg4
+S'20121215\xc2\xa04:36AM UTC'
+p910
+sg6
+S'TABLE-Abu Dhabi annual inflation at 0.8 pct in Nov'
+p911
+sa(dp912
+g2
+S'http://www.reuters.com/article/2012/12/15/us-philippines-maoists-idUSBRE8BE03Q20121215'
+p913
+sg4
+S'20121215\xc2\xa04:31AM UTC'
+p914
+sg6
+S'Philippines declares unilateral Christmas truce with Maoists'
+p915
+sa(dp916
+g2
+S'http://www.reuters.com/article/2012/12/15/idUS29773+15-Dec-2012+PRN20121215'
+p917
+sg4
+S'20121215\xc2\xa04:30AM UTC'
+p918
+sg6
+S'Following Is a Test Release'
+p919
+sa(dp920
+g2
+S'http://www.reuters.com/article/2012/12/15/idUS29581+15-Dec-2012+MW20121215'
+p921
+sg4
+S'20121215\xc2\xa04:25AM UTC'
+p922
+sg6
+S' ACIA/Allergy Alert: Undeclared Milk in Certain Pure Brand Cookies'
+p923
+sa(dp924
+g2
+S'http://www.reuters.com/article/2012/12/15/idUS29143+15-Dec-2012+PRN20121215'
+p925
+sg4
+S'20121215\xc2\xa04:00AM UTC'
+p926
+sg6
+S'Following Is a Test Release'
+p927
+sa(dp928
+g2
+S'http://www.reuters.com/article/2012/12/15/india-economy-singh-idUSL4N09P0A120121215'
+p929
+sg4
+S'20121215\xc2\xa03:46AM UTC'
+p930
+sg6
+S"India's Singh says to speed up sale of stakes in state firms"
+p931
+sa(dp932
+g2
+S'http://www.reuters.com/article/2012/12/15/cmec-ipo-idUSL4N09P0AD20121215'
+p933
+sg4
+S'20121215\xc2\xa03:31AM UTC'
+p934
+sg6
+S'China Machinery Engineering prices HK IPO at top of range'
+p935
+sa(dp936
+g2
+S'http://www.reuters.com/article/2012/12/15/idUS28510+15-Dec-2012+PRN20121215'
+p937
+sg4
+S'20121215\xc2\xa03:30AM UTC'
+p938
+sg6
+S'Following Is a Test Release'
+p939
+sa(dp940
+g2
+S'http://www.reuters.com/article/2012/12/15/thailand-party-idUSL4N09P0A720121215'
+p941
+sg4
+S'20121215\xc2\xa03:24AM UTC'
+p942
+sg6
+S"Thai carmaker's office bash turns to brawl; 30 hurt"
+p943
+sa(dp944
+g2
+S'http://www.reuters.com/article/2012/12/15/us-usa-shooting-gun-control-idUSBRE8BE03K20121215'
+p945
+sg4
+S'20121215\xc2\xa03:13AM UTC'
+p946
+sg6
+S'Another school massacre pressures Obama on gun control'
+p947
+sa(dp948
+g2
+S'http://www.reuters.com/article/2012/12/15/soccer-fifa-technology-idUSL4N09P0AE20121215'
+p949
+sg4
+S'20121215\xc2\xa03:07AM UTC'
+p950
+sg6
+S'Soccer-Goal-line technology here to stay, says FIFA president'
+p951
+sa(dp952
+g2
+S'http://www.reuters.com/article/2012/12/15/idUS27717+15-Dec-2012+PRN20121215'
+p953
+sg4
+S'20121215\xc2\xa03:00AM UTC'
+p954
+sg6
+S'Following Is a Test Release'
+p955
+sa(dp956
+g2
+S'http://www.reuters.com/article/2012/12/15/us-usa-shooting-lasvegas-idUSBRE8BE03820121215'
+p957
+sg4
+S'20121215\xc2\xa02:31AM UTC'
+p958
+sg6
+S'Two dead in murder-suicide in Las Vegas hotel: report'
+p959
+sa(dp960
+g2
+S'http://www.reuters.com/article/2012/12/15/idUS27148+15-Dec-2012+PRN20121215'
+p961
+sg4
+S'20121215\xc2\xa02:30AM UTC'
+p962
+sg6
+S'Following Is a Test Release'
+p963
+sa(dp964
+g2
+S'http://www.reuters.com/article/2012/12/15/usa-shooting-lasvegas-idUSL1E8NF0YQ20121215'
+p965
+sg4
+S'20121215\xc2\xa02:30AM UTC'
+p966
+sg6
+S'Two dead in murder-suicide in Las Vegas hotel - report'
+p967
+sa(dp968
+g2
+S'http://www.reuters.com/article/2012/12/15/us-usa-connecticut-answers-idUSBRE8BE03420121215'
+p969
+sg4
+S'20121215\xc2\xa02:06AM UTC'
+p970
+sg6
+S'Search for answers begins after Connecticut school massacre'
+p971
+sa(dp972
+g2
+S'http://www.reuters.com/article/2012/12/15/idUS26154+15-Dec-2012+PRN20121215'
+p973
+sg4
+S'20121215\xc2\xa02:00AM UTC'
+p974
+sg6
+S'Following Is a Test Release'
+p975
+sa(dp976
+g2
+S'http://www.reuters.com/article/2012/12/15/usa-shooting-connecticut-idUSL1E8NEG2D20121215'
+p977
+sg4
+S'20121215\xc2\xa02:00AM UTC'
+p978
+sg6
+S'Search for answers begins after Connecticut school massacre'
+p979
+sa(dp980
+g2
+S'http://www.reuters.com/article/2012/12/15/idUS26028+15-Dec-2012+MW20121215'
+p981
+sg4
+S'20121215\xc2\xa01:50AM UTC'
+p982
+sg6
+S" ACIA/Updated Health Hazard Alert: Certain Butcher's Choice Beef Burgers May Contain E. coli O157:H7 Bacteria"
+p983
+sa(dp984
+g2
+S'http://www.reuters.com/article/2012/12/15/idUS25844+15-Dec-2012+PRN20121215'
+p985
+sg4
+S'20121215\xc2\xa01:30AM UTC'
+p986
+sg6
+S'Following Is a Test Release'
+p987
+sa(dp988
+g2
+S'http://www.reuters.com/article/2012/12/15/us-egypt-politics-open-idUSBRE8BE02S20121215'
+p989
+sg4
+S'20121215\xc2\xa01:27AM UTC'
+p990
+sg6
+S"Polls open in Egypt's constitution referendum"
+p991
+sa(dp992
+g2
+S'http://www.reuters.com/article/2012/12/15/idUS25720+15-Dec-2012+PRN20121215'
+p993
+sg4
+S'20121215\xc2\xa01:24AM UTC'
+p994
+sg6
+S'Community National Bank Celebrates Record Year at Annual VIP Celebration'
+p995
+sa(dp996
+g2
+S'http://www.reuters.com/article/2012/12/15/soccer-fifa-indonesia-idUSL4N09P09V20121215'
+p997
+sg4
+S'20121215\xc2\xa01:06AM UTC'
+p998
+sg6
+S'Soccer-Indonesia escapes ban as festive FIFA extend deadline'
+p999
+sa(dp1000
+g2
+S'http://www.reuters.com/article/2012/12/15/idUS25087+15-Dec-2012+PRN20121215'
+p1001
+sg4
+S'20121215\xc2\xa01:00AM UTC'
+p1002
+sg6
+S'Following Is a Test Release'
+p1003
+sa(dp1004
+g2
+S'http://www.reuters.com/article/2012/12/15/idUS24639+15-Dec-2012+PRN20121215'
+p1005
+sg4
+S'20121215\xc2\xa012:30AM UTC'
+p1006
+sg6
+S'Following Is a Test Release'
+p1007
+sa(dp1008
+g2
+S'http://www.reuters.com/article/2012/12/15/us-usa-debt-bernardino-idUSBRE8BE02Q20121215'
+p1009
+sg4
+S'20121215\xc2\xa012:18AM UTC'
+p1010
+sg6
+S'Exclusive: Pension fund slams San Bernardino for "sham" bankruptcy'
+p1011
+sa(dp1012
+g2
+S'http://www.reuters.com/article/2012/12/15/usa-debt-bernardino-idUSL1E8NF0HM20121215'
+p1013
+sg4
+S'20121215\xc2\xa012:14AM UTC'
+p1014
+sg6
+S"EXCLUSIVE-Pension fund slams California's San Bernardino for 'sham' bankruptcy"
+p1015
+sa(dp1016
+g2
+S'http://www.reuters.com/article/2012/12/15/us-edisonmission-bankruptcy-idUSBRE8BE02O20121215'
+p1017
+sg4
+S'20121215\xc2\xa012:09AM UTC'
+p1018
+sg6
+S'Edison Mission prepares bankruptcy filing: source'
+p1019
+sa(dp1020
+g2
+S'http://www.reuters.com/article/2012/12/15/us-usa-shooting-connecticut-shooter-idUSBRE8BE02K20121215'
+p1021
+sg4
+S'20121215\xc2\xa012:08AM UTC'
+p1022
+sg6
+S'Young man returns to elementary school as mass killer'
+p1023
+sa(dp1024
+g2
+S'http://www.reuters.com/article/2012/12/15/edisonmission-bankruptcy-idUSL1E8NEDFU20121215'
+p1025
+sg4
+S'20121215\xc2\xa012:07AM UTC'
+p1026
+sg6
+S'Edison Mission prepares bankruptcy filing - source'
+p1027
+sa(dp1028
+g2
+S'http://www.reuters.com/article/2012/12/15/usa-shooting-connecticut-shooter-idUSL1E8NEG9W20121215'
+p1029
+sg4
+S'20121215\xc2\xa012:07AM UTC'
+p1030
+sg6
+S'Young man returns to US elementary school as mass killer'
+p1031
+sa(dp1032
+g2
+S'http://www.reuters.com/article/2012/12/15/us-usa-shooting-connecticut-security-idUSBRE8BE02E20121215'
+p1033
+sg4
+S'20121215\xc2\xa012:04AM UTC'
+p1034
+sg6
+S'Connecticut school could not have prevented shooting, experts say'
+p1035
+sa(dp1036
+g2
+S'http://www.reuters.com/article/2012/12/15/idUS23602+15-Dec-2012+PRN20121215'
+p1037
+sg4
+S'20121215\xc2\xa012:01AM UTC'
+p1038
+sg6
+S'U.S. Census Bureau Daily Feature for December 15'
+p1039
+sa(dp1040
+g2
+S'http://www.reuters.com/article/2012/12/15/usa-shooting-connecticut-idUSL1E8NE53F20121215'
+p1041
+sg4
+S'20121215\xc2\xa012:00AM UTC'
+p1042
+sg6
+S'UPDATE 20-Twenty schoolchildren, 8 others dead in Connecticut massacre'
+p1043
+sa(dp1044
+g2
+S'http://www.reuters.com/article/2012/12/15/idUS23587+15-Dec-2012+PRN20121215'
+p1045
+sg4
+S'20121215\xc2\xa012:00AM UTC'
+p1046
+sg6
+S'Following Is a Test Release'
+p1047
+sa(dp1048
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=52940016'
+p1049
+sg4
+S'20121215\xc2\xa010:27PM UTC'
+p1050
+sg6
+S'Foreign retailers first to swoop down under in profit rush'
+p1051
+sa(dp1052
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=52940024'
+p1053
+sg4
+S'20121215\xc2\xa010:18PM UTC'
+p1054
+sg6
+S'Japan heads to the polls'
+p1055
+sa(dp1056
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=52938174'
+p1057
+sg4
+S'20121215\xc2\xa07:58PM UTC'
+p1058
+sg6
+S'Violence breaks out in Cairo as Egyptians vote'
+p1059
+sa(dp1060
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=52936333'
+p1061
+sg4
+S'20121215\xc2\xa06:24PM UTC'
+p1062
+sg6
+S'Medical examiner: Connecticut massacre victims shot multiple times'
+p1063
+sa(dp1064
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=52933277'
+p1065
+sg4
+S'20121215\xc2\xa03:34PM UTC'
+p1066
+sg6
+S'Brazilian memorial for Connecticut shooting victims'
+p1067
+sa(dp1068
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=52932939'
+p1069
+sg4
+S'20121215\xc2\xa03:06PM UTC'
+p1070
+sg6
+S'Hillary Clinton suffers concussion'
+p1071
+sa(dp1072
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=52930115'
+p1073
+sg4
+S'20121215\xc2\xa01:11PM UTC'
+p1074
+sg6
+S'Mass held in London for Jacintha Saldanha'
+p1075
+sa(dp1076
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=52929801'
+p1077
+sg4
+S'20121215\xc2\xa012:59PM UTC'
+p1078
+sg6
+S'School shooting draws worldwide condemnation'
+p1079
+sa(dp1080
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=52927885'
+p1081
+sg4
+S'20121215\xc2\xa011:47AM UTC'
+p1082
+sg6
+S'Opposition leaders arrested in Russia protest'
+p1083
+sa(dp1084
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=52927259'
+p1085
+sg4
+S'20121215\xc2\xa011:22AM UTC'
+p1086
+sg6
+S"Police find 'good evidence' on motive for Connecticut school massacre"
+p1087
+sa(dp1088
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=52926400'
+p1089
+sg4
+S'20121215\xc2\xa010:41AM UTC'
+p1090
+sg6
+S'Former leaders vote in Egypt constitutional referendum'
+p1091
+sa(dp1092
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=52926163'
+p1093
+sg4
+S'20121215\xc2\xa010:37AM UTC'
+p1094
+sg6
+S'Workers rescued after China tunnel collapse'
+p1095
+sa(dp1096
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=52923985'
+p1097
+sg4
+S'20121215\xc2\xa09:01AM UTC'
+p1098
+sg6
+S'Samoans clean up after deadly cyclone'
+p1099
+sa(dp1100
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=52920595'
+p1101
+sg4
+S'20121215\xc2\xa06:31AM UTC'
+p1102
+sg6
+S'Egypt votes on controversial constitution'
+p1103
+sa(dp1104
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=52919289'
+p1105
+sg4
+S'20121215\xc2\xa05:13AM UTC'
+p1106
+sg6
+S'Memorial honours nurse at centre of royal hoax call'
+p1107
+sa(dp1108
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=52918664'
+p1109
+sg4
+S'20121215\xc2\xa04:04AM UTC'
+p1110
+sg6
+S'Egypt President Mursi casts referendum vote'
+p1111
+sa(dp1112
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=52917714'
+p1113
+sg4
+S'20121215\xc2\xa02:17AM UTC'
+p1114
+sg6
+S'Connecticut in shock after school shooting'
+p1115
+sa(dp1116
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=52916810'
+p1117
+sg4
+S'20121215\xc2\xa012:43AM UTC'
+p1118
+sg6
+S'Egyptians protest ahead of referendum'
+p1119
+sa.

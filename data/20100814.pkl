@@ -1,0 +1,1885 @@
+(lp0
+(dp1
+S'href'
+p2
+S'http://www.reuters.com/article/companyNewsAndPR/idUS20512+15-Aug-2010+PRN20100815'
+p3
+sS'ts'
+p4
+S'20100814\xc2\xa011:30PM UTC'
+p5
+sS'title'
+p6
+S'Following Is a Test Release'
+p7
+sa(dp8
+g2
+S'http://www.reuters.com/article/sportsNews/idUSTRE67E07I20100815'
+p9
+sg4
+S'20100814\xc2\xa011:28PM UTC'
+p10
+sg6
+S'Toronto Blue Jays sign pitcher Romero to extension'
+p11
+sa(dp12
+g2
+S'http://www.reuters.com/article/companyNewsAndPR/idUS19178+15-Aug-2010+PRN20100815'
+p13
+sg4
+S'20100814\xc2\xa011:00PM UTC'
+p14
+sg6
+S'Following Is a Test Release'
+p15
+sa(dp16
+g2
+S'http://www.reuters.com/article/companyNewsAndPR/idUS17605+15-Aug-2010+PRN20100815'
+p17
+sg4
+S'20100814\xc2\xa010:30PM UTC'
+p18
+sg6
+S'Following Is a Test Release'
+p19
+sa(dp20
+g2
+S'http://www.reuters.com/article/politicsNews/idUSTRE67E06220100815'
+p21
+sg4
+S'20100814\xc2\xa010:26PM UTC'
+p22
+sg6
+S'U.S.-South Korea drills anger North, worry China'
+p23
+sa(dp24
+g2
+S'http://www.reuters.com/article/COMSRV/idUSLDE67E00820100815'
+p25
+sg4
+S'20100814\xc2\xa010:19PM UTC'
+p26
+sg6
+S'Business Digest'
+p27
+sa(dp28
+g2
+S'http://www.reuters.com/article/sportsNews/idUSTRE67D14W20100815'
+p29
+sg4
+S'20100814\xc2\xa010:16PM UTC'
+p30
+sg6
+S'Hong Kong quits baseball event after Caracas shooting'
+p31
+sa(dp32
+g2
+S'http://www.reuters.com/article/companyNewsAndPR/idUS16325+15-Aug-2010+PRN20100815'
+p33
+sg4
+S'20100814\xc2\xa010:04PM UTC'
+p34
+sg6
+S"Omaha, Lincoln Jiffy Lube Stores 'Calling All Cars' to Help Raise $10,000 for Humane Society, Celebrate Grand Re-Openings"
+p35
+sa(dp36
+g2
+S'http://www.reuters.com/article/companyNewsAndPR/idUS16070+15-Aug-2010+PRN20100815'
+p37
+sg4
+S'20100814\xc2\xa010:00PM UTC'
+p38
+sg6
+S'Following Is a Test Release'
+p39
+sa(dp40
+g2
+S'http://www.reuters.com/article/sportsNews/idUSTRE67D10E20100815'
+p41
+sg4
+S'20100814\xc2\xa09:57PM UTC'
+p42
+sg6
+S'Watney breaks clear to lead PGA Championship'
+p43
+sa(dp44
+g2
+S'http://www.reuters.com/article/sportsNews/idUSTRE67E04L20100815'
+p45
+sg4
+S'20100814\xc2\xa09:47PM UTC'
+p46
+sg6
+S'Watney aims to finish PGA Championship with a major bang'
+p47
+sa(dp48
+g2
+S'http://www.reuters.com/article/companyNewsAndPR/idUS15348+15-Aug-2010+PRN20100815'
+p49
+sg4
+S'20100814\xc2\xa09:46PM UTC'
+p50
+sg6
+S'They Came, They Rolled, They Conquered'
+p51
+sa(dp52
+g2
+S'http://www.reuters.com/article/companyNewsAndPR/idUS14645+15-Aug-2010+PRN20100815'
+p53
+sg4
+S'20100814\xc2\xa09:30PM UTC'
+p54
+sg6
+S'Following Is a Test Release'
+p55
+sa(dp56
+g2
+S'http://www.reuters.com/article/sportsNews/idUSTRE67E04620100815'
+p57
+sg4
+S'20100814\xc2\xa09:17PM UTC'
+p58
+sg6
+S'Johnson inspired to win PGA by Pebble Beach failure'
+p59
+sa(dp60
+g2
+S'http://www.reuters.com/article/companyNewsAndPR/idUS13087+15-Aug-2010+PRN20100815'
+p61
+sg4
+S'20100814\xc2\xa09:00PM UTC'
+p62
+sg6
+S'Following Is a Test Release'
+p63
+sa(dp64
+g2
+S'http://www.reuters.com/article/sportsNews/idUSTRE67E03K20100815'
+p65
+sg4
+S'20100814\xc2\xa09:00PM UTC'
+p66
+sg6
+S'McIlroy again in the hunt for a major title'
+p67
+sa(dp68
+g2
+S'http://www.reuters.com/article/topNews/idUSTRE67E02X20100815'
+p69
+sg4
+S'20100814\xc2\xa08:58PM UTC'
+p70
+sg6
+S'U.S. hopeful Pakistan can avert big cholera outbreak'
+p71
+sa(dp72
+g2
+S'http://www.reuters.com/article/worldNews/idUSTRE67C50Q20100815'
+p73
+sg4
+S'20100814\xc2\xa08:42PM UTC'
+p74
+sg6
+S'Tight Australian election race enters final week'
+p75
+sa(dp76
+g2
+S'http://www.reuters.com/article/marketsNews/idUSLDE67E00320100815'
+p77
+sg4
+S'20100814\xc2\xa08:40PM UTC'
+p78
+sg6
+S'Tight Australian election race enters final week'
+p79
+sa(dp80
+g2
+S'http://www.reuters.com/article/sportsNews/idUSTRE67E01S20100815'
+p81
+sg4
+S'20100814\xc2\xa08:32PM UTC'
+p82
+sg6
+S"China's Liang rockets into PGA contention in record style"
+p83
+sa(dp84
+g2
+S'http://www.reuters.com/article/companyNewsAndPR/idUS11632+15-Aug-2010+PRN20100815'
+p85
+sg4
+S'20100814\xc2\xa08:30PM UTC'
+p86
+sg6
+S'Following Is a Test Release'
+p87
+sa(dp88
+g2
+S'http://www.reuters.com/article/entertainmentNews/idUSTRE67D1DT20100815'
+p89
+sg4
+S'20100814\xc2\xa08:12PM UTC'
+p90
+sg6
+S'Jazz singer Abbey Lincoln dies'
+p91
+sa(dp92
+g2
+S'http://www.reuters.com/article/mediaNews/idUSN1421852320100815'
+p93
+sg4
+S'20100814\xc2\xa08:10PM UTC'
+p94
+sg6
+S'CORRECTED - U.S. jazz singer Abbey Lincoln dies'
+p95
+sa(dp96
+g2
+S'http://www.reuters.com/article/BROKER/idUSN1420564920100815'
+p97
+sg4
+S'20100814\xc2\xa08:07PM UTC'
+p98
+sg6
+S'WRAPUP 3-Obama swims in Gulf, says beaches open for business'
+p99
+sa(dp100
+g2
+S'http://www.reuters.com/article/companyNewsAndPR/idUS10047+15-Aug-2010+PRN20100815'
+p101
+sg4
+S'20100814\xc2\xa08:00PM UTC'
+p102
+sg6
+S'Following Is a Test Release'
+p103
+sa(dp104
+g2
+S'http://www.reuters.com/article/companyNewsAndPR/idUS10019+15-Aug-2010+PRN20100815'
+p105
+sg4
+S'20100814\xc2\xa08:00PM UTC'
+p106
+sg6
+S"Nationwide Milk Allergen Recall of Kroger 'Meals Made Simple Shrimp Linguini'"
+p107
+sa(dp108
+g2
+S'http://www.reuters.com/article/GCA-CorporateCrime/idUSTRE67D1EC20100814'
+p109
+sg4
+S'20100814\xc2\xa07:37PM UTC'
+p110
+sg6
+S'Apple manager charged with taking kickbacks'
+p111
+sa(dp112
+g2
+S'http://www.reuters.com/article/CMPSRV/idUSN1423900420100814'
+p113
+sg4
+S'20100814\xc2\xa07:36PM UTC'
+p114
+sg6
+S'UPDATE 1-Apple manager charged in US with taking kickbacks'
+p115
+sa(dp116
+g2
+S'http://www.reuters.com/article/companyNewsAndPR/idUS65130+14-Aug-2010+PRN20100814'
+p117
+sg4
+S'20100814\xc2\xa07:30PM UTC'
+p118
+sg6
+S'Following Is a Test Release'
+p119
+sa(dp120
+g2
+S'http://www.reuters.com/article/sportsNews/idUSTRE67D0GO20100814'
+p121
+sg4
+S'20100814\xc2\xa07:27PM UTC'
+p122
+sg6
+S'Murray tames Nadal to reach Toronto final'
+p123
+sa(dp124
+g2
+S'http://www.reuters.com/article/domesticNews/idUSTRE67C4PD20100814'
+p125
+sg4
+S'20100814\xc2\xa07:26PM UTC'
+p126
+sg6
+S'Magnitude 6.6 quake hits southwest of Guam'
+p127
+sa(dp128
+g2
+S'http://www.reuters.com/article/companyNewsAndPR/idUS63896+14-Aug-2010+BW20100814'
+p129
+sg4
+S'20100814\xc2\xa07:01PM UTC'
+p130
+sg6
+S'Rebecca Rusch and Levi Leipheimer Champions at 2010 Life Time Fitness Leadville Trail 100, New Course Records Set'
+p131
+sa(dp132
+g2
+S'http://www.reuters.com/article/companyNewsAndPR/idUS63865+14-Aug-2010+PRN20100814'
+p133
+sg4
+S'20100814\xc2\xa07:00PM UTC'
+p134
+sg6
+S'Following Is a Test Release'
+p135
+sa(dp136
+g2
+S'http://www.reuters.com/article/GCA-BarackObama/idUSTRE67D19N20100814'
+p137
+sg4
+S'20100814\xc2\xa06:58PM UTC'
+p138
+sg6
+S'Obama wades into New York mosque debate - again'
+p139
+sa(dp140
+g2
+S'http://www.reuters.com/article/sportsNews/idUSTRE67D1HT20100814'
+p141
+sg4
+S'20100814\xc2\xa06:56PM UTC'
+p142
+sg6
+S'Americans preparing for basketball worlds as underdogs'
+p143
+sa(dp144
+g2
+S'http://www.reuters.com/article/newsMaps/idUSTRE66T3RS20100814'
+p145
+sg4
+S'20100814\xc2\xa06:35PM UTC'
+p146
+sg6
+S'U.N. says no aid yet for 6 million flood victims in Pakistan'
+p147
+sa(dp148
+g2
+S'http://www.reuters.com/article/companyNewsAndPR/idUS62436+14-Aug-2010+PRN20100814'
+p149
+sg4
+S'20100814\xc2\xa06:30PM UTC'
+p150
+sg6
+S'Following Is a Test Release'
+p151
+sa(dp152
+g2
+S'http://www.reuters.com/article/newsMaps/idUSTRE67D1GW20100814'
+p153
+sg4
+S'20100814\xc2\xa06:11PM UTC'
+p154
+sg6
+S'Venezuela probes opposition paper over morgue photo'
+p155
+sa(dp156
+g2
+S'http://www.reuters.com/article/environmentNews/idUSTRE67B1YK20100814'
+p157
+sg4
+S'20100814\xc2\xa06:09PM UTC'
+p158
+sg6
+S'Few Chernobyl radiation risks from Russia fires'
+p159
+sa(dp160
+g2
+S'http://www.reuters.com/article/GCA-GreenBusiness/idUSTRE65O5TA20100814'
+p161
+sg4
+S'20100814\xc2\xa06:08PM UTC'
+p162
+sg6
+S'On Florida trip, Obama vows to restore oil-hit Gulf'
+p163
+sa(dp164
+g2
+S'http://www.reuters.com/article/worldNews/idUSTRE67D0PW20100814'
+p165
+sg4
+S'20100814\xc2\xa06:07PM UTC'
+p166
+sg6
+S'India re-imposes curfew in Kashmir after deaths'
+p167
+sa(dp168
+g2
+S'http://www.reuters.com/article/ousivMolt/idUSTRE67C4U320100814'
+p169
+sg4
+S'20100814\xc2\xa06:04PM UTC'
+p170
+sg6
+S"Retailers' results may sway stocks"
+p171
+sa(dp172
+g2
+S'http://www.reuters.com/article/companyNewsAndPR/idUS61225+14-Aug-2010+PRN20100814'
+p173
+sg4
+S'20100814\xc2\xa06:00PM UTC'
+p174
+sg6
+S'Following Is a Test Release'
+p175
+sa(dp176
+g2
+S'http://www.reuters.com/article/sportsNews/idUSTRE67D10E20100814'
+p177
+sg4
+S'20100814\xc2\xa05:58PM UTC'
+p178
+sg6
+S'Watney breaks clear to lead PGA Championship'
+p179
+sa(dp180
+g2
+S'http://www.reuters.com/article/entertainmentNews/idUSTRE67D1DT20100814'
+p181
+sg4
+S'20100814\xc2\xa05:55PM UTC'
+p182
+sg6
+S'Jazz singer Abbey Lincoln dies'
+p183
+sa(dp184
+g2
+S'http://www.reuters.com/article/marketsNews/idUSN1423728420100814'
+p185
+sg4
+S'20100814\xc2\xa05:48PM UTC'
+p186
+sg6
+S'Apple manager charged in US with taking kickbacks'
+p187
+sa(dp188
+g2
+S'http://www.reuters.com/article/mediaNews/idUSN1421852320100814'
+p189
+sg4
+S'20100814\xc2\xa05:46PM UTC'
+p190
+sg6
+S'U.S. jazz singer Abbey Lincoln dies'
+p191
+sa(dp192
+g2
+S'http://www.reuters.com/article/companyNewsAndPR/idUS60860+14-Aug-2010+PRN20100814'
+p193
+sg4
+S'20100814\xc2\xa05:30PM UTC'
+p194
+sg6
+S'Following Is a Test Release'
+p195
+sa(dp196
+g2
+S'http://www.reuters.com/article/sportsNews/idUSTRE67D1CU20100814'
+p197
+sg4
+S'20100814\xc2\xa05:14PM UTC'
+p198
+sg6
+S'Virus behind my fitness problems: Roddick'
+p199
+sa(dp200
+g2
+S'http://www.reuters.com/article/companyNewsAndPR/idUS60467+14-Aug-2010+PRN20100814'
+p201
+sg4
+S'20100814\xc2\xa05:00PM UTC'
+p202
+sg6
+S'Following Is a Test Release'
+p203
+sa(dp204
+g2
+S'http://www.reuters.com/article/companyNewsAndPR/idUS60433+14-Aug-2010+PRN20100814'
+p205
+sg4
+S'20100814\xc2\xa04:58PM UTC'
+p206
+sg6
+S"The World's Greatest Catwalk in Copenhagen"
+p207
+sa(dp208
+g2
+S'http://www.reuters.com/article/pressRelease/idUS60344+14-Aug-2010+PRN20100814'
+p209
+sg4
+S'20100814\xc2\xa04:52PM UTC'
+p210
+sg6
+S'Concierge Auctions Sells Extraordinary Teton Valley Ranch In Jackson Hole, Wyoming'
+p211
+sa(dp212
+g2
+S'http://www.reuters.com/article/pressRelease/idUS60301+14-Aug-2010+MW20100814'
+p213
+sg4
+S'20100814\xc2\xa04:49PM UTC'
+p214
+sg6
+S' Media Advisory: Government of Canada to Provide Follow-Up Technical Briefing Regarding the MV Sun Sea'
+p215
+sa(dp216
+g2
+S'http://www.reuters.com/article/companyNewsAndPR/idUS60295+14-Aug-2010+MW20100814'
+p217
+sg4
+S'20100814\xc2\xa04:48PM UTC'
+p218
+sg6
+S' Media Advisory: Government of Canada to Provide Follow-Up Technical Briefing Regarding the MV Sun Sea'
+p219
+sa(dp220
+g2
+S'http://www.reuters.com/article/BROKER/idUSN1420564920100814'
+p221
+sg4
+S'20100814\xc2\xa04:35PM UTC'
+p222
+sg6
+S'WRAPUP 2-On Florida trip, Obama vows to restore oil-hit Gulf'
+p223
+sa(dp224
+g2
+S'http://www.reuters.com/article/companyNewsAndPR/idUS59975+14-Aug-2010+PRN20100814'
+p225
+sg4
+S'20100814\xc2\xa04:30PM UTC'
+p226
+sg6
+S'Following Is a Test Release'
+p227
+sa(dp228
+g2
+S'http://www.reuters.com/article/sportsNews/idUSTRE67D14W20100814'
+p229
+sg4
+S'20100814\xc2\xa04:27PM UTC'
+p230
+sg6
+S'Shooting hits women baseball World Cup in Caracas'
+p231
+sa(dp232
+g2
+S'http://www.reuters.com/article/GCA-BusinessofGreen/idUSTRE67D18420100814'
+p233
+sg4
+S'20100814\xc2\xa04:18PM UTC'
+p234
+sg6
+S'BP could get final "go" to kill well by Tuesday'
+p235
+sa(dp236
+g2
+S'http://www.reuters.com/article/BROKER/idUSN1452714720100814'
+p237
+sg4
+S'20100814\xc2\xa04:15PM UTC'
+p238
+sg6
+S'UPDATE 1-BP could get final "go" to kill well by Tuesday - US'
+p239
+sa(dp240
+g2
+S'http://www.reuters.com/article/companyNewsAndPR/idUS59036+14-Aug-2010+PRN20100814'
+p241
+sg4
+S'20100814\xc2\xa04:00PM UTC'
+p242
+sg6
+S'Following Is a Test Release'
+p243
+sa(dp244
+g2
+S'http://www.reuters.com/article/companyNewsAndPR/idUS58769+14-Aug-2010+BW20100814'
+p245
+sg4
+S'20100814\xc2\xa03:48PM UTC'
+p246
+sg6
+S'Strayer Education, Inc. Schedules Conference Call to Discuss Recent Data Released by the Department of Education'
+p247
+sa(dp248
+g2
+S'http://www.reuters.com/article/companyNewsAndPR/idUS58211+14-Aug-2010+PRN20100814'
+p249
+sg4
+S'20100814\xc2\xa03:30PM UTC'
+p250
+sg6
+S'Following Is a Test Release'
+p251
+sa(dp252
+g2
+S'http://www.reuters.com/article/sportsNews/idUSTRE67C3UQ20100814'
+p253
+sg4
+S'20100814\xc2\xa03:28PM UTC'
+p254
+sg6
+S'Tearful Ivanovic forced out of semi-final'
+p255
+sa(dp256
+g2
+S'http://www.reuters.com/article/companyNewsAndPR/idUS58152+14-Aug-2010+PRN20100814'
+p257
+sg4
+S'20100814\xc2\xa03:26PM UTC'
+p258
+sg6
+S"Sarah Palin Hits 'Virtual' Campaign Trail for Washington Senate Candidate Clint Didier"
+p259
+sa(dp260
+g2
+S'http://www.reuters.com/article/worldNews/idUSTRE67D18J20100814'
+p261
+sg4
+S'20100814\xc2\xa03:12PM UTC'
+p262
+sg6
+S'Armed men kidnap two Darfur peacekeepers'
+p263
+sa(dp264
+g2
+S'http://www.reuters.com/article/companyNewsAndPR/idUS57513+14-Aug-2010+PRN20100814'
+p265
+sg4
+S'20100814\xc2\xa03:00PM UTC'
+p266
+sg6
+S'Following Is a Test Release'
+p267
+sa(dp268
+g2
+S'http://www.reuters.com/article/BROKER/idUSWEN883920100814'
+p269
+sg4
+S'20100814\xc2\xa02:50PM UTC'
+p270
+sg6
+S'BP could get final "go" to kill well by Tuesday - US'
+p271
+sa(dp272
+g2
+S'http://www.reuters.com/article/worldNews/idUSTRE67D16W20100814'
+p273
+sg4
+S'20100814\xc2\xa02:38PM UTC'
+p274
+sg6
+S'Suspected Qaeda gunmen kill Yemen security officer'
+p275
+sa(dp276
+g2
+S'http://www.reuters.com/article/companyNewsAndPR/idUS56830+14-Aug-2010+BW20100814'
+p277
+sg4
+S'20100814\xc2\xa02:31PM UTC'
+p278
+sg6
+S'Military Order of the Purple Heart Elects New National Commander'
+p279
+sa(dp280
+g2
+S'http://www.reuters.com/article/companyNewsAndPR/idUS56825+14-Aug-2010+PRN20100814'
+p281
+sg4
+S'20100814\xc2\xa02:30PM UTC'
+p282
+sg6
+S"SIOA Condemns Obama's Blessing of Ground Zero Mega-Mosque; Bolton, Wilders, Gingrich to Speak At 9/11 Rally"
+p283
+sa(dp284
+g2
+S'http://www.reuters.com/article/companyNewsAndPR/idUS56818+14-Aug-2010+PRN20100814'
+p285
+sg4
+S'20100814\xc2\xa02:30PM UTC'
+p286
+sg6
+S'Following Is a Test Release'
+p287
+sa(dp288
+g2
+S'http://www.reuters.com/article/companyNewsAndPR/idUS56808+14-Aug-2010+PRN20100814'
+p289
+sg4
+S'20100814\xc2\xa02:30PM UTC'
+p290
+sg6
+S'Foresters, KaBOOM! & Volunteers Build New Playground for Akron Children'
+p291
+sa(dp292
+g2
+S'http://www.reuters.com/article/companyNewsAndPR/idUS56558+14-Aug-2010+PRN20100814'
+p293
+sg4
+S'20100814\xc2\xa02:19PM UTC'
+p294
+sg6
+S"Bauer Says That Obama's Support for Ground Zero Mosque Leads to the 'Final and Irrevocable Divorce' of the People From the President"
+p295
+sa(dp296
+g2
+S'http://www.reuters.com/article/topNews/idUSTRE67D13L20100814'
+p297
+sg4
+S'20100814\xc2\xa02:08PM UTC'
+p298
+sg6
+S'U.S. missile strike kills 12 militants in Pakistan'
+p299
+sa(dp300
+g2
+S'http://www.reuters.com/article/companyNewsAndPR/idUS55731+14-Aug-2010+PRN20100814'
+p301
+sg4
+S'20100814\xc2\xa02:00PM UTC'
+p302
+sg6
+S'Following Is a Test Release'
+p303
+sa(dp304
+g2
+S'http://www.reuters.com/article/sportsNews/idUSTRE67C00220100814'
+p305
+sg4
+S'20100814\xc2\xa01:54PM UTC'
+p306
+sg6
+S'Happier Tiger returns to more familiar major territory'
+p307
+sa(dp308
+g2
+S'http://www.reuters.com/article/pressReleasesMolt/idUSTRE67D0VE20100814'
+p309
+sg4
+S'20100814\xc2\xa01:44PM UTC'
+p310
+sg6
+S'Russia to consider fate of grain export ban after October 1'
+p311
+sa(dp312
+g2
+S'http://www.reuters.com/article/companyNewsAndPR/idUS54893+14-Aug-2010+PRN20100814'
+p313
+sg4
+S'20100814\xc2\xa01:30PM UTC'
+p314
+sg6
+S'Following Is a Test Release'
+p315
+sa(dp316
+g2
+S'http://www.reuters.com/article/politicsNews/idUSTRE67D04920100814'
+p317
+sg4
+S'20100814\xc2\xa01:13PM UTC'
+p318
+sg6
+S'Obama backs controversial New York mosque project'
+p319
+sa(dp320
+g2
+S'http://www.reuters.com/article/companyNewsAndPR/idUS52539+14-Aug-2010+PRN20100814'
+p321
+sg4
+S'20100814\xc2\xa01:00PM UTC'
+p322
+sg6
+S'Following Is a Test Release'
+p323
+sa(dp324
+g2
+S'http://www.reuters.com/article/companyNewsAndPR/idUS52494+14-Aug-2010+PRN20100814'
+p325
+sg4
+S'20100814\xc2\xa01:00PM UTC'
+p326
+sg6
+S"AARP, Illinoisans Celebrate Social Security's 75th Birthday"
+p327
+sa(dp328
+g2
+S'http://www.reuters.com/article/companyNewsAndPR/idUS52479+14-Aug-2010+BW20100814'
+p329
+sg4
+S'20100814\xc2\xa01:00PM UTC'
+p330
+sg6
+S'For the First Time Ever, the Force Will Be with You on Blu-ray! Highly Anticipated Complete Star Wars Saga Readied for High Definition Blu-ray Debut'
+p331
+sa(dp332
+g2
+S'http://www.reuters.com/article/companyNewsAndPR/idUS49579+14-Aug-2010+PRN20100814'
+p333
+sg4
+S'20100814\xc2\xa012:30PM UTC'
+p334
+sg6
+S'Following Is a Test Release'
+p335
+sa(dp336
+g2
+S'http://www.reuters.com/article/sportsNews/idUSTRE67C4RF20100814'
+p337
+sg4
+S'20100814\xc2\xa012:18PM UTC'
+p338
+sg6
+S'Sparkling Felix takes Diamond League double'
+p339
+sa(dp340
+g2
+S'http://www.reuters.com/article/companyNewsAndPR/idUS47333+14-Aug-2010+PRN20100814'
+p341
+sg4
+S'20100814\xc2\xa012:09PM UTC'
+p342
+sg6
+S'Aerojet Propulsion Critical to Atlas V Launch of Advanced Extremely High Frequency Satellite'
+p343
+sa(dp344
+g2
+S'http://www.reuters.com/article/rbssPreciousMetalsMinerals/idUSN1421425220100814'
+p345
+sg4
+S'20100814\xc2\xa012:03PM UTC'
+p346
+sg6
+S'Bolivia in talks to end protests hitting key mines'
+p347
+sa(dp348
+g2
+S'http://www.reuters.com/article/nonCyclicalConsumerGoodsSector/idUSN1421119020100814'
+p349
+sg4
+S'20100814\xc2\xa012:01PM UTC'
+p350
+sg6
+S'Brazil JBS Q2 profit tumbles 97 pct, revenues up'
+p351
+sa(dp352
+g2
+S'http://www.reuters.com/article/companyNewsAndPR/idUS46379+14-Aug-2010+PRN20100814'
+p353
+sg4
+S'20100814\xc2\xa012:00PM UTC'
+p354
+sg6
+S'Following Is a Test Release'
+p355
+sa(dp356
+g2
+S'http://www.reuters.com/article/newsMaps/idUSTRE67D0Z920100814'
+p357
+sg4
+S'20100814\xc2\xa011:54AM UTC'
+p358
+sg6
+S'Lebanese forces shoot dead suspected militant leader'
+p359
+sa(dp360
+g2
+S'http://www.reuters.com/article/companyNewsAndPR/idUS43404+14-Aug-2010+MW20100814'
+p361
+sg4
+S'20100814\xc2\xa011:31AM UTC'
+p362
+sg6
+S' Government of Canada Pledges Up to $33 Million in Response to Floods in Pakistan'
+p363
+sa(dp364
+g2
+S'http://www.reuters.com/article/companyNewsAndPR/idUS43340+14-Aug-2010+PRN20100814'
+p365
+sg4
+S'20100814\xc2\xa011:30AM UTC'
+p366
+sg6
+S'Following Is a Test Release'
+p367
+sa(dp368
+g2
+S'http://www.reuters.com/article/rbssWirelessTelecommunicationServices/idUSWEA389920100814'
+p369
+sg4
+S'20100814\xc2\xa011:28AM UTC'
+p370
+sg6
+S'CORRECTED-OFFICIAL-Econet gets $25.6 mln loan guarantee'
+p371
+sa(dp372
+g2
+S'http://www.reuters.com/article/rbssWirelessTelecommunicationServices/idUSLDE67D06520100814'
+p373
+sg4
+S'20100814\xc2\xa011:16AM UTC'
+p374
+sg6
+S'CORRECTED-OFFICIAL-Econet gets $25.6 mln loan guarantee'
+p375
+sa(dp376
+g2
+S'http://www.reuters.com/article/sportsNews/idUSTRE67D0YI20100814'
+p377
+sg4
+S'20100814\xc2\xa011:13AM UTC'
+p378
+sg6
+S'Inaugural youth Olympics opens in Singapore'
+p379
+sa(dp380
+g2
+S'http://www.reuters.com/article/hotStocksNews/idUSLDE67D05P20100814'
+p381
+sg4
+S'20100814\xc2\xa011:03AM UTC'
+p382
+sg6
+S'Rugby-France prop Barcella out for at least seven months'
+p383
+sa(dp384
+g2
+S'http://www.reuters.com/article/americasDealsNews/idUSTRE67D0YB20100814'
+p385
+sg4
+S'20100814\xc2\xa011:01AM UTC'
+p386
+sg6
+S'Synergies to add $3 billion to new LAN-TAM group: report'
+p387
+sa(dp388
+g2
+S'http://www.reuters.com/article/companyNewsAndPR/idUS40609+14-Aug-2010+MW20100814'
+p389
+sg4
+S'20100814\xc2\xa011:00AM UTC'
+p390
+sg6
+S' The 2010 Western Foodservice & Hospitality Expo Opens Today at the Los Angeles Convention Center'
+p391
+sa(dp392
+g2
+S'http://www.reuters.com/article/winterOlympic/idUSSGE66R03W20100814'
+p393
+sg4
+S'20100814\xc2\xa011:00AM UTC'
+p394
+sg6
+S'Olympics-Inaugural youth Olympics opens in Singapore'
+p395
+sa(dp396
+g2
+S'http://www.reuters.com/article/companyNewsAndPR/idUS40556+14-Aug-2010+PRN20100814'
+p397
+sg4
+S'20100814\xc2\xa011:00AM UTC'
+p398
+sg6
+S'Following Is a Test Release'
+p399
+sa(dp400
+g2
+S'http://www.reuters.com/article/pressRelease/idUS40514+14-Aug-2010+MW20100814'
+p401
+sg4
+S'20100814\xc2\xa011:00AM UTC'
+p402
+sg6
+S' The 2010 Western Foodservice & Hospitality Expo Opens Today at the Los Angeles Convention Center'
+p403
+sa(dp404
+g2
+S'http://www.reuters.com/article/companyNewsAndPR/idUS40430+14-Aug-2010+PRN20100814'
+p405
+sg4
+S'20100814\xc2\xa010:58AM UTC'
+p406
+sg6
+S'REG-Not Available: Test Message - Please Delete'
+p407
+sa(dp408
+g2
+S'http://www.reuters.com/article/companyNewsAndPR/idUS40352+14-Aug-2010+BW20100814'
+p409
+sg4
+S'20100814\xc2\xa010:58AM UTC'
+p410
+sg6
+S'Rick`s Cabaret International, Inc. Reports July Nightclub Sales of $6.73 Million'
+p411
+sa(dp412
+g2
+S'http://www.reuters.com/article/companyNewsAndPR/idUS40318+14-Aug-2010+PRN20100814'
+p413
+sg4
+S'20100814\xc2\xa010:57AM UTC'
+p414
+sg6
+S'Following Is a Test Release'
+p415
+sa(dp416
+g2
+S'http://www.reuters.com/article/americasMergersNews/idUSN1420342620100814'
+p417
+sg4
+S'20100814\xc2\xa010:56AM UTC'
+p418
+sg6
+S'Synergies to add $3 bln to new LAN-TAM group-report'
+p419
+sa(dp420
+g2
+S'http://www.reuters.com/article/GCA-BarackObama/idUSTRE6701C420100814'
+p421
+sg4
+S'20100814\xc2\xa010:50AM UTC'
+p422
+sg6
+S'Karzai asks Obama for review of Afghanistan war'
+p423
+sa(dp424
+g2
+S'http://www.reuters.com/article/companyNewsAndPR/idUS37892+14-Aug-2010+PRN20100814'
+p425
+sg4
+S'20100814\xc2\xa010:30AM UTC'
+p426
+sg6
+S'Following Is a Test Release'
+p427
+sa(dp428
+g2
+S'http://www.reuters.com/article/pressRelease/idUS37356+14-Aug-2010+HUG20100814'
+p429
+sg4
+S'20100814\xc2\xa010:24AM UTC'
+p430
+sg6
+S'RomReal: Presentation of 2nd Quarter 2010 Result'
+p431
+sa(dp432
+g2
+S'http://www.reuters.com/article/energySector/idUSLDE67D05D20100814'
+p433
+sg4
+S'20100814\xc2\xa010:12AM UTC'
+p434
+sg6
+S'Eq. Guinea sees big boost in oil output by 2012'
+p435
+sa(dp436
+g2
+S'http://www.reuters.com/article/companyNewsAndPR/idUS35109+14-Aug-2010+PRN20100814'
+p437
+sg4
+S'20100814\xc2\xa010:00AM UTC'
+p438
+sg6
+S'Following Is a Test Release'
+p439
+sa(dp440
+g2
+S'http://www.reuters.com/article/companyNewsAndPR/idUS35072+14-Aug-2010+PRN20100814'
+p441
+sg4
+S'20100814\xc2\xa010:00AM UTC'
+p442
+sg6
+S'Suicide Survivor Raises Awareness for Depression With 50-Day, 835-Mile Walk Across the United States'
+p443
+sa(dp444
+g2
+S'http://www.reuters.com/article/artsNews/idUSTRE67D0VY20100814'
+p445
+sg4
+S'20100814\xc2\xa09:46AM UTC'
+p446
+sg6
+S'South American rhythm sets beat at Edinburgh fest'
+p447
+sa(dp448
+g2
+S'http://www.reuters.com/article/companyNewsAndPR/idUS31911+14-Aug-2010+PRN20100814'
+p449
+sg4
+S'20100814\xc2\xa09:30AM UTC'
+p450
+sg6
+S'Following Is a Test Release'
+p451
+sa(dp452
+g2
+S'http://www.reuters.com/article/businessNews/idUSTRE67D0UE20100814'
+p453
+sg4
+S'20100814\xc2\xa09:08AM UTC'
+p454
+sg6
+S'Germany sticks to debt target despite boom: finance minister'
+p455
+sa(dp456
+g2
+S'http://www.reuters.com/article/companyNewsAndPR/idUS29909+14-Aug-2010+BW20100814'
+p457
+sg4
+S'20100814\xc2\xa09:08AM UTC'
+p458
+sg6
+S'Data on Investigational Drug Belatacept in Kidney Transplant Recipients to Be Presented at 23rd International Congress of The Transplantation Society'
+p459
+sa(dp460
+g2
+S'http://www.reuters.com/article/worldNews/idUSTRE67D0N420100814'
+p461
+sg4
+S'20100814\xc2\xa09:03AM UTC'
+p462
+sg6
+S'Three shot dead in Thai restive south'
+p463
+sa(dp464
+g2
+S'http://www.reuters.com/article/companyNewsAndPR/idUS29212+14-Aug-2010+PRN20100814'
+p465
+sg4
+S'20100814\xc2\xa09:00AM UTC'
+p466
+sg6
+S'Following Is a Test Release'
+p467
+sa(dp468
+g2
+S'http://www.reuters.com/article/companyNewsAndPR/idUS28653+14-Aug-2010+PRN20100814'
+p469
+sg4
+S'20100814\xc2\xa08:36AM UTC'
+p470
+sg6
+S'United Launch Alliance Atlas V Successfully Launches First AEHF Mission'
+p471
+sa(dp472
+g2
+S'http://www.reuters.com/article/worldNews/idUSTRE67D0SP20100814'
+p473
+sg4
+S'20100814\xc2\xa08:32AM UTC'
+p474
+sg6
+S"UAE queries Germany over suspected spy's release"
+p475
+sa(dp476
+g2
+S'http://www.reuters.com/article/companyNewsAndPR/idUS28571+14-Aug-2010+PRN20100814'
+p477
+sg4
+S'20100814\xc2\xa08:30AM UTC'
+p478
+sg6
+S'Following Is a Test Release'
+p479
+sa(dp480
+g2
+S'http://www.reuters.com/article/worldNews/idUSTRE67D0SG20100814'
+p481
+sg4
+S'20100814\xc2\xa08:26AM UTC'
+p482
+sg6
+S'Sri Lanka Tamils tell commission about rights abuse'
+p483
+sa(dp484
+g2
+S'http://www.reuters.com/article/companyNewsAndPR/idUS28484+14-Aug-2010+PRN20100814'
+p485
+sg4
+S'20100814\xc2\xa08:25AM UTC'
+p486
+sg6
+S"Pratt & Whitney Rocketdyne Successfully Powers Launch of U.S. Military's Advanced Extremely High Frequency Communications Satellite"
+p487
+sa(dp488
+g2
+S'http://www.reuters.com/article/companyNewsAndPR/idUS28299+14-Aug-2010+PRN20100814'
+p489
+sg4
+S'20100814\xc2\xa08:14AM UTC'
+p490
+sg6
+S'First Advanced Extremely High Frequency Satellite Built by Lockheed Martin Launched Successfully'
+p491
+sa(dp492
+g2
+S'http://www.reuters.com/article/companyNewsAndPR/idUS28018+14-Aug-2010+PRN20100814'
+p493
+sg4
+S'20100814\xc2\xa08:00AM UTC'
+p494
+sg6
+S'Following Is a Test Release'
+p495
+sa(dp496
+g2
+S'http://www.reuters.com/article/companyNewsAndPR/idUS28014+14-Aug-2010+PRN20100814'
+p497
+sg4
+S'20100814\xc2\xa08:00AM UTC'
+p498
+sg6
+S'Parents Magazine Features Back to School Healthy Lunchbox Ideas and Back to School Fashion'
+p499
+sa(dp500
+g2
+S'http://www.reuters.com/article/companyNewsAndPR/idUS28006+14-Aug-2010+BW20100814'
+p501
+sg4
+S'20100814\xc2\xa08:00AM UTC'
+p502
+sg6
+S'Annual Savvy Senior Award September 12, 2010'
+p503
+sa(dp504
+g2
+S'http://www.reuters.com/article/healthNews/idUSTRE67D0R920100814'
+p505
+sg4
+S'20100814\xc2\xa07:57AM UTC'
+p506
+sg6
+S'High-risk pools an early test for health overhaul'
+p507
+sa(dp508
+g2
+S'http://www.reuters.com/article/europeanCurrencyNews/idUSLDE67D02X20100814'
+p509
+sg4
+S'20100814\xc2\xa07:55AM UTC'
+p510
+sg6
+S'UPDATE 2-Swedish PM offers tax cuts, starts election campaign'
+p511
+sa(dp512
+g2
+S'http://www.reuters.com/article/worldNews/idUSTRE67D0LY20100814'
+p513
+sg4
+S'20100814\xc2\xa07:52AM UTC'
+p514
+sg6
+S'Thieves compound misery in Pakistani floods'
+p515
+sa(dp516
+g2
+S'http://www.reuters.com/article/worldNews/idUSTRE67D0QH20100814'
+p517
+sg4
+S'20100814\xc2\xa07:51AM UTC'
+p518
+sg6
+S'Lebanon sets up fund to equip army'
+p519
+sa(dp520
+g2
+S'http://www.reuters.com/article/companyNewsAndPR/idUS27677+14-Aug-2010+PRN20100814'
+p521
+sg4
+S'20100814\xc2\xa07:50AM UTC'
+p522
+sg6
+S"Carfax, MIS Extend Carbon Offset Program for 'Show Me The Carfax' Race Weekend"
+p523
+sa(dp524
+g2
+S'http://www.reuters.com/article/businessNews/idUSTRE67D0PE20100814'
+p525
+sg4
+S'20100814\xc2\xa07:41AM UTC'
+p526
+sg6
+S"Will continue watching yen carefully: Japan's PM Kan"
+p527
+sa(dp528
+g2
+S'http://www.reuters.com/article/worldNews/idUSTRE67D0P720100814'
+p529
+sg4
+S'20100814\xc2\xa07:37AM UTC'
+p530
+sg6
+S'Madagascar leader signs deal with minor parties'
+p531
+sa(dp532
+g2
+S'http://www.reuters.com/article/worldNews/idUSTRE67C50Q20100814'
+p533
+sg4
+S'20100814\xc2\xa07:31AM UTC'
+p534
+sg6
+S'Labor has big poll lead before Australia election'
+p535
+sa(dp536
+g2
+S'http://www.reuters.com/article/companyNewsAndPR/idUS27214+14-Aug-2010+PRN20100814'
+p537
+sg4
+S'20100814\xc2\xa07:30AM UTC'
+p538
+sg6
+S'Following Is a Test Release'
+p539
+sa(dp540
+g2
+S'http://www.reuters.com/article/companyNewsAndPR/idUS26552+14-Aug-2010+PRN20100814'
+p541
+sg4
+S'20100814\xc2\xa07:00AM UTC'
+p542
+sg6
+S'Following Is a Test Release'
+p543
+sa(dp544
+g2
+S'http://www.reuters.com/article/lifestyleMolt/idUSTRE67D0NH20100814'
+p545
+sg4
+S'20100814\xc2\xa06:40AM UTC'
+p546
+sg6
+S"Japan's gay community parades for first time in 3 years"
+p547
+sa(dp548
+g2
+S'http://www.reuters.com/article/companyNewsAndPR/idUS26179+14-Aug-2010+PRN20100814'
+p549
+sg4
+S'20100814\xc2\xa06:30AM UTC'
+p550
+sg6
+S'Following Is a Test Release'
+p551
+sa(dp552
+g2
+S'http://www.reuters.com/article/companyNewsAndPR/idUS25694+14-Aug-2010+PRN20100814'
+p553
+sg4
+S'20100814\xc2\xa06:00AM UTC'
+p554
+sg6
+S'Following Is a Test Release'
+p555
+sa(dp556
+g2
+S'http://www.reuters.com/article/companyNewsAndPR/idUS25669+14-Aug-2010+PRN20100814'
+p557
+sg4
+S'20100814\xc2\xa05:59AM UTC'
+p558
+sg6
+S'GOOD MORNING -- August 14, 2010'
+p559
+sa(dp560
+g2
+S'http://www.reuters.com/article/companyNewsAndPR/idUS25225+14-Aug-2010+PRN20100814'
+p561
+sg4
+S'20100814\xc2\xa05:30AM UTC'
+p562
+sg6
+S'Following Is a Test Release'
+p563
+sa(dp564
+g2
+S'http://www.reuters.com/article/usDollarRpt/idUSTOE67D00G20100814'
+p565
+sg4
+S'20100814\xc2\xa05:10AM UTC'
+p566
+sg6
+S'Japan PM Kan: Will continue watching yen carefully -Jiji'
+p567
+sa(dp568
+g2
+S'http://www.reuters.com/article/companyNewsAndPR/idUS24541+14-Aug-2010+PRN20100814'
+p569
+sg4
+S'20100814\xc2\xa05:00AM UTC'
+p570
+sg6
+S'Following Is a Test Release'
+p571
+sa(dp572
+g2
+S'http://www.reuters.com/article/worldNews/idUSTRE67D0MX20100814'
+p573
+sg4
+S'20100814\xc2\xa05:00AM UTC'
+p574
+sg6
+S'China widens milk powder checks, tests breast milk'
+p575
+sa(dp576
+g2
+S'http://www.reuters.com/article/rbssWirelessTelecommunicationServices/idUSLR68420100814'
+p577
+sg4
+S'20100814\xc2\xa04:58AM UTC'
+p578
+sg6
+S'DIARY - Egypt/Sudan - August 14'
+p579
+sa(dp580
+g2
+S'http://www.reuters.com/article/marketsNews/idUSTOE67D00420100814'
+p581
+sg4
+S'20100814\xc2\xa04:47AM UTC'
+p582
+sg6
+S'RPT-Japan PM Kan: Will continue watching yen carefully -Jiji'
+p583
+sa(dp584
+g2
+S'http://www.reuters.com/article/companyNewsAndPR/idUS24305+14-Aug-2010+PRN20100814'
+p585
+sg4
+S'20100814\xc2\xa04:46AM UTC'
+p586
+sg6
+S'Perfect World Announces Shareholder Resolutions Adopted at 2010 Annual General Meeting'
+p587
+sa(dp588
+g2
+S'http://www.reuters.com/article/marketsNews/idUSTOE67D00E20100814'
+p589
+sg4
+S'20100814\xc2\xa04:42AM UTC'
+p590
+sg6
+S'Japan PM Kan: Will continue watching yen carefully -Jiji'
+p591
+sa(dp592
+g2
+S'http://www.reuters.com/article/companyNewsAndPR/idUS24001+14-Aug-2010+PRN20100814'
+p593
+sg4
+S'20100814\xc2\xa04:30AM UTC'
+p594
+sg6
+S'Following Is a Test Release'
+p595
+sa(dp596
+g2
+S'http://www.reuters.com/article/companyNewsAndPR/idUS23307+14-Aug-2010+PRN20100814'
+p597
+sg4
+S'20100814\xc2\xa04:00AM UTC'
+p598
+sg6
+S'Following Is a Test Release'
+p599
+sa(dp600
+g2
+S'http://www.reuters.com/article/companyNewsAndPR/idUS22923+14-Aug-2010+PRN20100814'
+p601
+sg4
+S'20100814\xc2\xa03:30AM UTC'
+p602
+sg6
+S'Following Is a Test Release'
+p603
+sa(dp604
+g2
+S'http://www.reuters.com/article/worldNews/idUSTRE67D0KG20100814'
+p605
+sg4
+S'20100814\xc2\xa03:05AM UTC'
+p606
+sg6
+S'Gunmen kill 4 Iraqi policemen and burn two bodies'
+p607
+sa(dp608
+g2
+S'http://www.reuters.com/article/companyNewsAndPR/idUS22441+14-Aug-2010+PRN20100814'
+p609
+sg4
+S'20100814\xc2\xa03:00AM UTC'
+p610
+sg6
+S'Following Is a Test Release'
+p611
+sa(dp612
+g2
+S'http://www.reuters.com/article/companyNewsAndPR/idUS22431+14-Aug-2010+PRN20100814'
+p613
+sg4
+S'20100814\xc2\xa03:00AM UTC'
+p614
+sg6
+S'Breyers\xc2\xae Sundae Showcase Visits Nashville August 14!'
+p615
+sa(dp616
+g2
+S'http://www.reuters.com/article/companyNewsAndPR/idUS22148+14-Aug-2010+PRN20100814'
+p617
+sg4
+S'20100814\xc2\xa02:30AM UTC'
+p618
+sg6
+S'Following Is a Test Release'
+p619
+sa(dp620
+g2
+S'http://www.reuters.com/article/peopleNews/idUSTRE67C4MV20100814'
+p621
+sg4
+S'20100814\xc2\xa02:07AM UTC'
+p622
+sg6
+S'Zsa Zsa Gabor hospitalized after surgery'
+p623
+sa(dp624
+g2
+S'http://www.reuters.com/article/companyNewsAndPR/idUS21636+14-Aug-2010+PRN20100814'
+p625
+sg4
+S'20100814\xc2\xa02:00AM UTC'
+p626
+sg6
+S'Following Is a Test Release'
+p627
+sa(dp628
+g2
+S'http://www.reuters.com/article/secondAct/idUS4392528320100814'
+p629
+sg4
+S'20100814\xc2\xa02:00AM UTC'
+p630
+sg6
+S'Eco-Saturday: Long, Hot Summer, Farm Life and Walkable Cities'
+p631
+sa(dp632
+g2
+S'http://www.reuters.com/article/mediaNews/idUSN1422303420100814'
+p633
+sg4
+S'20100814\xc2\xa01:59AM UTC'
+p634
+sg6
+S'UPDATE 1-Zsa Zsa Gabor hospitalized after surgery'
+p635
+sa(dp636
+g2
+S'http://www.reuters.com/article/rbssAluminum/idUSSGE67D00H20100814'
+p637
+sg4
+S'20100814\xc2\xa01:52AM UTC'
+p638
+sg6
+S'TABLE-NALCO April-June net profit up 124.63 pct'
+p639
+sa(dp640
+g2
+S'http://www.reuters.com/article/rbssSteel/idUSJAK3180720100814'
+p641
+sg4
+S'20100814\xc2\xa01:51AM UTC'
+p642
+sg6
+S'Krakatau Steel says jv to import 5 mln tonnes/yr iron ore'
+p643
+sa(dp644
+g2
+S'http://www.reuters.com/article/sportsNews/idUSTRE67D0FY20100814'
+p645
+sg4
+S'20100814\xc2\xa01:39AM UTC'
+p646
+sg6
+S'Pujols leads Cardinals to win over Cubs'
+p647
+sa(dp648
+g2
+S'http://www.reuters.com/article/companyNewsAndPR/idUS21414+14-Aug-2010+PRN20100814'
+p649
+sg4
+S'20100814\xc2\xa01:30AM UTC'
+p650
+sg6
+S'Following Is a Test Release'
+p651
+sa(dp652
+g2
+S'http://www.reuters.com/article/worldNews/idUSTRE67D0HU20100814'
+p653
+sg4
+S'20100814\xc2\xa01:01AM UTC'
+p654
+sg6
+S"Hong Kong player shot in leg at women's baseball championship"
+p655
+sa(dp656
+g2
+S'http://www.reuters.com/article/companyNewsAndPR/idUS21119+14-Aug-2010+PRN20100814'
+p657
+sg4
+S'20100814\xc2\xa01:00AM UTC'
+p658
+sg6
+S'Following Is a Test Release'
+p659
+sa(dp660
+g2
+S'http://www.reuters.com/article/companyNewsAndPR/idUS21076+14-Aug-2010+MW20100814'
+p661
+sg4
+S'20100814\xc2\xa012:58AM UTC'
+p662
+sg6
+S' CR2 Announces Its 2Q10 and 1H10 results'
+p663
+sa(dp664
+g2
+S'http://www.reuters.com/article/domesticNews/idUSTRE67D0H720100814'
+p665
+sg4
+S'20100814\xc2\xa012:51AM UTC'
+p666
+sg6
+S'Malone and Pippen inducted into basketball Hall of Fame'
+p667
+sa(dp668
+g2
+S'http://www.reuters.com/article/companyNewsAndPR/idUS20905+14-Aug-2010+PRN20100814'
+p669
+sg4
+S'20100814\xc2\xa012:30AM UTC'
+p670
+sg6
+S'Following Is a Test Release'
+p671
+sa(dp672
+g2
+S'http://www.reuters.com/article/ventureDealsBeatNews/idUS118200328620100814'
+p673
+sg4
+S'20100814\xc2\xa012:29AM UTC'
+p674
+sg6
+S'Google confirms acquisition of virtual currency firm Jambool'
+p675
+sa(dp676
+g2
+S'http://www.reuters.com/article/companyNewsAndPR/idUS20699+14-Aug-2010+BW20100814'
+p677
+sg4
+S'20100814\xc2\xa012:12AM UTC'
+p678
+sg6
+S'Pittsburgh Law Office of Alfred G. Yates Jr., PC Announces Class Action Lawsuit On Behalf of Shareholders of Education Management Corp. (EDMC)'
+p679
+sa(dp680
+g2
+S'http://www.reuters.com/article/companyNewsAndPR/idUS20301+14-Aug-2010+PRN20100814'
+p681
+sg4
+S'20100814\xc2\xa012:01AM UTC'
+p682
+sg6
+S"Jaguar XJ75 Platinum Concept Commemorates Brand's 75th Anniversary at Pebble Beach Concours d'Elegance"
+p683
+sa(dp684
+g2
+S'http://www.reuters.com/article/companyNewsAndPR/idUS20297+14-Aug-2010+PRN20100814'
+p685
+sg4
+S'20100814\xc2\xa012:01AM UTC'
+p686
+sg6
+S'U.S. Census Bureau Daily Feature for August 14'
+p687
+sa(dp688
+g2
+S'http://www.reuters.com/article/companyNewsAndPR/idUS20290+14-Aug-2010+PRN20100814'
+p689
+sg4
+S'20100814\xc2\xa012:00AM UTC'
+p690
+sg6
+S'Following Is a Test Release'
+p691
+sa(dp692
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=RCDOVE67ETKB1'
+p693
+sg4
+S'20100814\xc2\xa08:26PM UTC'
+p694
+sg6
+S"U.N.'s Ban Ki-moon visits Pakistan"
+p695
+sa(dp696
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=RCDOVE67DSWF1'
+p697
+sg4
+S'20100814\xc2\xa05:46PM UTC'
+p698
+sg6
+S'Curfew in Kashmir'
+p699
+sa(dp700
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=RCDOVE67DSV31'
+p701
+sg4
+S'20100814\xc2\xa04:41PM UTC'
+p702
+sg6
+S'Obama vows to restore Gulf Coast'
+p703
+sa(dp704
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=RCDOVE67DSQV1'
+p705
+sg4
+S'20100814\xc2\xa02:21PM UTC'
+p706
+sg6
+S'Fires rage in Portugal and Russia.'
+p707
+sa(dp708
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=RCDOVE67DSQR1'
+p709
+sg4
+S'20100814\xc2\xa02:16PM UTC'
+p710
+sg6
+S'Floods turn Pakistan into disaster'
+p711
+sa(dp712
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=RCDOVE67DSMZ1'
+p713
+sg4
+S'20100814\xc2\xa012:21PM UTC'
+p714
+sg6
+S'Miracle child survives India floods.'
+p715
+sa(dp716
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=WAO1278450139349'
+p717
+sg4
+S'20100814\xc2\xa012:21PM UTC'
+p718
+sg6
+S'Miracle child survives Leh floods'
+p719
+sa(dp720
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=RCDOVE67DSMV1'
+p721
+sg4
+S'20100814\xc2\xa012:16PM UTC'
+p722
+sg6
+S'Gunmen in Jamaica go on rampage'
+p723
+sa(dp724
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=RCDOVE67DSJ31'
+p725
+sg4
+S'20100814\xc2\xa010:56AM UTC'
+p726
+sg6
+S'Dalai Lama prays for flood victims'
+p727
+sa(dp728
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=RCDOVE67DSIV1'
+p729
+sg4
+S'20100814\xc2\xa010:51AM UTC'
+p730
+sg6
+S'Peru battles rabies and the plague'
+p731
+sa(dp732
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=RCDOVE67DSIZ1'
+p733
+sg4
+S'20100814\xc2\xa010:51AM UTC'
+p734
+sg6
+S"Wyclef's music on hold for politics"
+p735
+sa(dp736
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=RCDOVE67DSIR1'
+p737
+sg4
+S'20100814\xc2\xa010:46AM UTC'
+p738
+sg6
+S'Dicey flood rescue caught on video'
+p739
+sa(dp740
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=RCDOVE67DSAV1'
+p741
+sg4
+S'20100814\xc2\xa07:41AM UTC'
+p742
+sg6
+S'Colombia pres. refuses FARC talks'
+p743
+sa(dp744
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=WAO1278450139319'
+p745
+sg4
+S'20100814\xc2\xa06:22AM UTC'
+p746
+sg6
+S'Swine flu toll rises in Orissa'
+p747
+sa(dp748
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=WAO1278450139304'
+p749
+sg4
+S'20100814\xc2\xa06:11AM UTC'
+p750
+sg6
+S'BlackBerry assures India on access'
+p751
+sa(dp752
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=WAO1278450139314'
+p753
+sg4
+S'20100814\xc2\xa05:17AM UTC'
+p754
+sg6
+S"'Fuss over superbug unnecessary'"
+p755
+sa.

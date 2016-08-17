@@ -1,0 +1,2125 @@
+(lp0
+(dp1
+S'href'
+p2
+S'http://www.reuters.com/article/worldNews/idUSL0754765920071007'
+p3
+sS'ts'
+p4
+S'20071006\xc2\xa011:46 PM EDT'
+p5
+sS'title'
+p6
+S'Train-bus collision in Cuba kills 28'
+p7
+sa(dp8
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSN06200355'
+p9
+sg4
+S'20071006\xc2\xa011:45 PM EDT'
+p10
+sg6
+S'Train-bus collision in Cuba kills 28'
+p11
+sa(dp12
+g2
+S'http://www.reuters.com/article/topNews/idUSN0625817120071007'
+p13
+sg4
+S'20071006\xc2\xa011:40 PM EDT'
+p14
+sg6
+S'U.S. hospital ship aims to grow goodwill in Americas'
+p15
+sa(dp16
+g2
+S'http://www.reuters.com/article/environmentNews/idUSSP7495720071007'
+p17
+sg4
+S'20071006\xc2\xa011:31 PM EDT'
+p18
+sg6
+S'Typhoon hits Taiwan'
+p19
+sa(dp20
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSHAN3267'
+p21
+sg4
+S'20071006\xc2\xa011:24 PM EDT'
+p22
+sg6
+S'Vietnam provinces fight worst floods in decades'
+p23
+sa(dp24
+g2
+S'http://www.reuters.com/article/homepageCrisis/idUSN06258171._CH_.2400'
+p25
+sg4
+S'20071006\xc2\xa011:02 PM EDT'
+p26
+sg6
+S'US hospital ship aims to grow goodwill in Americas'
+p27
+sa(dp28
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSN06258171'
+p29
+sg4
+S'20071006\xc2\xa011:02 PM EDT'
+p30
+sg6
+S'US hospital ship aims to grow goodwill in Americas'
+p31
+sa(dp32
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSL07547659'
+p33
+sg4
+S'20071006\xc2\xa010:57 PM EDT'
+p34
+sg6
+S'More than 20 dead in Cuba train-bus crash - TV'
+p35
+sa(dp36
+g2
+S'http://www.reuters.com/article/domesticNews/idUSSP7358320071007'
+p37
+sg4
+S'20071006\xc2\xa009:17 PM EDT'
+p38
+sg6
+S'Rusty Clemens called on in do-or-die game for Yankees'
+p39
+sa(dp40
+g2
+S'http://www.reuters.com/article/domesticNews/idUSN0625560220071007'
+p41
+sg4
+S'20071006\xc2\xa009:10 PM EDT'
+p42
+sg6
+S'Man sentenced in "pride" killing of ostrich: report'
+p43
+sa(dp44
+g2
+S'http://www.reuters.com/article/reutersEdge/idUSN0514246220071007'
+p45
+sg4
+S'20071006\xc2\xa009:08 PM EDT'
+p46
+sg6
+S"RIM's push into retail market starts to bite"
+p47
+sa(dp48
+g2
+S'http://www.reuters.com/article/domesticNews/idUSN0320499020071007'
+p49
+sg4
+S'20071006\xc2\xa008:49 PM EDT'
+p50
+sg6
+S'Airlines could see more green by abandoning cash'
+p51
+sa(dp52
+g2
+S'http://www.reuters.com/article/reviewsNews/idUSN0429611320071007'
+p53
+sg4
+S'20071006\xc2\xa008:43 PM EDT'
+p54
+sg6
+S'"Friday Night Lights" kicks off on new night'
+p55
+sa(dp56
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSL07644671'
+p57
+sg4
+S'20071006\xc2\xa008:26 PM EDT'
+p58
+sg6
+S'Sinai Bedouin clash with police, 1 officer hurt'
+p59
+sa(dp60
+g2
+S'http://www.reuters.com/article/sportsNews/idUSB59602620071007'
+p61
+sg4
+S'20071006\xc2\xa008:15 PM EDT'
+p62
+sg6
+S"Sweden's Parnevik takes three-shot lead in Texas"
+p63
+sa(dp64
+g2
+S'http://www.reuters.com/article/mergersNews/idUSL0516542620071006'
+p65
+sg4
+S'20071006\xc2\xa007:05 PM EDT'
+p66
+sg6
+S"London's City to cut thousands of jobs in '07-'08"
+p67
+sa(dp68
+g2
+S'http://www.reuters.com/article/worldNews/idUSBLA67871620071006'
+p69
+sg4
+S'20071006\xc2\xa006:48 PM EDT'
+p70
+sg6
+S'Iran says French call for EU sanctions illegal'
+p71
+sa(dp72
+g2
+S'http://www.reuters.com/article/worldNews/idUSL0561169620071006'
+p73
+sg4
+S'20071006\xc2\xa006:43 PM EDT'
+p74
+sg6
+S'Campaigners mark Politkovskaya murder anniversary'
+p75
+sa(dp76
+g2
+S'http://www.reuters.com/article/domesticNews/idUSN0625722520071006'
+p77
+sg4
+S'20071006\xc2\xa006:26 PM EDT'
+p78
+sg6
+S'Columbus Day protest in Denver leads to arrests'
+p79
+sa(dp80
+g2
+S'http://www.reuters.com/article/newsOne/idUSN0625668220071006'
+p81
+sg4
+S'20071006\xc2\xa006:05 PM EDT'
+p82
+sg6
+S'Republican lawmaker dies of breast cancer'
+p83
+sa(dp84
+g2
+S'http://www.reuters.com/article/worldNews/idUSGOR22843620071006'
+p85
+sg4
+S'20071006\xc2\xa006:01 PM EDT'
+p86
+sg6
+S'Mynamar talks possible; protesters march in London'
+p87
+sa(dp88
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSBKK85583'
+p89
+sg4
+S'20071006\xc2\xa005:58 PM EDT'
+p90
+sg6
+S'Mynamar talks possible; protesters march in London'
+p91
+sa(dp92
+g2
+S'http://www.reuters.com/article/worldNews/idUSL0650140120071006'
+p93
+sg4
+S'20071006\xc2\xa005:47 PM EDT'
+p94
+sg6
+S'Brown rules out early UK vote as his lead vanishes'
+p95
+sa(dp96
+g2
+S'http://www.reuters.com/article/industryNews/idUSN0528331720071006'
+p97
+sg4
+S'20071006\xc2\xa005:21 PM EDT'
+p98
+sg6
+S'One "Rings" penalty to rule them all'
+p99
+sa(dp100
+g2
+S'http://www.reuters.com/article/industryNews/idUSN0521403620071006'
+p101
+sg4
+S'20071006\xc2\xa005:21 PM EDT'
+p102
+sg6
+S'"Price is Right" ex-employee sues Barker and CBS'
+p103
+sa(dp104
+g2
+S'http://www.reuters.com/article/industryNews/idUSN0520678720071006'
+p105
+sg4
+S'20071006\xc2\xa005:21 PM EDT'
+p106
+sg6
+S'Trump casino shares surge on takeover report'
+p107
+sa(dp108
+g2
+S'http://www.reuters.com/article/industryNews/idUSN0222906020071006'
+p109
+sg4
+S'20071006\xc2\xa005:21 PM EDT'
+p110
+sg6
+S'Arkansas probing Hannah Montana tour ticket sales'
+p111
+sa(dp112
+g2
+S'http://www.reuters.com/article/industryNews/idUSL055389520071006'
+p113
+sg4
+S'20071006\xc2\xa005:21 PM EDT'
+p114
+sg6
+S'BBC official resigns over Queen report'
+p115
+sa(dp116
+g2
+S'http://www.reuters.com/article/industryNews/idUSWNAS566520071006'
+p117
+sg4
+S'20071006\xc2\xa005:21 PM EDT'
+p118
+sg6
+S'"Halo" creators to split from Microsoft'
+p119
+sa(dp120
+g2
+S'http://www.reuters.com/article/industryNews/idUSN0535834320071006'
+p121
+sg4
+S'20071006\xc2\xa005:21 PM EDT'
+p122
+sg6
+S"FCC won't probe disclosure of phone records"
+p123
+sa(dp124
+g2
+S'http://www.reuters.com/article/entertainmentNews/idUSL0436086520071006'
+p125
+sg4
+S'20071006\xc2\xa005:20 PM EDT'
+p126
+sg6
+S'Birds sing for Kenzo, models dance for Galliano'
+p127
+sa(dp128
+g2
+S'http://www.reuters.com/article/sportsNews/idUSL0601033420071006'
+p129
+sg4
+S'20071006\xc2\xa005:18 PM EDT'
+p130
+sg6
+S'Celtics beat Raptors in pre season game in Rome'
+p131
+sa(dp132
+g2
+S'http://www.reuters.com/article/sportsNews/idUSPEK20259820071006'
+p133
+sg4
+S'20071006\xc2\xa005:18 PM EDT'
+p134
+sg6
+S'Hamilton hones in on historic world title in China'
+p135
+sa(dp136
+g2
+S'http://www.reuters.com/article/musicNews/idUSN0538778820071006'
+p137
+sg4
+S'20071006\xc2\xa005:02 PM EDT'
+p138
+sg6
+S'Los Temerarios revisit ranchera on "Recuerdos"'
+p139
+sa(dp140
+g2
+S'http://www.reuters.com/article/musicNews/idUSN0526491620071006'
+p141
+sg4
+S'20071006\xc2\xa005:02 PM EDT'
+p142
+sg6
+S'Yoakam pays tribute to mentor Owens on new album'
+p143
+sa(dp144
+g2
+S'http://www.reuters.com/article/musicNews/idUSN0521252220071006'
+p145
+sg4
+S'20071006\xc2\xa005:02 PM EDT'
+p146
+sg6
+S'"Light" draws Latifah to classic R&B;'
+p147
+sa(dp148
+g2
+S'http://www.reuters.com/article/musicNews/idUSN0520874420071006'
+p149
+sg4
+S'20071006\xc2\xa005:02 PM EDT'
+p150
+sg6
+S'Canadian soprano bucks classical stereotypes'
+p151
+sa(dp152
+g2
+S'http://www.reuters.com/article/musicNews/idUSJAK7852220071006'
+p153
+sg4
+S'20071006\xc2\xa005:02 PM EDT'
+p154
+sg6
+S'Beyonce to be "bootylicious" in Indonesia'
+p155
+sa(dp156
+g2
+S'http://www.reuters.com/article/musicNews/idUSN0646654920071006'
+p157
+sg4
+S'20071006\xc2\xa005:02 PM EDT'
+p158
+sg6
+S'Music biz limps to tepid fourth quarter'
+p159
+sa(dp160
+g2
+S'http://www.reuters.com/article/musicNews/idUSN0543575320071006'
+p161
+sg4
+S'20071006\xc2\xa005:02 PM EDT'
+p162
+sg6
+S'Yusuf Islam concert headed to DVD'
+p163
+sa(dp164
+g2
+S'http://www.reuters.com/article/entertainmentNews/idUSN0328342220071006'
+p165
+sg4
+S'20071006\xc2\xa005:01 PM EDT'
+p166
+sg6
+S'Britney Spears names new album "Blackout"'
+p167
+sa(dp168
+g2
+S'http://www.reuters.com/article/worldNews/idUSL0652818220071006'
+p169
+sg4
+S'20071006\xc2\xa004:49 PM EDT'
+p170
+sg6
+S"UK's Brown will look for budget boost next week"
+p171
+sa(dp172
+g2
+S'http://www.reuters.com/article/politicsNews/idUSKIM67483020071006'
+p173
+sg4
+S'20071006\xc2\xa004:48 PM EDT'
+p174
+sg6
+S'Romney swipes at Republican front-runner Giuliani'
+p175
+sa(dp176
+g2
+S'http://www.reuters.com/article/worldNews/idUSN0625188720071006'
+p177
+sg4
+S'20071006\xc2\xa004:46 PM EDT'
+p178
+sg6
+S"Pinochet's children released from Chilean jails"
+p179
+sa(dp180
+g2
+S'http://www.reuters.com/article/newsOne/idUSKIM67448620071006'
+p181
+sg4
+S'20071006\xc2\xa004:42 PM EDT'
+p182
+sg6
+S'CORRECTED: Romney swipes at Republican front-runner Giuliani'
+p183
+sa(dp184
+g2
+S'http://www.reuters.com/article/environmentNews/idUSN0542155920071006'
+p185
+sg4
+S'20071006\xc2\xa004:41 PM EDT'
+p186
+sg6
+S'Bird deaths stir oversight for U.S. wind power'
+p187
+sa(dp188
+g2
+S'http://www.reuters.com/article/environmentNews/idUSN0524512220071006'
+p189
+sg4
+S'20071006\xc2\xa004:41 PM EDT'
+p190
+sg6
+S'U.S. finally taking warming seriously: Gorbachev'
+p191
+sa(dp192
+g2
+S'http://www.reuters.com/article/environmentNews/idUSMCD62403220071006'
+p193
+sg4
+S'20071006\xc2\xa004:41 PM EDT'
+p194
+sg6
+S'South Sudan to open first game park in 2008'
+p195
+sa(dp196
+g2
+S'http://www.reuters.com/article/environmentNews/idUSL0463286920071006'
+p197
+sg4
+S'20071006\xc2\xa004:41 PM EDT'
+p198
+sg6
+S'Climate activists tipped for peace prize'
+p199
+sa(dp200
+g2
+S'http://www.reuters.com/article/environmentNews/idUSL0215844420071006'
+p201
+sg4
+S'20071006\xc2\xa004:41 PM EDT'
+p202
+sg6
+S'Vast African dump poisons children: U.N.'
+p203
+sa(dp204
+g2
+S'http://www.reuters.com/article/environmentNews/idUSL0138945720071006'
+p205
+sg4
+S'20071006\xc2\xa004:41 PM EDT'
+p206
+sg6
+S'Everyone to pay for climate change'
+p207
+sa(dp208
+g2
+S'http://www.reuters.com/article/environmentNews/idUSSP6594420071006'
+p209
+sg4
+S'20071006\xc2\xa004:41 PM EDT'
+p210
+sg6
+S'Ancient India tribe marches against power project'
+p211
+sa(dp212
+g2
+S'http://www.reuters.com/article/scienceNews/idUSL0472288720071006'
+p213
+sg4
+S'20071006\xc2\xa004:40 PM EDT'
+p214
+sg6
+S'World moves into the ecological red'
+p215
+sa(dp216
+g2
+S'http://www.reuters.com/article/politicsNews/idUSN0525195920071006'
+p217
+sg4
+S'20071006\xc2\xa004:33 PM EDT'
+p218
+sg6
+S'White House warns Costa Rica ahead of trade vote'
+p219
+sa(dp220
+g2
+S'http://www.reuters.com/article/entertainmentNews/idUSN0521831020071006'
+p221
+sg4
+S'20071006\xc2\xa004:11 PM EDT'
+p222
+sg6
+S'Radiohead album bets on fast release'
+p223
+sa(dp224
+g2
+S'http://www.reuters.com/article/technologyNews/idUSN0520495920071006'
+p225
+sg4
+S'20071006\xc2\xa004:07 PM EDT'
+p226
+sg6
+S'Pro gamers spurn geek stereotype as go mainstream'
+p227
+sa(dp228
+g2
+S'http://www.reuters.com/article/domesticNews/idUSN0625560220071006'
+p229
+sg4
+S'20071006\xc2\xa003:34 PM EDT'
+p230
+sg6
+S'Man sentenced in "pride" killing of ostrich: report'
+p231
+sa(dp232
+g2
+S'http://www.reuters.com/article/newsOne/idUSSYD1943220071006'
+p233
+sg4
+S'20071006\xc2\xa003:31 PM EDT'
+p234
+sg6
+S'Myanmar protest in London, Asia fails to spark'
+p235
+sa(dp236
+g2
+S'http://www.reuters.com/article/newsOne/idUSL0625891020071006'
+p237
+sg4
+S'20071006\xc2\xa003:29 PM EDT'
+p238
+sg6
+S'U.S. "disturbed" by aid worker\'s arrest in Nigeria'
+p239
+sa(dp240
+g2
+S'http://www.reuters.com/article/newsOne/idUSL0554268320071006'
+p241
+sg4
+S'20071006\xc2\xa003:27 PM EDT'
+p242
+sg6
+S"Shi'ite leaders seal pact to curb violence"
+p243
+sa(dp244
+g2
+S'http://www.reuters.com/article/worldNews/idUSKIM66134920071006'
+p245
+sg4
+S'20071006\xc2\xa003:17 PM EDT'
+p246
+sg6
+S"Poland's Kaczynskis near parliament majority: poll"
+p247
+sa(dp248
+g2
+S'http://www.reuters.com/article/topNews/idUSBLA65126720071006'
+p249
+sg4
+S'20071006\xc2\xa003:14 PM EDT'
+p250
+sg6
+S'Iran to reopen border with Iraq Kurdish area: report'
+p251
+sa(dp252
+g2
+S'http://www.reuters.com/article/topNews/idUSKIM66893220071006'
+p253
+sg4
+S'20071006\xc2\xa003:11 PM EDT'
+p254
+sg6
+S'FACTBOX: Security developments in Iraq'
+p255
+sa(dp256
+g2
+S'http://www.reuters.com/article/topNews/idUSKHA65703320071006'
+p257
+sg4
+S'20071006\xc2\xa003:11 PM EDT'
+p258
+sg6
+S'Iraq rejects testimony by former anti-graft chief'
+p259
+sa(dp260
+g2
+S'http://www.reuters.com/article/topNews/idUSL0642211420071006'
+p261
+sg4
+S'20071006\xc2\xa003:11 PM EDT'
+p262
+sg6
+S'Rare march in Baghdad against new U.S. wall'
+p263
+sa(dp264
+g2
+S'http://www.reuters.com/article/topNews/idUSL0526830520071006'
+p265
+sg4
+S'20071006\xc2\xa003:11 PM EDT'
+p266
+sg6
+S'FACTBOX: Military and civilian deaths in Iraq'
+p267
+sa(dp268
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSL06258910'
+p269
+sg4
+S'20071006\xc2\xa002:53 PM EDT'
+p270
+sg6
+S'U.S. "disturbed" by aid worker\'s arrest in Nigeria'
+p271
+sa(dp272
+g2
+S'http://www.reuters.com/article/scienceNews/idUSL0644233920071006'
+p273
+sg4
+S'20071006\xc2\xa002:46 PM EDT'
+p274
+sg6
+S'Follow in 385,000 yr-old human footsteps'
+p275
+sa(dp276
+g2
+S'http://www.reuters.com/article/sportsNews/idUSL0649397620071006'
+p277
+sg4
+S'20071006\xc2\xa002:45 PM EDT'
+p278
+sg6
+S'Alonso criticizes McLaren over treatment'
+p279
+sa(dp280
+g2
+S'http://www.reuters.com/article/topNews/idUSISL33439720071006'
+p281
+sg4
+S'20071006\xc2\xa002:24 PM EDT'
+p282
+sg6
+S'Musharraf sweeps vote'
+p283
+sa(dp284
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSL06461771'
+p285
+sg4
+S'20071006\xc2\xa002:24 PM EDT'
+p286
+sg6
+S'Swiss police, protesters clash at election rally'
+p287
+sa(dp288
+g2
+S'http://www.reuters.com/article/topNews/idUSISL18819320071006'
+p289
+sg4
+S'20071006\xc2\xa002:15 PM EDT'
+p290
+sg6
+S'Kabul suicide bomb kills U.S. soldier'
+p291
+sa(dp292
+g2
+S'http://www.reuters.com/article/companyNewsAndPR/idUSN0625184520071006'
+p293
+sg4
+S'20071006\xc2\xa002:05 PM EDT'
+p294
+sg6
+S'Ecuador says to offer oil firms new contracts'
+p295
+sa(dp296
+g2
+S'http://www.reuters.com/article/worldNews/idUSSP7495720071006'
+p297
+sg4
+S'20071006\xc2\xa001:53 PM EDT'
+p298
+sg6
+S'Typhoon hits Taiwan'
+p299
+sa(dp300
+g2
+S'http://www.reuters.com/article/topNews/idUSANW62008420071006'
+p301
+sg4
+S'20071006\xc2\xa001:44 PM EDT'
+p302
+sg6
+S'FACTBOX: Security developments in Iraq'
+p303
+sa(dp304
+g2
+S'http://www.reuters.com/article/topNews/idUSL0313994020071006'
+p305
+sg4
+S'20071006\xc2\xa001:44 PM EDT'
+p306
+sg6
+S"Iraq Kurds need Baghdad's nod for oil exports"
+p307
+sa(dp308
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSL06495274'
+p309
+sg4
+S'20071006\xc2\xa001:39 PM EDT'
+p310
+sg6
+S"Iraqi Shi'ite leaders seal pact to curb violence"
+p311
+sa(dp312
+g2
+S'http://www.reuters.com/article/topNews/idUSN0545977320071006'
+p313
+sg4
+S'20071006\xc2\xa001:35 PM EDT'
+p314
+sg6
+S'Romney swipes at Republican front-runner Giuliani'
+p315
+sa(dp316
+g2
+S'http://www.reuters.com/article/topNews/idUSL0649295820071006'
+p317
+sg4
+S'20071006\xc2\xa001:33 PM EDT'
+p318
+sg6
+S'Jones "one of biggest frauds" in sport, says Diack'
+p319
+sa(dp320
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSSP65742'
+p321
+sg4
+S'20071006\xc2\xa001:27 PM EDT'
+p322
+sg6
+S'Myanmar protest in London, Asia fails to spark'
+p323
+sa(dp324
+g2
+S'http://www.reuters.com/article/worldNews/idUSL0647820020071006'
+p325
+sg4
+S'20071006\xc2\xa001:16 PM EDT'
+p326
+sg6
+S'Russia vows more arms for bigger peacekeeping role'
+p327
+sa(dp328
+g2
+S'http://www.reuters.com/article/worldNews/idUSISL7652020071006'
+p329
+sg4
+S'20071006\xc2\xa001:15 PM EDT'
+p330
+sg6
+S'Canada says focused on boosting Afghan police'
+p331
+sa(dp332
+g2
+S'http://www.reuters.com/article/worldNews/idUSPAR66098320071006'
+p333
+sg4
+S'20071006\xc2\xa001:13 PM EDT'
+p334
+sg6
+S'CORRECTED: Canada says focused on boosting Afghan police'
+p335
+sa(dp336
+g2
+S'http://www.reuters.com/article/companyNewsAndPR/idUSL0650660520071006'
+p337
+sg4
+S'20071006\xc2\xa001:02 PM EDT'
+p338
+sg6
+S'UPDATE 1-French bank denies state role in EADS stake buy'
+p339
+sa(dp340
+g2
+S'http://www.reuters.com/article/worldNews/idUSL0647975620071006'
+p341
+sg4
+S'20071006\xc2\xa001:00 PM EDT'
+p342
+sg6
+S'Kenya opposition launches campaign against Kibaki'
+p343
+sa(dp344
+g2
+S'http://www.reuters.com/article/topNews/idUSKAR25804720071006'
+p345
+sg4
+S'20071006\xc2\xa012:57 PM EDT'
+p346
+sg6
+S"Iraqi Shi'ite leaders sign deal to curb violence"
+p347
+sa(dp348
+g2
+S'http://www.reuters.com/article/topNews/idUSSP32223520071006'
+p349
+sg4
+S'20071006\xc2\xa012:22 PM EDT'
+p350
+sg6
+S'Latest developments in Myanmar'
+p351
+sa(dp352
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSKAR258047'
+p353
+sg4
+S'20071006\xc2\xa012:21 PM EDT'
+p354
+sg6
+S"Iraqi Shi'ite leaders sign deal to curb violence"
+p355
+sa(dp356
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSL05268305'
+p357
+sg4
+S'20071006\xc2\xa012:07 PM EDT'
+p358
+sg6
+S'FACTBOX-Military and civilian deaths in Iraq'
+p359
+sa(dp360
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSSP322235'
+p361
+sg4
+S'20071006\xc2\xa012:04 PM EDT'
+p362
+sg6
+S'SNAPSHOT-Latest developments in Myanmar'
+p363
+sa(dp364
+g2
+S'http://www.reuters.com/article/companyNewsAndPR/idUSL0649188320071006'
+p365
+sg4
+S'20071006\xc2\xa011:55 AM EDT'
+p366
+sg6
+S'French bank denies state role in EADS stake buy'
+p367
+sa(dp368
+g2
+S'http://www.reuters.com/article/domesticNews/idUSN0621984320071006'
+p369
+sg4
+S'20071006\xc2\xa011:51 AM EDT'
+p370
+sg6
+S"Sam's Club recalls Cargill-made hamburgers in U.S."
+p371
+sa(dp372
+g2
+S'http://www.reuters.com/article/worldNews/idUSKIM55790620071006'
+p373
+sg4
+S'20071006\xc2\xa011:48 AM EDT'
+p374
+sg6
+S"Che Guevara's legacy fading with the years"
+p375
+sa(dp376
+g2
+S'http://www.reuters.com/article/sportsNews/idUSL0643361320071006'
+p377
+sg4
+S'20071006\xc2\xa011:28 AM EDT'
+p378
+sg6
+S'Henin extends winning streak against Jankovic'
+p379
+sa(dp380
+g2
+S'http://www.reuters.com/article/worldNews/idUSHOS63539720071006'
+p381
+sg4
+S'20071006\xc2\xa011:24 AM EDT'
+p382
+sg6
+S"France can't ignore Iran energy deals: Iran minister"
+p383
+sa(dp384
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSL06444623'
+p385
+sg4
+S'20071006\xc2\xa011:21 AM EDT'
+p386
+sg6
+S'Swiss police, protesters clash at election rally'
+p387
+sa(dp388
+g2
+S'http://www.reuters.com/article/technology-media-telco-SP/idUSL0646973120071006'
+p389
+sg4
+S'20071006\xc2\xa011:19 AM EDT'
+p390
+sg6
+S'Omantel sees $36 mln gain from state royalty cut'
+p391
+sa(dp392
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSL06380298'
+p393
+sg4
+S'20071006\xc2\xa011:03 AM EDT'
+p394
+sg6
+S'Congo rescue called off after air crash kills 50'
+p395
+sa(dp396
+g2
+S'http://www.reuters.com/article/middleeastCrisis/idUSANW620084'
+p397
+sg4
+S'20071006\xc2\xa011:01 AM EDT'
+p398
+sg6
+S'FACTBOX-Security developments in Iraq, Oct. 6'
+p399
+sa(dp400
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSB469342'
+p401
+sg4
+S'20071006\xc2\xa010:57 AM EDT'
+p402
+sg6
+S'Ethiopia rebels back U.S. pressure on government'
+p403
+sa(dp404
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSL06422114'
+p405
+sg4
+S'20071006\xc2\xa010:51 AM EDT'
+p406
+sg6
+S'Rare march in Baghdad against new U.S. wall'
+p407
+sa(dp408
+g2
+S'http://www.reuters.com/article/middleeastCrisis/idUSKHA657033'
+p409
+sg4
+S'20071006\xc2\xa010:38 AM EDT'
+p410
+sg6
+S'Iraq rejects testimony by former anti-graft chief'
+p411
+sa(dp412
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSISL76520'
+p413
+sg4
+S'20071006\xc2\xa010:36 AM EDT'
+p414
+sg6
+S'Canada says focused on boosting Afghan police'
+p415
+sa(dp416
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSL06463257'
+p417
+sg4
+S'20071006\xc2\xa010:32 AM EDT'
+p418
+sg6
+S"Armoury blast rocks Mozambique's second city"
+p419
+sa(dp420
+g2
+S'http://www.reuters.com/article/politicsNews/idUSPAR65192420071006'
+p421
+sg4
+S'20071006\xc2\xa010:25 AM EDT'
+p422
+sg6
+S'CORRECTED: Costa Rica trade perks not conditional: Democrats'
+p423
+sa(dp424
+g2
+S'http://www.reuters.com/article/environmentNews/idUST14675120071006'
+p425
+sg4
+S'20071006\xc2\xa010:15 AM EDT'
+p426
+sg6
+S'Japan to start test sales of ethanol-mixed gasoline'
+p427
+sa(dp428
+g2
+S'http://www.reuters.com/article/worldNews/idUSHAN2657120071006'
+p429
+sg4
+S'20071006\xc2\xa010:14 AM EDT'
+p430
+sg6
+S'Flooding cuts off thousands in Vietnam'
+p431
+sa(dp432
+g2
+S'http://www.reuters.com/article/worldNews/idUSL0639917520071006'
+p433
+sg4
+S'20071006\xc2\xa010:13 AM EDT'
+p434
+sg6
+S'Kenyan opposition launches election bid'
+p435
+sa(dp436
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSL06270085'
+p437
+sg4
+S'20071006\xc2\xa010:07 AM EDT'
+p438
+sg6
+S'Tanzania tells Burundi rebels to join monitor team'
+p439
+sa(dp440
+g2
+S'http://www.reuters.com/article/topNews/idUSL0643520820071006'
+p441
+sg4
+S'20071006\xc2\xa009:56 AM EDT'
+p442
+sg6
+S"Britain's Prince William in paparazzi row"
+p443
+sa(dp444
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSBLA649266'
+p445
+sg4
+S'20071006\xc2\xa009:45 AM EDT'
+p446
+sg6
+S'Iran has 43 cholera cases mainly near Iraq-report'
+p447
+sa(dp448
+g2
+S'http://www.reuters.com/article/bankingfinancial-SP/idUSL0645920520071006'
+p449
+sg4
+S'20071006\xc2\xa009:44 AM EDT'
+p450
+sg6
+S"Saudi's Arab National Bank Q3 profit up 2.9 pct"
+p451
+sa(dp452
+g2
+S'http://www.reuters.com/article/worldNews/idUSL0645396920071006'
+p453
+sg4
+S'20071006\xc2\xa009:41 AM EDT'
+p454
+sg6
+S'Ex-PM to head Russian foreign intelligence'
+p455
+sa(dp456
+g2
+S'http://www.reuters.com/article/politicsNews/idUSMCD63733920071006'
+p457
+sg4
+S'20071006\xc2\xa009:27 AM EDT'
+p458
+sg6
+S'Former Sudan foes foment "poisonous" politics: U.S.'
+p459
+sa(dp460
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSMCD624032'
+p461
+sg4
+S'20071006\xc2\xa009:11 AM EDT'
+p462
+sg6
+S'South Sudan to open first game park next year'
+p463
+sa(dp464
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSL06438467'
+p465
+sg4
+S'20071006\xc2\xa009:09 AM EDT'
+p466
+sg6
+S"Prince William's army mentor killed in Afghanistan"
+p467
+sa(dp468
+g2
+S'http://www.reuters.com/article/worldNews/idUSCHI64155520071006'
+p469
+sg4
+S'20071006\xc2\xa008:55 AM EDT'
+p470
+sg6
+S'French families leave Algeria on security worries'
+p471
+sa(dp472
+g2
+S'http://www.reuters.com/article/internetNews/idUSPAR64596120071006'
+p473
+sg4
+S'20071006\xc2\xa008:46 AM EDT'
+p474
+sg6
+S'Radiohead album bets on fast release, open pricing'
+p475
+sa(dp476
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSCHI641555'
+p477
+sg4
+S'20071006\xc2\xa008:46 AM EDT'
+p478
+sg6
+S'French families leave Algeria on security worries'
+p479
+sa(dp480
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSMCD637339'
+p481
+sg4
+S'20071006\xc2\xa008:45 AM EDT'
+p482
+sg6
+S'Former Sudan foes foment "poisonous" politics-U.S.'
+p483
+sa(dp484
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSDEL66591'
+p485
+sg4
+S'20071006\xc2\xa008:33 AM EDT'
+p486
+sg6
+S'Ten killed as India army chief begins Kashmir visit'
+p487
+sa(dp488
+g2
+S'http://www.reuters.com/article/environmentNews/idUSN0522226320071006'
+p489
+sg4
+S'20071006\xc2\xa008:31 AM EDT'
+p490
+sg6
+S"USDA can't pinpoint how biotech rice taint occurred"
+p491
+sa(dp492
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSPEK201942'
+p493
+sg4
+S'20071006\xc2\xa008:14 AM EDT'
+p494
+sg6
+S'Typhoon hits Taiwan, China on alert'
+p495
+sa(dp496
+g2
+S'http://www.reuters.com/article/homepageCrisis/idUSPEK201942._CH_.2400'
+p497
+sg4
+S'20071006\xc2\xa008:14 AM EDT'
+p498
+sg6
+S'Typhoon hits Taiwan, China on alert'
+p499
+sa(dp500
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSL06434271'
+p501
+sg4
+S'20071006\xc2\xa007:48 AM EDT'
+p502
+sg6
+S'Niger expels French film-maker accused of rebel ties'
+p503
+sa(dp504
+g2
+S'http://www.reuters.com/article/topNews/idUSISL32254220071006'
+p505
+sg4
+S'20071006\xc2\xa007:24 AM EDT'
+p506
+sg6
+S'FACTBOX: Five facts about Pakistani leader Pervez Musharraf'
+p507
+sa(dp508
+g2
+S'http://www.reuters.com/article/homepageCrisis/idUSHAN26571._CH_.2400'
+p509
+sg4
+S'20071006\xc2\xa007:02 AM EDT'
+p510
+sg6
+S'Flooding cuts off thousands after typhoon in Vietnam'
+p511
+sa(dp512
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSHAN26571'
+p513
+sg4
+S'20071006\xc2\xa007:02 AM EDT'
+p514
+sg6
+S'Flooding cuts off thousands after typhoon in Vietnam'
+p515
+sa(dp516
+g2
+S'http://www.reuters.com/article/newsOne/idUSISL13644620071006'
+p517
+sg4
+S'20071006\xc2\xa007:00 AM EDT'
+p518
+sg6
+S"Pakistan's Musharraf sweeps election: commission"
+p519
+sa(dp520
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSL06663095'
+p521
+sg4
+S'20071006\xc2\xa006:57 AM EDT'
+p522
+sg6
+S'Army major granted bail in Nigeria coup plot trial'
+p523
+sa(dp524
+g2
+S'http://www.reuters.com/article/topNews/idUSL0640748120071006'
+p525
+sg4
+S'20071006\xc2\xa006:54 AM EDT'
+p526
+sg6
+S'Suspected Islamist rebels kill Somali army general'
+p527
+sa(dp528
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSL06407481'
+p529
+sg4
+S'20071006\xc2\xa006:43 AM EDT'
+p530
+sg6
+S'Suspected Islamist rebels kill Somali army general'
+p531
+sa(dp532
+g2
+S'http://www.reuters.com/article/newsOne/idUSL0641657420071006'
+p533
+sg4
+S'20071006\xc2\xa006:40 AM EDT'
+p534
+sg6
+S'Brown calls for more EU sanctions on Myanmar'
+p535
+sa(dp536
+g2
+S'http://www.reuters.com/article/tnBasicIndustries-SP/idUST19735720071006'
+p537
+sg4
+S'20071006\xc2\xa006:39 AM EDT'
+p538
+sg6
+S'Japan looks to sell stake in Tokyo subway firm'
+p539
+sa(dp540
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSSP89514'
+p541
+sg4
+S'20071006\xc2\xa006:37 AM EDT'
+p542
+sg6
+S'Kabul suicide bomb kills 5 Afghans, 1 U.S. soldier'
+p543
+sa(dp544
+g2
+S'http://www.reuters.com/article/lifestyleMolt/idUSL057667820071006'
+p545
+sg4
+S'20071006\xc2\xa006:28 AM EDT'
+p546
+sg6
+S'Statesmen and presidents - the new style icons?'
+p547
+sa(dp548
+g2
+S'http://www.reuters.com/article/ousiv/idUSWEN152420071006'
+p549
+sg4
+S'20071006\xc2\xa006:17 AM EDT'
+p550
+sg6
+S'Movie Gallery to file for Chap. 11 protection: report'
+p551
+sa(dp552
+g2
+S'http://www.reuters.com/article/ousiv/idUSN0545609120071006'
+p553
+sg4
+S'20071006\xc2\xa006:17 AM EDT'
+p554
+sg6
+S'Merrill and Wamu join lengthening list of warnings'
+p555
+sa(dp556
+g2
+S'http://www.reuters.com/article/ousiv/idUSN0544473420071006'
+p557
+sg4
+S'20071006\xc2\xa006:17 AM EDT'
+p558
+sg6
+S'Sprint needs marketing, turnaround expert as CEO'
+p559
+sa(dp560
+g2
+S'http://www.reuters.com/article/ousiv/idUSN0524864820071006'
+p561
+sg4
+S'20071006\xc2\xa006:17 AM EDT'
+p562
+sg6
+S'Jobs data shows economy slowing, not stalling'
+p563
+sa(dp564
+g2
+S'http://www.reuters.com/article/ousiv/idUSN0521720320071006'
+p565
+sg4
+S'20071006\xc2\xa006:17 AM EDT'
+p566
+sg6
+S'UAW says 3 locals against GM deal so far, 9 for'
+p567
+sa(dp568
+g2
+S'http://www.reuters.com/article/ousiv/idUSN0439447520071006'
+p569
+sg4
+S'20071006\xc2\xa006:17 AM EDT'
+p570
+sg6
+S'Ackman buy seen good for Sears regardless of sales'
+p571
+sa(dp572
+g2
+S'http://www.reuters.com/article/businessNews/idUSL0640752520071006'
+p573
+sg4
+S'20071006\xc2\xa006:16 AM EDT'
+p574
+sg6
+S'RBS team has 85 pct acceptances from ABN investors: report'
+p575
+sa(dp576
+g2
+S'http://www.reuters.com/article/worldNews/idUSL0459213120071006'
+p577
+sg4
+S'20071006\xc2\xa006:11 AM EDT'
+p578
+sg6
+S'FACTBOX - Kenyan opposition leader Raila Odinga'
+p579
+sa(dp580
+g2
+S'http://www.reuters.com/article/sportsNews/idUSSP6606920071006'
+p581
+sg4
+S'20071006\xc2\xa005:52 AM EDT'
+p582
+sg6
+S'Venus shocked by Razzano in Tokyo final'
+p583
+sa(dp584
+g2
+S'http://www.reuters.com/article/worldNews/idUSL0640819020071006'
+p585
+sg4
+S'20071006\xc2\xa005:43 AM EDT'
+p586
+sg6
+S'Turkish soldier killed by Kurdish rebels'
+p587
+sa(dp588
+g2
+S'http://www.reuters.com/article/bondsNews/idUSL0661652620071006'
+p589
+sg4
+S'20071006\xc2\xa005:43 AM EDT'
+p590
+sg6
+S'Apax eyes IPO for fashion label Tommy Hilfiger -FT'
+p591
+sa(dp592
+g2
+S'http://www.reuters.com/article/topNews/idUSMCD62091320071006'
+p593
+sg4
+S'20071006\xc2\xa005:37 AM EDT'
+p594
+sg6
+S'Darfur rebel leader threatens to boycott talks'
+p595
+sa(dp596
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSL0611897'
+p597
+sg4
+S'20071006\xc2\xa005:27 AM EDT'
+p598
+sg6
+S'Residents evacuate after blast in Mozambique city'
+p599
+sa(dp600
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSL06408190'
+p601
+sg4
+S'20071006\xc2\xa005:25 AM EDT'
+p602
+sg6
+S'Turkish soldier killed by Kurdish rebels'
+p603
+sa(dp604
+g2
+S'http://www.reuters.com/article/environmentNews/idUSPEK19356620071006'
+p605
+sg4
+S'20071006\xc2\xa005:25 AM EDT'
+p606
+sg6
+S'China tightens environment rules for coast projects'
+p607
+sa(dp608
+g2
+S'http://www.reuters.com/article/homepageCrisis/idUSMCD620913._CH_.2400'
+p609
+sg4
+S'20071006\xc2\xa005:19 AM EDT'
+p610
+sg6
+S'Darfur rebel leader threatens to boycott talks'
+p611
+sa(dp612
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSMCD620913'
+p613
+sg4
+S'20071006\xc2\xa005:19 AM EDT'
+p614
+sg6
+S'Darfur rebel leader threatens to boycott talks'
+p615
+sa(dp616
+g2
+S'http://www.reuters.com/article/mergersNews/idUSL0640771920071006'
+p617
+sg4
+S'20071006\xc2\xa005:12 AM EDT'
+p618
+sg6
+S'UPDATE 1-Vodafone to buy Tele2 Italy, Spain for $1.1 bln'
+p619
+sa(dp620
+g2
+S'http://www.reuters.com/article/mergersNews/idUSL0668181920071006'
+p621
+sg4
+S'20071006\xc2\xa004:32 AM EDT'
+p622
+sg6
+S'Vodafone to buy Tele2 Italy, Spain for $1.1 bln'
+p623
+sa(dp624
+g2
+S'http://www.reuters.com/article/tnBasicIndustries-SP/idUST14057820071006'
+p625
+sg4
+S'20071006\xc2\xa004:23 AM EDT'
+p626
+sg6
+S'UPDATE 1-JAL to book $171 mln charge for cartel fine-paper'
+p627
+sa(dp628
+g2
+S'http://www.reuters.com/article/filmNews/idUSHKG19031220071006'
+p629
+sg4
+S'20071006\xc2\xa003:46 AM EDT'
+p630
+sg6
+S"Iconic Hong Kong film mogul's influence ripples on"
+p631
+sa(dp632
+g2
+S'http://www.reuters.com/article/filmNews/idUSN0625197220071006'
+p633
+sg4
+S'20071006\xc2\xa003:46 AM EDT'
+p634
+sg6
+S'Director on "Thunder Run" mission'
+p635
+sa(dp636
+g2
+S'http://www.reuters.com/article/filmNews/idUSN0617705520071006'
+p637
+sg4
+S'20071006\xc2\xa003:46 AM EDT'
+p638
+sg6
+S'Radha Mitchell cracks "Code" cast'
+p639
+sa(dp640
+g2
+S'http://www.reuters.com/article/filmNews/idUSN0545809620071006'
+p641
+sg4
+S'20071006\xc2\xa003:46 AM EDT'
+p642
+sg6
+S'Blanchett plays Dylan and wonders will fans get it?'
+p643
+sa(dp644
+g2
+S'http://www.reuters.com/article/filmNews/idUSN0541393220071006'
+p645
+sg4
+S'20071006\xc2\xa003:46 AM EDT'
+p646
+sg6
+S'Delay of game for Clooney\'s "Leatherheads"'
+p647
+sa(dp648
+g2
+S'http://www.reuters.com/article/filmNews/idUSN0524633920071006'
+p649
+sg4
+S'20071006\xc2\xa003:46 AM EDT'
+p650
+sg6
+S'Lindsay Lohan checks out of rehab: report'
+p651
+sa(dp652
+g2
+S'http://www.reuters.com/article/filmNews/idUSN0523159320071006'
+p653
+sg4
+S'20071006\xc2\xa003:46 AM EDT'
+p654
+sg6
+S'Wilson surprises "Darjeeling" premiere crowd'
+p655
+sa(dp656
+g2
+S'http://www.reuters.com/article/filmNews/idUSN0523077220071006'
+p657
+sg4
+S'20071006\xc2\xa003:46 AM EDT'
+p658
+sg6
+S'Jim Carrey calls for U.N. sanctions on Myanmar'
+p659
+sa(dp660
+g2
+S'http://www.reuters.com/article/filmNews/idUSN0440850820071006'
+p661
+sg4
+S'20071006\xc2\xa003:46 AM EDT'
+p662
+sg6
+S'"Heartbreak Kid" ready to come out and play'
+p663
+sa(dp664
+g2
+S'http://www.reuters.com/article/filmNews/idUSN0439736020071006'
+p665
+sg4
+S'20071006\xc2\xa003:41 AM EDT'
+p666
+sg6
+S'Acclaimed Mexican filmmaker unknown at home'
+p667
+sa(dp668
+g2
+S'http://www.reuters.com/article/sportsNews/idUSSP9344720071006'
+p669
+sg4
+S'20071006\xc2\xa003:17 AM EDT'
+p670
+sg6
+S"Hurricanes storm past Penguins on Staal's two goals"
+p671
+sa(dp672
+g2
+S'http://www.reuters.com/article/artsNews/idUSN0325406620071006'
+p673
+sg4
+S'20071006\xc2\xa003:05 AM EDT'
+p674
+sg6
+S'Tony Award-winning Grizzard dies in New York at 79'
+p675
+sa(dp676
+g2
+S'http://www.reuters.com/article/artsNews/idUSN0242176920071006'
+p677
+sg4
+S'20071006\xc2\xa003:05 AM EDT'
+p678
+sg6
+S'Freeman and McDormand to star in Broadway play'
+p679
+sa(dp680
+g2
+S'http://www.reuters.com/article/artsNews/idUSN0124949720071006'
+p681
+sg4
+S'20071006\xc2\xa003:05 AM EDT'
+p682
+sg6
+S'Patrick Stewart gives "Macbeth" new life'
+p683
+sa(dp684
+g2
+S'http://www.reuters.com/article/artsNews/idUSN0640816720071006'
+p685
+sg4
+S'20071006\xc2\xa003:05 AM EDT'
+p686
+sg6
+S'"Laughter" fades in dated Noel Coward revival'
+p687
+sa(dp688
+g2
+S'http://www.reuters.com/article/artsNews/idUSN0526429620071006'
+p689
+sg4
+S'20071006\xc2\xa003:05 AM EDT'
+p690
+sg6
+S'Salsa queen\'s over-the-top style lives again in "Celia"'
+p691
+sa(dp692
+g2
+S'http://www.reuters.com/article/artsNews/idUSN0524142020071006'
+p693
+sg4
+S'20071006\xc2\xa003:05 AM EDT'
+p694
+sg6
+S'Khan reconnects with "Funk," heads for Broadway'
+p695
+sa(dp696
+g2
+S'http://www.reuters.com/article/artsNews/idUSN0327638420071006'
+p697
+sg4
+S'20071006\xc2\xa003:05 AM EDT'
+p698
+sg6
+S'Composer Philip Glass turns to Civil War'
+p699
+sa(dp700
+g2
+S'http://www.reuters.com/article/televisionNews/idUSN0428839920071006'
+p701
+sg4
+S'20071006\xc2\xa003:03 AM EDT'
+p702
+sg6
+S'Wallace and Gromit cook new TV special'
+p703
+sa(dp704
+g2
+S'http://www.reuters.com/article/televisionNews/idUSN0641049020071006'
+p705
+sg4
+S'20071006\xc2\xa003:03 AM EDT'
+p706
+sg6
+S'Sex not a problem for European TV viewers'
+p707
+sa(dp708
+g2
+S'http://www.reuters.com/article/televisionNews/idUSN0543319620071006'
+p709
+sg4
+S'20071006\xc2\xa003:03 AM EDT'
+p710
+sg6
+S'Oprah picks "Love in the Time of Cholera" for readers'
+p711
+sa(dp712
+g2
+S'http://www.reuters.com/article/televisionNews/idUSN0541485120071006'
+p713
+sg4
+S'20071006\xc2\xa003:03 AM EDT'
+p714
+sg6
+S'Russia raises curtain for ABC News'
+p715
+sa(dp716
+g2
+S'http://www.reuters.com/article/televisionNews/idUSN0541393720071006'
+p717
+sg4
+S'20071006\xc2\xa003:03 AM EDT'
+p718
+sg6
+S'Actress joins "Grey\'s" lineup'
+p719
+sa(dp720
+g2
+S'http://www.reuters.com/article/televisionNews/idUSN0541295420071006'
+p721
+sg4
+S'20071006\xc2\xa003:03 AM EDT'
+p722
+sg6
+S'ABC smelling like "Daisies"'
+p723
+sa(dp724
+g2
+S'http://www.reuters.com/article/televisionNews/idUSN0540330720071006'
+p725
+sg4
+S'20071006\xc2\xa003:03 AM EDT'
+p726
+sg6
+S'Fox flocks to sci-fi project "Fringe"'
+p727
+sa(dp728
+g2
+S'http://www.reuters.com/article/televisionNews/idUSN0537959220071006'
+p729
+sg4
+S'20071006\xc2\xa003:03 AM EDT'
+p730
+sg6
+S'Showtime and Robbins hooked on pharmaceuticals'
+p731
+sa(dp732
+g2
+S'http://www.reuters.com/article/reviewsNews/idUSN0625265920071006'
+p733
+sg4
+S'20071006\xc2\xa003:01 AM EDT'
+p734
+sg6
+S'"Feel the Noise" appealing despite cliches'
+p735
+sa(dp736
+g2
+S'http://www.reuters.com/article/reviewsNews/idUSN0438342520071006'
+p737
+sg4
+S'20071006\xc2\xa003:01 AM EDT'
+p738
+sg6
+S'BBC\'s "Low Winter Sun" a stylish thriller'
+p739
+sa(dp740
+g2
+S'http://www.reuters.com/article/reviewsNews/idUSN0438341920071006'
+p741
+sg4
+S'20071006\xc2\xa003:01 AM EDT'
+p742
+sg6
+S'"Darfur Now" suffers from celebrity worship'
+p743
+sa(dp744
+g2
+S'http://www.reuters.com/article/reviewsNews/idUSN0429611320071006'
+p745
+sg4
+S'20071006\xc2\xa003:01 AM EDT'
+p746
+sg6
+S'"Friday Night Lights" kicks off on new night'
+p747
+sa(dp748
+g2
+S'http://www.reuters.com/article/topNews/idUSISL9358820071006'
+p749
+sg4
+S'20071006\xc2\xa002:52 AM EDT'
+p750
+sg6
+S"Pakistan's presidential vote: who is running?"
+p751
+sa(dp752
+g2
+S'http://www.reuters.com/article/sportsNews/idUSSP8911020071006'
+p753
+sg4
+S'20071006\xc2\xa002:44 AM EDT'
+p754
+sg6
+S"Manny's walk-off homer gives Boston 2-0 lead"
+p755
+sa(dp756
+g2
+S'http://www.reuters.com/article/sportsNews/idUSSP9303020071006'
+p757
+sg4
+S'20071006\xc2\xa002:43 AM EDT'
+p758
+sg6
+S'Red Sox take lead over Angels as Yankees lose again'
+p759
+sa(dp760
+g2
+S'http://www.reuters.com/article/scienceNews/idUSKLR33337720071006'
+p761
+sg4
+S'20071006\xc2\xa002:35 AM EDT'
+p762
+sg6
+S'Malaysia issues guidebook for Muslims in space'
+p763
+sa(dp764
+g2
+S'http://www.reuters.com/article/topNews/idUSSP9270720071006'
+p765
+sg4
+S'20071006\xc2\xa002:21 AM EDT'
+p766
+sg6
+S"FACTBOX: Pakistan's presidential election"
+p767
+sa(dp768
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSSP26837'
+p769
+sg4
+S'20071006\xc2\xa002:09 AM EDT'
+p770
+sg6
+S'FACTBOX-Five facts about Pakistani leader Pervez Musharraf'
+p771
+sa(dp772
+g2
+S'http://www.reuters.com/article/technology-media-telco-SP/idUST19794920071006'
+p773
+sg4
+S'20071006\xc2\xa001:56 AM EDT'
+p774
+sg6
+S'DoCoMo, Acca grab 5 Net firms in WiMAX bid-Nikkei'
+p775
+sa(dp776
+g2
+S'http://www.reuters.com/article/companyNewsAndPR/idUST19636220071006'
+p777
+sg4
+S'20071006\xc2\xa001:15 AM EDT'
+p778
+sg6
+S'Olympus H1 profit seen beating own forecast-Nikkei'
+p779
+sa(dp780
+g2
+S'http://www.reuters.com/article/topNews/idUSWNAS566620071006'
+p781
+sg4
+S'20071006\xc2\xa001:14 AM EDT'
+p782
+sg6
+S'Topps Meat goes out of business after recall'
+p783
+sa(dp784
+g2
+S'http://www.reuters.com/article/topNews/idUSPEK19579420071006'
+p785
+sg4
+S'20071006\xc2\xa001:14 AM EDT'
+p786
+sg6
+S'China official sees tide turning in product safety'
+p787
+sa(dp788
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSTP325348'
+p789
+sg4
+S'20071006\xc2\xa001:12 AM EDT'
+p790
+sg6
+S'Strong typhoon slams Taiwan, China over weekend'
+p791
+sa(dp792
+g2
+S'http://www.reuters.com/article/mergersNews/idUST19753320071006'
+p793
+sg4
+S'20071006\xc2\xa001:05 AM EDT'
+p794
+sg6
+S'RHJ plans to unify Japan car firms hit snag-Nikkei'
+p795
+sa(dp796
+g2
+S'http://www.reuters.com/article/companyNewsAndPR/idUSL0637398820071006'
+p797
+sg4
+S'20071006\xc2\xa012:35 AM EDT'
+p798
+sg6
+S'PRESS DIGEST - British Business =4'
+p799
+sa(dp800
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSISL188193'
+p801
+sg4
+S'20071006\xc2\xa012:32 AM EDT'
+p802
+sg6
+S'Suicide attack targets foreign troops in Kabul'
+p803
+sa(dp804
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSSYD19432'
+p805
+sg4
+S'20071006\xc2\xa012:16 AM EDT'
+p806
+sg6
+S'Global day of Myanmar protests starts in Sydney'
+p807
+sa(dp808
+g2
+S'http://www.reuters.com/article/middleeastCrisis/idUSN06219303'
+p809
+sg4
+S'20071006\xc2\xa012:11 AM EDT'
+p810
+sg6
+S'PRESS DIGEST - Washington Post - Oct 6'
+p811
+sa(dp812
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=b542a199ac277f11fb94133390cbbb6d654dfdd7'
+p813
+sg4
+S'20071006\xc2\xa008:03 PM EDT'
+p814
+sg6
+S'Rocket jitters in southern Israel'
+p815
+sa(dp816
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=599990fc5d80d48bbd28831070b583c3ef8efde1'
+p817
+sg4
+S'20071006\xc2\xa010:19 AM EDT'
+p818
+sg6
+S'Magic System returns to Ivory Coast'
+p819
+sa(dp820
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=2cefde3a3be5e095bd5f1b40d6655ad0a8a93fbb'
+p821
+sg4
+S'20071006\xc2\xa010:08 AM EDT'
+p822
+sg6
+S'An end to the virginity test?'
+p823
+sa(dp824
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=00003e49c38cfb66ade1c1daf4c298c35ad66b4c'
+p825
+sg4
+S'20071006\xc2\xa010:01 AM EDT'
+p826
+sg6
+S'Celebrating Ramadan in Mali'
+p827
+sa(dp828
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=054956522043c66f3643377ef1911dd600a3e5c6'
+p829
+sg4
+S'20071006\xc2\xa009:55 AM EDT'
+p830
+sg6
+S'Impact of violence in the Congo'
+p831
+sa(dp832
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=1d7941da66da2ad6a65a65fd92e50b1b30fac51a'
+p833
+sg4
+S'20071006\xc2\xa007:11 AM EDT'
+p834
+sg6
+S'Taliban claims suicide attack'
+p835
+sa(dp836
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=455a6078b69cab0c284dee5d4e0d645e0a27f6e9'
+p837
+sg4
+S'20071006\xc2\xa007:00 AM EDT'
+p838
+sg6
+S'Typhoons devastate Far East'
+p839
+sa(dp840
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=9e76a91e4cf622da00ceeb149d3f94a752b8df4a'
+p841
+sg4
+S'20071006\xc2\xa004:18 AM EDT'
+p842
+sg6
+S'Musharraf calls for unity'
+p843
+sa(dp844
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=fbb238cbdbed9a80393060b383fb988e191c2bec'
+p845
+sg4
+S'20071006\xc2\xa002:51 AM EDT'
+p846
+sg6
+S"Pinochet's family plead for release"
+p847
+sa(dp848
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=4a21e43b4768b406f9bdd0829a2f1c8b0b048ffc'
+p849
+sg4
+S'20071006\xc2\xa001:44 AM EDT'
+p850
+sg6
+S'Protesters boycott China Olympics'
+p851
+sa.

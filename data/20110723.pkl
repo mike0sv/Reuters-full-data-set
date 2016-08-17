@@ -1,0 +1,3475 @@
+(lp0
+(dp1
+S'href'
+p2
+S'http://www.reuters.com/article/2011/07/24/idUS15037+24-Jul-2011+PRN20110724'
+p3
+sS'ts'
+p4
+S'20110723\xc2\xa011:30PM UTC'
+p5
+sS'title'
+p6
+S'Following Is a Test Release'
+p7
+sa(dp8
+g2
+S'http://www.reuters.com/article/2011/07/24/us-washington-shooting-idUSTRE76N0A520110724'
+p9
+sg4
+S'20110723\xc2\xa011:19PM UTC'
+p10
+sg6
+S'At least eight wounded in Seattle-area shooting'
+p11
+sa(dp12
+g2
+S'http://www.reuters.com/article/2011/07/24/idUS14015+24-Jul-2011+PRN20110724'
+p13
+sg4
+S'20110723\xc2\xa011:00PM UTC'
+p14
+sg6
+S'Following Is a Test Release'
+p15
+sa(dp16
+g2
+S'http://www.reuters.com/article/2011/07/24/idUS13562+24-Jul-2011+PRN20110724'
+p17
+sg4
+S'20110723\xc2\xa010:44PM UTC'
+p18
+sg6
+S'ComEd Quickly Mobilizes Crews to Restore Power to More Than 160,000 Customers Impacted by Severe Storm'
+p19
+sa(dp20
+g2
+S'http://www.reuters.com/article/2011/07/24/venezuela-chavez-idUSN1E76M0AE20110724'
+p21
+sg4
+S'20110723\xc2\xa010:37PM UTC'
+p22
+sg6
+S'Chavez returns to Venezuela after cancer treatment'
+p23
+sa(dp24
+g2
+S'http://www.reuters.com/article/2011/07/24/idUS13278+24-Jul-2011+PRN20110724'
+p25
+sg4
+S'20110723\xc2\xa010:30PM UTC'
+p26
+sg6
+S'Following Is a Test Release'
+p27
+sa(dp28
+g2
+S'http://www.reuters.com/article/2011/07/24/us-japan-economy-reconstruction-idUSTRE76N0AV20110724'
+p29
+sg4
+S'20110723\xc2\xa010:24PM UTC'
+p30
+sg6
+S'Japan plans $128 bln in reconstruction bonds: Nikkei'
+p31
+sa(dp32
+g2
+S'http://www.reuters.com/article/2011/07/24/idUS12662+24-Jul-2011+PRN20110724'
+p33
+sg4
+S'20110723\xc2\xa010:00PM UTC'
+p34
+sg6
+S'Following Is a Test Release'
+p35
+sa(dp36
+g2
+S'http://www.reuters.com/article/2011/07/24/us-deutschebank-succession-idUSTRE76N09R20110724'
+p37
+sg4
+S'20110723\xc2\xa09:54PM UTC'
+p38
+sg6
+S'Deutsche Bank CEO Ackermann to move to chairman role: report'
+p39
+sa(dp40
+g2
+S'http://www.reuters.com/article/2011/07/24/deutschebank-succession-idUSLDE76M0E220110724'
+p41
+sg4
+S'20110723\xc2\xa09:52PM UTC'
+p42
+sg6
+S'D.Bank CEO Ackermann to move to chairman role-media'
+p43
+sa(dp44
+g2
+S'http://www.reuters.com/article/2011/07/24/usa-debt-idUSN1E76L20Z20110724'
+p45
+sg4
+S'20110723\xc2\xa09:42PM UTC'
+p46
+sg6
+S'WRAPUP 10-New dispute threatens U.S. debt limit negotiations'
+p47
+sa(dp48
+g2
+S'http://www.reuters.com/article/2011/07/24/idUS12022+24-Jul-2011+PRN20110724'
+p49
+sg4
+S'20110723\xc2\xa09:30PM UTC'
+p50
+sg6
+S'Following Is a Test Release'
+p51
+sa(dp52
+g2
+S'http://www.reuters.com/article/2011/07/24/usa-debt-idUSN1E76L1Z020110724'
+p53
+sg4
+S'20110723\xc2\xa09:22PM UTC'
+p54
+sg6
+S'SNAPSHOT-Developments in U.S. debt talks'
+p55
+sa(dp56
+g2
+S'http://www.reuters.com/article/2011/07/24/us-media-comiccon-theron-idUSTRE76N05L20110724'
+p57
+sg4
+S'20110723\xc2\xa09:20PM UTC'
+p58
+sg6
+S'Theron, Stewart square off in new "Snow White"'
+p59
+sa(dp60
+g2
+S'http://www.reuters.com/article/2011/07/24/industry-us-media-comiccon-futurama-idUSTRE76N05B20110724'
+p61
+sg4
+S'20110723\xc2\xa09:17PM UTC'
+p62
+sg6
+S'"Futurama" gets two more seasons on TV'
+p63
+sa(dp64
+g2
+S'http://www.reuters.com/article/2011/07/24/us-walter-reed-move-idUSTRE76N05320110724'
+p65
+sg4
+S'20110723\xc2\xa09:10PM UTC'
+p66
+sg6
+S'Historic Walter Reed Army hospital prepares for move'
+p67
+sa(dp68
+g2
+S'http://www.reuters.com/article/2011/07/24/idUS11473+24-Jul-2011+PRN20110724'
+p69
+sg4
+S'20110723\xc2\xa09:00PM UTC'
+p70
+sg6
+S'Following Is a Test Release'
+p71
+sa(dp72
+g2
+S'http://www.reuters.com/article/2011/07/24/idUS11443+24-Jul-2011+BW20110724'
+p73
+sg4
+S'20110723\xc2\xa08:59PM UTC'
+p74
+sg6
+S'Research and Markets: Indonesia Oil and Gas Report Q3 2011'
+p75
+sa(dp76
+g2
+S'http://www.reuters.com/article/2011/07/24/us-norway-attack-farm-idUSTRE76N03V20110724'
+p77
+sg4
+S'20110723\xc2\xa08:57PM UTC'
+p78
+sg6
+S'Police search rural idyll for clues to Norway killings'
+p79
+sa(dp80
+g2
+S'http://www.reuters.com/article/2011/07/24/us-norway-killer-video-idUSTRE76M34C20110724'
+p81
+sg4
+S'20110723\xc2\xa08:56PM UTC'
+p82
+sg6
+S'YouTube video apparently shows Norway killer with gun'
+p83
+sa(dp84
+g2
+S'http://www.reuters.com/article/2011/07/24/idUS11257+24-Jul-2011+PRN20110724'
+p85
+sg4
+S'20110723\xc2\xa08:50PM UTC'
+p86
+sg6
+S'THE CANADIAN CHEESE ROLLING FESTIVAL: A DELICIOUS AND EXHILARATING EVENT'
+p87
+sa(dp88
+g2
+S'http://www.reuters.com/article/2011/07/24/us-britain-winehouse-reactions-idUSTRE76N03F20110724'
+p89
+sg4
+S'20110723\xc2\xa08:50PM UTC'
+p90
+sg6
+S'Fans, stars tweet the blues over Winehouse death'
+p91
+sa(dp92
+g2
+S'http://www.reuters.com/article/2011/07/24/britain-winehouse-reactions-idUSN1E76M09V20110724'
+p93
+sg4
+S'20110723\xc2\xa08:41PM UTC'
+p94
+sg6
+S'Fans, stars tweet the blues over Winehouse death'
+p95
+sa(dp96
+g2
+S'http://www.reuters.com/article/2011/07/24/idUS10800+24-Jul-2011+PRN20110724'
+p97
+sg4
+S'20110723\xc2\xa08:30PM UTC'
+p98
+sg6
+S'Following Is a Test Release'
+p99
+sa(dp100
+g2
+S'http://www.reuters.com/article/2011/07/24/us-usa-debt-reid-idUSTRE76N02S20110724'
+p101
+sg4
+S'20110723\xc2\xa08:26PM UTC'
+p102
+sg6
+S'Sen. Reid "disappointed" by U.S. debt talks'
+p103
+sa(dp104
+g2
+S'http://www.reuters.com/article/2011/07/24/usa-debt-reid-idUSWEN595220110724'
+p105
+sg4
+S'20110723\xc2\xa08:24PM UTC'
+p106
+sg6
+S"U.S. Sen. Reid 'disappointed' by U.S. debt talks"
+p107
+sa(dp108
+g2
+S'http://www.reuters.com/article/2011/07/24/idUS62810898420110724'
+p109
+sg4
+S'20110723\xc2\xa08:23PM UTC'
+p110
+sg6
+S"Comic-Con: 'Pressure's Off' as 'Futurama' Gets Unexpected 2 More Seasons"
+p111
+sa(dp112
+g2
+S'http://www.reuters.com/article/2011/07/24/idUS34473640720110724'
+p113
+sg4
+S'20110723\xc2\xa08:16PM UTC'
+p114
+sg6
+S'\xe2\x80\x98Cowboys & Aliens\xe2\x80\x99 Writer Roberto Orci: \xe2\x80\x98The Government\xe2\x80\x99s Lying!\xe2\x80\x99'
+p115
+sa(dp116
+g2
+S'http://www.reuters.com/article/2011/07/24/libya-explosions-idUSL6E7IO00020110724'
+p117
+sg4
+S'20110723\xc2\xa08:12PM UTC'
+p118
+sg6
+S'Blasts rock Tripoli, Libya state TV says NATO strikes '
+p119
+sa(dp120
+g2
+S'http://www.reuters.com/article/2011/07/24/us-norway-suspect-idUSTRE76N00O20110724'
+p121
+sg4
+S'20110723\xc2\xa08:08PM UTC'
+p122
+sg6
+S'Norway massacre suspect driven by "crusade"'
+p123
+sa(dp124
+g2
+S'http://www.reuters.com/article/2011/07/24/idUS10025+24-Jul-2011+PRN20110724'
+p125
+sg4
+S'20110723\xc2\xa08:00PM UTC'
+p126
+sg6
+S'Following Is a Test Release'
+p127
+sa(dp128
+g2
+S'http://www.reuters.com/article/2011/07/24/idUS10003+24-Jul-2011+BW20110724'
+p129
+sg4
+S'20110723\xc2\xa08:00PM UTC'
+p130
+sg6
+S'Jackpotjoy: Mr. Ronald P Never Won Anything in His Life, Until Now'
+p131
+sa(dp132
+g2
+S'http://www.reuters.com/article/2011/07/23/idUS61645+23-Jul-2011+PRN20110723'
+p133
+sg4
+S'20110723\xc2\xa07:56PM UTC'
+p134
+sg6
+S'Paulsen Wins National Guard FLW Walleye Tour Event on Green Bay'
+p135
+sa(dp136
+g2
+S'http://www.reuters.com/article/2011/07/23/idUS94218702220110723'
+p137
+sg4
+S'20110723\xc2\xa07:56PM UTC'
+p138
+sg6
+S'PHOTOS: The wild world of art meets connected devices'
+p139
+sa(dp140
+g2
+S'http://www.reuters.com/article/2011/07/23/us-motorcycling-prix-idUSTRE76M3G720110723'
+p141
+sg4
+S'20110723\xc2\xa07:50PM UTC'
+p142
+sg6
+S'Lorenzo grabs pole for U.S. Grand Prix'
+p143
+sa(dp144
+g2
+S'http://www.reuters.com/article/2011/07/23/us-winehouse-critique-idUSTRE76M3LT20110723'
+p145
+sg4
+S'20110723\xc2\xa07:48PM UTC'
+p146
+sg6
+S'Amy Winehouse: "I\'ll be dead in a ditch, on fire"'
+p147
+sa(dp148
+g2
+S'http://www.reuters.com/article/2011/07/23/us-weather-idUSTRE76J5N120110723'
+p149
+sg4
+S'20110723\xc2\xa07:46PM UTC'
+p150
+sg6
+S'Heavy rains soak Chicago as east coast steams'
+p151
+sa(dp152
+g2
+S'http://www.reuters.com/article/2011/07/23/idUS61289+23-Jul-2011+PRN20110723'
+p153
+sg4
+S'20110723\xc2\xa07:40PM UTC'
+p154
+sg6
+S'Prime Healthcare Disputes the Claims of California Watch and the Union'
+p155
+sa(dp156
+g2
+S'http://www.reuters.com/article/2011/07/23/idUS61080+23-Jul-2011+PRN20110723'
+p157
+sg4
+S'20110723\xc2\xa07:30PM UTC'
+p158
+sg6
+S'Following Is a Test Release'
+p159
+sa(dp160
+g2
+S'http://www.reuters.com/article/2011/07/23/idUS34473640720110723'
+p161
+sg4
+S'20110723\xc2\xa07:21PM UTC'
+p162
+sg6
+S'\xe2\x80\x98Cowboys & Aliens\xe2\x80\x99 Writer Roberto Orci: \xe2\x80\x98The Government\xe2\x80\x99s Lying!\xe2\x80\x99'
+p163
+sa(dp164
+g2
+S'http://www.reuters.com/article/2011/07/23/us-gay-marriage-idUSTRE76M3KZ20110723'
+p165
+sg4
+S'20110723\xc2\xa07:12PM UTC'
+p166
+sg6
+S'New Yorkers ready vows as state allows same-sex marriage'
+p167
+sa(dp168
+g2
+S'http://www.reuters.com/article/2011/07/23/us-britain-winehouse-idUSTRE76M2DI20110723'
+p169
+sg4
+S'20110723\xc2\xa07:09PM UTC'
+p170
+sg6
+S'Britain\'s "Rehab" singer Amy Winehouse dies aged 27'
+p171
+sa(dp172
+g2
+S'http://www.reuters.com/article/2011/07/23/idUS60670+23-Jul-2011+PRN20110723'
+p173
+sg4
+S'20110723\xc2\xa07:05PM UTC'
+p174
+sg6
+S"Charlie Sheen's Winning Week: After Winning a New Sitcom, Sheen Steps in to Help Children's Charity"
+p175
+sa(dp176
+g2
+S'http://www.reuters.com/article/2011/07/23/us-usa-debt-idUSTRE7646S620110723'
+p177
+sg4
+S'20110723\xc2\xa07:01PM UTC'
+p178
+sg6
+S'Obama, lawmakers scramble to salvage debt deal'
+p179
+sa(dp180
+g2
+S'http://www.reuters.com/article/2011/07/23/idUS60507+23-Jul-2011+PRN20110723'
+p181
+sg4
+S'20110723\xc2\xa07:00PM UTC'
+p182
+sg6
+S'Following Is a Test Release'
+p183
+sa(dp184
+g2
+S'http://www.reuters.com/article/2011/07/23/us-boat-deaths-wisconsin-idUSTRE76M36E20110723'
+p185
+sg4
+S'20110723\xc2\xa06:59PM UTC'
+p186
+sg6
+S'Two dead, two missing in Wisconsin boat crash'
+p187
+sa(dp188
+g2
+S'http://www.reuters.com/article/2011/07/23/usa-debt-idUSN1E76L20Z20110723'
+p189
+sg4
+S'20110723\xc2\xa06:56PM UTC'
+p190
+sg6
+S'WRAPUP 9-Obama, lawmakers scramble to salvage US debt deal'
+p191
+sa(dp192
+g2
+S'http://www.reuters.com/article/2011/07/23/us-media-comiccon-coppola-idUSTRE76M3ID20110723'
+p193
+sg4
+S'20110723\xc2\xa06:44PM UTC'
+p194
+sg6
+S'"Godfather" of film Coppola unveils new 3D "Twixt"'
+p195
+sa(dp196
+g2
+S'http://www.reuters.com/article/2011/07/23/media-comiccon-coppola-idUSN1E76M09420110723'
+p197
+sg4
+S'20110723\xc2\xa06:41PM UTC'
+p198
+sg6
+S"'Godfather' of film Coppola unveils new 3D 'Twixt'"
+p199
+sa(dp200
+g2
+S'http://www.reuters.com/article/2011/07/23/newscorp-odey-idUSLDE76M0FL20110723'
+p201
+sg4
+S'20110723\xc2\xa06:39PM UTC'
+p202
+sg6
+S'BSkyB chair James Murdoch backed by investor Odey'
+p203
+sa(dp204
+g2
+S'http://www.reuters.com/article/2011/07/23/us-newscorp-odey-idUSTRE76M3HA20110723'
+p205
+sg4
+S'20110723\xc2\xa06:33PM UTC'
+p206
+sg6
+S'BSkyB chair James Murdoch backed by investor Odey'
+p207
+sa(dp208
+g2
+S'http://www.reuters.com/article/2011/07/23/idUS59550+23-Jul-2011+PRN20110723'
+p209
+sg4
+S'20110723\xc2\xa06:30PM UTC'
+p210
+sg6
+S'Following Is a Test Release'
+p211
+sa(dp212
+g2
+S'http://www.reuters.com/article/2011/07/23/us-mexico-consulate-idUSTRE76M32C20110723'
+p213
+sg4
+S'20110723\xc2\xa06:26PM UTC'
+p214
+sg6
+S'Gunmen kill two Mexican cops who guarded U.S. diplomats'
+p215
+sa(dp216
+g2
+S'http://www.reuters.com/article/2011/07/23/us-nigeria-bomb-idUSTRE76M3GO20110723'
+p217
+sg4
+S'20110723\xc2\xa06:23PM UTC'
+p218
+sg6
+S'Bomb rocks troubled northeastern Nigerian city'
+p219
+sa(dp220
+g2
+S'http://www.reuters.com/article/2011/07/23/us-golf-pga-idUSTRE76L62C20110723'
+p221
+sg4
+S'20110723\xc2\xa06:20PM UTC'
+p222
+sg6
+S'Van Pelt record back nine cannot spoil Canadian Open party'
+p223
+sa(dp224
+g2
+S'http://www.reuters.com/article/2011/07/23/us-veterans-work-idUSTRE76M3FG20110723'
+p225
+sg4
+S'20110723\xc2\xa06:18PM UTC'
+p226
+sg6
+S'Back from war, young vets struggle to find good jobs'
+p227
+sa(dp228
+g2
+S'http://www.reuters.com/article/2011/07/23/us-norway-idUSL6E7IN00C20110723'
+p229
+sg4
+S'20110723\xc2\xa06:14PM UTC'
+p230
+sg6
+S'Norway shooter traumatizes nation, up to 98 dead'
+p231
+sa(dp232
+g2
+S'http://www.reuters.com/article/2011/07/23/idUS58802+23-Jul-2011+PRN20110723'
+p233
+sg4
+S'20110723\xc2\xa06:00PM UTC'
+p234
+sg6
+S'Following Is a Test Release'
+p235
+sa(dp236
+g2
+S'http://www.reuters.com/article/2011/07/23/us-egypt-protests-idUSTRE76M1G320110723'
+p237
+sg4
+S'20110723\xc2\xa05:55PM UTC'
+p238
+sg6
+S'Scores hurt in clashes, Egypt rulers promise democracy'
+p239
+sa(dp240
+g2
+S'http://www.reuters.com/article/2011/07/23/us-norway-killer-lawyer-idUSTRE76M3DK20110723'
+p241
+sg4
+S'20110723\xc2\xa05:48PM UTC'
+p242
+sg6
+S'Norway massacre suspect calls deed necessary: lawyer'
+p243
+sa(dp244
+g2
+S'http://www.reuters.com/article/2011/07/23/idUS58245+23-Jul-2011+MW20110723'
+p245
+sg4
+S'20110723\xc2\xa05:39PM UTC'
+p246
+sg6
+S" Canadians' Tips Making a Difference in Search for Suspected War Criminals"
+p247
+sa(dp248
+g2
+S'http://www.reuters.com/article/2011/07/23/idUS58083+23-Jul-2011+PRN20110723'
+p249
+sg4
+S'20110723\xc2\xa05:30PM UTC'
+p250
+sg6
+S'Following Is a Test Release'
+p251
+sa(dp252
+g2
+S'http://www.reuters.com/article/2011/07/23/us-usa-shalikashvili-idUSTRE76M36X20110723'
+p253
+sg4
+S'20110723\xc2\xa05:28PM UTC'
+p254
+sg6
+S'Former joint chiefs head Shalikashvili dies'
+p255
+sa(dp256
+g2
+S'http://www.reuters.com/article/2011/07/23/industry-us-media-comiccon-terranova-idUSTRE76M3BW20110723'
+p257
+sg4
+S'20110723\xc2\xa05:24PM UTC'
+p258
+sg6
+S'"Terra Nova" seeks to satisfy TV fan bloodlust'
+p259
+sa(dp260
+g2
+S'http://www.reuters.com/article/2011/07/23/idUS57943+23-Jul-2011+GNW20110723'
+p261
+sg4
+S'20110723\xc2\xa05:24PM UTC'
+p262
+sg6
+S'Spirit Airlines Gives Customers Their Share of $200 Million Per Week in Tax Savings'
+p263
+sa(dp264
+g2
+S'http://www.reuters.com/article/2011/07/23/industry-us-media-comiccon-farrell-idUSTRE76M3BK20110723'
+p265
+sg4
+S'20110723\xc2\xa05:23PM UTC'
+p266
+sg6
+S'Colin Farrell, coming and going, at Comic-Con'
+p267
+sa(dp268
+g2
+S'http://www.reuters.com/article/2011/07/23/usa-debt-democrats-idUSWEN595120110723'
+p269
+sg4
+S'20110723\xc2\xa05:14PM UTC'
+p270
+sg6
+S'US Democratic leaders want long-term budget deal-Reid'
+p271
+sa(dp272
+g2
+S'http://www.reuters.com/article/2011/07/23/soccer-copa-idUSLDE76M0EL20110723'
+p273
+sg4
+S'20110723\xc2\xa05:14PM UTC'
+p274
+sg6
+S'Soccer-Peru crush Venezuela 4-1, finish third at Copa America'
+p275
+sa(dp276
+g2
+S'http://www.reuters.com/article/2011/07/23/us-usa-debt-snap-idUSTRE76M0MY20110723'
+p277
+sg4
+S'20110723\xc2\xa05:01PM UTC'
+p278
+sg6
+S'Snapshot: Developments in debt talks'
+p279
+sa(dp280
+g2
+S'http://www.reuters.com/article/2011/07/23/idUS57225+23-Jul-2011+PRN20110723'
+p281
+sg4
+S'20110723\xc2\xa05:00PM UTC'
+p282
+sg6
+S'Following Is a Test Release'
+p283
+sa(dp284
+g2
+S'http://www.reuters.com/article/2011/07/23/idUS57083+23-Jul-2011+PRN20110723'
+p285
+sg4
+S'20110723\xc2\xa04:55PM UTC'
+p286
+sg6
+S'Tony Bennett Statement on the Passing of Amy Winehouse'
+p287
+sa(dp288
+g2
+S'http://www.reuters.com/article/2011/07/23/usa-debt-idUSN1E76L1Z020110723'
+p289
+sg4
+S'20110723\xc2\xa04:54PM UTC'
+p290
+sg6
+S'SNAPSHOT-Developments in U.S. debt talks'
+p291
+sa(dp292
+g2
+S'http://www.reuters.com/article/2011/07/23/usa-france-idUSWNA452720110723'
+p293
+sg4
+S'20110723\xc2\xa04:52PM UTC'
+p294
+sg6
+S'Europe debt action important steps for stability-Obama'
+p295
+sa(dp296
+g2
+S'http://www.reuters.com/article/2011/07/23/us-china-train-idUSTRE76M26T20110723'
+p297
+sg4
+S'20110723\xc2\xa04:50PM UTC'
+p298
+sg6
+S'At least 32 die in east China high-speed train crash'
+p299
+sa(dp300
+g2
+S'http://www.reuters.com/article/2011/07/23/us-google-reviews-idUSTRE76M38S20110723'
+p301
+sg4
+S'20110723\xc2\xa04:49PM UTC'
+p302
+sg6
+S'Google "Places" drops outside customer reviews'
+p303
+sa(dp304
+g2
+S'http://www.reuters.com/article/2011/07/23/china-train-idUSL3E7IN08J20110723'
+p305
+sg4
+S'20110723\xc2\xa04:49PM UTC'
+p306
+sg6
+S'UPDATE 4-At least 32 die in east China high-speed train crash'
+p307
+sa(dp308
+g2
+S'http://www.reuters.com/article/2011/07/23/us-rhysifan-idUSTRE76M38420110723'
+p309
+sg4
+S'20110723\xc2\xa04:45PM UTC'
+p310
+sg6
+S'"Spider-Man" villain Ifans arrested at Comic-Con'
+p311
+sa(dp312
+g2
+S'http://www.reuters.com/article/2011/07/23/us-norway-killer-group-idUSTRE76M37Q20110723'
+p313
+sg4
+S'20110723\xc2\xa04:40PM UTC'
+p314
+sg6
+S'Fringe group barred suspected Norway killer from forum'
+p315
+sa(dp316
+g2
+S'http://www.reuters.com/article/2011/07/23/people-rhysifan-idUSN1E76M06H20110723'
+p317
+sg4
+S'20110723\xc2\xa04:37PM UTC'
+p318
+sg6
+S"'Spider-Man' villain Ifans arrested at Comic-Con"
+p319
+sa(dp320
+g2
+S'http://www.reuters.com/article/2011/07/23/google-reviews-idUSN1E76M06Z20110723'
+p321
+sg4
+S'20110723\xc2\xa04:33PM UTC'
+p322
+sg6
+S'Google "Places" drops outside customer reviews'
+p323
+sa(dp324
+g2
+S'http://www.reuters.com/article/2011/07/23/latvia-referendum-idUSLDE76M0EW20110723'
+p325
+sg4
+S'20110723\xc2\xa04:31PM UTC'
+p326
+sg6
+S'Latvians back dismissal of parliament-early results'
+p327
+sa(dp328
+g2
+S'http://www.reuters.com/article/2011/07/23/idUS56264+23-Jul-2011+PRN20110723'
+p329
+sg4
+S'20110723\xc2\xa04:30PM UTC'
+p330
+sg6
+S'Following Is a Test Release'
+p331
+sa(dp332
+g2
+S'http://www.reuters.com/article/2011/07/23/us-norway-obama-idUSTRE76M36320110723'
+p333
+sg4
+S'20110723\xc2\xa04:17PM UTC'
+p334
+sg6
+S'Obama offers condolences to Norway over deaths'
+p335
+sa(dp336
+g2
+S'http://www.reuters.com/article/2011/07/23/norway-obama-idUSWNA452520110723'
+p337
+sg4
+S'20110723\xc2\xa04:16PM UTC'
+p338
+sg6
+S'Obama offers condolences to Norway over deaths'
+p339
+sa(dp340
+g2
+S'http://www.reuters.com/article/2011/07/23/us-usa-debt-republicans-aim-idUSTRE76M35U20110723'
+p341
+sg4
+S'20110723\xc2\xa04:15PM UTC'
+p342
+sg6
+S'Congress aims for debt deal by Monday: GOP aide'
+p343
+sa(dp344
+g2
+S'http://www.reuters.com/article/2011/07/23/idUS55837+23-Jul-2011+MW20110723'
+p345
+sg4
+S'20110723\xc2\xa04:15PM UTC'
+p346
+sg6
+S' Government of Canada Funds Construction of New War Memorial in Batoche, Saskatchewan'
+p347
+sa(dp348
+g2
+S'http://www.reuters.com/article/2011/07/23/idUS55835+23-Jul-2011+PRN20110723'
+p349
+sg4
+S'20110723\xc2\xa04:15PM UTC'
+p350
+sg6
+S'COMEDY CENTRAL\xc2\xae and Matt Groening Announce the Launch of the "Futurama Head-In-A-Jar Creator" App'
+p351
+sa(dp352
+g2
+S'http://www.reuters.com/article/2011/07/23/usa-debt-republicans-aim-idUSWNA452420110723'
+p353
+sg4
+S'20110723\xc2\xa04:15PM UTC'
+p354
+sg6
+S'Congress aims for debt deal by Monday-GOP aide'
+p355
+sa(dp356
+g2
+S'http://www.reuters.com/article/2011/07/23/us-arizona-biker-shootings-idUSTRE76M35L20110723'
+p357
+sg4
+S'20110723\xc2\xa04:12PM UTC'
+p358
+sg6
+S'Three dead in shooting at Arizona motorcycle rally'
+p359
+sa(dp360
+g2
+S'http://www.reuters.com/article/2011/07/23/us-soccer-fifa-binhammam-idUSTRE76M2HX20110723'
+p361
+sg4
+S'20110723\xc2\xa04:03PM UTC'
+p362
+sg6
+S'Bin Hammam to appeal against FIFA life ban'
+p363
+sa(dp364
+g2
+S'http://www.reuters.com/article/2011/07/23/idUS55357+23-Jul-2011+PRN20110723'
+p365
+sg4
+S'20110723\xc2\xa04:00PM UTC'
+p366
+sg6
+S'Following Is a Test Release'
+p367
+sa(dp368
+g2
+S'http://www.reuters.com/article/2011/07/23/us-norway-killer-video-idUSTRE76M34C20110723'
+p369
+sg4
+S'20110723\xc2\xa03:59PM UTC'
+p370
+sg6
+S'YouTube video apparently shows Norway killer with gun'
+p371
+sa(dp372
+g2
+S'http://www.reuters.com/article/2011/07/23/idUS103520123920110723'
+p373
+sg4
+S'20110723\xc2\xa03:58PM UTC'
+p374
+sg6
+S"Charlize Theron to Kristen Stewart at Comic-Con: 'I'm Ready for You, B-tch!'"
+p375
+sa(dp376
+g2
+S'http://www.reuters.com/article/2011/07/23/us-utah-mystery-prisoner-idUSTRE76M34320110723'
+p377
+sg4
+S'20110723\xc2\xa03:54PM UTC'
+p378
+sg6
+S'Mystery prisoner has Utah jail authorities stumped'
+p379
+sa(dp380
+g2
+S'http://www.reuters.com/article/2011/07/23/us-usa-debt-republicans-idUSTRE76M33O20110723'
+p381
+sg4
+S'20110723\xc2\xa03:52PM UTC'
+p382
+sg6
+S'Lawmakers look at $3 trillion-$4 trillion deal: aide'
+p383
+sa(dp384
+g2
+S'http://www.reuters.com/article/2011/07/23/usa-debt-republicans-idUSWEN594920110723'
+p385
+sg4
+S'20110723\xc2\xa03:49PM UTC'
+p386
+sg6
+S'US lawmakers look at $3 trillion-$4 trln deal-aide'
+p387
+sa(dp388
+g2
+S'http://www.reuters.com/article/2011/07/23/idUS54282+23-Jul-2011+PRN20110723'
+p389
+sg4
+S'20110723\xc2\xa03:30PM UTC'
+p390
+sg6
+S'Following Is a Test Release'
+p391
+sa(dp392
+g2
+S'http://www.reuters.com/article/2011/07/23/us-soccer-fifa-binhammam-reaction-idUSTRE76M32R20110723'
+p393
+sg4
+S'20110723\xc2\xa03:28PM UTC'
+p394
+sg6
+S"Qataris lament Bin Hammam's lifetime ban"
+p395
+sa(dp396
+g2
+S'http://www.reuters.com/article/2011/07/23/us-oregon-congressman-idUSTRE76M32520110723'
+p397
+sg4
+S'20110723\xc2\xa03:21PM UTC'
+p398
+sg6
+S'Woman accuses Oregon Congressman of unwanted sexual encounter'
+p399
+sa(dp400
+g2
+S'http://www.reuters.com/article/2011/07/23/idUS53865+23-Jul-2011+PRN20110723'
+p401
+sg4
+S'20110723\xc2\xa03:21PM UTC'
+p402
+sg6
+S"Concord Coalition Welcomes Plan by 'Gang of Sense'"
+p403
+sa(dp404
+g2
+S'http://www.reuters.com/article/2011/07/23/us-france-poll-idUSTRE76M31O20110723'
+p405
+sg4
+S'20110723\xc2\xa03:16PM UTC'
+p406
+sg6
+S"France's Sarkozy approval rating at 11-month high: poll"
+p407
+sa(dp408
+g2
+S'http://www.reuters.com/article/2011/07/23/idUS237009107320110723'
+p409
+sg4
+S'20110723\xc2\xa03:11PM UTC'
+p410
+sg6
+S"Patrick Stewart Makes Comic-Con Debut at 'Dorothy of Oz' Panel"
+p411
+sa(dp412
+g2
+S'http://www.reuters.com/article/2011/07/23/idUS53352+23-Jul-2011+PRN20110723'
+p413
+sg4
+S'20110723\xc2\xa03:10PM UTC'
+p414
+sg6
+S'Bahrain "Most Open Economy" in GCC, KPMG Report Says'
+p415
+sa(dp416
+g2
+S'http://www.reuters.com/article/2011/07/23/us-soccer-fifa-events-idUSTRE76M30M20110723'
+p417
+sg4
+S'20110723\xc2\xa03:09PM UTC'
+p418
+sg6
+S'TImeline: FIFA corruption scandal in the last year'
+p419
+sa(dp420
+g2
+S'http://www.reuters.com/article/2011/07/23/idUS53132+23-Jul-2011+MW20110723'
+p421
+sg4
+S'20110723\xc2\xa03:05PM UTC'
+p422
+sg6
+S' Canoel Announces the Closing of a Private Placement of Convertible Notes'
+p423
+sa(dp424
+g2
+S'http://www.reuters.com/article/2011/07/23/us-norway-pope-idUSTRE76M30320110723'
+p425
+sg4
+S'20110723\xc2\xa03:02PM UTC'
+p426
+sg6
+S'Pope urges Norwegians to reject hatred and conflict'
+p427
+sa(dp428
+g2
+S'http://www.reuters.com/article/2011/07/23/idUS52822+23-Jul-2011+PRN20110723'
+p429
+sg4
+S'20110723\xc2\xa03:00PM UTC'
+p430
+sg6
+S'Following Is a Test Release'
+p431
+sa(dp432
+g2
+S'http://www.reuters.com/article/2011/07/23/us-norway-killer-idUSTRE76M25U20110723'
+p433
+sg4
+S'20110723\xc2\xa02:51PM UTC'
+p434
+sg6
+S'Norway killer unknown to police, criticized Islam'
+p435
+sa(dp436
+g2
+S'http://www.reuters.com/article/2011/07/23/china-train-toll-idUSL3E7IN09E20110723'
+p437
+sg4
+S'20110723\xc2\xa02:46PM UTC'
+p438
+sg6
+S'Death toll in China train crash climbs to 32- Xinhua'
+p439
+sa(dp440
+g2
+S'http://www.reuters.com/article/2011/07/23/us-usa-debt-boehner-idUSTRE76M2XB20110723'
+p441
+sg4
+S'20110723\xc2\xa02:40PM UTC'
+p442
+sg6
+S'Boehner says lawmakers seek debt limit solution'
+p443
+sa(dp444
+g2
+S'http://www.reuters.com/article/2011/07/23/usa-debt-boehner-idUSWEN594720110723'
+p445
+sg4
+S'20110723\xc2\xa02:35PM UTC'
+p446
+sg6
+S'Boehner says lawmakers seek US debt limit solution'
+p447
+sa(dp448
+g2
+S'http://www.reuters.com/article/2011/07/23/idUS51509+23-Jul-2011+PRN20110723'
+p449
+sg4
+S'20110723\xc2\xa02:30PM UTC'
+p450
+sg6
+S'Following Is a Test Release'
+p451
+sa(dp452
+g2
+S'http://www.reuters.com/article/2011/07/23/idUSTRE76M2VE20110723'
+p453
+sg4
+S'20110723\xc2\xa02:28PM UTC'
+p454
+sg6
+S'Insight: Wall Street, companies brace for U.S. default'
+p455
+sa(dp456
+g2
+S'http://www.reuters.com/article/2011/07/23/usa-debt-wallstreet-idUSN1E76L1Y220110723'
+p457
+sg4
+S'20110723\xc2\xa02:24PM UTC'
+p458
+sg6
+S'CORRECTED - INSIGHT-Wall St, companies brace for U.S. default'
+p459
+sa(dp460
+g2
+S'http://www.reuters.com/article/2011/07/23/us-usa-debt-whitehouse-idUSTRE76M2U220110723'
+p461
+sg4
+S'20110723\xc2\xa02:16PM UTC'
+p462
+sg6
+S'White House warns Congress not to play politics with debt'
+p463
+sa(dp464
+g2
+S'http://www.reuters.com/article/2011/07/23/usa-debt-whitehouse-idUSWNA452120110723'
+p465
+sg4
+S'20110723\xc2\xa02:12PM UTC'
+p466
+sg6
+S'W.House warns Congress not to play politics with debt'
+p467
+sa(dp468
+g2
+S'http://www.reuters.com/article/2011/07/23/us-eurozone-idUSTRE76I5X620110723'
+p469
+sg4
+S'20110723\xc2\xa02:09PM UTC'
+p470
+sg6
+S'Fitch calls default, Greece pledges no let-up on debt'
+p471
+sa(dp472
+g2
+S'http://www.reuters.com/article/2011/07/23/idUS50404+23-Jul-2011+PRN20110723'
+p473
+sg4
+S'20110723\xc2\xa02:00PM UTC'
+p474
+sg6
+S'Following Is a Test Release'
+p475
+sa(dp476
+g2
+S'http://www.reuters.com/article/2011/07/23/britain-winehouse-death-idUSLDE76M0DY20110723'
+p477
+sg4
+S'20110723\xc2\xa02:00PM UTC'
+p478
+sg6
+S"Amy Winehouse's label confirms singer's death"
+p479
+sa(dp480
+g2
+S'http://www.reuters.com/article/2011/07/23/idUS50398+23-Jul-2011+PRN20110723'
+p481
+sg4
+S'20110723\xc2\xa02:00PM UTC'
+p482
+sg6
+S'Chrysler Group LLC Manufacturing Employees Focus on Home Improvements for Community Action Day, Saturday, July 23'
+p483
+sa(dp484
+g2
+S'http://www.reuters.com/article/2011/07/23/us-cycling-tour-saturday-idUSTRE76M0AJ20110723'
+p485
+sg4
+S'20110723\xc2\xa01:56PM UTC'
+p486
+sg6
+S'Evans to give Australia first Tour victory'
+p487
+sa(dp488
+g2
+S'http://www.reuters.com/article/2011/07/23/us-cycling-tour-schleck-idUSTRE76M2PV20110723'
+p489
+sg4
+S'20110723\xc2\xa01:56PM UTC'
+p490
+sg6
+S'Schlecks content with double podium finish on Tour'
+p491
+sa(dp492
+g2
+S'http://www.reuters.com/article/2011/07/23/us-norway-eyewitness-idUSTRE76M2P020110723'
+p493
+sg4
+S'20110723\xc2\xa01:50PM UTC'
+p494
+sg6
+S'Norway island survivors: screams, shots and death'
+p495
+sa(dp496
+g2
+S'http://www.reuters.com/article/2011/07/23/us-china-apple-idUSTRE76M2NP20110723'
+p497
+sg4
+S'20110723\xc2\xa01:44PM UTC'
+p498
+sg6
+S'China inspects electronics stores after fake Apple shops report'
+p499
+sa(dp500
+g2
+S'http://www.reuters.com/article/2011/07/23/us-iran-assassination-idUSTRE76M1WI20110723'
+p501
+sg4
+S'20110723\xc2\xa01:42PM UTC'
+p502
+sg6
+S'Iranian nuclear scientist killed in Tehran: report'
+p503
+sa(dp504
+g2
+S'http://www.reuters.com/article/2011/07/23/us-soccer-fifa-binhammam-factbox-idUSTRE76M2MZ20110723'
+p505
+sg4
+S'20110723\xc2\xa01:41PM UTC'
+p506
+sg6
+S'Factbox: Former AFC president Mohamed Bin Hammam'
+p507
+sa(dp508
+g2
+S'http://www.reuters.com/article/2011/07/23/us-soccer-fifa-binhammam-profile-idUSTRE76M2MY20110723'
+p509
+sg4
+S'20110723\xc2\xa01:41PM UTC'
+p510
+sg6
+S"Profile: Bin Hammam's spectacular fall from grace"
+p511
+sa(dp512
+g2
+S'http://www.reuters.com/article/2011/07/23/us-norway-attack-threat-idUSTRE76M2MJ20110723'
+p513
+sg4
+S'20110723\xc2\xa01:41PM UTC'
+p514
+sg6
+S'Norway PM says terror threat level not raised'
+p515
+sa(dp516
+g2
+S'http://www.reuters.com/article/2011/07/23/china-apple-idUSL3E7IN08020110723'
+p517
+sg4
+S'20110723\xc2\xa01:37PM UTC'
+p518
+sg6
+S'China inspects electronics stores after fake Apple shops report'
+p519
+sa(dp520
+g2
+S'http://www.reuters.com/article/2011/07/23/norway-attack-threat-idUSOSN00530220110723'
+p521
+sg4
+S'20110723\xc2\xa01:34PM UTC'
+p522
+sg6
+S'Norway PM says terror threat level not raised'
+p523
+sa(dp524
+g2
+S'http://www.reuters.com/article/2011/07/23/us-britain-winehouse-profile-idUSTRE76M2IX20110723'
+p525
+sg4
+S'20110723\xc2\xa01:32PM UTC'
+p526
+sg6
+S'Factbox: The life and times of Amy Winehouse'
+p527
+sa(dp528
+g2
+S'http://www.reuters.com/article/2011/07/23/idUS49107+23-Jul-2011+PRN20110723'
+p529
+sg4
+S'20110723\xc2\xa01:30PM UTC'
+p530
+sg6
+S'Following Is a Test Release'
+p531
+sa(dp532
+g2
+S'http://www.reuters.com/article/2011/07/23/idUS49103+23-Jul-2011+PRN20110723'
+p533
+sg4
+S'20110723\xc2\xa01:30PM UTC'
+p534
+sg6
+S'To Be Different With Others in Wedding Dress'
+p535
+sa(dp536
+g2
+S'http://www.reuters.com/article/2011/07/23/egypt-protests-clashes-idUSLDE76M0D720110723'
+p537
+sg4
+S'20110723\xc2\xa01:29PM UTC'
+p538
+sg6
+S'Egypt police fire warning shots after clashes'
+p539
+sa(dp540
+g2
+S'http://www.reuters.com/article/2011/07/23/britain-winehouse-profile-idUSL2583348620110723'
+p541
+sg4
+S'20110723\xc2\xa01:24PM UTC'
+p542
+sg6
+S'FACTBOX-The life and times of Amy Winehouse'
+p543
+sa(dp544
+g2
+S'http://www.reuters.com/article/2011/07/23/soccer-fifa-binhammam-idUSLDE76M0D620110723'
+p545
+sg4
+S'20110723\xc2\xa01:22PM UTC'
+p546
+sg6
+S'Soccer-Bin Hammam banned for life by FIFA'
+p547
+sa(dp548
+g2
+S'http://www.reuters.com/article/2011/07/23/industry-us-thomsonreuters-wenig-idUSTRE76M2GN20110723'
+p549
+sg4
+S'20110723\xc2\xa01:14PM UTC'
+p550
+sg6
+S"Thomson Reuters' Markets head Wenig to leave"
+p551
+sa(dp552
+g2
+S'http://www.reuters.com/article/2011/07/23/us-faa-furloughs-idUSTRE76M2GI20110723'
+p553
+sg4
+S'20110723\xc2\xa01:13PM UTC'
+p554
+sg6
+S'FAA furloughs thousands amid congressional funding stalemate'
+p555
+sa(dp556
+g2
+S'http://www.reuters.com/article/2011/07/23/us-shooting-loughner-idUSTRE76M29620110723'
+p557
+sg4
+S'20110723\xc2\xa01:12PM UTC'
+p558
+sg6
+S'Appeals court denies bid to halt medicating Loughner'
+p559
+sa(dp560
+g2
+S'http://www.reuters.com/article/2011/07/23/us-usa-debt-meeting-mcconnell-idUSTRE76M2G420110723'
+p561
+sg4
+S'20110723\xc2\xa01:11PM UTC'
+p562
+sg6
+S'Congress working on new debt legislation: McConnell'
+p563
+sa(dp564
+g2
+S'http://www.reuters.com/article/2011/07/23/us-golf-european-idUSTRE76M2FA20110723'
+p565
+sg4
+S'20110723\xc2\xa01:05PM UTC'
+p566
+sg6
+S'Swede Noren romps 11 shots clear after course record 63'
+p567
+sa(dp568
+g2
+S'http://www.reuters.com/article/2011/07/23/usa-debt-meeting-mcconnell-idUSWNA451820110723'
+p569
+sg4
+S'20110723\xc2\xa01:04PM UTC'
+p570
+sg6
+S'Congress working on new debt legislation - McConnell'
+p571
+sa(dp572
+g2
+S'http://www.reuters.com/article/2011/07/23/us-usa-debt-democrats-idUSTRE76M2EY20110723'
+p573
+sg4
+S'20110723\xc2\xa01:01PM UTC'
+p574
+sg6
+S'Short-term debt plan not being considered: Pelosi'
+p575
+sa(dp576
+g2
+S'http://www.reuters.com/article/2011/07/23/athletics-france-bans-idUSLDE76M0CI20110723'
+p577
+sg4
+S'20110723\xc2\xa01:01PM UTC'
+p578
+sg6
+S'Athletics-Baala, Mekhissi suspended for "unspeakable behaviour"'
+p579
+sa(dp580
+g2
+S'http://www.reuters.com/article/2011/07/23/idUS48033+23-Jul-2011+PRN20110723'
+p581
+sg4
+S'20110723\xc2\xa01:00PM UTC'
+p582
+sg6
+S'Following Is a Test Release'
+p583
+sa(dp584
+g2
+S'http://www.reuters.com/article/2011/07/23/usa-debt-democrats-idUSN1E76M04P20110723'
+p585
+sg4
+S'20110723\xc2\xa012:59PM UTC'
+p586
+sg6
+S'Short-term US debt plan not being considered-Pelosi'
+p587
+sa(dp588
+g2
+S'http://www.reuters.com/article/2011/07/23/idUS47960+23-Jul-2011+PRN20110723'
+p589
+sg4
+S'20110723\xc2\xa012:58PM UTC'
+p590
+sg6
+S'Global Digital Marketing Agency, Micrositez LLC, Brings 30+ New Jobs to Lake Mary, Florida'
+p591
+sa(dp592
+g2
+S'http://www.reuters.com/article/2011/07/23/idUS420181143520110723'
+p593
+sg4
+S'20110723\xc2\xa012:43PM UTC'
+p594
+sg6
+S"Comic-Con: Holy Reunion, Batman -- It's Adam West, Burt Ward and Julie Newmar"
+p595
+sa(dp596
+g2
+S'http://www.reuters.com/article/2011/07/23/britain-winehouse-idUSLDE76M0C720110723'
+p597
+sg4
+S'20110723\xc2\xa012:41PM UTC'
+p598
+sg6
+S'UK singer Amy Winehouse found dead-Sky News'
+p599
+sa(dp600
+g2
+S'http://www.reuters.com/article/2011/07/23/idUS90669373620110723'
+p601
+sg4
+S'20110723\xc2\xa012:40PM UTC'
+p602
+sg6
+S'Pearl Media bringing 3-D media to branding. Is 3-D ready?'
+p603
+sa(dp604
+g2
+S'http://www.reuters.com/article/2011/07/23/idUS211698863820110723'
+p605
+sg4
+S'20110723\xc2\xa012:40PM UTC'
+p606
+sg6
+S'Colin Farrell, Backwards and Forwards, at Comic-Con'
+p607
+sa(dp608
+g2
+S'http://www.reuters.com/article/2011/07/23/idUS157208403320110723'
+p609
+sg4
+S'20110723\xc2\xa012:38PM UTC'
+p610
+sg6
+S"Comic-Con: 'Terra Nova' Producer -- 'We'll Satisfy Your Bloodlust'"
+p611
+sa(dp612
+g2
+S'http://www.reuters.com/article/2011/07/23/us-elephant-baby-indiana-idUSTRE76M2BS20110723'
+p613
+sg4
+S'20110723\xc2\xa012:37PM UTC'
+p614
+sg6
+S'Indianapolis Zoo gets new 238-pound baby elephant'
+p615
+sa(dp616
+g2
+S'http://www.reuters.com/article/2011/07/23/idUS76991197120110723'
+p617
+sg4
+S'20110723\xc2\xa012:36PM UTC'
+p618
+sg6
+S"'Spider-Man' Villain Rhys Ifans Arrested for Battery at Comic-Con, Police Say (Update)"
+p619
+sa(dp620
+g2
+S'http://www.reuters.com/article/2011/07/23/us-somalia-famine-idUSTRE76M12F20110723'
+p621
+sg4
+S'20110723\xc2\xa012:33PM UTC'
+p622
+sg6
+S"Aid groups can't reach 2 million drought-hit Somalis"
+p623
+sa(dp624
+g2
+S'http://www.reuters.com/article/2011/07/23/idUS47065+23-Jul-2011+PRN20110723'
+p625
+sg4
+S'20110723\xc2\xa012:30PM UTC'
+p626
+sg6
+S'Following Is a Test Release'
+p627
+sa(dp628
+g2
+S'http://www.reuters.com/article/2011/07/23/us-usa-debt-meeting-finish-idUSTRE76M2B120110723'
+p629
+sg4
+S'20110723\xc2\xa012:27PM UTC'
+p630
+sg6
+S'Debt talks meeting ends at White House: official'
+p631
+sa(dp632
+g2
+S'http://www.reuters.com/article/2011/07/23/us-norway-attack-police-idUSTRE76M2A920110723'
+p633
+sg4
+S'20110723\xc2\xa012:25PM UTC'
+p634
+sg6
+S'Norway police focus on whether gunman was alone'
+p635
+sa(dp636
+g2
+S'http://www.reuters.com/article/2011/07/23/us-turkey-palestinians-idUSTRE76M1DV20110723'
+p637
+sg4
+S'20110723\xc2\xa012:23PM UTC'
+p638
+sg6
+S'Turkey PM demands Israeli apology for flotilla dead'
+p639
+sa(dp640
+g2
+S'http://www.reuters.com/article/2011/07/23/us-usa-mexico-smugglers-idUSTRE76M29W20110723'
+p641
+sg4
+S'20110723\xc2\xa012:23PM UTC'
+p642
+sg6
+S'Bold Mexico smuggling scam has Texas commuters jittery'
+p643
+sa(dp644
+g2
+S'http://www.reuters.com/article/2011/07/23/idUS174938112020110723'
+p645
+sg4
+S'20110723\xc2\xa012:22PM UTC'
+p646
+sg6
+S'WGA, West Unveils Final List of Board and Officer Candidates'
+p647
+sa(dp648
+g2
+S'http://www.reuters.com/article/2011/07/23/usa-debt-meeting-finish-idUSWNA451720110723'
+p649
+sg4
+S'20110723\xc2\xa012:21PM UTC'
+p650
+sg6
+S'Debt talks meeting ends at White House - official'
+p651
+sa(dp652
+g2
+S'http://www.reuters.com/article/2011/07/23/norway-attack-police-idUSOSN00530120110723'
+p653
+sg4
+S'20110723\xc2\xa012:19PM UTC'
+p654
+sg6
+S'Norway police focus on whether gunman was alone'
+p655
+sa(dp656
+g2
+S'http://www.reuters.com/article/2011/07/23/us-usa-afghanistan-waste-idUSTRE76M27Y20110723'
+p657
+sg4
+S'20110723\xc2\xa012:04PM UTC'
+p658
+sg6
+S'U.S. wastes $34 billion in Afghan and Iraq contracting'
+p659
+sa(dp660
+g2
+S'http://www.reuters.com/article/2011/07/23/usa-afghanistan-waste-idUSN1E76M03420110723'
+p661
+sg4
+S'20110723\xc2\xa012:02PM UTC'
+p662
+sg6
+S'US wastes $34 bln in Afghan, Iraq contracting-study'
+p663
+sa(dp664
+g2
+S'http://www.reuters.com/article/2011/07/23/idUS45554+23-Jul-2011+PRN20110723'
+p665
+sg4
+S'20110723\xc2\xa012:00PM UTC'
+p666
+sg6
+S'Following Is a Test Release'
+p667
+sa(dp668
+g2
+S'http://www.reuters.com/article/2011/07/23/us-norway-eyewitness-idUSTRE76M25C20110723'
+p669
+sg4
+S'20110723\xc2\xa011:46AM UTC'
+p670
+sg6
+S'Norway island survivors: screams, shots and death'
+p671
+sa(dp672
+g2
+S'http://www.reuters.com/article/2011/07/23/us-peru-economy-idUSTRE76M25320110723'
+p673
+sg4
+S'20110723\xc2\xa011:44AM UTC'
+p674
+sg6
+S"Peru's next economy chief says goal is 6 percent growth"
+p675
+sa(dp676
+g2
+S'http://www.reuters.com/article/2011/07/23/uk-cycling-tour-idUSTRE76M24O20110723'
+p677
+sg4
+S'20110723\xc2\xa011:39AM UTC'
+p678
+sg6
+S'Evans set to become first Australian to win Tour'
+p679
+sa(dp680
+g2
+S'http://www.reuters.com/article/2011/07/23/us-china-train-casualties-idUSTRE76M22Q20110723'
+p681
+sg4
+S'20110723\xc2\xa011:35AM UTC'
+p682
+sg6
+S'China train crash kills 11 people and 89 hospitalized'
+p683
+sa(dp684
+g2
+S'http://www.reuters.com/article/2011/07/23/usa-debt-meeting-start-idUSN1E76M03O20110723'
+p685
+sg4
+S'20110723\xc2\xa011:33AM UTC'
+p686
+sg6
+S'RPT-Obama debt mtg with congressional chiefs underway'
+p687
+sa(dp688
+g2
+S'http://www.reuters.com/article/2011/07/23/idUS44496+23-Jul-2011+MW20110723'
+p689
+sg4
+S'20110723\xc2\xa011:32AM UTC'
+p690
+sg6
+S" Media Advisory: Minister Flaherty Promotes the Government's East Africa Drought Relief Fund"
+p691
+sa(dp692
+g2
+S'http://www.reuters.com/article/2011/07/23/us-usa-debt-negotiations-idUSTRE76M0GX20110723'
+p693
+sg4
+S'20110723\xc2\xa011:32AM UTC'
+p694
+sg6
+S'Factbox: How the Obama/Boehner debt talks unraveled'
+p695
+sa(dp696
+g2
+S'http://www.reuters.com/article/2011/07/23/idUS44418+23-Jul-2011+PRN20110723'
+p697
+sg4
+S'20110723\xc2\xa011:30AM UTC'
+p698
+sg6
+S'Following Is a Test Release'
+p699
+sa(dp700
+g2
+S'http://www.reuters.com/article/2011/07/23/china-train-casualties-idUSLDE76M0B020110723'
+p701
+sg4
+S'20110723\xc2\xa011:27AM UTC'
+p702
+sg6
+S'China train crash kills 11 people, 89 hospitalised'
+p703
+sa(dp704
+g2
+S'http://www.reuters.com/article/2011/07/23/us-cycling-tour-winner-idUSTRE76M21S20110723'
+p705
+sg4
+S'20110723\xc2\xa011:23AM UTC'
+p706
+sg6
+S'Australian Cadel Evans set to win the Tour de France'
+p707
+sa(dp708
+g2
+S'http://www.reuters.com/article/2011/07/23/idUS62810898420110723'
+p709
+sg4
+S'20110723\xc2\xa011:22AM UTC'
+p710
+sg6
+S"Comic-Con: 'Pressure's Off' as 'Futurama' Gets Unexpected 2 More Seasons"
+p711
+sa(dp712
+g2
+S'http://www.reuters.com/article/2011/07/23/usa-debt-meeting-start-urgent-idUSWNA451520110723'
+p713
+sg4
+S'20110723\xc2\xa011:21AM UTC'
+p714
+sg6
+S'Obama debt meeting with congressional chiefs underway'
+p715
+sa(dp716
+g2
+S'http://www.reuters.com/article/2011/07/23/cycling-tour-winner-idUSLDE76M05H20110723'
+p717
+sg4
+S'20110723\xc2\xa011:20AM UTC'
+p718
+sg6
+S'Cycling-Australian Cadel Evans set to win the Tour de France'
+p719
+sa(dp720
+g2
+S'http://www.reuters.com/article/2011/07/23/us-senegal-election-idUSTRE76M20C20110723'
+p721
+sg4
+S'20110723\xc2\xa011:14AM UTC'
+p722
+sg6
+S'Senegalese take to streets urging leader to quit'
+p723
+sa(dp724
+g2
+S'http://www.reuters.com/article/2011/07/23/idUS192033928120110723'
+p725
+sg4
+S'20110723\xc2\xa011:06AM UTC'
+p726
+sg6
+S'Singer Amy Winehouse Found Dead at Her London Flat'
+p727
+sa(dp728
+g2
+S'http://www.reuters.com/article/2011/07/23/us-swimming-world-idUSTRE76M0TH20110723'
+p729
+sg4
+S'20110723\xc2\xa011:02AM UTC'
+p730
+sg6
+S'Russia and China dominate at halfway stage of swim championship'
+p731
+sa(dp732
+g2
+S'http://www.reuters.com/article/2011/07/23/idUS43506+23-Jul-2011+PRN20110723'
+p733
+sg4
+S'20110723\xc2\xa011:00AM UTC'
+p734
+sg6
+S'Following Is a Test Release'
+p735
+sa(dp736
+g2
+S'http://www.reuters.com/article/2011/07/23/swimming-world-idUSL3E7IN00I20110723'
+p737
+sg4
+S'20110723\xc2\xa010:58AM UTC'
+p738
+sg6
+S'WRAPUP 1-Swimming-Russia and China dominate at halfway stage'
+p739
+sa(dp740
+g2
+S'http://www.reuters.com/article/2011/07/23/us-libya-idUSTRE76H06X20110723'
+p741
+sg4
+S'20110723\xc2\xa010:52AM UTC'
+p742
+sg6
+S'Libya wants more talks as NATO strikes hit capital'
+p743
+sa(dp744
+g2
+S'http://www.reuters.com/article/2011/07/23/idUS43164+23-Jul-2011+MW20110723'
+p745
+sg4
+S'20110723\xc2\xa010:49AM UTC'
+p746
+sg6
+S' Study: Quality of Life After Prostate Cancer Treatment'
+p747
+sa(dp748
+g2
+S'http://www.reuters.com/article/2011/07/23/iran-assassination-idUSLDE76M09Z20110723'
+p749
+sg4
+S'20110723\xc2\xa010:48AM UTC'
+p750
+sg6
+S'Iranian nuclear scientist killed in Tehran-report'
+p751
+sa(dp752
+g2
+S'http://www.reuters.com/article/2011/07/23/idUS405940280120110723'
+p753
+sg4
+S'20110723\xc2\xa010:34AM UTC'
+p754
+sg6
+S"Amy Winehouse: 'I'll Be Dead in a Ditch, on Fire'"
+p755
+sa(dp756
+g2
+S'http://www.reuters.com/article/2011/07/23/us-norway-comments-idUSTRE76M1UX20110723'
+p757
+sg4
+S'20110723\xc2\xa010:32AM UTC'
+p758
+sg6
+S'Factbox: Comments from world leaders on Norway attacks'
+p759
+sa(dp760
+g2
+S'http://www.reuters.com/article/2011/07/23/idUS42743+23-Jul-2011+PRN20110723'
+p761
+sg4
+S'20110723\xc2\xa010:30AM UTC'
+p762
+sg6
+S'Following Is a Test Release'
+p763
+sa(dp764
+g2
+S'http://www.reuters.com/article/2011/07/23/us-usa-debt-boehner-conditions-idUSTRE76M1TF20110723'
+p765
+sg4
+S'20110723\xc2\xa010:19AM UTC'
+p766
+sg6
+S'Boehner to insist on deep cuts for debt increase'
+p767
+sa(dp768
+g2
+S'http://www.reuters.com/article/2011/07/23/china-train-accident-idUSL3E7IN06T20110723'
+p769
+sg4
+S'20110723\xc2\xa010:18AM UTC'
+p770
+sg6
+S'China bullet train derails in eastern province-Xinhua'
+p771
+sa(dp772
+g2
+S'http://www.reuters.com/article/2011/07/23/usa-debt-boehner-conditions-idUSWNA451420110723'
+p773
+sg4
+S'20110723\xc2\xa010:16AM UTC'
+p774
+sg6
+S'Boehner to insist on deep cuts for US debt increase'
+p775
+sa(dp776
+g2
+S'http://www.reuters.com/article/2011/07/23/bankofireland-idUSWLB840020110723'
+p777
+sg4
+S'20110723\xc2\xa010:02AM UTC'
+p778
+sg6
+S'Ireland says in talks over Bank of Ireland equity investment'
+p779
+sa(dp780
+g2
+S'http://www.reuters.com/article/2011/07/23/us-norway-massacre-idUSTRE76M1S220110723'
+p781
+sg4
+S'20110723\xc2\xa010:02AM UTC'
+p782
+sg6
+S'How can it happen here, Norwegians ask themselves'
+p783
+sa(dp784
+g2
+S'http://www.reuters.com/article/2011/07/23/idUS42071+23-Jul-2011+MW20110723'
+p785
+sg4
+S'20110723\xc2\xa010:00AM UTC'
+p786
+sg6
+S' The Bar Method Winter Park, FL Opens'
+p787
+sa(dp788
+g2
+S'http://www.reuters.com/article/2011/07/23/idUS42063+23-Jul-2011+PRN20110723'
+p789
+sg4
+S'20110723\xc2\xa010:00AM UTC'
+p790
+sg6
+S'Following Is a Test Release'
+p791
+sa(dp792
+g2
+S'http://www.reuters.com/article/2011/07/23/idUS42050+23-Jul-2011+MW20110723'
+p793
+sg4
+S'20110723\xc2\xa010:00AM UTC'
+p794
+sg6
+S' The Bar Method Winter Park, FL Opens'
+p795
+sa(dp796
+g2
+S'http://www.reuters.com/article/2011/07/23/norway-attack-deaths-idUSOSN00530020110723'
+p797
+sg4
+S'20110723\xc2\xa09:51AM UTC'
+p798
+sg6
+S'Norway police raise death toll to 85 from 84'
+p799
+sa(dp800
+g2
+S'http://www.reuters.com/article/2011/07/23/us-srilanka-politics-idUSTRE76M1QL20110723'
+p801
+sg4
+S'20110723\xc2\xa09:39AM UTC'
+p802
+sg6
+S"Sri Lanka's war-weary north votes amid intimidation, mistrust"
+p803
+sa(dp804
+g2
+S'http://www.reuters.com/article/2011/07/23/idUS40954+23-Jul-2011+PRN20110723'
+p805
+sg4
+S'20110723\xc2\xa09:30AM UTC'
+p806
+sg6
+S'Following Is a Test Release'
+p807
+sa(dp808
+g2
+S'http://www.reuters.com/article/2011/07/23/idUS40948+23-Jul-2011+PRN20110723'
+p809
+sg4
+S'20110723\xc2\xa09:30AM UTC'
+p810
+sg6
+S'DVDFab Offering 25% Discounted Blu-ray Toolkit (Lifetime) and 3D Video Toolkit'
+p811
+sa(dp812
+g2
+S'http://www.reuters.com/article/2011/07/23/us-norway-killer-idUSTRE76M1P420110723'
+p813
+sg4
+S'20110723\xc2\xa09:24AM UTC'
+p814
+sg6
+S'Norway killer attacked multicuturalism, Islam online'
+p815
+sa(dp816
+g2
+S'http://www.reuters.com/article/2011/07/23/idUS260912307920110723'
+p817
+sg4
+S'20110723\xc2\xa09:17AM UTC'
+p818
+sg6
+S'Windows 7 on a phone: the 2-hour post-PC device'
+p819
+sa(dp820
+g2
+S'http://www.reuters.com/article/2011/07/23/idUS257634820220110723'
+p821
+sg4
+S'20110723\xc2\xa09:14AM UTC'
+p822
+sg6
+S'Android This Week: Nexus S for AT&T; G2x gains Gingerbread; Honeycomb lags iPad'
+p823
+sa(dp824
+g2
+S'http://www.reuters.com/article/2011/07/23/idUS40351+23-Jul-2011+MW20110723'
+p825
+sg4
+S'20110723\xc2\xa09:12AM UTC'
+p826
+sg6
+S' Minister Raitt Applauds New Agreement Between Shaw Media and the CEP'
+p827
+sa(dp828
+g2
+S'http://www.reuters.com/article/2011/07/23/us-ecb-binismaghi-eurozone-idUSTRE76M1NN20110723'
+p829
+sg4
+S'20110723\xc2\xa09:11AM UTC'
+p830
+sg6
+S"ECB's Bini Smaghi: Greek solution must be isolated case"
+p831
+sa(dp832
+g2
+S'http://www.reuters.com/article/2011/07/23/us-beyonce-idUSTRE76K7A920110723'
+p833
+sg4
+S'20110723\xc2\xa09:07AM UTC'
+p834
+sg6
+S'Beyonce says Eastwood film makes her day'
+p835
+sa(dp836
+g2
+S'http://www.reuters.com/article/2011/07/23/motor-racing-prix-qualifying-idUSLDE76M06C20110723'
+p837
+sg4
+S'20110723\xc2\xa09:07AM UTC'
+p838
+sg6
+S'Motor racing-Webber grabs pole in Germany, Hamilton second'
+p839
+sa(dp840
+g2
+S'http://www.reuters.com/article/2011/07/23/india-godrej-result-idUSL3E7IN05H20110723'
+p841
+sg4
+S'20110723\xc2\xa09:07AM UTC'
+p842
+sg6
+S'UPDATE 1-Godrej Consumer Q1 net soars on one-time gain, intl ops'
+p843
+sa(dp844
+g2
+S'http://www.reuters.com/article/2011/07/23/us-swimming-world-synchro-idUSTRE76M1N720110723'
+p845
+sg4
+S'20110723\xc2\xa09:02AM UTC'
+p846
+sg6
+S'Russia sweep synchro medals, Ishchenko wins sixth gold'
+p847
+sa(dp848
+g2
+S'http://www.reuters.com/article/2011/07/23/idUS39971+23-Jul-2011+PRN20110723'
+p849
+sg4
+S'20110723\xc2\xa09:00AM UTC'
+p850
+sg6
+S'Following Is a Test Release'
+p851
+sa(dp852
+g2
+S'http://www.reuters.com/article/2011/07/23/idUS39947+23-Jul-2011+BW20110723'
+p853
+sg4
+S'20110723\xc2\xa09:00AM UTC'
+p854
+sg6
+S'Ganfer & Shore, LLP Files Lawsuit Against Andy Unanue, AUA, and others on Behalf of Investors and Shareholders in Bagatelle, Kiss-n-Fly, and rDv for Eliminating Their Rights and Ownership Interests in the Businesses'
+p855
+sa(dp856
+g2
+S'http://www.reuters.com/article/2011/07/23/idUS39627+23-Jul-2011+PRN20110723'
+p857
+sg4
+S'20110723\xc2\xa08:49AM UTC'
+p858
+sg6
+S'Following Is a Test Release'
+p859
+sa(dp860
+g2
+S'http://www.reuters.com/article/2011/07/23/suzuki-vw-fiat-idUSLDE76M07820110723'
+p861
+sg4
+S'20110723\xc2\xa08:47AM UTC'
+p862
+sg6
+S'Suzuki eyes closer cooperation with Fiat - report'
+p863
+sa(dp864
+g2
+S'http://www.reuters.com/article/2011/07/23/us-norway-attack-foreign-idUSTRE76M1KV20110723'
+p865
+sg4
+S'20110723\xc2\xa08:45AM UTC'
+p866
+sg6
+S'PM says Norway cooperating with foreign intelligence'
+p867
+sa(dp868
+g2
+S'http://www.reuters.com/article/2011/07/23/us-china-fugitive-idUSL3E7IN04D20110723'
+p869
+sg4
+S'20110723\xc2\xa08:39AM UTC'
+p870
+sg6
+S"China's most wanted fugitive arrested after extradition"
+p871
+sa(dp872
+g2
+S'http://www.reuters.com/article/2011/07/23/norway-attack-foreign-idUSOSN00529920110723'
+p873
+sg4
+S'20110723\xc2\xa08:34AM UTC'
+p874
+sg6
+S'PM says Norway coopertaing with foreign intelligence'
+p875
+sa(dp876
+g2
+S'http://www.reuters.com/article/2011/07/23/us-eurozone-france-baroin-idUSTRE76M1J320110723'
+p877
+sg4
+S'20110723\xc2\xa08:31AM UTC'
+p878
+sg6
+S"Greek deal won't mean austerity for France: finance minister"
+p879
+sa(dp880
+g2
+S'http://www.reuters.com/article/2011/07/23/idUS39016+23-Jul-2011+PRN20110723'
+p881
+sg4
+S'20110723\xc2\xa08:30AM UTC'
+p882
+sg6
+S'Following Is a Test Release'
+p883
+sa(dp884
+g2
+S'http://www.reuters.com/article/2011/07/23/us-yemen-idUSTRE76M1I120110723'
+p885
+sg4
+S'20110723\xc2\xa08:27AM UTC'
+p886
+sg6
+S'Woman, girl killed in Yemen government-opposition fighting'
+p887
+sa(dp888
+g2
+S'http://www.reuters.com/article/2011/07/23/us-norway-attack-pm-idUSTRE76M1HJ20110723'
+p889
+sg4
+S'20110723\xc2\xa08:21AM UTC'
+p890
+sg6
+S'Norway PM says whole world thinks of victims'
+p891
+sa(dp892
+g2
+S'http://www.reuters.com/article/2011/07/23/norway-attack-pm-idUSOSN00529820110723'
+p893
+sg4
+S'20110723\xc2\xa08:19AM UTC'
+p894
+sg6
+S'Norway PM says whole world thinks of victims'
+p895
+sa(dp896
+g2
+S'http://www.reuters.com/article/2011/07/23/libya-idUSLDE76M00C20110723'
+p897
+sg4
+S'20110723\xc2\xa08:11AM UTC'
+p898
+sg6
+S'WRAPUP 3-Libya wants more talks as NATO strikes hit capital'
+p899
+sa(dp900
+g2
+S'http://www.reuters.com/article/2011/07/23/us-soccer-africa-drogba-idUSTRE76M1F820110723'
+p901
+sg4
+S'20110723\xc2\xa08:09AM UTC'
+p902
+sg6
+S'Drogba takes malaria fight to native Africa'
+p903
+sa(dp904
+g2
+S'http://www.reuters.com/article/2011/07/23/idUS38245+23-Jul-2011+BW20110723'
+p905
+sg4
+S'20110723\xc2\xa08:09AM UTC'
+p906
+sg6
+S'Charles T. Manatt, Law Firm Founder, Political and Business Leader, Dies at Age 75'
+p907
+sa(dp908
+g2
+S'http://www.reuters.com/article/2011/07/23/us-cycling-tour-traffic-idUSTRE76M1CN20110723'
+p909
+sg4
+S'20110723\xc2\xa08:01AM UTC'
+p910
+sg6
+S'Teams and riders fume over Tour de France traffic jams'
+p911
+sa(dp912
+g2
+S'http://www.reuters.com/article/2011/07/23/idUS37947+23-Jul-2011+PRN20110723'
+p913
+sg4
+S'20110723\xc2\xa08:00AM UTC'
+p914
+sg6
+S'Following Is a Test Release'
+p915
+sa(dp916
+g2
+S'http://www.reuters.com/article/2011/07/23/idUS37900+23-Jul-2011+BW20110723'
+p917
+sg4
+S'20110723\xc2\xa07:59AM UTC'
+p918
+sg6
+S"Research and Markets: Brazil Metals Report Q2 2011: Brazil's Steel and Aluminium Industries Under Increasing Pressure from the Influx of Imports"
+p919
+sa(dp920
+g2
+S'http://www.reuters.com/article/2011/07/23/ecb-binismaghi-eurozone-idUSLDE76M06420110723'
+p921
+sg4
+S'20110723\xc2\xa07:52AM UTC'
+p922
+sg6
+S"UPDATE 1-ECB's Bini Smaghi: Greek solution must be isolated case"
+p923
+sa(dp924
+g2
+S'http://www.reuters.com/article/2011/07/23/us-norway-attack-idUSTRE76M18120110723'
+p925
+sg4
+S'20110723\xc2\xa07:51AM UTC'
+p926
+sg6
+S'Norway king and queen to comfort survivors of shooting'
+p927
+sa(dp928
+g2
+S'http://www.reuters.com/article/2011/07/23/norway-attack-idUSOSN00529720110723'
+p929
+sg4
+S'20110723\xc2\xa07:50AM UTC'
+p930
+sg6
+S'Norway king and queen to comfort survivors of shooting'
+p931
+sa(dp932
+g2
+S'http://www.reuters.com/article/2011/07/23/us-lai-idUSTRE76M0FE20110723'
+p933
+sg4
+S'20110723\xc2\xa07:48AM UTC'
+p934
+sg6
+S"China's most wanted fugitive in Beijing after extradition"
+p935
+sa(dp936
+g2
+S'http://www.reuters.com/article/2011/07/23/us-asean-usa-pakistan-idUSTRE76M1BT20110723'
+p937
+sg4
+S'20110723\xc2\xa07:44AM UTC'
+p938
+sg6
+S'Pakistan foreign minister says no need for cajoling on militancy'
+p939
+sa(dp940
+g2
+S'http://www.reuters.com/article/2011/07/23/us-swimming-world-diving-idUSTRE76M15S20110723'
+p941
+sg4
+S'20110723\xc2\xa07:40AM UTC'
+p942
+sg6
+S'Wu finally wins individual springboard gold'
+p943
+sa(dp944
+g2
+S'http://www.reuters.com/article/2011/07/23/swimming-world-diving-idUSL3E7IN05520110723'
+p945
+sg4
+S'20110723\xc2\xa07:36AM UTC'
+p946
+sg6
+S'UPDATE 1-Swimming-Wu finally wins individual springboard gold '
+p947
+sa(dp948
+g2
+S'http://www.reuters.com/article/2011/07/23/idUS36859+23-Jul-2011+PRN20110723'
+p949
+sg4
+S'20110723\xc2\xa07:30AM UTC'
+p950
+sg6
+S'Following Is a Test Release'
+p951
+sa(dp952
+g2
+S'http://www.reuters.com/article/2011/07/23/us-hancock-idUSTRE76M17R20110723'
+p953
+sg4
+S'20110723\xc2\xa07:14AM UTC'
+p954
+sg6
+S'Herbie Hancock to promote jazz as U.N. ambassador'
+p955
+sa(dp956
+g2
+S'http://www.reuters.com/article/2011/07/23/norway-attack-idUSOSN00529620110723'
+p957
+sg4
+S'20110723\xc2\xa07:12AM UTC'
+p958
+sg6
+S'Man with knife detained near Norway PM'
+p959
+sa(dp960
+g2
+S'http://www.reuters.com/article/2011/07/23/us-sudan-south-idUSTRE76M16Q20110723'
+p961
+sg4
+S'20110723\xc2\xa07:05AM UTC'
+p962
+sg6
+S'Rebel leader killed in South Sudan'
+p963
+sa(dp964
+g2
+S'http://www.reuters.com/article/2011/07/23/idUS27167270620110723'
+p965
+sg4
+S'20110723\xc2\xa07:05AM UTC'
+p966
+sg6
+S"Comic-Con: 'Torchwood' Panelists Talk Leathers, Fake Accents"
+p967
+sa(dp968
+g2
+S'http://www.reuters.com/article/2011/07/23/idUS35664+23-Jul-2011+PRN20110723'
+p969
+sg4
+S'20110723\xc2\xa07:00AM UTC'
+p970
+sg6
+S'Following Is a Test Release'
+p971
+sa(dp972
+g2
+S'http://www.reuters.com/article/2011/07/23/idUS35654+23-Jul-2011+BW20110723'
+p973
+sg4
+S'20110723\xc2\xa07:00AM UTC'
+p974
+sg6
+S'Brammo and TTXGP Announce a Groundbreaking Partnership to Grow Electric Motorsport'
+p975
+sa(dp976
+g2
+S'http://www.reuters.com/article/2011/07/23/us-norway-blast-fertiliser-idUSTRE76M16820110723'
+p977
+sg4
+S'20110723\xc2\xa06:58AM UTC'
+p978
+sg6
+S'Oslo bomb suspect bought 6 tonnes fertiliser: supplier'
+p979
+sa(dp980
+g2
+S'http://www.reuters.com/article/2011/07/23/norway-blast-fertiliser-idUSOSN00529420110723'
+p981
+sg4
+S'20110723\xc2\xa06:52AM UTC'
+p982
+sg6
+S'Oslo bomb suspect bought 6 tonnes fertiliser -supplier'
+p983
+sa(dp984
+g2
+S'http://www.reuters.com/article/2011/07/23/airfrance-idUSLDE76M05320110723'
+p985
+sg4
+S'20110723\xc2\xa06:50AM UTC'
+p986
+sg6
+S'Air France says planned midsummer strike called off'
+p987
+sa(dp988
+g2
+S'http://www.reuters.com/article/2011/07/23/us-swimming-world-preview-idUSTRE76M15K20110723'
+p989
+sg4
+S'20110723\xc2\xa06:49AM UTC'
+p990
+sg6
+S'Cielo decision casts shadow over championships'
+p991
+sa(dp992
+g2
+S'http://www.reuters.com/article/2011/07/23/us-norway-attack-idUSTRE76M15220110723'
+p993
+sg4
+S'20110723\xc2\xa06:44AM UTC'
+p994
+sg6
+S'Norway PM arrives near scene of island shooting'
+p995
+sa(dp996
+g2
+S'http://www.reuters.com/article/2011/07/23/swimming-world-preview-idUSL3E7IN00H20110723'
+p997
+sg4
+S'20110723\xc2\xa06:43AM UTC'
+p998
+sg6
+S'PREVIEW-Swimming-Cielo decision casts shadow over championships'
+p999
+sa(dp1000
+g2
+S'http://www.reuters.com/article/2011/07/23/norway-attack-idUSOSN00529520110723'
+p1001
+sg4
+S'20110723\xc2\xa06:43AM UTC'
+p1002
+sg6
+S'Norway PM arrives near scene of island shooting'
+p1003
+sa(dp1004
+g2
+S'http://www.reuters.com/article/2011/07/23/us-norway-blast-idUSTRE76L2VI20110723'
+p1005
+sg4
+S'20110723\xc2\xa06:36AM UTC'
+p1006
+sg6
+S'At least 91 dead in Norway shooting, bomb attack'
+p1007
+sa(dp1008
+g2
+S'http://www.reuters.com/article/2011/07/23/idUS34677+23-Jul-2011+PRN20110723'
+p1009
+sg4
+S'20110723\xc2\xa06:30AM UTC'
+p1010
+sg6
+S'Following Is a Test Release'
+p1011
+sa(dp1012
+g2
+S'http://www.reuters.com/article/2011/07/23/ecb-binismaghi-eurozone-idUSL6E7IN0AD20110723'
+p1013
+sg4
+S'20110723\xc2\xa06:24AM UTC'
+p1014
+sg6
+S"ECB's Bini Smaghi: Greek solution must remain isolated case"
+p1015
+sa(dp1016
+g2
+S'http://www.reuters.com/article/2011/07/23/idUS33836+23-Jul-2011+PRN20110723'
+p1017
+sg4
+S'20110723\xc2\xa06:00AM UTC'
+p1018
+sg6
+S'Following Is a Test Release'
+p1019
+sa(dp1020
+g2
+S'http://www.reuters.com/article/2011/07/23/idUS33801+23-Jul-2011+PRN20110723'
+p1021
+sg4
+S'20110723\xc2\xa05:59AM UTC'
+p1022
+sg6
+S'GOOD MORNING -- July 23, 2011'
+p1023
+sa(dp1024
+g2
+S'http://www.reuters.com/article/2011/07/23/us-norway-killings-pm-idUSTRE76M0PK20110723'
+p1025
+sg4
+S'20110723\xc2\xa05:57AM UTC'
+p1026
+sg6
+S'Norway PM Stoltenberg says attacker turned paradise into hell'
+p1027
+sa(dp1028
+g2
+S'http://www.reuters.com/article/2011/07/23/porsche-idUSLDE76M04F20110723'
+p1029
+sg4
+S'20110723\xc2\xa05:56AM UTC'
+p1030
+sg6
+S'Porsche wants to double unit sales by 2018- CEO in paper'
+p1031
+sa(dp1032
+g2
+S'http://www.reuters.com/article/2011/07/23/idUS261893407220110723'
+p1033
+sg4
+S'20110723\xc2\xa05:53AM UTC'
+p1034
+sg6
+S"Guillermo del Toro Talks 'Giant F--king Robots' of 'Pacific Rim'"
+p1035
+sa(dp1036
+g2
+S'http://www.reuters.com/article/2011/07/23/us-norway-europe-attacks-idUSTRE76M10220110723'
+p1037
+sg4
+S'20110723\xc2\xa05:49AM UTC'
+p1038
+sg6
+S'Factbox: Recent bomb attacks and plots in Europe'
+p1039
+sa(dp1040
+g2
+S'http://www.reuters.com/article/2011/07/23/idUS32121179620110723'
+p1041
+sg4
+S'20110723\xc2\xa05:47AM UTC'
+p1042
+sg6
+S"Comic-Con's Andrew Garfield: 'Spider-Man Saved My Life'"
+p1043
+sa(dp1044
+g2
+S'http://www.reuters.com/article/2011/07/23/idUS32960+23-Jul-2011+PRN20110723'
+p1045
+sg4
+S'20110723\xc2\xa05:30AM UTC'
+p1046
+sg6
+S'Following Is a Test Release'
+p1047
+sa(dp1048
+g2
+S'http://www.reuters.com/article/2011/07/23/us-malawi-idUSTRE76M0YC20110723'
+p1049
+sg4
+S'20110723\xc2\xa05:23AM UTC'
+p1050
+sg6
+S'Malawi appoints new army chief after crackdown'
+p1051
+sa(dp1052
+g2
+S'http://www.reuters.com/article/2011/07/23/china-fugitive-idUSL3E7IN01820110723'
+p1053
+sg4
+S'20110723\xc2\xa05:20AM UTC'
+p1054
+sg6
+S'Chinese fugitive arrives in Beijing after extradition-Xinhua'
+p1055
+sa(dp1056
+g2
+S'http://www.reuters.com/article/2011/07/23/idUS17932263520110723'
+p1057
+sg4
+S'20110723\xc2\xa05:15AM UTC'
+p1058
+sg6
+S"Box Office: Strong $26.6M 1st Day for 'Captain America'"
+p1059
+sa(dp1060
+g2
+S'http://www.reuters.com/article/2011/07/23/idUS395388646520110723'
+p1061
+sg4
+S'20110723\xc2\xa05:08AM UTC'
+p1062
+sg6
+S"Comic-Con: 'True Blood' Star Anna Paquin on 'Really Dirty Vampire Sex'"
+p1063
+sa(dp1064
+g2
+S'http://www.reuters.com/article/2011/07/23/idUS32062+23-Jul-2011+PRN20110723'
+p1065
+sg4
+S'20110723\xc2\xa05:00AM UTC'
+p1066
+sg6
+S'Following Is a Test Release'
+p1067
+sa(dp1068
+g2
+S'http://www.reuters.com/article/2011/07/23/us-norway-shooting-worst-idUSTRE76M0X620110723'
+p1069
+sg4
+S'20110723\xc2\xa04:54AM UTC'
+p1070
+sg6
+S'Timeline: Mass shooting incidents in last 20 years'
+p1071
+sa(dp1072
+g2
+S'http://www.reuters.com/article/2011/07/23/us-syria-idUSTRE76L1P720110723'
+p1073
+sg4
+S'20110723\xc2\xa04:44AM UTC'
+p1074
+sg6
+S'Syrian forces kill 11 people during mass protests'
+p1075
+sa(dp1076
+g2
+S'http://www.reuters.com/article/2011/07/23/us-syria-homs-explosions-idUSTRE76M09Z20110723'
+p1077
+sg4
+S'20110723\xc2\xa04:44AM UTC'
+p1078
+sg6
+S'"Saboteurs" derail Syrian train, driver killed: officials'
+p1079
+sa(dp1080
+g2
+S'http://www.reuters.com/article/2011/07/23/us-eurozone-timing-idUSTRE76M0VZ20110723'
+p1081
+sg4
+S'20110723\xc2\xa04:40AM UTC'
+p1082
+sg6
+S'EU aims for quick Greek debt swap end of August: source'
+p1083
+sa(dp1084
+g2
+S'http://www.reuters.com/article/2011/07/23/us-norway-blast-right-idUSTRE76M09D20110723'
+p1085
+sg4
+S'20110723\xc2\xa04:32AM UTC'
+p1086
+sg6
+S'Analysis: Questions over far-right link in Norwegian attacks'
+p1087
+sa(dp1088
+g2
+S'http://www.reuters.com/article/2011/07/23/idUS30995+23-Jul-2011+PRN20110723'
+p1089
+sg4
+S'20110723\xc2\xa04:30AM UTC'
+p1090
+sg6
+S'Following Is a Test Release'
+p1091
+sa(dp1092
+g2
+S'http://www.reuters.com/article/2011/07/23/us-norway-shootings-scene-idUSTRE76M00B20110723'
+p1093
+sg4
+S'20110723\xc2\xa04:30AM UTC'
+p1094
+sg6
+S'Teenagers swam for their lives in Norway carnage'
+p1095
+sa(dp1096
+g2
+S'http://www.reuters.com/article/2011/07/23/us-malaysia-lawyer-idUSTRE76M0TS20110723'
+p1097
+sg4
+S'20110723\xc2\xa04:23AM UTC'
+p1098
+sg6
+S'Malaysia deports French lawyer in submarine bribe probe'
+p1099
+sa(dp1100
+g2
+S'http://www.reuters.com/article/2011/07/23/india-retail-idUSL3E7IN03U20110723'
+p1101
+sg4
+S'20110723\xc2\xa04:17AM UTC'
+p1102
+sg6
+S'RPT-UPDATE 2-India closer to opening up multi-brand retailers'
+p1103
+sa(dp1104
+g2
+S'http://www.reuters.com/article/2011/07/23/saudi-mobily-dividend-idUSL6E7IN09520110723'
+p1105
+sg4
+S'20110723\xc2\xa04:16AM UTC'
+p1106
+sg6
+S"Saudi's Mobily proposes 1.25 riyal H1 dividend"
+p1107
+sa(dp1108
+g2
+S'http://www.reuters.com/article/2011/07/23/us-swimming-world-us-phelps-idUSTRE76M0SM20110723'
+p1109
+sg4
+S'20110723\xc2\xa04:11AM UTC'
+p1110
+sg6
+S'"Normal" Phelps seeks return to form at worlds'
+p1111
+sa(dp1112
+g2
+S'http://www.reuters.com/article/2011/07/23/swimming-world-us-phelps-idUSL3E7IN00D20110723'
+p1113
+sg4
+S'20110723\xc2\xa04:08AM UTC'
+p1114
+sg6
+S"Swimming-'Normal' Phelps seeks return to form at worlds "
+p1115
+sa(dp1116
+g2
+S'http://www.reuters.com/article/2011/07/23/us-norway-killings-police-idUSTRE76M0SF20110723'
+p1117
+sg4
+S'20110723\xc2\xa04:02AM UTC'
+p1118
+sg6
+S'Norway police say 84 killed in Utoeya shooting'
+p1119
+sa(dp1120
+g2
+S'http://www.reuters.com/article/2011/07/23/idUS29961+23-Jul-2011+PRN20110723'
+p1121
+sg4
+S'20110723\xc2\xa04:00AM UTC'
+p1122
+sg6
+S'Following Is a Test Release'
+p1123
+sa(dp1124
+g2
+S'http://www.reuters.com/article/2011/07/23/us-swimming-world-us-idUSTRE76M0RV20110723'
+p1125
+sg4
+S'20110723\xc2\xa03:46AM UTC'
+p1126
+sg6
+S'Americans raring to go after lengthy build-up'
+p1127
+sa(dp1128
+g2
+S'http://www.reuters.com/article/2011/07/23/japan-tepco-compensation-idUSL3E7IN03E20110723'
+p1129
+sg4
+S'20110723\xc2\xa03:44AM UTC'
+p1130
+sg6
+S'Japan nuclear compensation bill could be enacted in Aug-Nikkei'
+p1131
+sa(dp1132
+g2
+S'http://www.reuters.com/article/2011/07/23/swimming-world-us-idUSL3E7IN00C20110723'
+p1133
+sg4
+S'20110723\xc2\xa03:34AM UTC'
+p1134
+sg6
+S'Swimming-Americans raring to go after lengthy build-up'
+p1135
+sa(dp1136
+g2
+S'http://www.reuters.com/article/2011/07/23/idUS29120+23-Jul-2011+PRN20110723'
+p1137
+sg4
+S'20110723\xc2\xa03:30AM UTC'
+p1138
+sg6
+S'Following Is a Test Release'
+p1139
+sa(dp1140
+g2
+S'http://www.reuters.com/article/2011/07/23/idUS28347+23-Jul-2011+PRN20110723'
+p1141
+sg4
+S'20110723\xc2\xa03:00AM UTC'
+p1142
+sg6
+S'Following Is a Test Release'
+p1143
+sa(dp1144
+g2
+S'http://www.reuters.com/article/2011/07/23/idUS27630+23-Jul-2011+PRN20110723'
+p1145
+sg4
+S'20110723\xc2\xa02:30AM UTC'
+p1146
+sg6
+S'Following Is a Test Release'
+p1147
+sa(dp1148
+g2
+S'http://www.reuters.com/article/2011/07/23/malaysia-lawyer-idUSL3E7IN02V20110723'
+p1149
+sg4
+S'20110723\xc2\xa02:05AM UTC'
+p1150
+sg6
+S'RPT-Malaysia deports French lawyer in submarine bribe probe'
+p1151
+sa(dp1152
+g2
+S'http://www.reuters.com/article/2011/07/23/malaysia-lawyer-idUSL3E7IN02R20110723'
+p1153
+sg4
+S'20110723\xc2\xa02:04AM UTC'
+p1154
+sg6
+S'RPT-Malaysia deports French lawyer in submarine bribe probe'
+p1155
+sa(dp1156
+g2
+S'http://www.reuters.com/article/2011/07/23/idUS26413+23-Jul-2011+PRN20110723'
+p1157
+sg4
+S'20110723\xc2\xa02:00AM UTC'
+p1158
+sg6
+S'Following Is a Test Release'
+p1159
+sa(dp1160
+g2
+S'http://www.reuters.com/article/2011/07/23/idUSL3E7IN02720110723'
+p1161
+sg4
+S'20110723\xc2\xa01:50AM UTC'
+p1162
+sg6
+S"South Korea's KEXIM to sell KEB stake"
+p1163
+sa(dp1164
+g2
+S'http://www.reuters.com/article/2011/07/23/us-baseball-redsox-idUSTRE76M0HQ20110723'
+p1165
+sg4
+S'20110723\xc2\xa01:34AM UTC'
+p1166
+sg6
+S'Boston leave slumping Mariners all at sea'
+p1167
+sa(dp1168
+g2
+S'http://www.reuters.com/article/2011/07/23/idUS25777+23-Jul-2011+PRN20110723'
+p1169
+sg4
+S'20110723\xc2\xa01:30AM UTC'
+p1170
+sg6
+S'Following Is a Test Release'
+p1171
+sa(dp1172
+g2
+S'http://www.reuters.com/article/2011/07/23/us-asean-southchinasea-idUSTRE76M0KS20110723'
+p1173
+sg4
+S'20110723\xc2\xa01:26AM UTC'
+p1174
+sg6
+S'U.S. calls for more clarity on South China Sea claims'
+p1175
+sa(dp1176
+g2
+S'http://www.reuters.com/article/2011/07/23/us-media-comiccon-spiderman-idUSTRE76M0NH20110723'
+p1177
+sg4
+S'20110723\xc2\xa01:18AM UTC'
+p1178
+sg6
+S'Andrew Garfield calls Spider-Man a role for life'
+p1179
+sa(dp1180
+g2
+S'http://www.reuters.com/article/2011/07/23/idUS25254+23-Jul-2011+PRN20110723'
+p1181
+sg4
+S'20110723\xc2\xa01:06AM UTC'
+p1182
+sg6
+S'Moon Express Launches Public Education and Outreach Campaign "The Moon is Me"'
+p1183
+sa(dp1184
+g2
+S'http://www.reuters.com/article/2011/07/23/idUS25056+23-Jul-2011+PRN20110723'
+p1185
+sg4
+S'20110723\xc2\xa01:00AM UTC'
+p1186
+sg6
+S'Following Is a Test Release'
+p1187
+sa(dp1188
+g2
+S'http://www.reuters.com/article/2011/07/23/us-norway-blast-view-idUSTRE76L5RR20110723'
+p1189
+sg4
+S'20110723\xc2\xa012:56AM UTC'
+p1190
+sg6
+S"Analysts' view: Bomb and shooting in Norway"
+p1191
+sa(dp1192
+g2
+S'http://www.reuters.com/article/2011/07/23/us-japan-earthquake-idUSTRE76M0LA20110723'
+p1193
+sg4
+S'20110723\xc2\xa012:54AM UTC'
+p1194
+sg6
+S'Strong quake jolts northern Japan, no tsunami warning issued'
+p1195
+sa(dp1196
+g2
+S'http://www.reuters.com/article/2011/07/23/japan-earthquake-idUSL3E7IN01Z20110723'
+p1197
+sg4
+S'20110723\xc2\xa012:53AM UTC'
+p1198
+sg6
+S'Strong quake jolts northern Japan, no tsunami warning issued'
+p1199
+sa(dp1200
+g2
+S'http://www.reuters.com/article/2011/07/23/malaysia-lawyer-idUSL3E7IM1B520110723'
+p1201
+sg4
+S'20110723\xc2\xa012:43AM UTC'
+p1202
+sg6
+S'Malaysia deports French lawyer in submarine bribe probe'
+p1203
+sa(dp1204
+g2
+S'http://www.reuters.com/article/2011/07/23/us-baseball-rangers-idUSTRE76M0KZ20110723'
+p1205
+sg4
+S'20110723\xc2\xa012:42AM UTC'
+p1206
+sg6
+S'Beltre injures hamstring in Rangers win'
+p1207
+sa(dp1208
+g2
+S'http://www.reuters.com/article/2011/07/23/idUS24280+23-Jul-2011+PRN20110723'
+p1209
+sg4
+S'20110723\xc2\xa012:30AM UTC'
+p1210
+sg6
+S'Following Is a Test Release'
+p1211
+sa(dp1212
+g2
+S'http://www.reuters.com/article/2011/07/23/idUS24275+23-Jul-2011+BW20110723'
+p1213
+sg4
+S'20110723\xc2\xa012:30AM UTC'
+p1214
+sg6
+S'Research and Markets: Abrasive Product Manufacturing Industry in the US and its International Trade [2011 Q3 Edition] Updated Report'
+p1215
+sa(dp1216
+g2
+S'http://www.reuters.com/article/2011/07/23/idUS119859343820110723'
+p1217
+sg4
+S'20110723\xc2\xa012:24AM UTC'
+p1218
+sg6
+S'Despite record IPO week, NASDAQ CEO doesn\xe2\x80\x99t see a bubble'
+p1219
+sa(dp1220
+g2
+S'http://www.reuters.com/article/2011/07/23/us-asean-southchinasea-idUSTRE76M0KM20110723'
+p1221
+sg4
+S'20110723\xc2\xa012:22AM UTC'
+p1222
+sg6
+S'U.S. calls for more clarity on South China Sea claims'
+p1223
+sa(dp1224
+g2
+S'http://www.reuters.com/article/2011/07/23/idUS23982+23-Jul-2011+PRN20110723'
+p1225
+sg4
+S'20110723\xc2\xa012:17AM UTC'
+p1226
+sg6
+S'PUC Issues Interim Decision in Hawaiian Electric Rate Case'
+p1227
+sa(dp1228
+g2
+S'http://www.reuters.com/article/2011/07/23/us-korea-north-talks-idUSTRE76M0FO20110723'
+p1229
+sg4
+S'20110723\xc2\xa012:04AM UTC'
+p1230
+sg6
+S'N.Korea proposes to resume 6-party talks unconditionally: report'
+p1231
+sa(dp1232
+g2
+S'http://www.reuters.com/article/2011/07/23/us-asean-korea-north-idUSTRE76M0IJ20110723'
+p1233
+sg4
+S'20110723\xc2\xa012:04AM UTC'
+p1234
+sg6
+S'North, S.Korea ministers meet as U.S. calls for proof of change'
+p1235
+sa(dp1236
+g2
+S'http://www.reuters.com/article/2011/07/23/idUS23041+23-Jul-2011+PRN20110723'
+p1237
+sg4
+S'20110723\xc2\xa012:01AM UTC'
+p1238
+sg6
+S'CORRECTION:  VisionChina Media to Report Second Quarter 2011 Financial Results on August 4, 2011'
+p1239
+sa(dp1240
+g2
+S'http://www.reuters.com/article/2011/07/23/idUS23037+23-Jul-2011+PRN20110723'
+p1241
+sg4
+S'20110723\xc2\xa012:01AM UTC'
+p1242
+sg6
+S'U.S. Census Bureau Daily Feature for July 23'
+p1243
+sa(dp1244
+g2
+S'http://www.reuters.com/article/2011/07/23/idUS22896+23-Jul-2011+PRN20110723'
+p1245
+sg4
+S'20110723\xc2\xa012:00AM UTC'
+p1246
+sg6
+S'Following Is a Test Release'
+p1247
+sa(dp1248
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=23183404'
+p1249
+sg4
+S'20110723\xc2\xa011:39PM UTC'
+p1250
+sg6
+S'Killings "necessary" - Breivik'
+p1251
+sa(dp1252
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=23183117'
+p1253
+sg4
+S'20110723\xc2\xa011:24PM UTC'
+p1254
+sg6
+S'Memorial service for Norway victims'
+p1255
+sa(dp1256
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=23175018'
+p1257
+sg4
+S'20110723\xc2\xa011:16PM UTC'
+p1258
+sg6
+S'Scrambling for a debt deal'
+p1259
+sa(dp1260
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=23174608'
+p1261
+sg4
+S'20110723\xc2\xa010:17PM UTC'
+p1262
+sg6
+S'Vigil in Norway'
+p1263
+sa(dp1264
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=23173650'
+p1265
+sg4
+S'20110723\xc2\xa09:16PM UTC'
+p1266
+sg6
+S'Surviving a rampage in Norway'
+p1267
+sa(dp1268
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=23173329'
+p1269
+sg4
+S'20110723\xc2\xa08:54PM UTC'
+p1270
+sg6
+S'Amy Winehouse body removed from London home.'
+p1271
+sa(dp1272
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=23180915'
+p1273
+sg4
+S'20110723\xc2\xa07:50PM UTC'
+p1274
+sg6
+S'Chavez returns home'
+p1275
+sa(dp1276
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=23185582'
+p1277
+sg4
+S'20110723\xc2\xa07:47PM UTC'
+p1278
+sg6
+S'Norway memorial service for massacre and bomb victims'
+p1279
+sa(dp1280
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=23172259'
+p1281
+sg4
+S'20110723\xc2\xa07:27PM UTC'
+p1282
+sg6
+S'Amy Winehouse found dead - Sky News'
+p1283
+sa(dp1284
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=23180492'
+p1285
+sg4
+S'20110723\xc2\xa07:23PM UTC'
+p1286
+sg6
+S'Amy Winehouse dies age 27'
+p1287
+sa(dp1288
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=23183999'
+p1289
+sg4
+S'20110723\xc2\xa07:02PM UTC'
+p1290
+sg6
+S'35 dead in Chinese train crash'
+p1291
+sa(dp1292
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=23171963'
+p1293
+sg4
+S'20110723\xc2\xa06:56PM UTC'
+p1294
+sg6
+S'After the blast in Oslo'
+p1295
+sa(dp1296
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=23171332'
+p1297
+sg4
+S'20110723\xc2\xa06:10PM UTC'
+p1298
+sg6
+S'Amy Winehouse found dead- Sky News'
+p1299
+sa(dp1300
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=23170185'
+p1301
+sg4
+S'20110723\xc2\xa05:24PM UTC'
+p1302
+sg6
+S'Scene of the crime in Norway'
+p1303
+sa(dp1304
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=23178386'
+p1305
+sg4
+S'20110723\xc2\xa03:46PM UTC'
+p1306
+sg6
+S'Amy Winehouse body removed from London home.'
+p1307
+sa(dp1308
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=23178638'
+p1309
+sg4
+S'20110723\xc2\xa03:45PM UTC'
+p1310
+sg6
+S"Candles lit for Norway's victims"
+p1311
+sa(dp1312
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=23178700'
+p1313
+sg4
+S'20110723\xc2\xa03:43PM UTC'
+p1314
+sg6
+S"'Saint Fidel?' Chavez jokes"
+p1315
+sa(dp1316
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=23167504'
+p1317
+sg4
+S'20110723\xc2\xa03:06PM UTC'
+p1318
+sg6
+S'Norwegian PM tours Island crime scene'
+p1319
+sa(dp1320
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=23177505'
+p1321
+sg4
+S'20110723\xc2\xa02:40PM UTC'
+p1322
+sg6
+S'Deadly train crash in China'
+p1323
+sa(dp1324
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=23168912'
+p1325
+sg4
+S'20110723\xc2\xa011:14AM UTC'
+p1326
+sg6
+S'International condolences for Norway'
+p1327
+sa(dp1328
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=23168197'
+p1329
+sg4
+S'20110723\xc2\xa010:44AM UTC'
+p1330
+sg6
+S'NATO bombs Libyan capital'
+p1331
+sa(dp1332
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=23168300'
+p1333
+sg4
+S'20110723\xc2\xa010:44AM UTC'
+p1334
+sg6
+S'Chinese fugitive arrested in Beijing'
+p1335
+sa(dp1336
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=23166658'
+p1337
+sg4
+S'20110723\xc2\xa09:35AM UTC'
+p1338
+sg6
+S'Norwegian security tight after killings'
+p1339
+sa(dp1340
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=23166370'
+p1341
+sg4
+S'20110723\xc2\xa08:59AM UTC'
+p1342
+sg6
+S'Bahrain opposition spurns dialogue'
+p1343
+sa(dp1344
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=23138355'
+p1345
+sg4
+S'20110723\xc2\xa08:57AM UTC'
+p1346
+sg6
+S'The horrifying AAA debt chart'
+p1347
+sa(dp1348
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=23166194'
+p1349
+sg4
+S'20110723\xc2\xa08:26AM UTC'
+p1350
+sg6
+S'Saboteurs derail Syrian train killing driver'
+p1351
+sa(dp1352
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=23164004'
+p1353
+sg4
+S'20110723\xc2\xa06:50AM UTC'
+p1354
+sg6
+S'Thousands defy Syrian government'
+p1355
+sa(dp1356
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=23163913'
+p1357
+sg4
+S'20110723\xc2\xa06:41AM UTC'
+p1358
+sg6
+S'Norwegian police seeking attack motive says prime minister'
+p1359
+sa(dp1360
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=23135459'
+p1361
+sg4
+S'20110723\xc2\xa06:09AM UTC'
+p1362
+sg6
+S'Blast rocks government buildings in Oslo, Norway'
+p1363
+sa(dp1364
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=23152565'
+p1365
+sg4
+S'20110723\xc2\xa03:37AM UTC'
+p1366
+sg6
+S'\xe3\x80\x8c\xe3\x81\xaa\xe3\x81\xa7\xe3\x81\x97\xe3\x81\x93\xe3\x82\xb8\xe3\x83\xa3\xe3\x83\x91\xe3\x83\xb3\xe3\x81\xae\xe5\x84\xaa\xe5\x8b\x9d\xef\xbc\x81\xe3\x82\xa2\xe3\x83\xa1\xe3\x83\xaa\xe3\x82\xab\xe3\x81\xaf\xe7\xa5\x9d\xe7\xa6\x8f\xe3\x83\xa0\xe3\x83\xbc\xe3\x83\x89\xe3\x80\x8d\xe3\x80\x8c\xe3\x80\x8e\xe3\x83\xa1\xe3\x83\x87\xe3\x82\xa3\xe3\x82\xa2\xe7\x8e\x8b\xe3\x80\x8f\xe3\x81\xae\xe8\xa8\xbc\xe4\xba\xba\xe5\x96\x9a\xe5\x95\x8f\xe3\x80\x8d\xe3\x80\x8c\xe3\x81\x84\xe3\x82\x88\xe3\x81\x84\xe3\x82\x88NY\xe5\xb7\x9e\xe3\x81\xae\xe5\x90\x8c\xe5\xa7\x93\xe5\xa9\x9a\xe3\x81\xae\xe6\xb3\x95\xe6\xa1\x88\xe7\x99\xba\xe5\x8a\xb9\xe3\x80\x8d\xef\xbc\x8822\xe6\x97\xa5\xef\xbc\x89'
+p1367
+sa(dp1368
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=23154033'
+p1369
+sg4
+S'20110723\xc2\xa03:27AM UTC'
+p1370
+sg6
+S'Verizon mis-connects with iPhone'
+p1371
+sa(dp1372
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=23151995'
+p1373
+sg4
+S'20110723\xc2\xa02:09AM UTC'
+p1374
+sg6
+S'Beyonce\'s "star" continues to rise'
+p1375
+sa(dp1376
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=23154758'
+p1377
+sg4
+S'20110723\xc2\xa02:02AM UTC'
+p1378
+sg6
+S'Harry Potter movie magic, Spielberg at Comic-Con'
+p1379
+sa(dp1380
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=23154290'
+p1381
+sg4
+S'20110723\xc2\xa01:41AM UTC'
+p1382
+sg6
+S'Stars surface in San Diego for Comic-Con'
+p1383
+sa(dp1384
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=23148901'
+p1385
+sg4
+S'20110723\xc2\xa012:31AM UTC'
+p1386
+sg6
+S'Chaos in Oslo after blast'
+p1387
+sa(dp1388
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=23155985'
+p1389
+sg4
+S'20110723\xc2\xa012:01AM UTC'
+p1390
+sg6
+S'Obama calls for talks after debt deal breaks down'
+p1391
+sa.

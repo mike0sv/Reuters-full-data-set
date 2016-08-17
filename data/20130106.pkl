@@ -1,0 +1,3655 @@
+(lp0
+(dp1
+S'href'
+p2
+S'http://www.reuters.com/article/2013/01/07/usa-officemarket-idUSL1E9C470N20130107'
+p3
+sS'ts'
+p4
+S'20130106\xc2\xa011:59PM UTC'
+p5
+sS'title'
+p6
+S'U.S. office demand slackens with slow job growth'
+p7
+sa(dp8
+g2
+S'http://www.reuters.com/article/2013/01/07/maruti-shares-idUSL4N0AC26I20130107'
+p9
+sg4
+S'20130106\xc2\xa011:58PM UTC'
+p10
+sg6
+S"India's Maruti shares hit 4-yr high; earnings seen improving"
+p11
+sa(dp12
+g2
+S'http://www.reuters.com/article/2013/01/07/markets-singapore-stocksnews-midday-idUSL4N0AC25P20130107'
+p13
+sg4
+S'20130106\xc2\xa011:48PM UTC'
+p14
+sg6
+S'STOCKS NEWS SINGAPORE-Index slightly up, led by Noble Group'
+p15
+sa(dp16
+g2
+S'http://www.reuters.com/article/2013/01/07/australia-whitehaven-hoax-idUSL4N0AC1F320130107'
+p17
+sg4
+S'20130106\xc2\xa011:45PM UTC'
+p18
+sg6
+S'UPDATE 1-Australian miner Whitehaven falls victim to hoax news release'
+p19
+sa(dp20
+g2
+S'http://www.reuters.com/article/2013/01/07/us-usa-illinois-pension-idUSBRE9040BS20130107'
+p21
+sg4
+S'20130106\xc2\xa011:38PM UTC'
+p22
+sg6
+S'Illinois lawmakers propose new pension fix, but unions vow suit'
+p23
+sa(dp24
+g2
+S'http://www.reuters.com/article/2013/01/07/crane-brief-idUSWNAB00L9120130107'
+p25
+sg4
+S'20130106\xc2\xa011:37PM UTC'
+p26
+sg6
+S'CORRECTED-RESEARCH ALERT-Crane: Citigroup raises target price'
+p27
+sa(dp28
+g2
+S'http://www.reuters.com/article/2013/01/07/usa-illinois-pension-idUSL1E9C70M020130107'
+p29
+sg4
+S'20130106\xc2\xa011:36PM UTC'
+p30
+sg6
+S'Illinois lawmakers propose new pension fix, but unions vow suit'
+p31
+sa(dp32
+g2
+S'http://www.reuters.com/article/2013/01/07/market-chatter-idUSL4N0AC24N20130107'
+p33
+sg4
+S'20130106\xc2\xa011:31PM UTC'
+p34
+sg6
+S'Market Chatter-Corporate finance press digest'
+p35
+sa(dp36
+g2
+S'http://www.reuters.com/article/2013/01/07/india-snapshot-idUSL4N0AC24C20130107'
+p37
+sg4
+S'20130106\xc2\xa011:21PM UTC'
+p38
+sg6
+S'SNAPSHOT-India stocks, bonds, rupee, swaps, call at 0415 GMT'
+p39
+sa(dp40
+g2
+S'http://www.reuters.com/article/2013/01/07/markets-thailand-stocksnews-amata-idUSL4N0AC23V20130107'
+p41
+sg4
+S'20130106\xc2\xa011:18PM UTC'
+p42
+sg6
+S'STOCKS NEWS THAILAND-Amata Corp jumps on strong land sales outlook'
+p43
+sa(dp44
+g2
+S'http://www.reuters.com/article/2013/01/07/markets-ratings-taiwanhitechfirms-idUSWNB277820130107'
+p45
+sg4
+S'20130106\xc2\xa011:03PM UTC'
+p46
+sg6
+S'TEXT-S&P; Says Demand To Stabilize For Taiwan Hi-Tech Firms In 2013'
+p47
+sa(dp48
+g2
+S'http://www.reuters.com/article/2013/01/07/ca-sequenom-highlight-idUSnPnLA37722+160+PRN20130107'
+p49
+sg4
+S'20130106\xc2\xa011:00PM UTC'
+p50
+sg6
+S'Sequenom Announces Preliminary 2012 Operational Highlights'
+p51
+sa(dp52
+g2
+S'http://www.reuters.com/article/2013/01/07/markets-singapore-stocksnews-cdlhospital-idUSL4N0AC21520130107'
+p53
+sg4
+S'20130106\xc2\xa010:52PM UTC'
+p54
+sg6
+S"STOCKS NEWS SINGAPORE-DBS upgrades CDL Hospitality to 'buy'"
+p55
+sa(dp56
+g2
+S'http://www.reuters.com/article/2013/01/07/us-japan-economy-abe-idUSBRE90602K20130107'
+p57
+sg4
+S'20130106\xc2\xa010:52PM UTC'
+p58
+sg6
+S'Japan PM: Will pursue bold monetary policy, big fiscal spending'
+p59
+sa(dp60
+g2
+S'http://www.reuters.com/article/2013/01/07/us-nfl-playoffs-redskins-idUSBRE90600P20130107'
+p61
+sg4
+S'20130106\xc2\xa010:49PM UTC'
+p62
+sg6
+S'Seahawks rally to beat Redskins, Griffin injured'
+p63
+sa(dp64
+g2
+S'http://www.reuters.com/article/2013/01/07/us-nfl-playoffs-quarterbacks-idUSBRE90602J20130107'
+p65
+sg4
+S'20130106\xc2\xa010:49PM UTC'
+p66
+sg6
+S"Wilson emerges from Griffin's shadow in Seattle win"
+p67
+sa(dp68
+g2
+S'http://www.reuters.com/article/2013/01/07/markets-oil-idUSL4N0AC1I020130107'
+p69
+sg4
+S'20130106\xc2\xa010:44PM UTC'
+p70
+sg6
+S'Brent stays above $111 on signs of growth in U.S., China'
+p71
+sa(dp72
+g2
+S'http://www.reuters.com/article/2013/01/07/cerberus-aozora-idUSL4N0AC1MS20130107'
+p73
+sg4
+S'20130106\xc2\xa010:42PM UTC'
+p74
+sg6
+S'Cerberus to sell Aozora Bank stake in $2.3 bln sale -sources'
+p75
+sa(dp76
+g2
+S'http://www.reuters.com/article/2013/01/07/markets-asia-foreign-idUSL4N0AC1Z220130107'
+p77
+sg4
+S'20130106\xc2\xa010:39PM UTC'
+p78
+sg6
+S'TABLE-Foreigners buy India shares in latest week-Nomura'
+p79
+sa(dp80
+g2
+S'http://www.reuters.com/article/2013/01/07/us-usa-oldest-american-idUSBRE90602F20130107'
+p81
+sg4
+S'20130106\xc2\xa010:35PM UTC'
+p82
+sg6
+S'South Carolina woman ranked as oldest American dies at age 114'
+p83
+sa(dp84
+g2
+S'http://www.reuters.com/article/2013/01/07/idUSnPrexLZP9a+11c+PRN20130107'
+p85
+sg4
+S'20130106\xc2\xa010:30PM UTC'
+p86
+sg6
+S'EMOZE Sets a New Standard for Email Experience on Android'
+p87
+sa(dp88
+g2
+S'http://www.reuters.com/article/2013/01/07/idUSnPreQt8HBa+126+PRN20130107'
+p89
+sg4
+S'20130106\xc2\xa010:30PM UTC'
+p90
+sg6
+S'Dhruv Launches Insurance Grievance Management System for Export Credit Guarantee Corporation of India Ltd., a Government of India Enterprise'
+p91
+sa(dp92
+g2
+S'http://www.reuters.com/article/2013/01/07/indonesia-economy-money-idUSJ9N08Z00520130107'
+p93
+sg4
+S'20130106\xc2\xa010:21PM UTC'
+p94
+sg6
+S'Indonesia M2 money supply rises 17.4 pct y/y in Nov'
+p95
+sa(dp96
+g2
+S'http://www.reuters.com/article/2013/01/07/morningcall-india-idUSL4N0AC1NL20130107'
+p97
+sg4
+S'20130106\xc2\xa010:17PM UTC'
+p98
+sg6
+S'India Morning Call-Global markets'
+p99
+sa(dp100
+g2
+S'http://www.reuters.com/article/2013/01/07/usa-clinton-idUSL1E9C70KT20130107'
+p101
+sg4
+S'20130106\xc2\xa010:10PM UTC'
+p102
+sg6
+S'Clinton to resume duties Monday following treatment for clot'
+p103
+sa(dp104
+g2
+S'http://www.reuters.com/article/2013/01/07/markets-japan-stocks-idUSL4N0AC1EU20130107'
+p105
+sg4
+S'20130106\xc2\xa010:06PM UTC'
+p106
+sg6
+S'Nikkei drops as profit-taking hits exporters, utility shares'
+p107
+sa(dp108
+g2
+S'http://www.reuters.com/article/2013/01/07/etron-technology-idUSnBw12mWXya+10c+BSW20130107'
+p109
+sg4
+S'20130106\xc2\xa010:06PM UTC'
+p110
+sg6
+S'Etron Technology Launches an Innovative USB3.0 Depth-Map Controller Platform to Enable Gesture/Skeleton Control and 3D-Video/Image Capture at the 2013 CES'
+p111
+sa(dp112
+g2
+S'http://www.reuters.com/article/2013/01/07/idUS318526993420130107'
+p113
+sg4
+S'20130106\xc2\xa010:00PM UTC'
+p114
+sg6
+S'When political compromise is suspect'
+p115
+sa(dp116
+g2
+S'http://www.reuters.com/article/2013/01/07/markets-ratings-shimao-idUSWNB277620130107'
+p117
+sg4
+S'20130106\xc2\xa09:55PM UTC'
+p118
+sg6
+S"TEXT-S&P; rates Shimao Property's Sr Unsecd Notes 'B+' And 'cnBB'"
+p119
+sa(dp120
+g2
+S'http://www.reuters.com/article/2013/01/07/india-press-fund-idUSL4N0AC1GB20130107'
+p121
+sg4
+S'20130106\xc2\xa09:54PM UTC'
+p122
+sg6
+S'INDIA PRESS-ICICI-Apollo fund raises $325 mln to invest in distressed Indian cos-Economic Times'
+p123
+sa(dp124
+g2
+S'http://www.reuters.com/article/2013/01/07/india-press-bsnl-huawei-idUSL4N0AC1F920130107'
+p125
+sg4
+S'20130106\xc2\xa09:39PM UTC'
+p126
+sg6
+S'INDIA PRESS-BSNL set to buy 4 bln rupees telecom gear from Huawei - Economic Times'
+p127
+sa(dp128
+g2
+S'http://www.reuters.com/article/2013/01/07/markets-korea-stocks-idUSL4N0AC09B20130107'
+p129
+sg4
+S'20130106\xc2\xa09:38PM UTC'
+p130
+sg6
+S'Seoul shares fall on profit-taking ahead of earnings season'
+p131
+sa(dp132
+g2
+S'http://www.reuters.com/article/2013/01/07/markets-indonesia-stocks-idUSL4N0AC1EP20130107'
+p133
+sg4
+S'20130106\xc2\xa09:38PM UTC'
+p134
+sg6
+S'Indonesia - Market factors to watch on Jan 7'
+p135
+sa(dp136
+g2
+S'http://www.reuters.com/article/2013/01/07/australia-wildfires-idUSL4N0AC0BO20130107'
+p137
+sg4
+S'20130106\xc2\xa09:37PM UTC'
+p138
+sg6
+S'Australia braces for "catastrophic" wildfire day'
+p139
+sa(dp140
+g2
+S'http://www.reuters.com/article/2013/01/07/press-ft-idUSL5E8KEEAH20130107'
+p141
+sg4
+S'20130106\xc2\xa09:34PM UTC'
+p142
+sg6
+S'PRESS DIGEST - Financial Times - Jan 7'
+p143
+sa(dp144
+g2
+S'http://www.reuters.com/article/2013/01/07/markets-offshore-yuan-idUSL4N0AC0ID20130107'
+p145
+sg4
+S'20130106\xc2\xa09:33PM UTC'
+p146
+sg6
+S"China's E Fund wins extra 800 mln yuan quota for RQFII bond fund"
+p147
+sa(dp148
+g2
+S'http://www.reuters.com/article/2013/01/07/markets-japan-jgb-idUSL4N0AC1EJ20130107'
+p149
+sg4
+S'20130106\xc2\xa09:33PM UTC'
+p150
+sg6
+S'JGBs slip, 10-year yields at 4-1/2-month high'
+p151
+sa(dp152
+g2
+S'http://www.reuters.com/article/2013/01/07/idUSnMKW71256a+1c0+MKW20130107'
+p153
+sg4
+S'20130106\xc2\xa09:30PM UTC'
+p154
+sg6
+S'Verimatrix Selects Convergence India to Launch 2013 Multi-Network Forum Series'
+p155
+sa(dp156
+g2
+S'http://www.reuters.com/article/2013/01/07/entertainment-us-emi-sonybmg-idUSBRE90600T20130107'
+p157
+sg4
+S'20130106\xc2\xa09:28PM UTC'
+p158
+sg6
+S'Sony, BMG in joint bid for Parlophone, EMI labels - FT'
+p159
+sa(dp160
+g2
+S'http://www.reuters.com/article/2013/01/07/markets-japan-jgb-poll-idUSL4N0AC0G020130107'
+p161
+sg4
+S'20130106\xc2\xa09:25PM UTC'
+p162
+sg6
+S'CORRECTED-JGB market sentiment lowest since July - Reuters survey'
+p163
+sa(dp164
+g2
+S'http://www.reuters.com/article/2013/01/07/australia-whitehaven-hoax-idUSL4N0AC1EC20130107'
+p165
+sg4
+S'20130106\xc2\xa09:23PM UTC'
+p166
+sg6
+S'Whitehaven says media release that sinks shares 9 pct a hoax'
+p167
+sa(dp168
+g2
+S'http://www.reuters.com/article/2013/01/07/australia-whitehaven-hoax-idUSWNAS087720130107'
+p169
+sg4
+S'20130106\xc2\xa09:19PM UTC'
+p170
+sg6
+S'Whitehaven says media release that sinks shares 9 pct a hoax'
+p171
+sa(dp172
+g2
+S'http://www.reuters.com/article/2013/01/07/entertainment-us-films-boxoffice-nominat-idUSBRE90601H20130107'
+p173
+sg4
+S'20130106\xc2\xa09:19PM UTC'
+p174
+sg6
+S"'Zero Dark Thirty,' 'Silver Linings' get box-office boost"
+p175
+sa(dp176
+g2
+S'http://www.reuters.com/article/2013/01/07/australia-mining-unemployment-idUSL4N0AC0IH20130107'
+p177
+sg4
+S'20130106\xc2\xa09:15PM UTC'
+p178
+sg6
+S"Geologists dig deeper for jobs as Australia's mining boom ends"
+p179
+sa(dp180
+g2
+S'http://www.reuters.com/article/2013/01/07/us-sperm-fats-idUSBRE90601D20130107'
+p181
+sg4
+S'20130106\xc2\xa09:01PM UTC'
+p182
+sg6
+S'Saturated fats tied to falling sperm counts in Danes: study'
+p183
+sa(dp184
+g2
+S'http://www.reuters.com/article/2013/01/07/press-digest-hongkong-idUSL4N0AC02720130107'
+p185
+sg4
+S'20130106\xc2\xa09:00PM UTC'
+p186
+sg6
+S'PRESS DIGEST - Hong Kong - Jan 7'
+p187
+sa(dp188
+g2
+S'http://www.reuters.com/article/2013/01/07/markets-japan-stocks-idUSL4N0AC0GM20130107'
+p189
+sg4
+S'20130106\xc2\xa08:59PM UTC'
+p190
+sg6
+S'Nikkei slips after 5-session rally; utility shares drop'
+p191
+sa(dp192
+g2
+S'http://www.reuters.com/article/2013/01/07/us-liver-competition-idUSBRE90601820130107'
+p193
+sg4
+S'20130106\xc2\xa08:54PM UTC'
+p194
+sg6
+S'Competition affects who gets a liver transplant: study'
+p195
+sa(dp196
+g2
+S'http://www.reuters.com/article/2013/01/07/australia-lynas-idUSL4N0AC0DG20130107'
+p197
+sg4
+S'20130106\xc2\xa08:48PM UTC'
+p198
+sg6
+S'Lynas sees commercial rare earth products in next few weeks'
+p199
+sa(dp200
+g2
+S'http://www.reuters.com/article/2013/01/07/australia-economy-online-idUSL4N0AC0I120130107'
+p201
+sg4
+S'20130106\xc2\xa08:46PM UTC'
+p202
+sg6
+S'Australia online sales enjoy pre-Xmas surge in Nov'
+p203
+sa(dp204
+g2
+S'http://www.reuters.com/article/2013/01/07/markets-hongkong-stocks-open-idUSH9E8MD01J20130107'
+p205
+sg4
+S'20130106\xc2\xa08:25PM UTC'
+p206
+sg6
+S'Hong Kong shares to open up 0.1 pct, HSBC climbs'
+p207
+sa(dp208
+g2
+S'http://www.reuters.com/article/2013/01/07/thailand-press-advertising-industry-idUSL4N0AC0BP20130107'
+p209
+sg4
+S'20130106\xc2\xa08:15PM UTC'
+p210
+sg6
+S'THAILAND PRESS-Ad industry growth set to continue - Bangkok Post'
+p211
+sa(dp212
+g2
+S'http://www.reuters.com/article/2013/01/07/markets-hongkong-stocks-preopen-idUSL4N0AC07Q20130107'
+p213
+sg4
+S'20130106\xc2\xa08:09PM UTC'
+p214
+sg6
+S'Hong Kong shares may test 19-month highs'
+p215
+sa(dp216
+g2
+S'http://www.reuters.com/article/2013/01/07/us-golf-pga-delay-idUSBRE9050AN20130107'
+p217
+sg4
+S'20130106\xc2\xa08:03PM UTC'
+p218
+sg6
+S'Golf: Play scrapped at Kapalua, Tuesday finish planned'
+p219
+sa(dp220
+g2
+S'http://www.reuters.com/article/2013/01/07/awak-agreement-baxter-idUSnPnHK36901+160+PRN20130107'
+p221
+sg4
+S'20130106\xc2\xa08:00PM UTC'
+p222
+sg6
+S'AWAK Technologies Enters into an Exclusive Agreement with Baxter International for the Development of Wearable Dialysis Technology'
+p223
+sa(dp224
+g2
+S'http://www.reuters.com/article/2013/01/07/co-samson-oil-gas-ltd-idUSnBw8lpD68a+108+BSW20130107'
+p225
+sg4
+S'20130106\xc2\xa08:00PM UTC'
+p226
+sg6
+S'Samson Oil & Gas Presents to Sidoti Conference'
+p227
+sa(dp228
+g2
+S'http://www.reuters.com/article/2013/01/07/philippines-press-idUSL4N0AC07T20130107'
+p229
+sg4
+S'20130106\xc2\xa07:56PM UTC'
+p230
+sg6
+S"PHILIPPINES PRESS-PBCom's major shareholder sells stake - Inquirer"
+p231
+sa(dp232
+g2
+S'http://www.reuters.com/article/2013/01/07/us-malaysia-airasia-tuneinsurance-idUSBRE90600Z20130107'
+p233
+sg4
+S'20130106\xc2\xa07:56PM UTC'
+p234
+sg6
+S'AirAsia founders to launch $65 million Tune Insurance IPO by end-Feb: sources'
+p235
+sa(dp236
+g2
+S'http://www.reuters.com/article/2013/01/07/markets-precious-idUSL4N0AC04220130107'
+p237
+sg4
+S'20130106\xc2\xa07:56PM UTC'
+p238
+sg6
+S'PRECIOUS-Gold prices flat, U.S. stimulus concerns weigh'
+p239
+sa(dp240
+g2
+S'http://www.reuters.com/article/2013/01/07/malaysia-airasia-tuneinsurance-idUST9E8LU04D20130107'
+p241
+sg4
+S'20130106\xc2\xa07:52PM UTC'
+p242
+sg6
+S'AirAsia founders to launch $65 mln Tune Insurance IPO by end-Feb -sources'
+p243
+sa(dp244
+g2
+S'http://www.reuters.com/article/2013/01/07/us-obama-defense-hagel-idUSBRE90507Q20130107'
+p245
+sg4
+S'20130106\xc2\xa07:48PM UTC'
+p246
+sg6
+S'Obama to nominate Hagel for defense secretary: Democratic aide'
+p247
+sa(dp248
+g2
+S'http://www.reuters.com/article/2013/01/07/markets-singapore-stocks-preopener-idUSL4N0AC07020130107'
+p249
+sg4
+S'20130106\xc2\xa07:48PM UTC'
+p250
+sg6
+S'Singapore Stocks - Factors to watch on Jan 7'
+p251
+sa(dp252
+g2
+S'http://www.reuters.com/article/2013/01/07/malaysia-press-idUSL4N0AC03320130107'
+p253
+sg4
+S'20130106\xc2\xa07:43PM UTC'
+p254
+sg6
+S'MALAYSIA-PRESS-CIMB Aviva suitors to be known this week-Business Times'
+p255
+sa(dp256
+g2
+S'http://www.reuters.com/article/2013/01/07/markets-australia-stocks-idUSL4N0AC01P20130107'
+p257
+sg4
+S'20130106\xc2\xa07:41PM UTC'
+p258
+sg6
+S'Australia shares inch up, CBA reaches record high'
+p259
+sa(dp260
+g2
+S'http://www.reuters.com/article/2013/01/07/emi-sonybmg-idUSL4N0AC01R20130107'
+p261
+sg4
+S'20130106\xc2\xa07:38PM UTC'
+p262
+sg6
+S'Sony, BMG in joint bid for Parlophone, EMI labels-FT'
+p263
+sa(dp264
+g2
+S'http://www.reuters.com/article/2013/01/07/markets-taiwan-stocks-factors-idUSL4N0A92PF20130107'
+p265
+sg4
+S'20130106\xc2\xa07:38PM UTC'
+p266
+sg6
+S'Taiwan stocks - Factors to watch - Jan 7'
+p267
+sa(dp268
+g2
+S'http://www.reuters.com/article/2013/01/07/ivanhoeaustralia-ceo-idUSASB009J220130107'
+p269
+sg4
+S'20130106\xc2\xa07:31PM UTC'
+p270
+sg6
+S'Ivanhoe Australia taps Rio Tinto for new CEO'
+p271
+sa(dp272
+g2
+S'http://www.reuters.com/article/2013/01/07/geniee-inc-idUSnBw7lM9Mpa+114+BSW20130107'
+p273
+sg4
+S'20130106\xc2\xa07:30PM UTC'
+p274
+sg6
+S'Geniee and Yahoo! Asia Pacific Partners to Bring Japanese Premium Publishers to Advertisers in APAC Region'
+p275
+sa(dp276
+g2
+S'http://www.reuters.com/article/2013/01/07/markets-forex-idUSL4N0AC00M20130107'
+p277
+sg4
+S'20130106\xc2\xa07:26PM UTC'
+p278
+sg6
+S'FOREX-Dollar steady vs yen, close to July 2010 highs'
+p279
+sa(dp280
+g2
+S'http://www.reuters.com/article/2013/01/07/idUSnGNXUWXIIa+1fe+GNW20130107'
+p281
+sg4
+S'20130106\xc2\xa07:25PM UTC'
+p282
+sg6
+S'Sphero Introduces New Augmented Reality Gaming Apps At Ces'
+p283
+sa(dp284
+g2
+S'http://www.reuters.com/article/2013/01/07/russia-christmas-adoption-idUSL5E9C62L720130107'
+p285
+sg4
+S'20130106\xc2\xa07:23PM UTC'
+p286
+sg6
+S'Russian Orthodox Church head urges followers to adopt children'
+p287
+sa(dp288
+g2
+S'http://www.reuters.com/article/2013/01/07/us-liver-competition-idUSBRE90600F20130107'
+p289
+sg4
+S'20130106\xc2\xa07:21PM UTC'
+p290
+sg6
+S'Competition affects who gets a liver transplant: study'
+p291
+sa(dp292
+g2
+S'http://www.reuters.com/article/2013/01/07/us-nfl-playoffs-ravens-lewis-idUSBRE90600D20130107'
+p293
+sg4
+S'20130106\xc2\xa07:20PM UTC'
+p294
+sg6
+S"NFL: Ravens' Lewis says farewell to fans in Baltimore"
+p295
+sa(dp296
+g2
+S'http://www.reuters.com/article/2013/01/07/health-liver-competition-idUSL4N0AC01N20130107'
+p297
+sg4
+S'20130106\xc2\xa07:19PM UTC'
+p298
+sg6
+S'Competition affects who gets a liver transplant: study'
+p299
+sa(dp300
+g2
+S'http://www.reuters.com/article/2013/01/07/idUSnGNXUWXIKa+1fe+GNW20130107'
+p301
+sg4
+S'20130106\xc2\xa07:17PM UTC'
+p302
+sg6
+S'LaCie and Starck Craft Limited Edition Hard Drive'
+p303
+sa(dp304
+g2
+S'http://www.reuters.com/article/2013/01/07/shuionland-profitwarning-idUSH9N09R00Q20130107'
+p305
+sg4
+S'20130106\xc2\xa07:15PM UTC'
+p306
+sg6
+S'Developer Shui On Land expects significant drop in 2012 profit'
+p307
+sa(dp308
+g2
+S'http://www.reuters.com/article/2013/01/07/press-digest-china-idUSL4N0AB0K320130107'
+p309
+sg4
+S'20130106\xc2\xa07:14PM UTC'
+p310
+sg6
+S'PRESS DIGEST - China - Jan 7'
+p311
+sa(dp312
+g2
+S'http://www.reuters.com/article/2013/01/07/idUSnGNXUWXIJa+1fe+GNW20130107'
+p313
+sg4
+S'20130106\xc2\xa07:13PM UTC'
+p314
+sg6
+S'LaCie Debuts Massive 20TB Thunderbolt RAID'
+p315
+sa(dp316
+g2
+S'http://www.reuters.com/article/2013/01/07/korea-north-richardson-idUSL4N0AB0JW20130107'
+p317
+sg4
+S'20130106\xc2\xa07:11PM UTC'
+p318
+sg6
+S'Richardson, Schmidt fly to N. Korea Monday-reports'
+p319
+sa(dp320
+g2
+S'http://www.reuters.com/article/2013/01/07/us-markets-japan-stocks-idUSBRE9050EA20130107'
+p321
+sg4
+S'20130106\xc2\xa07:09PM UTC'
+p322
+sg6
+S'Nikkei edges up on U.S. data, exporters high'
+p323
+sa(dp324
+g2
+S'http://www.reuters.com/article/2013/01/07/us-germany-airport-idUSBRE90600620130107'
+p325
+sg4
+S'20130106\xc2\xa07:08PM UTC'
+p326
+sg6
+S'New Berlin airport further delayed to 2014: source'
+p327
+sa(dp328
+g2
+S'http://www.reuters.com/article/2013/01/07/markets-korea-stocks-idUSL4N0AB0L020130107'
+p329
+sg4
+S'20130106\xc2\xa07:08PM UTC'
+p330
+sg6
+S'Seoul shares edge down despite positive U.S. data'
+p331
+sa(dp332
+g2
+S'http://www.reuters.com/article/2013/01/07/idUSnGNXUWXIHa+1fe+GNW20130107'
+p333
+sg4
+S'20130106\xc2\xa07:07PM UTC'
+p334
+sg6
+S'LaCie Announces High-Performance 5big NAS Pro for Small Businesses'
+p335
+sa(dp336
+g2
+S'http://www.reuters.com/article/2013/01/07/markets-japan-stocks-idUSL4N0AC00E20130107'
+p337
+sg4
+S'20130106\xc2\xa07:06PM UTC'
+p338
+sg6
+S'Nikkei edges up on U.S. data, exporters high'
+p339
+sa(dp340
+g2
+S'http://www.reuters.com/article/2013/01/07/germany-airport-idUSL5E9C62LC20130107'
+p341
+sg4
+S'20130106\xc2\xa07:04PM UTC'
+p342
+sg6
+S'New Berlin airport further delayed to 2014 - source'
+p343
+sa(dp344
+g2
+S'http://www.reuters.com/article/2013/01/07/us-britain-coalition-idUSBRE90600120130107'
+p345
+sg4
+S'20130106\xc2\xa07:02PM UTC'
+p346
+sg6
+S"Britain's coalition leaders seek to regain voters' trust"
+p347
+sa(dp348
+g2
+S'http://www.reuters.com/article/2013/01/07/idUSnPreX662na+120+PRN20130107'
+p349
+sg4
+S'20130106\xc2\xa07:02PM UTC'
+p350
+sg6
+S'New First-in-class Treatment Fycompa\xc2\xae Launches in Norway for Most Common Form of Epilepsy<4523.F><4523.T>'
+p351
+sa(dp352
+g2
+S'http://www.reuters.com/article/2013/01/07/ca-seagate-technology-idUSnBwbqsgd9a+100+BSW20130107'
+p353
+sg4
+S'20130106\xc2\xa07:01PM UTC'
+p354
+sg6
+S'Organize Your Home with Seagate Central Shared Storage'
+p355
+sa(dp356
+g2
+S'http://www.reuters.com/article/2013/01/07/nv-lilliputian-nectar-idUSnPnNE37696+160+PRN20130107'
+p357
+sg4
+S'20130106\xc2\xa07:00PM UTC'
+p358
+sg6
+S'Lilliputian Systems and Brookstone Announce Launch of the Award Winning Nectar Mobile Power System at the Consumer Electronics Show'
+p359
+sa(dp360
+g2
+S'http://www.reuters.com/article/2013/01/07/delphi-auto-appces-idUSnPnNY37705+160+PRN20130107'
+p361
+sg4
+S'20130106\xc2\xa07:00PM UTC'
+p362
+sg6
+S'Delphi Introduces Unique Plug-and-Play Connectivity Service -- Consumers Can Quickly Lock & Unlock Doors, Locate, Track and Monitor Vehicles via Mobile Devices'
+p363
+sa(dp364
+g2
+S'http://www.reuters.com/article/2013/01/07/mi-delphi-automotive-idUSnBw8FDyQka+134+BSW20130107'
+p365
+sg4
+S'20130106\xc2\xa07:00PM UTC'
+p366
+sg6
+S'Delphi Automotive to Exhibit at 2013 International CES, booth North Hall - #730, Jan 8 - 11, 2013, in Las Vegas NV, US'
+p367
+sa(dp368
+g2
+S'http://www.reuters.com/article/2013/01/07/or-usb-if-idUSnBw7z0tZ4a+104+BSW20130107'
+p369
+sg4
+S'20130106\xc2\xa07:00PM UTC'
+p370
+sg6
+S'USB-IF Completes Landmark Year for SuperSpeed USB Certification'
+p371
+sa(dp372
+g2
+S'http://www.reuters.com/article/2013/01/07/or-usb-if-idUSnBw7s6YKra+10c+BSW20130107'
+p373
+sg4
+S'20130106\xc2\xa07:00PM UTC'
+p374
+sg6
+S'SuperSpeed USB (USB 3.0) Performance to Double with New Capabilities'
+p375
+sa(dp376
+g2
+S'http://www.reuters.com/article/2013/01/07/ca-seagate-idUSnBw62Fglga+110+BSW20130107'
+p377
+sg4
+S'20130106\xc2\xa07:00PM UTC'
+p378
+sg6
+S'Seagate Wireless Plus Mobile Device Storage, Now You Really Can Take It All with You'
+p379
+sa(dp380
+g2
+S'http://www.reuters.com/article/2013/01/07/ca-mad-catz-inc-idUSnBw2CnTN0a+12c+BSW20130107'
+p381
+sg4
+S'20130106\xc2\xa07:00PM UTC'
+p382
+sg6
+S'Mad Catz Interactive to Present at 2013 International CES on Jan 6, 2013, in Las Vegas NV, US'
+p383
+sa(dp384
+g2
+S'http://www.reuters.com/article/2013/01/07/pension-insurance-pic-idUSL5E9C36WN20130107'
+p385
+sg4
+S'20130106\xc2\xa07:00PM UTC'
+p386
+sg6
+S'Shipping trade groups offload pension liabilities'
+p387
+sa(dp388
+g2
+S'http://www.reuters.com/article/2013/01/06/us-india-rape-reforms-idUSBRE9050BJ20130106'
+p389
+sg4
+S'20130106\xc2\xa06:55PM UTC'
+p390
+sg6
+S'Activists wary as India rushes to justice after gang rape'
+p391
+sa(dp392
+g2
+S'http://www.reuters.com/article/2013/01/06/us-sperm-fats-idUSBRE9050EE20130106'
+p393
+sg4
+S'20130106\xc2\xa06:51PM UTC'
+p394
+sg6
+S'Saturated fats tied to falling sperm counts in Danes: study'
+p395
+sa(dp396
+g2
+S'http://www.reuters.com/article/2013/01/06/health-sperm-fats-idUSL4N0AB0KN20130106'
+p397
+sg4
+S'20130106\xc2\xa06:50PM UTC'
+p398
+sg6
+S'Saturated fats tied to falling sperm counts in Danes: study'
+p399
+sa(dp400
+g2
+S'http://www.reuters.com/article/2013/01/06/us-usa-guns-whitehouse-idUSBRE90508520130106'
+p401
+sg4
+S'20130106\xc2\xa06:49PM UTC'
+p402
+sg6
+S'White House considers broader U.S. gun control: report'
+p403
+sa(dp404
+g2
+S'http://www.reuters.com/article/2013/01/06/us-markets-japan-stocks-idUSBRE9050EA20130106'
+p405
+sg4
+S'20130106\xc2\xa06:45PM UTC'
+p406
+sg6
+S'Nikkei set to test 23-month high, bank stocks eyed'
+p407
+sa(dp408
+g2
+S'http://www.reuters.com/article/2013/01/06/markets-japan-stocks-idUSL4N0AB0HE20130106'
+p409
+sg4
+S'20130106\xc2\xa06:42PM UTC'
+p410
+sg6
+S'Nikkei set to test 23-month high, bank stocks eyed'
+p411
+sa(dp412
+g2
+S'http://www.reuters.com/article/2013/01/06/us-irish-riots-idUSBRE90508A20130106'
+p413
+sg4
+S'20130106\xc2\xa06:39PM UTC'
+p414
+sg6
+S'Northern Irish militants seen hijacking flag protests'
+p415
+sa(dp416
+g2
+S'http://www.reuters.com/article/2013/01/06/us-russia-depardieu-idUSBRE90206G20130106'
+p417
+sg4
+S'20130106\xc2\xa06:38PM UTC'
+p418
+sg6
+S'French actor Depardieu meets Putin, picks up Russian passport'
+p419
+sa(dp420
+g2
+S'http://www.reuters.com/article/2013/01/06/us-syria-crisis-idUSBRE8AJ1FK20130106'
+p421
+sg4
+S'20130106\xc2\xa06:37PM UTC'
+p422
+sg6
+S'Assad "peace plan" greeted with scorn by foes'
+p423
+sa(dp424
+g2
+S'http://www.reuters.com/article/2013/01/06/us-nfl-playoffs-ravens-idUSBRE9050D320130106'
+p425
+sg4
+S'20130106\xc2\xa06:33PM UTC'
+p426
+sg6
+S'NFL: Ravens pound Colts, earn playoff date with Broncos'
+p427
+sa(dp428
+g2
+S'http://www.reuters.com/article/2013/01/06/ma-strategy-analytics-idUSnBw4T53R3a+124+BSW20130106'
+p429
+sg4
+S'20130106\xc2\xa06:30PM UTC'
+p430
+sg6
+S"Strategy Analytics: iPhone Tops Americans' 2013 Consumer Technology Wish List"
+p431
+sa(dp432
+g2
+S'http://www.reuters.com/article/2013/01/06/markets-australia-stocks-idUSL4N0AB0IO20130106'
+p433
+sg4
+S'20130106\xc2\xa06:25PM UTC'
+p434
+sg6
+S'Australia shares rally, sentiment bolstered by U.S. jobs data'
+p435
+sa(dp436
+g2
+S'http://www.reuters.com/article/2013/01/06/markets-korea-stocks-idUSL4N0AB0I220130106'
+p437
+sg4
+S'20130106\xc2\xa06:22PM UTC'
+p438
+sg6
+S'Seoul shares seen edging higher on steady U.S. data'
+p439
+sa(dp440
+g2
+S'http://www.reuters.com/article/2013/01/06/us-terrafirma-odeon-idUSBRE9050DZ20130106'
+p441
+sg4
+S'20130106\xc2\xa06:22PM UTC'
+p442
+sg6
+S'Terra Firma to revive sale of Odeon cinema chain: FT'
+p443
+sa(dp444
+g2
+S'http://www.reuters.com/article/2013/01/06/terrafirma-odeon-idUSL5E9C62IR20130106'
+p445
+sg4
+S'20130106\xc2\xa06:21PM UTC'
+p446
+sg6
+S'Terra Firma to revive sale of Odeon cinema chain - FT'
+p447
+sa(dp448
+g2
+S'http://www.reuters.com/article/2013/01/06/markets-japan-stocks-orders-idUSL4N0AB0IZ20130106'
+p449
+sg4
+S'20130106\xc2\xa06:19PM UTC'
+p450
+sg6
+S'TABLE-Foreign brokers set to buy Japanese stocks'
+p451
+sa(dp452
+g2
+S'http://www.reuters.com/article/2013/01/06/idUSnPrezb1cTa+102+PRN20130106'
+p453
+sg4
+S'20130106\xc2\xa06:09PM UTC'
+p454
+sg6
+S'Lilliputian Systems and Brookstone Announce Launch of the Award Winning Nectar(TM) Mobile Power System at the Consumer Electronics Show'
+p455
+sa(dp456
+g2
+S'http://www.reuters.com/article/2013/01/06/us-nbc-idUSBRE9050DW20130106'
+p457
+sg4
+S'20130106\xc2\xa06:09PM UTC'
+p458
+sg6
+S'NBC chief braces for ratings drop after strong fall season'
+p459
+sa(dp460
+g2
+S'http://www.reuters.com/article/2013/01/06/us-golf-pga-delay-idUSBRE9050AN20130106'
+p461
+sg4
+S'20130106\xc2\xa06:06PM UTC'
+p462
+sg6
+S'Golf: Play again halted at weather-hit Kapalua'
+p463
+sa(dp464
+g2
+S'http://www.reuters.com/article/2013/01/06/television-nbc-idUSL1E9C61TJ20130106'
+p465
+sg4
+S'20130106\xc2\xa06:05PM UTC'
+p466
+sg6
+S'NBC chief braces for ratings drop after strong fall season'
+p467
+sa(dp468
+g2
+S'http://www.reuters.com/article/2013/01/06/idUSnPreg1GT8a+10c+PRN20130106'
+p469
+sg4
+S'20130106\xc2\xa06:00PM UTC'
+p470
+sg6
+S'Thirty Nine Essex Street Chambers Launches its Singapore Office'
+p471
+sa(dp472
+g2
+S'http://www.reuters.com/article/2013/01/06/idUSnMKW1352a+e0+MKW20130106'
+p473
+sg4
+S'20130106\xc2\xa06:00PM UTC'
+p474
+sg6
+S'Adherex Announces Completion of Patient Enrollment and Maintains TSX Listing Status'
+p475
+sa(dp476
+g2
+S'http://www.reuters.com/article/2013/01/06/idUSnCCNmWWkZa+1da+MKW20130106'
+p477
+sg4
+S'20130106\xc2\xa06:00PM UTC'
+p478
+sg6
+S'Adherex Announces Completion of Patient Enrollment and Maintains TSX Listing Status'
+p479
+sa(dp480
+g2
+S'http://www.reuters.com/article/2013/01/06/nc-lenovo-ncta-idUSnBwbXRlvpa+130+BSW20130106'
+p481
+sg4
+S'20130106\xc2\xa06:00PM UTC'
+p482
+sg6
+S'Lenovo Pioneers "Interpersonal Computing" with Company`s First Table PC'
+p483
+sa(dp484
+g2
+S'http://www.reuters.com/article/2013/01/06/nc-lenovo-ncta-lenovo-idUSnBw59jmyda+100+BSW20130106'
+p485
+sg4
+S'20130106\xc2\xa06:00PM UTC'
+p486
+sg6
+S'Lenovo Unleashes New Windows 8 Touch Devices'
+p487
+sa(dp488
+g2
+S'http://www.reuters.com/article/2013/01/06/us-usa-nixon-centennial-idUSBRE90502220130106'
+p489
+sg4
+S'20130106\xc2\xa05:52PM UTC'
+p490
+sg6
+S'Nixon hailed as foreign policy genius at centennial of birth'
+p491
+sa(dp492
+g2
+S'http://www.reuters.com/article/2013/01/06/korea-markets-factors-idUSL4N0AB0GX20130106'
+p493
+sg4
+S'20130106\xc2\xa05:51PM UTC'
+p494
+sg6
+S'S.Korea-Market Factors to watch on Jan 7'
+p495
+sa(dp496
+g2
+S'http://www.reuters.com/article/2013/01/06/us-nhl-sweden-lockout-idUSBRE9050DT20130106'
+p497
+sg4
+S'20130106\xc2\xa05:46PM UTC'
+p498
+sg6
+S"NHL: Capitals' Johansson runs out of gas as lockout ends"
+p499
+sa(dp500
+g2
+S'http://www.reuters.com/article/2013/01/06/markets-australia-stocks-idUSL4N0AB0G420130106'
+p501
+sg4
+S'20130106\xc2\xa05:41PM UTC'
+p502
+sg6
+S'Australia shares set to open higher'
+p503
+sa(dp504
+g2
+S'http://www.reuters.com/article/2013/01/06/china-markets-bshares-idUSL4E8J401L20130106'
+p505
+sg4
+S'20130106\xc2\xa05:32PM UTC'
+p506
+sg6
+S'Moribund China B-shares find escape hatch in Hong Kong relisting'
+p507
+sa(dp508
+g2
+S'http://www.reuters.com/article/2013/01/06/ca-storagevisionsawds-idUSnPnNY37613+160+PRN20130106'
+p509
+sg4
+S'20130106\xc2\xa05:30PM UTC'
+p510
+sg6
+S'2013 Storage Visions Conference Announces Storage Visions Award Winners'
+p511
+sa(dp512
+g2
+S'http://www.reuters.com/article/2013/01/06/us-russia-caucasus-idUSBRE9050DM20130106'
+p513
+sg4
+S'20130106\xc2\xa05:28PM UTC'
+p514
+sg6
+S'Russia kills militants suspected of Christmas attack plan'
+p515
+sa(dp516
+g2
+S'http://www.reuters.com/article/2013/01/06/us-nhl-deal-idUSBRE90507E20130106'
+p517
+sg4
+S'20130106\xc2\xa05:21PM UTC'
+p518
+sg6
+S'NHL: League, players reach deal to end lockout'
+p519
+sa(dp520
+g2
+S'http://www.reuters.com/article/2013/01/06/syria-crisis-idUSL5E9C60Q420130106'
+p521
+sg4
+S'20130106\xc2\xa05:03PM UTC'
+p522
+sg6
+S'UPDATE 3-Assad "peace plan" greeted with scorn by foes'
+p523
+sa(dp524
+g2
+S'http://www.reuters.com/article/2013/01/06/idUSnCCN8nT0Sa+1ca+MKW20130106'
+p525
+sg4
+S'20130106\xc2\xa05:01PM UTC'
+p526
+sg6
+S'Ivanhoe Australia Announces New Managing Director and CEO'
+p527
+sa(dp528
+g2
+S'http://www.reuters.com/article/2013/01/06/ma-alnylam-pharma-idUSnBw9PCrJRa+136+BSW20130106'
+p529
+sg4
+S'20130106\xc2\xa05:00PM UTC'
+p530
+sg6
+S'Alnylam Provides Key 2013 - 2014 Goals for RNAi Therapeutics Pipeline'
+p531
+sa(dp532
+g2
+S'http://www.reuters.com/article/2013/01/06/idUSnMKW1351a+e0+MKW20130106'
+p533
+sg4
+S'20130106\xc2\xa05:00PM UTC'
+p534
+sg6
+S'Harper Government Supports Job Creation with Investment in Community Infrastructure in Radium Hot Springs'
+p535
+sa(dp536
+g2
+S'http://www.reuters.com/article/2013/01/06/ca-vertex-pharma-idUSnBwbYcwF9a+124+BSW20130106'
+p537
+sg4
+S'20130106\xc2\xa05:00PM UTC'
+p538
+sg6
+S'Vertex Outlines Corporate Strategy and Defines Key 2013 Business Priorities'
+p539
+sa(dp540
+g2
+S'http://www.reuters.com/article/2013/01/06/us-obama-defense-hagel-idUSBRE90507Q20130106'
+p541
+sg4
+S'20130106\xc2\xa04:54PM UTC'
+p542
+sg6
+S'Obama to nominate Hagel for defense secretary: Democratic aide'
+p543
+sa(dp544
+g2
+S'http://www.reuters.com/article/2013/01/06/russia-caucasus-idUSL5E9C62HE20130106'
+p545
+sg4
+S'20130106\xc2\xa04:53PM UTC'
+p546
+sg6
+S'Russia kills militants suspected of Christmas attack plan'
+p547
+sa(dp548
+g2
+S'http://www.reuters.com/article/2013/01/06/obama-defense-hagel-idUSL1E9C608Y20130106'
+p549
+sg4
+S'20130106\xc2\xa04:51PM UTC'
+p550
+sg6
+S'UPDATE 3-Obama to nominate Hagel for defense secretary-Democratic aide'
+p551
+sa(dp552
+g2
+S'http://www.reuters.com/article/2013/01/06/us-usa-hbo-idUSBRE9050BO20130106'
+p553
+sg4
+S'20130106\xc2\xa04:40PM UTC'
+p554
+sg6
+S'HBO extends Universal deal, keeping films from Netflix'
+p555
+sa(dp556
+g2
+S'http://www.reuters.com/article/2013/01/06/usa-defense-hagel-idUSL1E9C61L620130106'
+p557
+sg4
+S'20130106\xc2\xa04:39PM UTC'
+p558
+sg6
+S'REFILE-Republican maverick Hagel forged bond with Obama over Iraq'
+p559
+sa(dp560
+g2
+S'http://www.reuters.com/article/2013/01/06/usa-guns-whitehouse-idUSL1E9C60ET20130106'
+p561
+sg4
+S'20130106\xc2\xa04:39PM UTC'
+p562
+sg6
+S'UPDATE 2-White House considers broader U.S. gun control - report'
+p563
+sa(dp564
+g2
+S'http://www.reuters.com/article/2013/01/06/usa-hbo-idUSL1E9C61IU20130106'
+p565
+sg4
+S'20130106\xc2\xa04:35PM UTC'
+p566
+sg6
+S'UPDATE 1-HBO extends Universal deal, keeping films from Netflix'
+p567
+sa(dp568
+g2
+S'http://www.reuters.com/article/2013/01/06/us-arnoldschwarzenegger-idUSBRE9050D620130106'
+p569
+sg4
+S'20130106\xc2\xa04:34PM UTC'
+p570
+sg6
+S"Schwarzenegger is back, and Hollywood hopes he's still a star"
+p571
+sa(dp572
+g2
+S'http://www.reuters.com/article/2013/01/06/us-arnoldschwarzenegger-violence-idUSBRE9050DD20130106'
+p573
+sg4
+S'20130106\xc2\xa04:34PM UTC'
+p574
+sg6
+S'Schwarzenegger says film violence not linked to school shooting'
+p575
+sa(dp576
+g2
+S'http://www.reuters.com/article/2013/01/06/people-arnoldschwarzenegger-idUSL1E9C2AQL20130106'
+p577
+sg4
+S'20130106\xc2\xa04:23PM UTC'
+p578
+sg6
+S"Schwarzenegger is back, and Hollywood hopes he's still a star"
+p579
+sa(dp580
+g2
+S'http://www.reuters.com/article/2013/01/06/us-nhl-deal-reaction-idUSBRE9050D220130106'
+p581
+sg4
+S'20130106\xc2\xa04:20PM UTC'
+p582
+sg6
+S'Players and owners brace for fan backlash as lockout ends'
+p583
+sa(dp584
+g2
+S'http://www.reuters.com/article/2013/01/06/us-russia-patriarch-idUSBRE90508G20130106'
+p585
+sg4
+S'20130106\xc2\xa04:19PM UTC'
+p586
+sg6
+S'Russian patriarch says religion law must not go too far'
+p587
+sa(dp588
+g2
+S'http://www.reuters.com/article/2013/01/06/us-phablets-idUSBRE9050CS20130106'
+p589
+sg4
+S'20130106\xc2\xa04:19PM UTC'
+p590
+sg6
+S'Handset makers scurry to join Year of the Phablet'
+p591
+sa(dp592
+g2
+S'http://www.reuters.com/article/2013/01/06/us-phablets-factbox-idUSBRE9050CZ20130106'
+p593
+sg4
+S'20130106\xc2\xa04:19PM UTC'
+p594
+sg6
+S'Factbox: Key companies in the phablet space'
+p595
+sa(dp596
+g2
+S'http://www.reuters.com/article/2013/01/06/us-china-labour-interns-idUSBRE9050CV20130106'
+p597
+sg4
+S'20130106\xc2\xa04:17PM UTC'
+p598
+sg6
+S'Use of student interns highlights China labor shortage'
+p599
+sa(dp600
+g2
+S'http://www.reuters.com/article/2013/01/06/ca-rentrak-box-office-idUSnPnLA37520+160+PRN20130106'
+p601
+sg4
+S'20130106\xc2\xa04:09PM UTC'
+p602
+sg6
+S'Rentrak Announces Worldwide Box Office Results For Weekend Of January 6, 2013'
+p603
+sa(dp604
+g2
+S'http://www.reuters.com/article/2013/01/06/idUS51385571620130106'
+p605
+sg4
+S'20130106\xc2\xa04:07PM UTC'
+p606
+sg6
+S'Everyday government pork'
+p607
+sa(dp608
+g2
+S'http://www.reuters.com/article/2013/01/06/us-myanmar-kachin-idUSBRE9050CH20130106'
+p609
+sg4
+S'20130106\xc2\xa04:04PM UTC'
+p610
+sg6
+S"Analysis: Air assaults raise doubts about Myanmar's reformist rulers"
+p611
+sa(dp612
+g2
+S'http://www.reuters.com/article/2013/01/06/russia-patriarch-idUSL5E9C62AJ20130106'
+p613
+sg4
+S'20130106\xc2\xa04:03PM UTC'
+p614
+sg6
+S'UPDATE 2-Russian patriarch says religion law must not go too far'
+p615
+sa(dp616
+g2
+S'http://www.reuters.com/article/2013/01/06/china-labour-interns-idUSL4N09U28T20130106'
+p617
+sg4
+S'20130106\xc2\xa04:00PM UTC'
+p618
+sg6
+S'Use of student interns highlights China labour shortage'
+p619
+sa(dp620
+g2
+S'http://www.reuters.com/article/2013/01/06/tech-phablets-idUSL4N0A82L220130106'
+p621
+sg4
+S'20130106\xc2\xa04:00PM UTC'
+p622
+sg6
+S'Handset makers scurry to join Year of the Phablet'
+p623
+sa(dp624
+g2
+S'http://www.reuters.com/article/2013/01/06/funds-commodities-cftc-idUSL1E9C4C9520130106'
+p625
+sg4
+S'20130106\xc2\xa03:59PM UTC'
+p626
+sg6
+S"RPT-Hedge funds' commodity bets see little change in value over year"
+p627
+sa(dp628
+g2
+S'http://www.reuters.com/article/2013/01/06/us-syria-crisis-usa-idUSBRE9050CD20130106'
+p629
+sg4
+S'20130106\xc2\xa03:57PM UTC'
+p630
+sg6
+S'U.S. dismisses Assad speech, says he must step aside to allow transition'
+p631
+sa(dp632
+g2
+S'http://www.reuters.com/article/2013/01/06/syria-crisis-usa-idUSL1E9C61AK20130106'
+p633
+sg4
+S'20130106\xc2\xa03:57PM UTC'
+p634
+sg6
+S'US dismisses Assad speech, says he must step aside to allow transition'
+p635
+sa(dp636
+g2
+S'http://www.reuters.com/article/2013/01/06/us-panasonic-toughbook-idUSBRE9050C720130106'
+p637
+sg4
+S'20130106\xc2\xa03:56PM UTC'
+p638
+sg6
+S'Riches in niches: U.S. cops, in-flight movies may be model for Panasonic survival'
+p639
+sa(dp640
+g2
+S'http://www.reuters.com/article/2013/01/06/us-economy-global-weekahead-idUSBRE9050AJ20130106'
+p641
+sg4
+S'20130106\xc2\xa03:52PM UTC'
+p642
+sg6
+S'Global economy: U.S. and China leave feeble Europe in their wake'
+p643
+sa(dp644
+g2
+S'http://www.reuters.com/article/2013/01/06/us-banks-regulation-liquidity-idUSBRE9050A420130106'
+p645
+sg4
+S'20130106\xc2\xa03:51PM UTC'
+p646
+sg6
+S'Regulators ease key bank rule to spur credit'
+p647
+sa(dp648
+g2
+S'http://www.reuters.com/article/2013/01/06/us-banks-regulation-idUSBRE9050C320130106'
+p649
+sg4
+S'20130106\xc2\xa03:51PM UTC'
+p650
+sg6
+S'Factbox: Regulators ease liquidity rule for banks'
+p651
+sa(dp652
+g2
+S'http://www.reuters.com/article/2013/01/06/panasonic-toughbook-idUSL4N0A80QI20130106'
+p653
+sg4
+S'20130106\xc2\xa03:49PM UTC'
+p654
+sg6
+S'Riches in niches: U.S. cops, in-flight movies may be model for Panasonic survival'
+p655
+sa(dp656
+g2
+S'http://www.reuters.com/article/2013/01/06/us-kuwait-politics-idUSBRE9050B420130106'
+p657
+sg4
+S'20130106\xc2\xa03:24PM UTC'
+p658
+sg6
+S'Kuwaiti forces disperse protesters with stun grenades'
+p659
+sa(dp660
+g2
+S'http://www.reuters.com/article/2013/01/06/newzealand-press-idUSL4N0AB0CU20130106'
+p661
+sg4
+S'20130106\xc2\xa03:23PM UTC'
+p662
+sg6
+S'PRESS DIGEST-New Zealand newspapers - Jan 7'
+p663
+sa(dp664
+g2
+S'http://www.reuters.com/article/2013/01/06/us-usa-defense-hagel-idUSBRE9050B320130106'
+p665
+sg4
+S'20130106\xc2\xa03:23PM UTC'
+p666
+sg6
+S'Newsmaker: Republican maverick Hagel forged bond with Obama over Iraq'
+p667
+sa(dp668
+g2
+S'http://www.reuters.com/article/2013/01/06/idUS158003112120130106'
+p669
+sg4
+S'20130106\xc2\xa03:18PM UTC'
+p670
+sg6
+S'Investment banks: Gatekeepers no more as crowdfunding changes the game'
+p671
+sa(dp672
+g2
+S'http://www.reuters.com/article/2013/01/06/usa-hbo-idUSL1E9C614720130106'
+p673
+sg4
+S'20130106\xc2\xa03:07PM UTC'
+p674
+sg6
+S'HBO extends Universal studio deal, keeping films from Netflix'
+p675
+sa(dp676
+g2
+S'http://www.reuters.com/article/2013/01/06/us-alaska-ship-towing-idUSBRE9050BC20130106'
+p677
+sg4
+S'20130106\xc2\xa03:04PM UTC'
+p678
+sg6
+S'Weather disrupts Shell efforts to free Alaska oil rig'
+p679
+sa(dp680
+g2
+S'http://www.reuters.com/article/2013/01/06/alaska-ship-towing-idUSL1E9C614420130106'
+p681
+sg4
+S'20130106\xc2\xa03:01PM UTC'
+p682
+sg6
+S'Weather disrupts Shell efforts to free Alaska oil rig'
+p683
+sa(dp684
+g2
+S'http://www.reuters.com/article/2013/01/06/ca-abot-renegotiated-idUSnPnLA37653+160+PRN20130106'
+p685
+sg4
+S'20130106\xc2\xa03:00PM UTC'
+p686
+sg6
+S'ABOT Mining Renegotiates and Reduces its Exploration Expenditure Commitments on Aztlan 8B from $450,000 to $100,000'
+p687
+sa(dp688
+g2
+S'http://www.reuters.com/article/2013/01/06/idUSnMKW1350a+e0+MKW20130106'
+p689
+sg4
+S'20130106\xc2\xa03:00PM UTC'
+p690
+sg6
+S"Harper Government Invests in Improvements to Windermere's Community Infrastructure"
+p691
+sa(dp692
+g2
+S'http://www.reuters.com/article/2013/01/06/idUSnHUG1ckCRa+1c6+ONE20130106'
+p693
+sg4
+S'20130106\xc2\xa02:41PM UTC'
+p694
+sg6
+S'Maxwell Resources Inc.: Clarifies that it has not approved or endorsed certain articles.'
+p695
+sa(dp696
+g2
+S'http://www.reuters.com/article/2013/01/06/banks-regulation-liquidity-idUSL5E9C61TH20130106'
+p697
+sg4
+S'20130106\xc2\xa02:35PM UTC'
+p698
+sg6
+S'UPDATE 2-Regulators ease key bank rule to spur credit'
+p699
+sa(dp700
+g2
+S'http://www.reuters.com/article/2013/01/06/entertainment-us-britain-charts-idUSBRE9050AX20130106'
+p701
+sg4
+S'20130106\xc2\xa02:35PM UTC'
+p702
+sg6
+S'Calvin Harris returns to top of British album chart'
+p703
+sa(dp704
+g2
+S'http://www.reuters.com/article/2013/01/06/egypt-government-idUSL1E9C614R20130106'
+p705
+sg4
+S'20130106\xc2\xa02:30PM UTC'
+p706
+sg6
+S'Egypt strengthens Islamist role in cabinet, eyes IMF deal'
+p707
+sa(dp708
+g2
+S'http://www.reuters.com/article/2013/01/06/us-france-jobs-idUSBRE9050AS20130106'
+p709
+sg4
+S'20130106\xc2\xa02:28PM UTC'
+p710
+sg6
+S'France to reallocate 2 billion euros for job creation'
+p711
+sa(dp712
+g2
+S'http://www.reuters.com/article/2013/01/06/france-jobs-idUSL5E9C61XD20130106'
+p713
+sg4
+S'20130106\xc2\xa02:25PM UTC'
+p714
+sg6
+S'UPDATE 1-France to reallocate 2 bln euros for job creation'
+p715
+sa(dp716
+g2
+S'http://www.reuters.com/article/2013/01/06/france-china-yuan-idUSL5E9C626720130106'
+p717
+sg4
+S'20130106\xc2\xa02:22PM UTC'
+p718
+sg6
+S"France's Moscovici to discuss exchange rates on China visit"
+p719
+sa(dp720
+g2
+S'http://www.reuters.com/article/2013/01/06/idUSnMKW71239a+1c0+MKW20130106'
+p721
+sg4
+S'20130106\xc2\xa02:14PM UTC'
+p722
+sg6
+S'Galapagos to present at the 31st annual J. P. Morgan Healthcare Conference'
+p723
+sa(dp724
+g2
+S'http://www.reuters.com/article/2013/01/06/us-usa-fiscal-idUSBRE8A80WV20130106'
+p725
+sg4
+S'20130106\xc2\xa02:13PM UTC'
+p726
+sg6
+S'Republican Sen. McConnell rules out more taxes in U.S. fiscal fight'
+p727
+sa(dp728
+g2
+S'http://www.reuters.com/article/2013/01/06/usa-fiscal-idUSL1E9C608B20130106'
+p729
+sg4
+S'20130106\xc2\xa02:12PM UTC'
+p730
+sg6
+S'UPDATE 3-Republican Sen. McConnell rules out more taxes in US fiscal fight'
+p731
+sa(dp732
+g2
+S'http://www.reuters.com/article/2013/01/06/idUSnHUGm1vqfa+1c0+ONE20130106'
+p733
+sg4
+S'20130106\xc2\xa02:04PM UTC'
+p734
+sg6
+S'Galapagos to present at the 31st annual J. P. Morgan Healthcare Conference'
+p735
+sa(dp736
+g2
+S'http://www.reuters.com/article/2013/01/06/dri-20years-investing-idUSnPnNY37602+160+PRN20130106'
+p737
+sg4
+S'20130106\xc2\xa02:00PM UTC'
+p738
+sg6
+S'DRI Capital Celebrates 20 Years of Healthcare Royalty Investing'
+p739
+sa(dp740
+g2
+S'http://www.reuters.com/article/2013/01/06/idUSnMKW1349a+e0+MKW20130106'
+p741
+sg4
+S'20130106\xc2\xa02:00PM UTC'
+p742
+sg6
+S'Media Advisory/Interview Opportunity-Canadian Housing Outlook for 2013: BMO Hosts Conference Call'
+p743
+sa(dp744
+g2
+S'http://www.reuters.com/article/2013/01/06/economy-global-weekahead-idUSL5E9C46O420130106'
+p745
+sg4
+S'20130106\xc2\xa02:00PM UTC'
+p746
+sg6
+S'GLOBAL ECONOMY-U.S. and China leave feeble Europe in their wake'
+p747
+sa(dp748
+g2
+S'http://www.reuters.com/article/2013/01/06/safecode-drug-invest-idUSnPnCL37634+160+PRN20130106'
+p749
+sg4
+S'20130106\xc2\xa01:53PM UTC'
+p750
+sg6
+S'SafeCode Drug Technologies Receives Investment From Biomedix Ltd.'
+p751
+sa(dp752
+g2
+S'http://www.reuters.com/article/2013/01/06/boxoffice-chart-idUSL1E9C602W20130106'
+p753
+sg4
+S'20130106\xc2\xa01:50PM UTC'
+p754
+sg6
+S'The top films at the North American box office'
+p755
+sa(dp756
+g2
+S'http://www.reuters.com/article/2013/01/06/ca-displaylink-idUSnBw3rXVNYa+11e+BSW20130106'
+p757
+sg4
+S'20130106\xc2\xa01:49PM UTC'
+p758
+sg6
+S'DisplayLink Demonstrates New USB Power Delivery Charging PC Notebooks While Simultaneously Delivering USB Graphics, Video, Ethernet, and Audio Connectivity over a Single USB Cable'
+p759
+sa(dp760
+g2
+S'http://www.reuters.com/article/2013/01/06/us-egypt-government-idUSBRE90509220130106'
+p761
+sg4
+S'20130106\xc2\xa01:44PM UTC'
+p762
+sg6
+S'Egypt strengthens Islamist role in cabinet, eyes IMF deal'
+p763
+sa(dp764
+g2
+S'http://www.reuters.com/article/2013/01/06/us-citigroup-corbat-idUSBRE9050AE20130106'
+p765
+sg4
+S'20130106\xc2\xa01:36PM UTC'
+p766
+sg6
+S"Citi's Corbat builds bridges with regulators"
+p767
+sa(dp768
+g2
+S'http://www.reuters.com/article/2013/01/06/citigroup-corbat-idUSL1E8NE29620130106'
+p769
+sg4
+S'20130106\xc2\xa01:35PM UTC'
+p770
+sg6
+S"Citi's Corbat builds bridges with regulators"
+p771
+sa(dp772
+g2
+S'http://www.reuters.com/article/2013/01/06/usa-fiscal-wealthy-idUSL1E9C60FU20130106'
+p773
+sg4
+S'20130106\xc2\xa01:28PM UTC'
+p774
+sg6
+S'RPT-Wealthy may defer income, curb some spending after US cliff deal'
+p775
+sa(dp776
+g2
+S'http://www.reuters.com/article/2013/01/06/us-egypt-reserves-idUSBRE9050A620130106'
+p777
+sg4
+S'20130106\xc2\xa01:22PM UTC'
+p778
+sg6
+S'Egypt reserves steady, despite "critical" warning'
+p779
+sa(dp780
+g2
+S'http://www.reuters.com/article/2013/01/06/nv-smart-tv-alliance-idUSnBw59KT46a+118+BSW20130106'
+p781
+sg4
+S'20130106\xc2\xa01:21PM UTC'
+p782
+sg6
+S'Panasonic, ABOX42, IBM, Specific Media and TechniSat Expand `Build Once, Run Everywhere` Smart TV Alliance Ecosystem'
+p783
+sa(dp784
+g2
+S'http://www.reuters.com/article/2013/01/06/canada-column-markets-idUSL1E9C60FS20130106'
+p785
+sg4
+S'20130106\xc2\xa01:19PM UTC'
+p786
+sg6
+S'BAY STREET: Lower costs could bring shine to major gold miners'
+p787
+sa(dp788
+g2
+S'http://www.reuters.com/article/2013/01/06/us-germany-politics-fdp-idUSBRE9050A020130106'
+p789
+sg4
+S'20130106\xc2\xa01:14PM UTC'
+p790
+sg6
+S"Infighting mars rally for Merkel's FDP partners before state vote"
+p791
+sa(dp792
+g2
+S'http://www.reuters.com/article/2013/01/06/germany-politics-fdp-idUSL5E9C61Q020130106'
+p793
+sg4
+S'20130106\xc2\xa01:09PM UTC'
+p794
+sg6
+S"Infighting mars rally for Merkel's FDP partners before state vote"
+p795
+sa(dp796
+g2
+S'http://www.reuters.com/article/2013/01/06/idUS231169549520130106'
+p797
+sg4
+S'20130106\xc2\xa01:02PM UTC'
+p798
+sg6
+S'French government escalates row with Catholics over gay marriage plan'
+p799
+sa(dp800
+g2
+S'http://www.reuters.com/article/2013/01/06/us-egypt-government-hegazy-idUSBRE90509X20130106'
+p801
+sg4
+S'20130106\xc2\xa01:00PM UTC'
+p802
+sg6
+S"Factbox: Egypt's finance minister is expert on Islamic economics"
+p803
+sa(dp804
+g2
+S'http://www.reuters.com/article/2013/01/06/us-israel-election-netanyahu-idUSBRE90505620130106'
+p805
+sg4
+S'20130106\xc2\xa012:51PM UTC'
+p806
+sg6
+S'Netanyahu tries to hold back far-right surge before Israel votes'
+p807
+sa(dp808
+g2
+S'http://www.reuters.com/article/2013/01/06/us-israel-military-report-idUSBRE90509P20130106'
+p809
+sg4
+S'20130106\xc2\xa012:51PM UTC'
+p810
+sg6
+S"Watchdog slams smears and loathing among Israel's top brass"
+p811
+sa(dp812
+g2
+S'http://www.reuters.com/article/2013/01/06/russia-patriarch-idUSL5E9C61Q420130106'
+p813
+sg4
+S'20130106\xc2\xa012:50PM UTC'
+p814
+sg6
+S'UPDATE 1-Russian patriarch says religion law must not go too far'
+p815
+sa(dp816
+g2
+S'http://www.reuters.com/article/2013/01/06/us-libya-interior-police-idUSBRE90509F20130106'
+p817
+sg4
+S'20130106\xc2\xa012:42PM UTC'
+p818
+sg6
+S'Thousands of Libyan gunmen sign up for police training'
+p819
+sa(dp820
+g2
+S'http://www.reuters.com/article/2013/01/06/mi-fuse-accessories-idUSnBw33KjJka+114+BSW20130106'
+p821
+sg4
+S'20130106\xc2\xa012:39PM UTC'
+p822
+sg6
+S'fuse accessories to Exhibit at 2013 International CES, booth 3910, Jan 8 - 11, 2013, in Las Vegas NV, US'
+p823
+sa(dp824
+g2
+S'http://www.reuters.com/article/2013/01/06/egypt-tbills-idUSL5E9C61TB20130106'
+p825
+sg4
+S'20130106\xc2\xa012:37PM UTC'
+p826
+sg6
+S'Egypt T-bill yields climb on currency, IMF concerns'
+p827
+sa(dp828
+g2
+S'http://www.reuters.com/article/2013/01/06/entertainment-us-boxoffice-idUSBRE8BM08U20130106'
+p829
+sg4
+S'20130106\xc2\xa012:35PM UTC'
+p830
+sg6
+S'Bloody return of "Texas Chainsaw" tops North American box office'
+p831
+sa(dp832
+g2
+S'http://www.reuters.com/article/2013/01/06/boxoffice-idUSL1E9C524220130106'
+p833
+sg4
+S'20130106\xc2\xa012:35PM UTC'
+p834
+sg6
+S"UPDATE 1-'Texas Chainsaw' movie kills rivals at North America box office"
+p835
+sa(dp836
+g2
+S'http://www.reuters.com/article/2013/01/06/us-italy-vote-idUSBRE90503Y20130106'
+p837
+sg4
+S'20130106\xc2\xa012:32PM UTC'
+p838
+sg6
+S"Italy's Monti says change property tax as polls improve"
+p839
+sa(dp840
+g2
+S'http://www.reuters.com/article/2013/01/06/banks-regulation-liquidity-idUSL5E9C47EK20130106'
+p841
+sg4
+S'20130106\xc2\xa012:30PM UTC'
+p842
+sg6
+S'Regulators ease key bank rule to spur credit'
+p843
+sa(dp844
+g2
+S'http://www.reuters.com/article/2013/01/06/il-fellowship-donated-idUSnPnCG37652+160+PRN20130106'
+p845
+sg4
+S'20130106\xc2\xa012:30PM UTC'
+p846
+sg6
+S'Soft Sheen Property Donated to Historic Chicago Church'
+p847
+sa(dp848
+g2
+S'http://www.reuters.com/article/2013/01/06/net-us-google-antitrust-impact-idUSBRE90509920130106'
+p849
+sg4
+S'20130106\xc2\xa012:29PM UTC'
+p850
+sg6
+S'Google pact with FTC could affect other patent disputes'
+p851
+sa(dp852
+g2
+S'http://www.reuters.com/article/2013/01/06/google-antitrust-impact-idUSL1E9C470020130106'
+p853
+sg4
+S'20130106\xc2\xa012:27PM UTC'
+p854
+sg6
+S'Google pact with FTC could affect other patent disputes'
+p855
+sa(dp856
+g2
+S'http://www.reuters.com/article/2013/01/06/boxoffice-idUSL1E9C601320130106'
+p857
+sg4
+S'20130106\xc2\xa012:27PM UTC'
+p858
+sg6
+S"Bloody return of 'Texas Chainsaw' tops North American box office"
+p859
+sa(dp860
+g2
+S'http://www.reuters.com/article/2013/01/06/ca-aas-annual-meeting-idUSnPnDC37646+160+PRN20130106'
+p861
+sg4
+S'20130106\xc2\xa012:19PM UTC'
+p862
+sg6
+S'Scientists Gather in Long Beach for "Super Bowl of Astronomy"'
+p863
+sa(dp864
+g2
+S'http://www.reuters.com/article/2013/01/06/russia-patriarch-idUSL5E9C60O920130106'
+p865
+sg4
+S'20130106\xc2\xa012:16PM UTC'
+p866
+sg6
+S"REFILE-Russia's Church urges Kremlin restraint in new religious law"
+p867
+sa(dp868
+g2
+S'http://www.reuters.com/article/2013/01/06/emirates-banks-property-idUSL5E9C61C820130106'
+p869
+sg4
+S'20130106\xc2\xa012:09PM UTC'
+p870
+sg6
+S'UAE banks to ask c.bank to soften mortgage rules'
+p871
+sa(dp872
+g2
+S'http://www.reuters.com/article/2013/01/06/us-france-catholic-samesex-idUSBRE90509620130106'
+p873
+sg4
+S'20130106\xc2\xa012:09PM UTC'
+p874
+sg6
+S"France's Hollande escalates row with Catholics over gay marriage"
+p875
+sa(dp876
+g2
+S'http://www.reuters.com/article/2013/01/06/idUS89274132420130106'
+p877
+sg4
+S'20130106\xc2\xa011:58AM UTC'
+p878
+sg6
+S'Russian Orthodox urge Kremlin restraint in new law punishing religious offences'
+p879
+sa(dp880
+g2
+S'http://www.reuters.com/article/2013/01/06/egypt-government-idUSL5E9C60JW20130106'
+p881
+sg4
+S'20130106\xc2\xa011:57AM UTC'
+p882
+sg6
+S'Egypt strengthens Islamist role in cabinet, eyes IMF deal'
+p883
+sa(dp884
+g2
+S'http://www.reuters.com/article/2013/01/06/usa-stocks-weekahead-rep-idUSL1E9C4CCB20130106'
+p885
+sg4
+S'20130106\xc2\xa011:53AM UTC'
+p886
+sg6
+S"RPT-Wall St Week Ahead: 'Cliff' concerns give way to earnings focus"
+p887
+sa(dp888
+g2
+S'http://www.reuters.com/article/2013/01/06/us-kuwait-court-activist-idUSBRE90508W20130106'
+p889
+sg4
+S'20130106\xc2\xa011:41AM UTC'
+p890
+sg6
+S'Kuwaiti gets two years for insulting emir on Twitter'
+p891
+sa(dp892
+g2
+S'http://www.reuters.com/article/2013/01/06/kuwait-court-activist-idUSL5E9C61LF20130106'
+p893
+sg4
+S'20130106\xc2\xa011:35AM UTC'
+p894
+sg6
+S'Kuwaiti gets 2 years for insulting emir on Twitter'
+p895
+sa(dp896
+g2
+S'http://www.reuters.com/article/2013/01/06/us-usa-fiscal-medicare-reform-idUSBRE90508I20130106'
+p897
+sg4
+S'20130106\xc2\xa011:14AM UTC'
+p898
+sg6
+S'Analysis: Obama may turn Medicare reform into wider health debate'
+p899
+sa(dp900
+g2
+S'http://www.reuters.com/article/2013/01/06/ca-dacor-idUSnBw4QHy5Ka+132+BSW20130106'
+p901
+sg4
+S'20130106\xc2\xa011:00AM UTC'
+p902
+sg6
+S'Dacor to Exhibit at CES Unveiled 2013, Table 29, Jan 6, 2013, in Las Vegas, NV, US'
+p903
+sa(dp904
+g2
+S'http://www.reuters.com/article/2013/01/06/us-nhl-labour-timeline-idUSBRE90508F20130106'
+p905
+sg4
+S'20130106\xc2\xa010:58AM UTC'
+p906
+sg6
+S'Timeline: Key moments in the NHL lockout'
+p907
+sa(dp908
+g2
+S'http://www.reuters.com/article/2013/01/06/usa-guns-whitehouse-idUSL1E9C608Z20130106'
+p909
+sg4
+S'20130106\xc2\xa010:42AM UTC'
+p910
+sg6
+S'White House mulls broader U.S. gun control - Post'
+p911
+sa(dp912
+g2
+S'http://www.reuters.com/article/2013/01/06/us-angloamerican-ceo-idUSBRE90506J20130106'
+p913
+sg4
+S'20130106\xc2\xa010:32AM UTC'
+p914
+sg6
+S"Anglo close to naming AngloGold's Cutifani as CEO"
+p915
+sa(dp916
+g2
+S'http://www.reuters.com/article/2013/01/06/canada-column-markets-idUSL1E9C226R20130106'
+p917
+sg4
+S'20130106\xc2\xa010:29AM UTC'
+p918
+sg6
+S'BAY STREET-Lower costs could bring shine to major gold miners'
+p919
+sa(dp920
+g2
+S'http://www.reuters.com/article/2013/01/06/idUS152948917920130106'
+p921
+sg4
+S'20130106\xc2\xa010:27AM UTC'
+p922
+sg6
+S'Pope says Catholic Church must stand firm against \xe2\x80\x9cintolerant agnosticism\xe2\x80\x9d'
+p923
+sa(dp924
+g2
+S'http://www.reuters.com/article/2013/01/06/swisslife-awd-idUSL5E9C61EU20130106'
+p925
+sg4
+S'20130106\xc2\xa010:23AM UTC'
+p926
+sg6
+S'Swiss Life unit AWD misses 2012 profit targets -magazine'
+p927
+sa(dp928
+g2
+S'http://www.reuters.com/article/2013/01/06/us-libya-parliament-attack-idUSBRE90507U20130106'
+p929
+sg4
+S'20130106\xc2\xa010:11AM UTC'
+p930
+sg6
+S"Head of Libya's parliament survives assassination attempt"
+p931
+sa(dp932
+g2
+S'http://www.reuters.com/article/2013/01/06/obama-defense-hagel-idUSL1E9C608E20130106'
+p933
+sg4
+S'20130106\xc2\xa010:01AM UTC'
+p934
+sg6
+S'Obama to name former Sen. Hagel for defense secretary-Democratic aide'
+p935
+sa(dp936
+g2
+S'http://www.reuters.com/article/2013/01/06/idUSnGNXUWXBJa+1fe+GNW20130106'
+p937
+sg4
+S'20130106\xc2\xa010:00AM UTC'
+p938
+sg6
+S'Royal Oak Veterinarian Promotes Breakthrough Screening Test for Cancer in Dogs'
+p939
+sa(dp940
+g2
+S'http://www.reuters.com/article/2013/01/06/idUSnGNXUWXBGa+1fe+GNW20130106'
+p941
+sg4
+S'20130106\xc2\xa010:00AM UTC'
+p942
+sg6
+S'Quincy Veterinarian Helps Take the Stress Out of Vet Visits'
+p943
+sa(dp944
+g2
+S'http://www.reuters.com/article/2013/01/06/idUSnGNXUWXAQa+1fe+GNW20130106'
+p945
+sg4
+S'20130106\xc2\xa010:00AM UTC'
+p946
+sg6
+S'Microchipping Increases Chances of Lost Pets Finding Their Way Home'
+p947
+sa(dp948
+g2
+S'http://www.reuters.com/article/2013/01/06/idUSnMKW71202a+1c0+MKW20130106'
+p949
+sg4
+S'20130106\xc2\xa010:00AM UTC'
+p950
+sg6
+S'W2O Group Launches BrewLife Agency to Meet Branding, Corporate and Marketing Communications Needs of Entrepreneurs and Start-Ups'
+p951
+sa(dp952
+g2
+S'http://www.reuters.com/article/2013/01/06/idUSnMKW71197a+1c0+MKW20130106'
+p953
+sg4
+S'20130106\xc2\xa010:00AM UTC'
+p954
+sg6
+S'Fourth Annual Startup Debut at CES(R) Presents Wide Range of Innovative Companies in 3D, Mobile, Music'
+p955
+sa(dp956
+g2
+S'http://www.reuters.com/article/2013/01/06/us-tennis-chennai-idUSBRE90507N20130106'
+p957
+sg4
+S'20130106\xc2\xa09:58AM UTC'
+p958
+sg6
+S'Relieved Tipsarevic finally wins Chennai title'
+p959
+sa(dp960
+g2
+S'http://www.reuters.com/article/2013/01/06/us-southsudan-media-idUSBRE90507J20130106'
+p961
+sg4
+S'20130106\xc2\xa09:54AM UTC'
+p962
+sg6
+S'South Sudan holds journalists for failing to cover president speech'
+p963
+sa(dp964
+g2
+S'http://www.reuters.com/article/2013/01/06/southsudan-media-idUSL5E9C61DG20130106'
+p965
+sg4
+S'20130106\xc2\xa09:53AM UTC'
+p966
+sg6
+S'S.Sudan holds journalists for failing to cover president speech'
+p967
+sa(dp968
+g2
+S'http://www.reuters.com/article/2013/01/06/us-safrica-mandela-idUSBRE90506520130106'
+p969
+sg4
+S'20130106\xc2\xa09:42AM UTC'
+p970
+sg6
+S'Mandela recovers from surgery, lung infection: official'
+p971
+sa(dp972
+g2
+S'http://www.reuters.com/article/2013/01/06/us-nhl-labor-factbox-idUSBRE90507I20130106'
+p973
+sg4
+S'20130106\xc2\xa09:41AM UTC'
+p974
+sg6
+S'Factbox: Work stoppages in the National Hockey League'
+p975
+sa(dp976
+g2
+S'http://www.reuters.com/article/2013/01/06/us-mali-crisis-france-idUSBRE90507C20130106'
+p977
+sg4
+S'20130106\xc2\xa09:39AM UTC'
+p978
+sg6
+S'Mali crisis paving way for militant attacks on France: judge'
+p979
+sa(dp980
+g2
+S'http://www.reuters.com/article/2013/01/06/gsw-realestate-idUSL5E9C61EB20130106'
+p981
+sg4
+S'20130106\xc2\xa09:34AM UTC'
+p982
+sg6
+S'GSW meets 2012 targets, may tap markets to buy real estate-paper'
+p983
+sa(dp984
+g2
+S'http://www.reuters.com/article/2013/01/06/mali-crisis-france-idUSL5E9C616X20130106'
+p985
+sg4
+S'20130106\xc2\xa09:25AM UTC'
+p986
+sg6
+S'Mali crisis paving way for militant attacks on France -judge'
+p987
+sa(dp988
+g2
+S'http://www.reuters.com/article/2013/01/06/safrica-mandela-idUSL5E9C617020130106'
+p989
+sg4
+S'20130106\xc2\xa09:24AM UTC'
+p990
+sg6
+S'UPDATE 2-Mandela recovers from surgery, lung infection-official'
+p991
+sa(dp992
+g2
+S'http://www.reuters.com/article/2013/01/06/us-pakistan-india-attack-idUSBRE90501J20130106'
+p993
+sg4
+S'20130106\xc2\xa09:22AM UTC'
+p994
+sg6
+S'India army kills Pakistan soldier in Kashmir: Pakistan army'
+p995
+sa(dp996
+g2
+S'http://www.reuters.com/article/2013/01/06/usa-fiscal-idUSL1E9C607V20130106'
+p997
+sg4
+S'20130106\xc2\xa09:17AM UTC'
+p998
+sg6
+S'Republican Sen. McConnell rules out more taxes in US fiscal fight'
+p999
+sa(dp1000
+g2
+S'http://www.reuters.com/article/2013/01/06/us-syria-crisis-speech-idUSBRE90507220130106'
+p1001
+sg4
+S'20130106\xc2\xa09:13AM UTC'
+p1002
+sg6
+S"Excerpts from Syrian President Assad's speech"
+p1003
+sa(dp1004
+g2
+S'http://www.reuters.com/article/2013/01/06/iran-oil-investment-idUSL5E9C60X720130106'
+p1005
+sg4
+S'20130106\xc2\xa09:13AM UTC'
+p1006
+sg6
+S'Iran still spending to defend its key OPEC role -oil min'
+p1007
+sa(dp1008
+g2
+S'http://www.reuters.com/article/2013/01/06/syria-crisis-speech-idUSL5E9C614K20130106'
+p1009
+sg4
+S'20130106\xc2\xa09:09AM UTC'
+p1010
+sg6
+S"Excerpts from Syrian President Assad's speech"
+p1011
+sa(dp1012
+g2
+S'http://www.reuters.com/article/2013/01/06/malawi-imf-idUSL5E9C60SG20130106'
+p1013
+sg4
+S'20130106\xc2\xa09:06AM UTC'
+p1014
+sg6
+S'IMF cuts Malawi 2013 growth forecast on inflation, drought'
+p1015
+sa(dp1016
+g2
+S'http://www.reuters.com/article/2013/01/06/us-eritrea-telecoms-idUSBRE90506X20130106'
+p1017
+sg4
+S'20130106\xc2\xa09:04AM UTC'
+p1018
+sg6
+S'Eritrea offers stake in state telco, but not to foreigners'
+p1019
+sa(dp1020
+g2
+S'http://www.reuters.com/article/2013/01/06/us-pakistan-drones-idUSBRE90502820130106'
+p1021
+sg4
+S'20130106\xc2\xa09:03AM UTC'
+p1022
+sg6
+S'U.S. drone attack kills 10 in Pakistan: intelligence sources'
+p1023
+sa(dp1024
+g2
+S'http://www.reuters.com/article/2013/01/06/eritrea-telecoms-idUSL5E9C619W20130106'
+p1025
+sg4
+S'20130106\xc2\xa09:02AM UTC'
+p1026
+sg6
+S'Eritrea offers stake in state telco, but not to foreigners'
+p1027
+sa(dp1028
+g2
+S'http://www.reuters.com/article/2013/01/06/co-dish-network-idUSnBwbVLXmHa+13a+BSW20130106'
+p1029
+sg4
+S'20130106\xc2\xa09:00AM UTC'
+p1030
+sg6
+S'DISH Explorer Second-Screen App Enhances TV Viewing Experience on iPad'
+p1031
+sa(dp1032
+g2
+S'http://www.reuters.com/article/2013/01/06/ga-appuous-idUSnBw9fgbzMa+102+BSW20130106'
+p1033
+sg4
+S'20130106\xc2\xa09:00AM UTC'
+p1034
+sg6
+S'`Keycard` from Appuous, an innovative way to secure your Mac, now available on the Mac App Store'
+p1035
+sa(dp1036
+g2
+S'http://www.reuters.com/article/2013/01/06/ca-toshiba-storage-idUSnBw5dXXkLa+11a+BSW20130106'
+p1037
+sg4
+S'20130106\xc2\xa09:00AM UTC'
+p1038
+sg6
+S'Toshiba Announces Cryptographic-Erase and Self-Encryption Features for New Enterprise SSD and Mobile HDD Models'
+p1039
+sa(dp1040
+g2
+S'http://www.reuters.com/article/2013/01/06/us-usa-shooting-colorado-idUSBRE90408W20130106'
+p1041
+sg4
+S'20130106\xc2\xa08:56AM UTC'
+p1042
+sg6
+S'Four dead in townhouse shooting in Aurora, Colorado'
+p1043
+sa(dp1044
+g2
+S'http://www.reuters.com/article/2013/01/06/us-tennis-davis-india-boycott-idUSBRE90506P20130106'
+p1045
+sg4
+S'20130106\xc2\xa08:54AM UTC'
+p1046
+sg6
+S'Indian body accepts most of Davis Cup demands'
+p1047
+sa(dp1048
+g2
+S'http://www.reuters.com/article/2013/01/06/us-egypt-economy-imf-pm-idUSBRE90506L20130106'
+p1049
+sg4
+S'20130106\xc2\xa08:44AM UTC'
+p1050
+sg6
+S'Egypt says to reassure IMF on economy, government plans'
+p1051
+sa(dp1052
+g2
+S'http://www.reuters.com/article/2013/01/06/us-afghanistan-bombing-idUSBRE90503I20130106'
+p1053
+sg4
+S'20130106\xc2\xa08:36AM UTC'
+p1054
+sg6
+S'Double suicide attack kills four in Afghan south'
+p1055
+sa(dp1056
+g2
+S'http://www.reuters.com/article/2013/01/06/us-syria-crisis-turkey-aid-idUSBRE90506I20130106'
+p1057
+sg4
+S'20130106\xc2\xa08:32AM UTC'
+p1058
+sg6
+S'Turkey says United Nations must stop Assad blocking aid'
+p1059
+sa(dp1060
+g2
+S'http://www.reuters.com/article/2013/01/06/syria-crisis-turkey-aid-idUSL5E9C618A20130106'
+p1061
+sg4
+S'20130106\xc2\xa08:31AM UTC'
+p1062
+sg6
+S'Turkey says United Nations must stop Assad blocking aid'
+p1063
+sa(dp1064
+g2
+S'http://www.reuters.com/article/2013/01/06/idUSnMKW1348a+e0+MKW20130106'
+p1065
+sg4
+S'20130106\xc2\xa08:30AM UTC'
+p1066
+sg6
+S'New Job Alerts System Launched to Help Canadians Looking for Work'
+p1067
+sa(dp1068
+g2
+S'http://www.reuters.com/article/2013/01/06/idUSnCCNyK9KTa+1d6+MKW20130106'
+p1069
+sg4
+S'20130106\xc2\xa08:30AM UTC'
+p1070
+sg6
+S'New Job Alerts System Launched to Help Canadians Looking for Work'
+p1071
+sa(dp1072
+g2
+S'http://www.reuters.com/article/2013/01/06/us-syria-crisis-turkey-idUSBRE90506C20130106'
+p1073
+sg4
+S'20130106\xc2\xa08:19AM UTC'
+p1074
+sg6
+S'Turkish foreign minister says Assad repeating empty promises'
+p1075
+sa(dp1076
+g2
+S'http://www.reuters.com/article/2013/01/06/syria-crisis-turkey-idUSL5E9C615B20130106'
+p1077
+sg4
+S'20130106\xc2\xa08:15AM UTC'
+p1078
+sg6
+S'Turkish foreign minister says Assad repeating empty promises'
+p1079
+sa(dp1080
+g2
+S'http://www.reuters.com/article/2013/01/06/belkin-idUSnBw7Nvyfwa+120+BSW20130106'
+p1081
+sg4
+S'20130106\xc2\xa08:15AM UTC'
+p1082
+sg6
+S'Belkin Expands WeMo Family with New Product and Platform Updates at the 2013 International CES'
+p1083
+sa(dp1084
+g2
+S'http://www.reuters.com/article/2013/01/06/safrica-mandela-idUSL5E9C615I20130106'
+p1085
+sg4
+S'20130106\xc2\xa08:12AM UTC'
+p1086
+sg6
+S"S. Africa says Mandela 'recovered' from surgery, lung infection"
+p1087
+sa(dp1088
+g2
+S'http://www.reuters.com/article/2013/01/06/us-air-france-alitalia-idUSBRE90503L20130106'
+p1089
+sg4
+S'20130106\xc2\xa08:11AM UTC'
+p1090
+sg6
+S'Air France-KLM in advanced talks for Alitalia: report'
+p1091
+sa(dp1092
+g2
+S'http://www.reuters.com/article/2013/01/06/air-france-alitalia-idUSL5E9C60ZX20130106'
+p1093
+sg4
+S'20130106\xc2\xa08:10AM UTC'
+p1094
+sg6
+S'UPDATE 1-Air France-KLM in advanced talks for Alitalia -report'
+p1095
+sa(dp1096
+g2
+S'http://www.reuters.com/article/2013/01/06/nv-amtel-awarded-ces-idUSnPnSF37577+160+PRN20130106'
+p1097
+sg4
+S'20130106\xc2\xa08:00AM UTC'
+p1098
+sg6
+S'Atmel Wins 2013 CES Innovations Award for XSense Flexible Touch Sensor'
+p1099
+sa(dp1100
+g2
+S'http://www.reuters.com/article/2013/01/06/nv-atmel-announced-idUSnPnSF37548+160+PRN20130106'
+p1101
+sg4
+S'20130106\xc2\xa08:00AM UTC'
+p1102
+sg6
+S'Atmel Showcases Next-Generation Touchscreens at 2013 CES'
+p1103
+sa(dp1104
+g2
+S'http://www.reuters.com/article/2013/01/06/idUSnMKW70918a+1c0+MKW20130106'
+p1105
+sg4
+S'20130106\xc2\xa08:00AM UTC'
+p1106
+sg6
+S"REMINDER: Media Alert: 2013 International CES: Cisco Press Conference and 'Future of TV' Customer Panel to Be Webcast Live"
+p1107
+sa(dp1108
+g2
+S'http://www.reuters.com/article/2013/01/06/belkin-idUSnBw2BCh79a+130+BSW20130106'
+p1109
+sg4
+S'20130106\xc2\xa08:00AM UTC'
+p1110
+sg6
+S'Bring your Content to Life with Belkin`s Thunderstorm Handheld Home Theater'
+p1111
+sa(dp1112
+g2
+S'http://www.reuters.com/article/2013/01/06/us-egypt-economy-imf-idUSBRE90502O20130106'
+p1113
+sg4
+S'20130106\xc2\xa07:57AM UTC'
+p1114
+sg6
+S'Egypt strengthens Islamist role in cabinet, eyes IMF deal'
+p1115
+sa(dp1116
+g2
+S'http://www.reuters.com/article/2013/01/06/us-volkswagen-usedcar-idUSBRE90505X20130106'
+p1117
+sg4
+S'20130106\xc2\xa07:46AM UTC'
+p1118
+sg6
+S'Volkswagen to push used car sales in Germany: paper'
+p1119
+sa(dp1120
+g2
+S'http://www.reuters.com/article/2013/01/06/volkswagen-usedcar-idUSL5E9C614920130106'
+p1121
+sg4
+S'20130106\xc2\xa07:44AM UTC'
+p1122
+sg6
+S'Volkswagen to push used car sales in Germany -paper'
+p1123
+sa(dp1124
+g2
+S'http://www.reuters.com/article/2013/01/06/pressdigest-britain-idUSL5E9C482E20130106'
+p1125
+sg4
+S'20130106\xc2\xa07:43AM UTC'
+p1126
+sg6
+S'PRESS DIGEST - Sunday British Business - Jan 6'
+p1127
+sa(dp1128
+g2
+S'http://www.reuters.com/article/2013/01/06/us-india-rape-idUSBRE90500B20130106'
+p1129
+sg4
+S'20130106\xc2\xa07:40AM UTC'
+p1130
+sg6
+S"Indian rape victim's father says he wants her named"
+p1131
+sa(dp1132
+g2
+S'http://www.reuters.com/article/2013/01/06/india-rape-idUSL5E9C601820130106'
+p1133
+sg4
+S'20130106\xc2\xa07:37AM UTC'
+p1134
+sg6
+S"UPDATE 3-Indian rape victim's father says he wants her named"
+p1135
+sa(dp1136
+g2
+S'http://www.reuters.com/article/2013/01/06/us-britain-cameron-ratings-idUSBRE90505R20130106'
+p1137
+sg4
+S'20130106\xc2\xa07:36AM UTC'
+p1138
+sg6
+S"UK's Cameron plays down status of top credit rating"
+p1139
+sa(dp1140
+g2
+S'http://www.reuters.com/article/2013/01/06/us-turkey-kurds-idUSBRE90505N20130106'
+p1141
+sg4
+S'20130106\xc2\xa07:35AM UTC'
+p1142
+sg6
+S"Turkey's Erdogan rules out amnesty for Kurdish militants"
+p1143
+sa(dp1144
+g2
+S'http://www.reuters.com/article/2013/01/06/britain-cameron-ratings-idUSL5E9C60XA20130106'
+p1145
+sg4
+S'20130106\xc2\xa07:35AM UTC'
+p1146
+sg6
+S"UK's Cameron plays down status of top credit rating"
+p1147
+sa(dp1148
+g2
+S'http://www.reuters.com/article/2013/01/06/us-pope-idUSBRE90505L20130106'
+p1149
+sg4
+S'20130106\xc2\xa07:33AM UTC'
+p1150
+sg6
+S'Pope says Church must stand firm against "intolerant agnosticism"'
+p1151
+sa(dp1152
+g2
+S'http://www.reuters.com/article/2013/01/06/us-germanregulator-bankerpay-idUSBRE90505J20130106'
+p1153
+sg4
+S'20130106\xc2\xa07:30AM UTC'
+p1154
+sg6
+S'German bank regulator to probe pay awards at German banks: paper'
+p1155
+sa(dp1156
+g2
+S'http://www.reuters.com/article/2013/01/06/ma-amag-pharmaceuticals-idUSnBw55tlTRa+106+BSW20130106'
+p1157
+sg4
+S'20130106\xc2\xa07:30AM UTC'
+p1158
+sg6
+S'AMAG Pharmaceuticals Provides Business Update  Announces Preliminary 2012 Financial Results and 2013 Financial Guidance'
+p1159
+sa(dp1160
+g2
+S'http://www.reuters.com/article/2013/01/06/us-swiss-banks-tax-idUSBRE90505H20130106'
+p1161
+sg4
+S'20130106\xc2\xa07:29AM UTC'
+p1162
+sg6
+S'DOJ pledges to respect Swiss law in tax probe: paper'
+p1163
+sa(dp1164
+g2
+S'http://www.reuters.com/article/2013/01/06/bankofireland-ceo-idUSL5E9C60ZB20130106'
+p1165
+sg4
+S'20130106\xc2\xa07:27AM UTC'
+p1166
+sg6
+S'Bank of Ireland CEO sees early mortgage arrears flattening'
+p1167
+sa(dp1168
+g2
+S'http://www.reuters.com/article/2013/01/06/swiss-banks-tax-idUSL5E9C60ZS20130106'
+p1169
+sg4
+S'20130106\xc2\xa07:23AM UTC'
+p1170
+sg6
+S'RPT-U.S. DOJ pledges to respect Swiss law in tax probe -paper'
+p1171
+sa(dp1172
+g2
+S'http://www.reuters.com/article/2013/01/06/swiss-banks-tax-idUSL5E9C60XH20130106'
+p1173
+sg4
+S'20130106\xc2\xa07:22AM UTC'
+p1174
+sg6
+S'U.S. DOJ pledges to respect Swiss law in tax probe -paper'
+p1175
+sa(dp1176
+g2
+S'http://www.reuters.com/article/2013/01/06/germanregulator-bankerpay-idUSL5E9C60YL20130106'
+p1177
+sg4
+S'20130106\xc2\xa07:20AM UTC'
+p1178
+sg6
+S'German bank regulator to probe pay awards at German banks -paper'
+p1179
+sa(dp1180
+g2
+S'http://www.reuters.com/article/2013/01/06/us-syria-crisis-assad-idUSBRE90503C20130106'
+p1181
+sg4
+S'20130106\xc2\xa07:15AM UTC'
+p1182
+sg6
+S'Defiant Assad summons Syrians for "war to defend nation"'
+p1183
+sa(dp1184
+g2
+S'http://www.reuters.com/article/2013/01/06/us-syria-crisis-eu-idUSBRE90505520130106'
+p1185
+sg4
+S'20130106\xc2\xa07:15AM UTC'
+p1186
+sg6
+S"EU says Syria's Assad must quit to allow political transition"
+p1187
+sa(dp1188
+g2
+S'http://www.reuters.com/article/2013/01/06/syria-crisis-eu-idUSL5E9C60YO20130106'
+p1189
+sg4
+S'20130106\xc2\xa07:14AM UTC'
+p1190
+sg6
+S"EU says Syria's Assad must quit to allow political transition"
+p1191
+sa(dp1192
+g2
+S'http://www.reuters.com/article/2013/01/06/us-syria-crisis-britain-idUSBRE90504X20130106'
+p1193
+sg4
+S'20130106\xc2\xa07:08AM UTC'
+p1194
+sg6
+S'Britain\'s Hague says Assad\'s speech "beyond hypocritical"'
+p1195
+sa(dp1196
+g2
+S'http://www.reuters.com/article/2013/01/06/us-syria-crisis-opposition-idUSBRE90504Q20130106'
+p1197
+sg4
+S'20130106\xc2\xa06:57AM UTC'
+p1198
+sg6
+S"Assad's speech aimed at foiling diplomatic solution: opposition"
+p1199
+sa(dp1200
+g2
+S'http://www.reuters.com/article/2013/01/06/syria-crisis-opposition-idUSL5E9C60X420130106'
+p1201
+sg4
+S'20130106\xc2\xa06:55AM UTC'
+p1202
+sg6
+S"Assad's speech aimed at foiling diplomatic solution - opposition"
+p1203
+sa(dp1204
+g2
+S'http://www.reuters.com/article/2013/01/06/france-jobs-idUSL5E9C60UL20130106'
+p1205
+sg4
+S'20130106\xc2\xa06:53AM UTC'
+p1206
+sg6
+S'France to reallocate 2 bln euros for job creation'
+p1207
+sa(dp1208
+g2
+S'http://www.reuters.com/article/2013/01/06/us-nigeria-violence-idUSBRE90504G20130106'
+p1209
+sg4
+S'20130106\xc2\xa06:42AM UTC'
+p1210
+sg6
+S'Gunmen kill 10 in remote northwest Nigeria: police'
+p1211
+sa(dp1212
+g2
+S'http://www.reuters.com/article/2013/01/06/us-australia-wildfires-idUSBRE90502U20130106'
+p1213
+sg4
+S'20130106\xc2\xa06:40AM UTC'
+p1214
+sg6
+S'Tasmania fires rage on as police search burned homes'
+p1215
+sa(dp1216
+g2
+S'http://www.reuters.com/article/2013/01/06/us-italy-plane-missoni-idUSBRE90404Z20130106'
+p1217
+sg4
+S'20130106\xc2\xa06:39AM UTC'
+p1218
+sg6
+S"Venezuela searches for fashion boss Missoni's plane"
+p1219
+sa(dp1220
+g2
+S'http://www.reuters.com/article/2013/01/06/us-venezuela-chavez-idUSBRE90401U20130106'
+p1221
+sg4
+S'20130106\xc2\xa06:39AM UTC'
+p1222
+sg6
+S'Venezuela lawmakers elect Chavez ally as Assembly chief'
+p1223
+sa(dp1224
+g2
+S'http://www.reuters.com/article/2013/01/06/us-indianoil-idUSBRE90503P20130106'
+p1225
+sg4
+S'20130106\xc2\xa06:39AM UTC'
+p1226
+sg6
+S'Two dead at Indian Oil Corp terminal fire'
+p1227
+sa(dp1228
+g2
+S'http://www.reuters.com/article/2013/01/06/fmcs-nhl-statement-idUSnPnDC37635+160+PRN20130106'
+p1229
+sg4
+S'20130106\xc2\xa06:38AM UTC'
+p1230
+sg6
+S'Statement by FMCS Director George H. Cohen On NHL-NHLPA Labor Negotiations'
+p1231
+sa(dp1232
+g2
+S'http://www.reuters.com/article/2013/01/06/ca-ceva-ionroad-idUSnPnSF37571+160+PRN20130106'
+p1233
+sg4
+S'20130106\xc2\xa06:00AM UTC'
+p1234
+sg6
+S'CEVA Partners with iOnRoad to Deliver Personal Driving Assistance Technology with CEVA-MM3101 Platform'
+p1235
+sa(dp1236
+g2
+S'http://www.reuters.com/article/2013/01/06/syria-crisis-assad-dialogue-idUSL5E9C60QA20130106'
+p1237
+sg4
+S'20130106\xc2\xa05:46AM UTC'
+p1238
+sg6
+S'Syria\'s Assad rejects dialogue with "puppet" opposition'
+p1239
+sa(dp1240
+g2
+S'http://www.reuters.com/article/2013/01/06/air-france-alitalia-idUSL5E9C60GD20130106'
+p1241
+sg4
+S'20130106\xc2\xa05:40AM UTC'
+p1242
+sg6
+S'Air France-KLM in "advanced" talks to buy Alitalia -report'
+p1243
+sa(dp1244
+g2
+S'http://www.reuters.com/article/2013/01/06/maindustries-bonds-idUSL5E9C60P820130106'
+p1245
+sg4
+S'20130106\xc2\xa05:40AM UTC'
+p1246
+sg6
+S"Israel's MA Industries raises $179 mln in bond offering"
+p1247
+sa(dp1248
+g2
+S'http://www.reuters.com/article/2013/01/06/us-iran-blogger-death-idUSBRE90503E20130106'
+p1249
+sg4
+S'20130106\xc2\xa05:38AM UTC'
+p1250
+sg6
+S"Iranian parliament calls for inquiry over blogger's death"
+p1251
+sa(dp1252
+g2
+S'http://www.reuters.com/article/2013/01/06/egypt-currency-result-idUSL5E9C60P720130106'
+p1253
+sg4
+S'20130106\xc2\xa05:34AM UTC'
+p1254
+sg6
+S'Egypt pound falls half a percent at Sunday FX auction'
+p1255
+sa(dp1256
+g2
+S'http://www.reuters.com/article/2013/01/06/syria-crisis-assad-idUSL5E9C60OF20130106'
+p1257
+sg4
+S'20130106\xc2\xa05:24AM UTC'
+p1258
+sg6
+S"Syria's Assad calls for mobilisation in first speech for months"
+p1259
+sa(dp1260
+g2
+S'http://www.reuters.com/article/2013/01/06/lg-investment-idUSL4N0AB09520130106'
+p1261
+sg4
+S'20130106\xc2\xa05:17AM UTC'
+p1262
+sg6
+S"S. Korea's LG Group announces record investment plan for 2013"
+p1263
+sa(dp1264
+g2
+S'http://www.reuters.com/article/2013/01/06/us-roche-illumina-idUSBRE90503320130106'
+p1265
+sg4
+S'20130106\xc2\xa05:16AM UTC'
+p1266
+sg6
+S'Roche chairman says Illumina bid off the table: paper'
+p1267
+sa(dp1268
+g2
+S'http://www.reuters.com/article/2013/01/06/turkey-energy-idUSL5E9C51C820130106'
+p1269
+sg4
+S'20130106\xc2\xa05:05AM UTC'
+p1270
+sg6
+S'CORRECTED-UPDATE 1-Turkey to talk to Qatar about LNG plant as demand booms'
+p1271
+sa(dp1272
+g2
+S'http://www.reuters.com/article/2013/01/06/idUSnPrel9d5Sa+102+PRN20130106'
+p1273
+sg4
+S'20130106\xc2\xa04:30AM UTC'
+p1274
+sg6
+S'Cruise and Stay in 2013'
+p1275
+sa(dp1276
+g2
+S'http://www.reuters.com/article/2013/01/06/soccer-africa-safrica-fixing-idUSL5E9C609O20130106'
+p1277
+sg4
+S'20130106\xc2\xa04:27AM UTC'
+p1278
+sg6
+S'Soccer-S.Africa reinstates officials suspended in fix scandal'
+p1279
+sa(dp1280
+g2
+S'http://www.reuters.com/article/2013/01/06/egypt-economy-imf-idUSL5E9C60DS20130106'
+p1281
+sg4
+S'20130106\xc2\xa04:23AM UTC'
+p1282
+sg6
+S'Egypt ready to complete IMF talks - new finance minister'
+p1283
+sa(dp1284
+g2
+S'http://www.reuters.com/article/2013/01/06/us-tennis-brisbane-idUSBRE90502M20130106'
+p1285
+sg4
+S'20130106\xc2\xa04:06AM UTC'
+p1286
+sg6
+S'Emotional Murray battles to Brisbane victory'
+p1287
+sa(dp1288
+g2
+S'http://www.reuters.com/article/2013/01/06/us-tennis-australia-warmups-idUSBRE90502G20130106'
+p1289
+sg4
+S'20130106\xc2\xa03:42AM UTC'
+p1290
+sg6
+S'Kvitova thrashed in final Australian Open warmup'
+p1291
+sa(dp1292
+g2
+S'http://www.reuters.com/article/2013/01/06/us-iran-agri-exports-idUSBRE90502C20130106'
+p1293
+sg4
+S'20130106\xc2\xa03:27AM UTC'
+p1294
+sg6
+S'Despite sanctions, Iran says agricultural exports booming'
+p1295
+sa(dp1296
+g2
+S'http://www.reuters.com/article/2013/01/06/iran-agri-exports-idUSL5E9C60AX20130106'
+p1297
+sg4
+S'20130106\xc2\xa03:26AM UTC'
+p1298
+sg6
+S'Despite sanctions, Iran says agricultural exports booming'
+p1299
+sa(dp1300
+g2
+S'http://www.reuters.com/article/2013/01/06/idUS349215945320130106'
+p1301
+sg4
+S'20130106\xc2\xa02:18AM UTC'
+p1302
+sg6
+S'This 42-inch TV uses less electricity than a lightbulb'
+p1303
+sa(dp1304
+g2
+S'http://www.reuters.com/article/2013/01/06/us-iraq-protests-idUSBRE90501X20130106'
+p1305
+sg4
+S'20130106\xc2\xa02:01AM UTC'
+p1306
+sg6
+S"Islamists pursue own agenda in Iraq's Sunni protests"
+p1307
+sa(dp1308
+g2
+S'http://www.reuters.com/article/2013/01/06/idUSnMKW70954a+1c0+MKW20130106'
+p1309
+sg4
+S'20130106\xc2\xa02:00AM UTC'
+p1310
+sg6
+S'EndoChoice Expands Product Line With Revolutionary Endoscope Through Merger With Peer Medical'
+p1311
+sa(dp1312
+g2
+S'http://www.reuters.com/article/2013/01/06/iraq-protests-idUSL5E9C49XN20130106'
+p1313
+sg4
+S'20130106\xc2\xa02:00AM UTC'
+p1314
+sg6
+S"Islamists pursue own agenda in Iraq's Sunni protests"
+p1315
+sa(dp1316
+g2
+S'http://www.reuters.com/article/2013/01/06/czech-economy-recession-idUSL5E9C379S20130106'
+p1317
+sg4
+S'20130106\xc2\xa02:00AM UTC'
+p1318
+sg6
+S'CEE MONEY-Austere rhetoric may play role in Czech downturn'
+p1319
+sa(dp1320
+g2
+S'http://www.reuters.com/article/2013/01/06/usa-fiscal-wealthy-idUSL1E9C4C5Z20130106'
+p1321
+sg4
+S'20130106\xc2\xa01:59AM UTC'
+p1322
+sg6
+S'RPT-Wealthy may defer income, curb some spending after US cliff deal'
+p1323
+sa(dp1324
+g2
+S'http://www.reuters.com/article/2013/01/06/us-china-flu-idUSBRE90501T20130106'
+p1325
+sg4
+S'20130106\xc2\xa01:38AM UTC'
+p1326
+sg6
+S'Two Chinese women die from H1N1 flu in Beijing: state media'
+p1327
+sa(dp1328
+g2
+S'http://www.reuters.com/article/2013/01/06/china-flu-idUSL4N0AB06F20130106'
+p1329
+sg4
+S'20130106\xc2\xa01:37AM UTC'
+p1330
+sg6
+S'Two Chinese women die from H1N1 flu in Beijing - state media'
+p1331
+sa(dp1332
+g2
+S'http://www.reuters.com/article/2013/01/06/bahrain-alba-idUSL5E8NU03B20130106'
+p1333
+sg4
+S'20130106\xc2\xa01:05AM UTC'
+p1334
+sg6
+S'CORRECTED-Bahrain Alba gets loans to pay off $169m bond maturing in 2013'
+p1335
+sa(dp1336
+g2
+S'http://www.reuters.com/article/2013/01/06/us-nfl-playoffs-packers-rodgers-idUSBRE90501P20130106'
+p1337
+sg4
+S'20130106\xc2\xa012:50AM UTC'
+p1338
+sg6
+S'Rodgers wants more from Packers offense'
+p1339
+sa(dp1340
+g2
+S'http://www.reuters.com/article/2013/01/06/us-ntpc-sharesale-idUSBRE90501N20130106'
+p1341
+sg4
+S'20130106\xc2\xa012:48AM UTC'
+p1342
+sg6
+S'India shortlists Goldman, five others for NTPC share sale: sources'
+p1343
+sa(dp1344
+g2
+S'http://www.reuters.com/article/2013/01/06/ntpc-sharesale-idUSL4N0A93XG20130106'
+p1345
+sg4
+S'20130106\xc2\xa012:47AM UTC'
+p1346
+sg6
+S'India shortlists Goldman, 5 others for NTPC share sale-sources'
+p1347
+sa(dp1348
+g2
+S'http://www.reuters.com/article/2013/01/06/us-nba-spurs-idUSBRE90501920130106'
+p1349
+sg4
+S'20130106\xc2\xa012:42AM UTC'
+p1350
+sg6
+S'Spurs smack Sixers to ride high in the West'
+p1351
+sa(dp1352
+g2
+S'http://www.reuters.com/article/2013/01/06/us-nfl-playoffs-packers-idUSBRE90501D20130106'
+p1353
+sg4
+S'20130106\xc2\xa012:21AM UTC'
+p1354
+sg6
+S'Packers trounce Vikings, set up clash with 49ers'
+p1355
+sa(dp1356
+g2
+S'http://www.reuters.com/article/2013/01/06/census-daily-feature-idUSnPnDC37268+160+PRN20130106'
+p1357
+sg4
+S'20130106\xc2\xa012:01AM UTC'
+p1358
+sg6
+S'U.S. Census Bureau Daily Feature for January 6'
+p1359
+sa(dp1360
+g2
+S'http://www.reuters.com/article/2013/01/06/nv-singleclick-at-ces-idUSnPnNY37603+160+PRN20130106'
+p1361
+sg4
+S'20130106\xc2\xa012:00AM UTC'
+p1362
+sg6
+S'SingleClick revolutionizes how you Access, Share, and Synchronize your files with the launch of ViveDrive'
+p1363
+sa(dp1364
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=53847592'
+p1365
+sg4
+S'20130106\xc2\xa011:28PM UTC'
+p1366
+sg6
+S'\xe3\x82\xaa\xe3\x83\xbc\xe3\x82\xb9\xe3\x83\x88\xe3\x83\xa9\xe3\x83\xaa\xe3\x82\xa2\xe3\x83\xbb\xe3\x82\xbf\xe3\x82\xb9\xe3\x83\x9e\xe3\x83\x8b\xe3\x82\xa2\xe5\xb3\xb6\xe3\x81\xa7\xe5\xa4\xa7\xe8\xa6\x8f\xe6\xa8\xa1\xe3\x81\xaa\xe5\xb1\xb1\xe7\x81\xab\xe4\xba\x8b\xef\xbc\x88\xe5\xad\x97\xe5\xb9\x95\xe3\x83\xbb6\xe6\x97\xa5\xef\xbc\x89'
+p1367
+sa(dp1368
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=53847042'
+p1369
+sg4
+S'20130106\xc2\xa010:09PM UTC'
+p1370
+sg6
+S'Mexican officials unearth drug tunnel'
+p1371
+sa(dp1372
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=53845594'
+p1373
+sg4
+S'20130106\xc2\xa09:26PM UTC'
+p1374
+sg6
+S'\xe3\x82\xb7\xe3\x83\xaa\xe3\x82\xa2\xe5\xa4\xa7\xe7\xb5\xb1\xe9\xa0\x98\xe3\x81\x8c\xe6\xbc\x94\xe8\xaa\xac\xe3\x80\x81\xe5\x8f\x8d\xe4\xbd\x93\xe5\x88\xb6\xe6\xb4\xbe\xe3\x81\xa8\xe3\x81\xae\xe5\xaf\xbe\xe8\xa9\xb1\xe3\x82\x92\xe6\x8b\x92\xe5\x90\xa6\xef\xbc\x88\xe5\xad\x97\xe5\xb9\x95\xe3\x83\xbb7\xe6\x97\xa5\xef\xbc\x89'
+p1375
+sa(dp1376
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=53846065'
+p1377
+sg4
+S'20130106\xc2\xa09:26PM UTC'
+p1378
+sg6
+S'Greek Orthodox parishioners attend mass'
+p1379
+sa(dp1380
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=53862157'
+p1381
+sg4
+S'20130106\xc2\xa07:53PM UTC'
+p1382
+sg6
+S'Netherlands sends Patriot missile units to Turkey'
+p1383
+sa(dp1384
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=53860761'
+p1385
+sg4
+S'20130106\xc2\xa07:53PM UTC'
+p1386
+sg6
+S'U.S. Morning Call: "Phablets" to shine at 2013 CES'
+p1387
+sa(dp1388
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=53860268'
+p1389
+sg4
+S'20130106\xc2\xa07:24PM UTC'
+p1390
+sg6
+S'Gazan worshippers celebrate Orthodox Christmas'
+p1391
+sa(dp1392
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=53859362'
+p1393
+sg4
+S'20130106\xc2\xa07:08PM UTC'
+p1394
+sg6
+S'Venezuela opposition warns of succession split'
+p1395
+sa(dp1396
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=53858519'
+p1397
+sg4
+S'20130106\xc2\xa07:00PM UTC'
+p1398
+sg6
+S'Market Pulse:  French, German banks get Basel break'
+p1399
+sa(dp1400
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=53844087'
+p1401
+sg4
+S'20130106\xc2\xa06:57PM UTC'
+p1402
+sg6
+S'Obama to nominate Hagel for defense secretary: Democratic aide'
+p1403
+sa(dp1404
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=53842316'
+p1405
+sg4
+S'20130106\xc2\xa05:34PM UTC'
+p1406
+sg6
+S'Syrians up in arms over Assad speech'
+p1407
+sa(dp1408
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=53841224'
+p1409
+sg4
+S'20130106\xc2\xa04:44PM UTC'
+p1410
+sg6
+S'Field, Mirren, Affleck honored at Palm Springs Film Fest'
+p1411
+sa(dp1412
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=53840478'
+p1413
+sg4
+S'20130106\xc2\xa04:18PM UTC'
+p1414
+sg6
+S'"Texas Chainsaw" buzzes box office'
+p1415
+sa(dp1416
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=53838512'
+p1417
+sg4
+S'20130106\xc2\xa02:14PM UTC'
+p1418
+sg6
+S'Depardieu shows off new Russian passport'
+p1419
+sa(dp1420
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=53838165'
+p1421
+sg4
+S'20130106\xc2\xa01:55PM UTC'
+p1422
+sg6
+S'Assad "peace plan" dismissed by Turkey, opposition'
+p1423
+sa(dp1424
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=53835912'
+p1425
+sg4
+S'20130106\xc2\xa011:55AM UTC'
+p1426
+sg6
+S'Refugees say peace out of the question following Assad speech'
+p1427
+sa(dp1428
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=53833480'
+p1429
+sg4
+S'20130106\xc2\xa011:00AM UTC'
+p1430
+sg6
+S'Assad mobbed at rally'
+p1431
+sa(dp1432
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=53832616'
+p1433
+sg4
+S'20130106\xc2\xa010:29AM UTC'
+p1434
+sg6
+S'Third night of violence in Belfast'
+p1435
+sa(dp1436
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=53832432'
+p1437
+sg4
+S'20130106\xc2\xa010:17AM UTC'
+p1438
+sg6
+S'Diving into the Bosphorus for the Epiphany'
+p1439
+sa(dp1440
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=53830982'
+p1441
+sg4
+S'20130106\xc2\xa09:36AM UTC'
+p1442
+sg6
+S'Tasmanian fires rage on'
+p1443
+sa(dp1444
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=53830207'
+p1445
+sg4
+S'20130106\xc2\xa08:42AM UTC'
+p1446
+sg6
+S'Voice activated smartphone developed for the blind'
+p1447
+sa(dp1448
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=53826437'
+p1449
+sg4
+S'20130106\xc2\xa05:48AM UTC'
+p1450
+sg6
+S'Putin gives Depardieu hug and passport'
+p1451
+sa(dp1452
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=53825630'
+p1453
+sg4
+S'20130106\xc2\xa04:26AM UTC'
+p1454
+sg6
+S'Aid for Tasmania fire families'
+p1455
+sa(dp1456
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=53825400'
+p1457
+sg4
+S'20130106\xc2\xa04:15AM UTC'
+p1458
+sg6
+S'India fuel plant fire rages'
+p1459
+sa(dp1460
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=53824141'
+p1461
+sg4
+S'20130106\xc2\xa012:43AM UTC'
+p1462
+sg6
+S'Fashion designer missing'
+p1463
+sa.

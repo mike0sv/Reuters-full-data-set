@@ -1,0 +1,2825 @@
+(lp0
+(dp1
+S'href'
+p2
+S'http://www.reuters.com/article/sportsNews/idUSTRE52L03K20090322'
+p3
+sS'ts'
+p4
+S'20090321\xc2\xa011:45 PM EDT'
+p5
+sS'title'
+p6
+S'Surging Hurricanes breeze past Capitals'
+p7
+sa(dp8
+g2
+S'http://www.reuters.com/article/pressRelease/idUS21026+22-Mar-2009+PRN20090322'
+p9
+sg4
+S'20090321\xc2\xa011:30 PM EDT'
+p10
+sg6
+S'Following Is a Test Release'
+p11
+sa(dp12
+g2
+S'http://www.reuters.com/article/pressRelease/idUS19513+22-Mar-2009+PRN20090322'
+p13
+sg4
+S'20090321\xc2\xa011:00 PM EDT'
+p14
+sg6
+S'Following Is a Test Release'
+p15
+sa(dp16
+g2
+S'http://www.reuters.com/article/ousivMolt/idUSTRE52L03920090322'
+p17
+sg4
+S'20090321\xc2\xa010:30 PM EDT'
+p18
+sg6
+S'Starbucks, Costco and Whole Foods team up on labor bill'
+p19
+sa(dp20
+g2
+S'http://www.reuters.com/article/pressRelease/idUS18019+22-Mar-2009+PRN20090322'
+p21
+sg4
+S'20090321\xc2\xa010:30 PM EDT'
+p22
+sg6
+S'Following Is a Test Release'
+p23
+sa(dp24
+g2
+S'http://www.reuters.com/article/companyNewsAndPR/idUSN2153580620090322'
+p25
+sg4
+S'20090321\xc2\xa010:12 PM EDT'
+p26
+sg6
+S'UPDATE 3-Chavez trims budget, adds debt to counter crisis'
+p27
+sa(dp28
+g2
+S'http://www.reuters.com/article/companyNews/idUSN2150750720090322'
+p29
+sg4
+S'20090321\xc2\xa010:02 PM EDT'
+p30
+sg6
+S'Starbucks/Costco/Whole Foods team up on labor bill'
+p31
+sa(dp32
+g2
+S'http://www.reuters.com/article/pressRelease/idUS16419+22-Mar-2009+PRN20090322'
+p33
+sg4
+S'20090321\xc2\xa010:00 PM EDT'
+p34
+sg6
+S'Following Is a Test Release'
+p35
+sa(dp36
+g2
+S'http://www.reuters.com/article/GCA-CreditCrisis/idUSTRE52K0H020090322'
+p37
+sg4
+S'20090321\xc2\xa009:43 PM EDT'
+p38
+sg6
+S'Unwinding toxic firms tops Obama financial reforms'
+p39
+sa(dp40
+g2
+S'http://www.reuters.com/article/privateEquity/idUSN2153479620090322'
+p41
+sg4
+S'20090321\xc2\xa009:42 PM EDT'
+p42
+sg6
+S'UPDATE 1-Unwinding toxic firms tops Obama financial reforms'
+p43
+sa(dp44
+g2
+S'http://www.reuters.com/article/pressRelease/idUS14865+22-Mar-2009+PRN20090322'
+p45
+sg4
+S'20090321\xc2\xa009:30 PM EDT'
+p46
+sg6
+S'Following Is a Test Release'
+p47
+sa(dp48
+g2
+S'http://www.reuters.com/article/reutersEdge/idUSTRE52L02A20090322'
+p49
+sg4
+S'20090321\xc2\xa009:29 PM EDT'
+p50
+sg6
+S'Indonesia resource nationalism stirs before polls'
+p51
+sa(dp52
+g2
+S'http://www.reuters.com/article/OILINT/idUSJAK42556820090322'
+p53
+sg4
+S'20090321\xc2\xa009:27 PM EDT'
+p54
+sg6
+S'FACTBOX-Indonesia resources sector and foreign involvement'
+p55
+sa(dp56
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSJAK425568'
+p57
+sg4
+S'20090321\xc2\xa009:27 PM EDT'
+p58
+sg6
+S'FACTBOX-Indonesia resources sector and foreign involvement'
+p59
+sa(dp60
+g2
+S'http://www.reuters.com/article/rbssAirlines/idUSN2151500520090322'
+p61
+sg4
+S'20090321\xc2\xa009:14 PM EDT'
+p62
+sg6
+S"Brazil's Gol Q4 loss jumps on weaker currency"
+p63
+sa(dp64
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSPEK156487'
+p65
+sg4
+S'20090321\xc2\xa009:10 PM EDT'
+p66
+sg6
+S'China government office attacked in Tibetan area'
+p67
+sa(dp68
+g2
+S'http://www.reuters.com/article/pressRelease/idUS13392+22-Mar-2009+BW20090322'
+p69
+sg4
+S'20090321\xc2\xa009:01 PM EDT'
+p70
+sg6
+S'Kaiser Permanente Discharges Two More Suleman Octuplets'
+p71
+sa(dp72
+g2
+S'http://www.reuters.com/article/pressRelease/idUS13349+22-Mar-2009+PRN20090322'
+p73
+sg4
+S'20090321\xc2\xa009:00 PM EDT'
+p74
+sg6
+S'Following Is a Test Release'
+p75
+sa(dp76
+g2
+S'http://www.reuters.com/article/companyNewsAndPR/idUSN2117333120090322'
+p77
+sg4
+S'20090321\xc2\xa008:55 PM EDT'
+p78
+sg6
+S'WRAPUP 2-Obama says would not accept Geithner resignation'
+p79
+sa(dp80
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSN21411483'
+p81
+sg4
+S'20090321\xc2\xa008:39 PM EDT'
+p82
+sg6
+S'Spacewalking astronauts tackle station maintenance'
+p83
+sa(dp84
+g2
+S'http://www.reuters.com/article/pressRelease/idUS11828+22-Mar-2009+PRN20090322'
+p85
+sg4
+S'20090321\xc2\xa008:30 PM EDT'
+p86
+sg6
+S'Following Is a Test Release'
+p87
+sa(dp88
+g2
+S'http://www.reuters.com/article/pressRelease/idUS10697+22-Mar-2009+PRN20090322'
+p89
+sg4
+S'20090321\xc2\xa008:11 PM EDT'
+p90
+sg6
+S'Workers United Union Is Formed'
+p91
+sa(dp92
+g2
+S'http://www.reuters.com/article/sportsNews/idUSTRE52K23X20090322'
+p93
+sg4
+S'20090321\xc2\xa008:07 PM EDT'
+p94
+sg6
+S'Klitschko retains WBC heavyweight title'
+p95
+sa(dp96
+g2
+S'http://www.reuters.com/article/companyNewsAndPR/idUSN2138027820090322'
+p97
+sg4
+S'20090321\xc2\xa008:06 PM EDT'
+p98
+sg6
+S'Venezuela announces 20 pct minimum wage hike'
+p99
+sa(dp100
+g2
+S'http://www.reuters.com/article/pressRelease/idUS10048+22-Mar-2009+BW20090322'
+p101
+sg4
+S'20090321\xc2\xa008:01 PM EDT'
+p102
+sg6
+S'Lance Armstrong to Continue LIVESTRONG Global Cancer Campaign at Pelotonia 09'
+p103
+sa(dp104
+g2
+S'http://www.reuters.com/article/pressRelease/idUS10009+22-Mar-2009+PRN20090322'
+p105
+sg4
+S'20090321\xc2\xa008:00 PM EDT'
+p106
+sg6
+S'Following Is a Test Release'
+p107
+sa(dp108
+g2
+S'http://www.reuters.com/article/companyNewsAndPR/idUSN2146164420090321'
+p109
+sg4
+S'20090321\xc2\xa007:51 PM EDT'
+p110
+sg6
+S"Venezuela ups '09 financing to $16 bln from $6 bln"
+p111
+sa(dp112
+g2
+S'http://www.reuters.com/article/newsMaps/idUSTRE52K25Y20090321'
+p113
+sg4
+S'20090321\xc2\xa007:49 PM EDT'
+p114
+sg6
+S'Venezuela Chavez announcing economic measures'
+p115
+sa(dp116
+g2
+S'http://www.reuters.com/article/sportsNews/idUSTRE52J6HZ20090321'
+p117
+sg4
+S'20090321\xc2\xa007:48 PM EDT'
+p118
+sg6
+S'Lehman turns back clock to take lead at Tampa'
+p119
+sa(dp120
+g2
+S'http://www.reuters.com/article/businessNews/idUSTRE52K25G20090321'
+p121
+sg4
+S'20090321\xc2\xa007:41 PM EDT'
+p122
+sg6
+S'Credit union victim of soured mortgage market'
+p123
+sa(dp124
+g2
+S'http://www.reuters.com/article/companyNewsAndPR/idUSN2153572120090321'
+p125
+sg4
+S'20090321\xc2\xa007:40 PM EDT'
+p126
+sg6
+S"Venezuela's Chavez increases sales tax to 12 pct"
+p127
+sa(dp128
+g2
+S'http://www.reuters.com/article/sportsNews/idUSTRE52K25720090321'
+p129
+sg4
+S'20090321\xc2\xa007:38 PM EDT'
+p130
+sg6
+S'Connecticut rolls into Round of 16 in NCAA Tournament'
+p131
+sa(dp132
+g2
+S'http://www.reuters.com/article/lifestyleMolt/idUSTRE52J3BV20090321'
+p133
+sg4
+S'20090321\xc2\xa007:32 PM EDT'
+p134
+sg6
+S"Pope's visit to Angola marred by stampede"
+p135
+sa(dp136
+g2
+S'http://www.reuters.com/article/pressRelease/idUS78261+21-Mar-2009+PRN20090321'
+p137
+sg4
+S'20090321\xc2\xa007:30 PM EDT'
+p138
+sg6
+S'Following Is a Test Release'
+p139
+sa(dp140
+g2
+S'http://www.reuters.com/article/sportsNews/idUSTRE52K23X20090321'
+p141
+sg4
+S'20090321\xc2\xa007:28 PM EDT'
+p142
+sg6
+S'Klitschko retains WBC heavyweight title'
+p143
+sa(dp144
+g2
+S'http://www.reuters.com/article/companyNewsAndPR/idUSN2153613620090321'
+p145
+sg4
+S'20090321\xc2\xa007:22 PM EDT'
+p146
+sg6
+S"Venezuela's Chavez says will not devalue currency"
+p147
+sa(dp148
+g2
+S'http://www.reuters.com/article/companyNewsAndPR/idUSN2153556720090321'
+p149
+sg4
+S'20090321\xc2\xa007:14 PM EDT'
+p150
+sg6
+S"Venezuela's Chavez cuts '09 budget by 6.7 pct"
+p151
+sa(dp152
+g2
+S'http://www.reuters.com/article/etfNews/idUSSNAPSHOT20090321'
+p153
+sg4
+S'20090321\xc2\xa007:06 PM EDT'
+p154
+sg6
+S'SNAPSHOT - Financial Crisis - 2305 GMT'
+p155
+sa(dp156
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSLL528376'
+p157
+sg4
+S'20090321\xc2\xa007:02 PM EDT'
+p158
+sg6
+S"Pope's visit to Angola marred by stampede"
+p159
+sa(dp160
+g2
+S'http://www.reuters.com/article/pressRelease/idUS76691+21-Mar-2009+PRN20090321'
+p161
+sg4
+S'20090321\xc2\xa007:00 PM EDT'
+p162
+sg6
+S'Following Is a Test Release'
+p163
+sa(dp164
+g2
+S'http://www.reuters.com/article/lifestyleMolt/idUSTRE52K1PN20090321'
+p165
+sg4
+S'20090321\xc2\xa006:47 PM EDT'
+p166
+sg6
+S'Two killed in stampede before papal event'
+p167
+sa(dp168
+g2
+S'http://www.reuters.com/article/americasRegulatoryNews/idUSN2153294720090321'
+p169
+sg4
+S'20090321\xc2\xa006:46 PM EDT'
+p170
+sg6
+S'U.S. credit union victim of soured mortgage market'
+p171
+sa(dp172
+g2
+S'http://www.reuters.com/article/pressRelease/idUS75027+21-Mar-2009+PRN20090321'
+p173
+sg4
+S'20090321\xc2\xa006:30 PM EDT'
+p174
+sg6
+S'Following Is a Test Release'
+p175
+sa(dp176
+g2
+S'http://www.reuters.com/article/domesticNews/idUSTRE52K23220090321'
+p177
+sg4
+S'20090321\xc2\xa006:28 PM EDT'
+p178
+sg6
+S'AIG protesters take Connecticut bus tour'
+p179
+sa(dp180
+g2
+S'http://www.reuters.com/article/usDollarRpt/idUSN2153580620090321'
+p181
+sg4
+S'20090321\xc2\xa006:24 PM EDT'
+p182
+sg6
+S'UPDATE 1-Venezuela Chavez announcing economic measures'
+p183
+sa(dp184
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSLL131347'
+p185
+sg4
+S'20090321\xc2\xa006:22 PM EDT'
+p186
+sg6
+S'Two killed in stampede before papal event'
+p187
+sa(dp188
+g2
+S'http://www.reuters.com/article/ousivMolt/idUSTRE52K19L20090321'
+p189
+sg4
+S'20090321\xc2\xa006:20 PM EDT'
+p190
+sg6
+S'AIG bonus payments $218 million'
+p191
+sa(dp192
+g2
+S'http://www.reuters.com/article/ousivMolt/idUSTRE52K22720090321'
+p193
+sg4
+S'20090321\xc2\xa006:20 PM EDT'
+p194
+sg6
+S'AIG protesters take Connecticut bus tour'
+p195
+sa(dp196
+g2
+S'http://www.reuters.com/article/newsMaps/idUSTRE52K1N820090321'
+p197
+sg4
+S'20090321\xc2\xa006:18 PM EDT'
+p198
+sg6
+S'Israel breaks up "Arab capital" events in Jerusalem'
+p199
+sa(dp200
+g2
+S'http://www.reuters.com/article/rbssInsuranceMultiline/idUSN2052612420090321'
+p201
+sg4
+S'20090321\xc2\xa006:17 PM EDT'
+p202
+sg6
+S'AIG protesters take Connecticut bus tour'
+p203
+sa(dp204
+g2
+S'http://www.reuters.com/article/topNews/idUSN1838682720090321'
+p205
+sg4
+S'20090321\xc2\xa006:08 PM EDT'
+p206
+sg6
+S'Obama says would not accept Geithner resignation'
+p207
+sa(dp208
+g2
+S'http://www.reuters.com/article/companyNewsAndPR/idUSN2129526020090321'
+p209
+sg4
+S'20090321\xc2\xa006:06 PM EDT'
+p210
+sg6
+S'Venezuela Chavez announcing economic measures'
+p211
+sa(dp212
+g2
+S'http://www.reuters.com/article/companyNewsAndPR/idUSN2117333120090321'
+p213
+sg4
+S'20090321\xc2\xa006:04 PM EDT'
+p214
+sg6
+S'WRAPUP 1-Obama says would not accept Geithner resignation'
+p215
+sa(dp216
+g2
+S'http://www.reuters.com/article/pressRelease/idUS73550+21-Mar-2009+BW20090321'
+p217
+sg4
+S'20090321\xc2\xa006:01 PM EDT'
+p218
+sg6
+S'Orthofix International Urges Shareholders to Reject Activist Hedge Fund`s Proposals'
+p219
+sa(dp220
+g2
+S'http://www.reuters.com/article/pressRelease/idUS73528+21-Mar-2009+PRN20090321'
+p221
+sg4
+S'20090321\xc2\xa006:00 PM EDT'
+p222
+sg6
+S'Following Is a Test Release'
+p223
+sa(dp224
+g2
+S'http://www.reuters.com/article/pressRelease/idUS73525+21-Mar-2009+PRN20090321'
+p225
+sg4
+S'20090321\xc2\xa006:00 PM EDT'
+p226
+sg6
+S'Chrysler LLC, Dodge, KaBOOM! and the Boys & Girls Club of San Fernando Valley in...'
+p227
+sa(dp228
+g2
+S'http://www.reuters.com/article/newsMaps/idUSDAH12844520090321'
+p229
+sg4
+S'20090321\xc2\xa005:53 PM EDT'
+p230
+sg6
+S'Iran to U.S.: "You change, our behavior will change"'
+p231
+sa(dp232
+g2
+S'http://www.reuters.com/article/pressRelease/idUS72659+21-Mar-2009+PRN20090321'
+p233
+sg4
+S'20090321\xc2\xa005:30 PM EDT'
+p234
+sg6
+S'Following Is a Test Release'
+p235
+sa(dp236
+g2
+S'http://www.reuters.com/article/GCA-CreditCrisis/idUSTRE52K1F520090321'
+p237
+sg4
+S'20090321\xc2\xa005:27 PM EDT'
+p238
+sg6
+S'Treasury to unveil bank rescue bid soon'
+p239
+sa(dp240
+g2
+S'http://www.reuters.com/article/rbssBanks/idUSN2153302220090321'
+p241
+sg4
+S'20090321\xc2\xa005:26 PM EDT'
+p242
+sg6
+S'UPDATE 3-US Treasury to unveil bank rescue bid soon'
+p243
+sa(dp244
+g2
+S'http://www.reuters.com/article/rbssBanks/idUSLL55539720090321'
+p245
+sg4
+S'20090321\xc2\xa005:25 PM EDT'
+p246
+sg6
+S"Iceland takes over country's top two savings banks"
+p247
+sa(dp248
+g2
+S'http://www.reuters.com/article/pressRelease/idUS72504+21-Mar-2009+BW20090321'
+p249
+sg4
+S'20090321\xc2\xa005:25 PM EDT'
+p250
+sg6
+S'"Committee for Level Playing Field" Organized To Offer "Third Way" on Card Check Bill; Costco, Starbucks, and Whole Foods Market Are Founding Companies'
+p251
+sa(dp252
+g2
+S'http://www.reuters.com/article/musicNews/idUSTRE52K1W320090321'
+p253
+sg4
+S'20090321\xc2\xa005:17 PM EDT'
+p254
+sg6
+S'Depeche Mode prepares for Tour of the Universe'
+p255
+sa(dp256
+g2
+S'http://www.reuters.com/article/rbssBanks/idUSLL51546920090321'
+p257
+sg4
+S'20090321\xc2\xa005:16 PM EDT'
+p258
+sg6
+S'UPDATE 1-Union Natl Bank to convert $871mln govt cash to capital'
+p259
+sa(dp260
+g2
+S'http://www.reuters.com/article/pressRelease/idUS72320+21-Mar-2009+BW20090321'
+p261
+sg4
+S'20090321\xc2\xa005:16 PM EDT'
+p262
+sg6
+S'Telephonic Briefing by "Committee for a Level Playing Field" Advocating Third Way Position on Card Check'
+p263
+sa(dp264
+g2
+S'http://www.reuters.com/article/healthNews/idUSTRE52K1V420090321'
+p265
+sg4
+S'20090321\xc2\xa005:05 PM EDT'
+p266
+sg6
+S'U.S. 2008 tea imports seen up 7 percent from year before'
+p267
+sa(dp268
+g2
+S'http://www.reuters.com/article/pressRelease/idUS71883+21-Mar-2009+PRN20090321'
+p269
+sg4
+S'20090321\xc2\xa005:00 PM EDT'
+p270
+sg6
+S'Following Is a Test Release'
+p271
+sa(dp272
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSN21534824'
+p273
+sg4
+S'20090321\xc2\xa004:58 PM EDT'
+p274
+sg6
+S'US 2008 tea imports seen up 7 pct from year before'
+p275
+sa(dp276
+g2
+S'http://www.reuters.com/article/televisionNews/idUSTRE52K1UX20090321'
+p277
+sg4
+S'20090321\xc2\xa004:55 PM EDT'
+p278
+sg6
+S'Q&A;: "Battlestar" producer Moore looks ahead'
+p279
+sa(dp280
+g2
+S'http://www.reuters.com/article/mnaNewsEnergy/idUSN2153251720090321'
+p281
+sg4
+S'20090321\xc2\xa004:41 PM EDT'
+p282
+sg6
+S'Petrobras says not violating Bolivia natgas accord'
+p283
+sa(dp284
+g2
+S'http://www.reuters.com/article/domesticNews/idUSTRE52K1M320090321'
+p285
+sg4
+S'20090321\xc2\xa004:39 PM EDT'
+p286
+sg6
+S'WTC developer seeks government financial aid: report'
+p287
+sa(dp288
+g2
+S'http://www.reuters.com/article/gc05/idUSTRE52K1EU20090321'
+p289
+sg4
+S'20090321\xc2\xa004:38 PM EDT'
+p290
+sg6
+S'U.S. hands almost all Sunni guards to Iraqi control'
+p291
+sa(dp292
+g2
+S'http://www.reuters.com/article/gc05/idUSTRE52K1SU20090321'
+p293
+sg4
+S'20090321\xc2\xa004:38 PM EDT'
+p294
+sg6
+S'Britain says receives video of Iraq hostage'
+p295
+sa(dp296
+g2
+S'http://www.reuters.com/article/companyNewsAndPR/idUSN2152291320090321'
+p297
+sg4
+S'20090321\xc2\xa004:38 PM EDT'
+p298
+sg6
+S'UPDATE 2-WTC developer seeks government financial aid - WSJ'
+p299
+sa(dp300
+g2
+S'http://www.reuters.com/article/pressRelease/idUS71136+21-Mar-2009+PRN20090321'
+p301
+sg4
+S'20090321\xc2\xa004:30 PM EDT'
+p302
+sg6
+S'Following Is a Test Release'
+p303
+sa(dp304
+g2
+S'http://www.reuters.com/article/newsOne/idUSTRE52K1RY20090321'
+p305
+sg4
+S'20090321\xc2\xa004:25 PM EDT'
+p306
+sg6
+S'Americans making more coffee at home: poll'
+p307
+sa(dp308
+g2
+S'http://www.reuters.com/article/musicNews/idUSTRE52K1RR20090321'
+p309
+sg4
+S'20090321\xc2\xa004:20 PM EDT'
+p310
+sg6
+S'Woodstock co-founder seeks sponsors for 2009 edition'
+p311
+sa(dp312
+g2
+S'http://www.reuters.com/article/televisionNews/idUSTRE52K1RJ20090321'
+p313
+sg4
+S'20090321\xc2\xa004:19 PM EDT'
+p314
+sg6
+S'Norman Lear collection hitting DVD shelves'
+p315
+sa(dp316
+g2
+S'http://www.reuters.com/article/televisionNews/idUSTRE52K1RB20090321'
+p317
+sg4
+S'20090321\xc2\xa004:17 PM EDT'
+p318
+sg6
+S'Second season in store for "IFC Media Project"'
+p319
+sa(dp320
+g2
+S'http://www.reuters.com/article/businessNews/idUSTRE52K0AH20090321'
+p321
+sg4
+S'20090321\xc2\xa004:10 PM EDT'
+p322
+sg6
+S'U.S. bank rescue plan could come on Monday: report'
+p323
+sa(dp324
+g2
+S'http://www.reuters.com/article/pressRelease/idUS70254+21-Mar-2009+PRN20090321'
+p325
+sg4
+S'20090321\xc2\xa004:00 PM EDT'
+p326
+sg6
+S'Following Is a Test Release'
+p327
+sa(dp328
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSLL554924'
+p329
+sg4
+S'20090321\xc2\xa003:55 PM EDT'
+p330
+sg6
+S'Two killed in stampede before papal event - report'
+p331
+sa(dp332
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSN21522913'
+p333
+sg4
+S'20090321\xc2\xa003:45 PM EDT'
+p334
+sg6
+S'WTC developer seeks government financial aid - WSJ'
+p335
+sa(dp336
+g2
+S'http://www.reuters.com/article/usDollarRpt/idUSN2143737520090321'
+p337
+sg4
+S'20090321\xc2\xa003:45 PM EDT'
+p338
+sg6
+S"Canada's opposition Liberals gain support - poll"
+p339
+sa(dp340
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSLL553321'
+p341
+sg4
+S'20090321\xc2\xa003:42 PM EDT'
+p342
+sg6
+S'At least 7 African migrants drown off Yemeni coast'
+p343
+sa(dp344
+g2
+S'http://www.reuters.com/article/politicsNews/idUSTRE52K1OY20090321'
+p345
+sg4
+S'20090321\xc2\xa003:40 PM EDT'
+p346
+sg6
+S'Obama says Cheney approach "hasn\'t made us safer"'
+p347
+sa(dp348
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSN21534104'
+p349
+sg4
+S'20090321\xc2\xa003:38 PM EDT'
+p350
+sg6
+S"Obama says Cheney approach 'hasn't made us safer'"
+p351
+sa(dp352
+g2
+S'http://www.reuters.com/article/olympicsNews/idUSLL52848420090321'
+p353
+sg4
+S'20090321\xc2\xa003:32 PM EDT'
+p354
+sg6
+S'UPDATE 1-Doping-IAAF will take no action against Chambers'
+p355
+sa(dp356
+g2
+S'http://www.reuters.com/article/pressRelease/idUS69499+21-Mar-2009+PRN20090321'
+p357
+sg4
+S'20090321\xc2\xa003:30 PM EDT'
+p358
+sg6
+S'Following Is a Test Release'
+p359
+sa(dp360
+g2
+S'http://www.reuters.com/article/healthNews/idUSTRE52K1O920090321'
+p361
+sg4
+S'20090321\xc2\xa003:17 PM EDT'
+p362
+sg6
+S'Simple techniques slash hospital infections: meeting'
+p363
+sa(dp364
+g2
+S'http://www.reuters.com/article/regulatoryNewsHealthcare/idUSN2153371920090321'
+p365
+sg4
+S'20090321\xc2\xa003:16 PM EDT'
+p366
+sg6
+S'Simple techniques slash hospital infections-meeting'
+p367
+sa(dp368
+g2
+S'http://www.reuters.com/article/pressRelease/idUS68556+21-Mar-2009+PRN20090321'
+p369
+sg4
+S'20090321\xc2\xa003:00 PM EDT'
+p370
+sg6
+S'Following Is a Test Release'
+p371
+sa(dp372
+g2
+S'http://www.reuters.com/article/newsOne/idUSTRE52G3OX20090321'
+p373
+sg4
+S'20090321\xc2\xa002:45 PM EDT'
+p374
+sg6
+S'Obama sticks to budget, sees room for compromise'
+p375
+sa(dp376
+g2
+S'http://www.reuters.com/article/pressRelease/idUS68028+21-Mar-2009+PRN20090321'
+p377
+sg4
+S'20090321\xc2\xa002:43 PM EDT'
+p378
+sg6
+S'US Military Pacific Commanders Make Case for Missile Defense in Testimony'
+p379
+sa(dp380
+g2
+S'http://www.reuters.com/article/BANKSL/idUSN2153186720090321'
+p381
+sg4
+S'20090321\xc2\xa002:41 PM EDT'
+p382
+sg6
+S'UPDATE 1-Obama sticks to budget, sees room for compromise'
+p383
+sa(dp384
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSLL504917'
+p385
+sg4
+S'20090321\xc2\xa002:37 PM EDT'
+p386
+sg6
+S'Israel breaks up "Arab capital" events in Jerusalem'
+p387
+sa(dp388
+g2
+S'http://www.reuters.com/article/pressRelease/idUS67640+21-Mar-2009+PRN20090321'
+p389
+sg4
+S'20090321\xc2\xa002:30 PM EDT'
+p390
+sg6
+S'Following Is a Test Release'
+p391
+sa(dp392
+g2
+S'http://www.reuters.com/article/pressRelease/idUS67479+21-Mar-2009+MW20090321'
+p393
+sg4
+S'20090321\xc2\xa002:24 PM EDT'
+p394
+sg6
+S' Government of Canada Works with British Columbia to Help Prevent Young People From Taking Illicit Drugs'
+p395
+sa(dp396
+g2
+S'http://www.reuters.com/article/pressRelease/idUS67387+21-Mar-2009+MW20090321'
+p397
+sg4
+S'20090321\xc2\xa002:22 PM EDT'
+p398
+sg6
+S' Government of Canada Works with British Columbia to Help Prevent Young People From Taking Illicit Drugs'
+p399
+sa(dp400
+g2
+S'http://www.reuters.com/article/newsOne/idUSTRE52K1MI20090321'
+p401
+sg4
+S'20090321\xc2\xa002:16 PM EDT'
+p402
+sg6
+S'Obama says would not accept Geithner resignation'
+p403
+sa(dp404
+g2
+S'http://www.reuters.com/article/pressRelease/idUS66981+21-Mar-2009+BW20090321'
+p405
+sg4
+S'20090321\xc2\xa002:14 PM EDT'
+p406
+sg6
+S'Center for Strategic IT and Security Hosts "High Tech Girls"'
+p407
+sa(dp408
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSLL536716'
+p409
+sg4
+S'20090321\xc2\xa002:07 PM EDT'
+p410
+sg6
+S"Turkey's Kurds celebrate spring as key vote looms"
+p411
+sa(dp412
+g2
+S'http://www.reuters.com/article/rbssConsumerFinancialServices/idUSN2153225220090321'
+p413
+sg4
+S'20090321\xc2\xa002:07 PM EDT'
+p414
+sg6
+S'Obama says would not accept Geithner resignation'
+p415
+sa(dp416
+g2
+S'http://www.reuters.com/article/companyNewsAndPR/idUSN2129173420090321'
+p417
+sg4
+S'20090321\xc2\xa002:02 PM EDT'
+p418
+sg6
+S'WTC developer seeks government financial aid - WSJ'
+p419
+sa(dp420
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSN21291734'
+p421
+sg4
+S'20090321\xc2\xa002:02 PM EDT'
+p422
+sg6
+S'WTC developer seeks government financial aid - WSJ'
+p423
+sa(dp424
+g2
+S'http://www.reuters.com/article/pressRelease/idUS66084+21-Mar-2009+PRN20090321'
+p425
+sg4
+S'20090321\xc2\xa002:00 PM EDT'
+p426
+sg6
+S'Following Is a Test Release'
+p427
+sa(dp428
+g2
+S'http://www.reuters.com/article/newsOne/idUSTRE52K1K620090321'
+p429
+sg4
+S'20090321\xc2\xa001:49 PM EDT'
+p430
+sg6
+S'Washington Mutual sues FDIC for over $13 billion'
+p431
+sa(dp432
+g2
+S'http://www.reuters.com/article/politicsNews/idUSTRE52K1CC20090321'
+p433
+sg4
+S'20090321\xc2\xa001:48 PM EDT'
+p434
+sg6
+S'U.S. backs Danish PM as next NATO chief: diplomats'
+p435
+sa(dp436
+g2
+S'http://www.reuters.com/article/GCA-Russia/idUSTRE52J57220090321'
+p437
+sg4
+S'20090321\xc2\xa001:40 PM EDT'
+p438
+sg6
+S"Armed clashes kill 21 in Russia's Dagestan"
+p439
+sa(dp440
+g2
+S'http://www.reuters.com/article/managementIssues/idUSN2153132120090321'
+p441
+sg4
+S'20090321\xc2\xa001:40 PM EDT'
+p442
+sg6
+S'Washington Mutual sues FDIC for over $13 billion'
+p443
+sa(dp444
+g2
+S'http://www.reuters.com/article/scienceNews/idUSTRE52E09120090321'
+p445
+sg4
+S'20090321\xc2\xa001:38 PM EDT'
+p446
+sg6
+S'Spacewalking astronauts tackle station maintenance'
+p447
+sa(dp448
+g2
+S'http://www.reuters.com/article/pressRelease/idUS65064+21-Mar-2009+PRN20090321'
+p449
+sg4
+S'20090321\xc2\xa001:30 PM EDT'
+p450
+sg6
+S'Following Is a Test Release'
+p451
+sa(dp452
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSN21523385'
+p453
+sg4
+S'20090321\xc2\xa001:29 PM EDT'
+p454
+sg6
+S'Spacewalking astronauts tackle station maintenance'
+p455
+sa(dp456
+g2
+S'http://www.reuters.com/article/pressRelease/idUS62609+21-Mar-2009+PRN20090321'
+p457
+sg4
+S'20090321\xc2\xa001:00 PM EDT'
+p458
+sg6
+S'Following Is a Test Release'
+p459
+sa(dp460
+g2
+S'http://www.reuters.com/article/ousivMolt/idUSTRE52K1GW20090321'
+p461
+sg4
+S'20090321\xc2\xa012:56 PM EDT'
+p462
+sg6
+S'Paris prosecutor looking at BNP over Madoff: report'
+p463
+sa(dp464
+g2
+S'http://www.reuters.com/article/lifestyleMolt/idUSTRE52K1GG20090321'
+p465
+sg4
+S'20090321\xc2\xa012:47 PM EDT'
+p466
+sg6
+S'Italian jewelers see gloom in 2009 as crisis hits'
+p467
+sa(dp468
+g2
+S'http://www.reuters.com/article/businessNews/idUSTRE52K1FS20090321'
+p469
+sg4
+S'20090321\xc2\xa012:44 PM EDT'
+p470
+sg6
+S'AIG traders richly rewarded as rivals pay slashed'
+p471
+sa(dp472
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSLL459639'
+p473
+sg4
+S'20090321\xc2\xa012:36 PM EDT'
+p474
+sg6
+S'US backs Danish PM as next NATO chief - diplomats'
+p475
+sa(dp476
+g2
+S'http://www.reuters.com/article/pressRelease/idUS59945+21-Mar-2009+PRN20090321'
+p477
+sg4
+S'20090321\xc2\xa012:35 PM EDT'
+p478
+sg6
+S'Final Pair of Massive Lockheed Martin Solar Arrays Begin Providing Power to International...'
+p479
+sa(dp480
+g2
+S'http://www.reuters.com/article/rbssBanks/idUSN2153105520090321'
+p481
+sg4
+S'20090321\xc2\xa012:32 PM EDT'
+p482
+sg6
+S'U.S. Treasury has three-part plan for toxic assets'
+p483
+sa(dp484
+g2
+S'http://www.reuters.com/article/pressRelease/idUS59378+21-Mar-2009+PRN20090321'
+p485
+sg4
+S'20090321\xc2\xa012:30 PM EDT'
+p486
+sg6
+S'Following Is a Test Release'
+p487
+sa(dp488
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSLL466696'
+p489
+sg4
+S'20090321\xc2\xa012:29 PM EDT'
+p490
+sg6
+S'US hands almost all Sunni guards to Iraqi control'
+p491
+sa(dp492
+g2
+S'http://www.reuters.com/article/politicsNews/idUSTRE52K1E820090321'
+p493
+sg4
+S'20090321\xc2\xa012:29 PM EDT'
+p494
+sg6
+S'U.N. envoy urges Obama to talk to Taliban: report'
+p495
+sa(dp496
+g2
+S'http://www.reuters.com/article/pressRelease/idUS59143+21-Mar-2009+PRN20090321'
+p497
+sg4
+S'20090321\xc2\xa012:27 PM EDT'
+p498
+sg6
+S"Corruption Symposium: A Case Study on 'The Chicago Way'"
+p499
+sa(dp500
+g2
+S'http://www.reuters.com/article/newsMaps/idUSTRE52K0JU20090321'
+p501
+sg4
+S'20090321\xc2\xa012:27 PM EDT'
+p502
+sg6
+S'Two blasts kill 7 Afghans, 1 policeman'
+p503
+sa(dp504
+g2
+S'http://www.reuters.com/article/newsMaps/idUSTRE52K1E020090321'
+p505
+sg4
+S'20090321\xc2\xa012:27 PM EDT'
+p506
+sg6
+S'U.N. envoy urges Obama to talk to Taliban: report'
+p507
+sa(dp508
+g2
+S'http://www.reuters.com/article/BANKSL/idUSLL49344420090321'
+p509
+sg4
+S'20090321\xc2\xa012:25 PM EDT'
+p510
+sg6
+S'Paris prosecutor looking at BNP over Madoff-paper'
+p511
+sa(dp512
+g2
+S'http://www.reuters.com/article/rbssBanks/idUSLL48532120090321'
+p513
+sg4
+S'20090321\xc2\xa012:22 PM EDT'
+p514
+sg6
+S'Schaeffler says has restructing plan - report'
+p515
+sa(dp516
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSLL470535'
+p517
+sg4
+S'20090321\xc2\xa012:12 PM EDT'
+p518
+sg6
+S'UN envoy urges Obama to talk to Taliban -Le Monde'
+p519
+sa(dp520
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSLL432061'
+p521
+sg4
+S'20090321\xc2\xa012:10 PM EDT'
+p522
+sg6
+S'Iraqi businesswomen push for government support'
+p523
+sa(dp524
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSLL502441'
+p525
+sg4
+S'20090321\xc2\xa012:08 PM EDT'
+p526
+sg6
+S'FACTBOX-Military deaths in Afghanistan'
+p527
+sa(dp528
+g2
+S'http://www.reuters.com/article/globalNews/idUSTRE52K1D320090321'
+p529
+sg4
+S'20090321\xc2\xa012:07 PM EDT'
+p530
+sg6
+S'U.S. rice growers see Obama loosening Cuba embargo'
+p531
+sa(dp532
+g2
+S'http://www.reuters.com/article/pressRelease/idUS56165+21-Mar-2009+PRN20090321'
+p533
+sg4
+S'20090321\xc2\xa012:00 PM EDT'
+p534
+sg6
+S'Following Is a Test Release'
+p535
+sa(dp536
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSLL693718'
+p537
+sg4
+S'20090321\xc2\xa011:59 AM EDT'
+p538
+sg6
+S"At least 4 dead in new clashes in Russia's Dagestan"
+p539
+sa(dp540
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSLL478031'
+p541
+sg4
+S'20090321\xc2\xa011:59 AM EDT'
+p542
+sg6
+S'US vessels arrive in Bahrain after collision'
+p543
+sa(dp544
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSLL500530'
+p545
+sg4
+S'20090321\xc2\xa011:56 AM EDT'
+p546
+sg6
+S'US backs Dane as next NATO chief -- diplomats'
+p547
+sa(dp548
+g2
+S'http://www.reuters.com/article/newsMaps/idUSTRE52K0Z220090321'
+p549
+sg4
+S'20090321\xc2\xa011:43 AM EDT'
+p550
+sg6
+S'Tens of thousands march in Naples against mafia'
+p551
+sa(dp552
+g2
+S'http://www.reuters.com/article/newsMaps/idUSTRE52K14B20090321'
+p553
+sg4
+S'20090321\xc2\xa011:36 AM EDT'
+p554
+sg6
+S'U.S. plans major Afghan police boost: Holbrooke'
+p555
+sa(dp556
+g2
+S'http://www.reuters.com/article/newsMaps/idUSTRE52K1B320090321'
+p557
+sg4
+S'20090321\xc2\xa011:33 AM EDT'
+p558
+sg6
+S'Ivory Coast arrests opposition figure for coup call'
+p559
+sa(dp560
+g2
+S'http://www.reuters.com/article/olympicsNews/idUSLL45931220090321'
+p561
+sg4
+S'20090321\xc2\xa011:33 AM EDT'
+p562
+sg6
+S'Athletics-World champs marathons start, end at Brandenburg Gate'
+p563
+sa(dp564
+g2
+S'http://www.reuters.com/article/pressRelease/idUS53050+21-Mar-2009+PRN20090321'
+p565
+sg4
+S'20090321\xc2\xa011:30 AM EDT'
+p566
+sg6
+S'Following Is a Test Release'
+p567
+sa(dp568
+g2
+S'http://www.reuters.com/article/newsMaps/idUSTRE52K1AM20090321'
+p569
+sg4
+S'20090321\xc2\xa011:28 AM EDT'
+p570
+sg6
+S'Israel breaks up "Arab capital" events in Jerusalem'
+p571
+sa(dp572
+g2
+S'http://www.reuters.com/article/topNews/idUSTRE52K0PI20090321'
+p573
+sg4
+S'20090321\xc2\xa011:24 AM EDT'
+p574
+sg6
+S'Hungarian PM to quit'
+p575
+sa(dp576
+g2
+S'http://www.reuters.com/article/rbssSteel/idUSLL46224120090321'
+p577
+sg4
+S'20090321\xc2\xa011:20 AM EDT'
+p578
+sg6
+S'German labour office sees no mass lay-offs - paper'
+p579
+sa(dp580
+g2
+S'http://www.reuters.com/article/homepageCrisis/idUSLL454963._CH_.2400'
+p581
+sg4
+S'20090321\xc2\xa011:16 AM EDT'
+p582
+sg6
+S'Ivory Coast arrests opposition figure for coup call'
+p583
+sa(dp584
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSLL454963'
+p585
+sg4
+S'20090321\xc2\xa011:16 AM EDT'
+p586
+sg6
+S'Ivory Coast arrests opposition figure for coup call'
+p587
+sa(dp588
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSLL436023'
+p589
+sg4
+S'20090321\xc2\xa011:15 AM EDT'
+p590
+sg6
+S'Israel breaks up "Arab capital" events in Jerusalem'
+p591
+sa(dp592
+g2
+S'http://www.reuters.com/article/rbssInsuranceMultiline/idUSLL47220720090321'
+p593
+sg4
+S'20090321\xc2\xa011:08 AM EDT'
+p594
+sg6
+S'ING pays extra 1.2 bln euros for pensions in 2009'
+p595
+sa(dp596
+g2
+S'http://www.reuters.com/article/peopleNews/idUSTRE52K18Y20090321'
+p597
+sg4
+S'20090321\xc2\xa011:07 AM EDT'
+p598
+sg6
+S'Tribune sues Warren Beatty over Dick Tracy rights'
+p599
+sa(dp600
+g2
+S'http://www.reuters.com/article/bondsNews/idUSN2153082320090321'
+p601
+sg4
+S'20090321\xc2\xa011:02 AM EDT'
+p602
+sg6
+S'AIG bonus payments $218 mln - Connecticut atty gnl'
+p603
+sa(dp604
+g2
+S'http://www.reuters.com/article/euPrivateEquityNews/idUSTRE52K15W20090321'
+p605
+sg4
+S'20090321\xc2\xa011:02 AM EDT'
+p606
+sg6
+S'Germany is talking to possible Opel bidders: economy minister'
+p607
+sa(dp608
+g2
+S'http://www.reuters.com/article/pressRelease/idUS49952+21-Mar-2009+PRN20090321'
+p609
+sg4
+S'20090321\xc2\xa011:00 AM EDT'
+p610
+sg6
+S'Following Is a Test Release'
+p611
+sa(dp612
+g2
+S'http://www.reuters.com/article/pressRelease/idUS49945+21-Mar-2009+PRN20090321'
+p613
+sg4
+S'20090321\xc2\xa011:00 AM EDT'
+p614
+sg6
+S"U.S. Humanitarian Mortenson Will Receive Pakistan's Highest Civil Award, Sitara-E-Pakistan..."
+p615
+sa(dp616
+g2
+S'http://www.reuters.com/article/pressRelease/idUS49934+21-Mar-2009+BW20090321'
+p617
+sg4
+S'20090321\xc2\xa011:00 AM EDT'
+p618
+sg6
+S'Cricket Celebrates Ten Years as San Diego Company with $100,000 Donation to YMCA of San Diego County at MX LIVE Fest'
+p619
+sa(dp620
+g2
+S'http://www.reuters.com/article/pressRelease/idUS49859+21-Mar-2009+MW20090321'
+p621
+sg4
+S'20090321\xc2\xa010:59 AM EDT'
+p622
+sg6
+S' Humane Society International Condemns Reckless Seal Quota'
+p623
+sa(dp624
+g2
+S'http://www.reuters.com/article/mediaNews/idUSN2138410320090321'
+p625
+sg4
+S'20090321\xc2\xa010:59 AM EDT'
+p626
+sg6
+S'Tribune sues Warren Beatty over Dick Tracy rights'
+p627
+sa(dp628
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSLL469814'
+p629
+sg4
+S'20090321\xc2\xa010:56 AM EDT'
+p630
+sg6
+S'INTERVIEW-Cameroon more dictatorship than democracy -cardinal'
+p631
+sa(dp632
+g2
+S'http://www.reuters.com/article/newsOne/idUSTRE52K13Q20090321'
+p633
+sg4
+S'20090321\xc2\xa010:50 AM EDT'
+p634
+sg6
+S'U.S. plans major Afghan police boost: Holbrooke'
+p635
+sa(dp636
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSLL459912'
+p637
+sg4
+S'20090321\xc2\xa010:48 AM EDT'
+p638
+sg6
+S'U.S. plans major Afghan police boost - Holbrooke'
+p639
+sa(dp640
+g2
+S'http://www.reuters.com/article/rbssPreciousMetalsMinerals/idUSLL46562220090321'
+p641
+sg4
+S'20090321\xc2\xa010:43 AM EDT'
+p642
+sg6
+S"UPDATE 1-Zambia's Chambishi operations to resume in 2 months"
+p643
+sa(dp644
+g2
+S'http://www.reuters.com/article/worldNews/idUSTRE52K16L20090321'
+p645
+sg4
+S'20090321\xc2\xa010:39 AM EDT'
+p646
+sg6
+S'Mutiny-hit Bangladesh to raise new border force'
+p647
+sa(dp648
+g2
+S'http://www.reuters.com/article/pressRelease/idUS46868+21-Mar-2009+PRN20090321'
+p649
+sg4
+S'20090321\xc2\xa010:30 AM EDT'
+p650
+sg6
+S'Following Is a Test Release'
+p651
+sa(dp652
+g2
+S'http://www.reuters.com/article/innovationNewsFinancialServicesAndRealEstate/idUSTRE52J6DK20090321'
+p653
+sg4
+S'20090321\xc2\xa010:28 AM EDT'
+p654
+sg6
+S'Buy-out groups vie for Barclays iShares: sources'
+p655
+sa(dp656
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSDHA443985'
+p657
+sg4
+S'20090321\xc2\xa010:26 AM EDT'
+p658
+sg6
+S'Mutiny-hit Bangladesh to raise new border force'
+p659
+sa(dp660
+g2
+S'http://www.reuters.com/article/privateEquityFinancialServicesAndRealEstate/idUSLL45509820090321'
+p661
+sg4
+S'20090321\xc2\xa010:20 AM EDT'
+p662
+sg6
+S'Buy-out groups vie for Barclays iShares - sources'
+p663
+sa(dp664
+g2
+S'http://www.reuters.com/article/mnaNewsConsumerGoodsAndRetail/idUSLL6820090321'
+p665
+sg4
+S'20090321\xc2\xa010:16 AM EDT'
+p666
+sg6
+S'German EconMin denies Opel has no serious bidders'
+p667
+sa(dp668
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSLL466833'
+p669
+sg4
+S'20090321\xc2\xa010:10 AM EDT'
+p670
+sg6
+S'FACTBOX-Security developments in Iraq, March 21'
+p671
+sa(dp672
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSLL447852'
+p673
+sg4
+S'20090321\xc2\xa010:07 AM EDT'
+p674
+sg6
+S"Nigeria unions, gov't to meet Monday to avert strike"
+p675
+sa(dp676
+g2
+S'http://www.reuters.com/article/pressRelease/idUS44008+21-Mar-2009+PRN20090321'
+p677
+sg4
+S'20090321\xc2\xa010:00 AM EDT'
+p678
+sg6
+S'Following Is a Test Release'
+p679
+sa(dp680
+g2
+S'http://www.reuters.com/article/bondsNews/idUSLL46256820090321'
+p681
+sg4
+S'20090321\xc2\xa009:59 AM EDT'
+p682
+sg6
+S'Hungary PM re-elected as Socialist party president'
+p683
+sa(dp684
+g2
+S'http://www.reuters.com/article/rbssPreciousMetalsMinerals/idUSLL44908520090321'
+p685
+sg4
+S'20090321\xc2\xa009:58 AM EDT'
+p686
+sg6
+S'Zambia cobalt operations to resume within 2 months'
+p687
+sa(dp688
+g2
+S'http://www.reuters.com/article/topNews/idUSTRE52K15D20090321'
+p689
+sg4
+S'20090321\xc2\xa009:57 AM EDT'
+p690
+sg6
+S'Thousands mourn victims of German school attack'
+p691
+sa(dp692
+g2
+S'http://www.reuters.com/article/rbssAirlines/idUSLL44860120090321'
+p693
+sg4
+S'20090321\xc2\xa009:43 AM EDT'
+p694
+sg6
+S'Lufthansa CEO expects go-ahead for Austrian deal'
+p695
+sa(dp696
+g2
+S'http://www.reuters.com/article/newsMaps/idUSTRE52J13T20090321'
+p697
+sg4
+S'20090321\xc2\xa009:39 AM EDT'
+p698
+sg6
+S'U.N. says fears of unfair Afghan poll well-founded'
+p699
+sa(dp700
+g2
+S'http://www.reuters.com/article/pressRelease/idUS41212+21-Mar-2009+PRN20090321'
+p701
+sg4
+S'20090321\xc2\xa009:33 AM EDT'
+p702
+sg6
+S"New York Residents go Door-to-Door in Support of President Obama's Budget"
+p703
+sa(dp704
+g2
+S'http://www.reuters.com/article/pressRelease/idUS40752+21-Mar-2009+PRN20090321'
+p705
+sg4
+S'20090321\xc2\xa009:30 AM EDT'
+p706
+sg6
+S'Following Is a Test Release'
+p707
+sa(dp708
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSLL425567'
+p709
+sg4
+S'20090321\xc2\xa009:24 AM EDT'
+p710
+sg6
+S'Ivory Coast arrests opposition figure for coup call'
+p711
+sa(dp712
+g2
+S'http://www.reuters.com/article/pressRelease/idUS39896+21-Mar-2009+PRN20090321'
+p713
+sg4
+S'20090321\xc2\xa009:20 AM EDT'
+p714
+sg6
+S"Michigan Residents go Door-to-Door in Support of President Obama's Budget"
+p715
+sa(dp716
+g2
+S'http://www.reuters.com/article/privateEquityConsumerGoodsAndRetail/idUSN2141506420090321'
+p717
+sg4
+S'20090321\xc2\xa009:19 AM EDT'
+p718
+sg6
+S"Sportsman's Warehouse files for bankruptcy"
+p719
+sa(dp720
+g2
+S'http://www.reuters.com/article/rbssIntegratedOilGas/idUSLL51798320090321'
+p721
+sg4
+S'20090321\xc2\xa009:18 AM EDT'
+p722
+sg6
+S'Qatar-ExxonMobil to delay gas JV - MEED'
+p723
+sa(dp724
+g2
+S'http://www.reuters.com/article/pressRelease/idUS37951+21-Mar-2009+PRN20090321'
+p725
+sg4
+S'20090321\xc2\xa009:00 AM EDT'
+p726
+sg6
+S'Following Is a Test Release'
+p727
+sa(dp728
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSLL432571'
+p729
+sg4
+S'20090321\xc2\xa009:00 AM EDT'
+p730
+sg6
+S'U.S. plans major Afghan police boost - Holbrooke'
+p731
+sa(dp732
+g2
+S'http://www.reuters.com/article/topNews/idUSTRE52K11W20090321'
+p733
+sg4
+S'20090321\xc2\xa008:55 AM EDT'
+p734
+sg6
+S'SCENARIOS: What next as Hungary PM says ready to step aside'
+p735
+sa(dp736
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSLL403725'
+p737
+sg4
+S'20090321\xc2\xa008:54 AM EDT'
+p738
+sg6
+S'Shun witchcraft, pope tells Angolan Catholics'
+p739
+sa(dp740
+g2
+S'http://www.reuters.com/article/topNews/idUSTRE52K0BT20090321'
+p741
+sg4
+S'20090321\xc2\xa008:52 AM EDT'
+p742
+sg6
+S'North Korea says holding 2 Americans'
+p743
+sa(dp744
+g2
+S'http://www.reuters.com/article/topNews/idUSTRE52K0SU20090321'
+p745
+sg4
+S'20090321\xc2\xa008:50 AM EDT'
+p746
+sg6
+S'Global economy to shrink in 2009: World Bank'
+p747
+sa(dp748
+g2
+S'http://www.reuters.com/article/homepageCrisis/idUSLL391733._CH_.2400'
+p749
+sg4
+S'20090321\xc2\xa008:49 AM EDT'
+p750
+sg6
+S'INTERVIEW-Global lenders to meet Africa G20 cash appeal-DFID'
+p751
+sa(dp752
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSLL391733'
+p753
+sg4
+S'20090321\xc2\xa008:49 AM EDT'
+p754
+sg6
+S'INTERVIEW-Global lenders to meet Africa G20 cash appeal-DFID'
+p755
+sa(dp756
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSDHA20541'
+p757
+sg4
+S'20090321\xc2\xa008:46 AM EDT'
+p758
+sg6
+S'Mutiny-hit Bangladesh to raise new border force'
+p759
+sa(dp760
+g2
+S'http://www.reuters.com/article/companyNewsAndPR/idUSLL41819120090321'
+p761
+sg4
+S'20090321\xc2\xa008:37 AM EDT'
+p762
+sg6
+S'SCENARIOS-What next as Hungary PM says ready to step aside'
+p763
+sa(dp764
+g2
+S'http://www.reuters.com/article/worldNews/idUSTRE52J2B320090321'
+p765
+sg4
+S'20090321\xc2\xa008:33 AM EDT'
+p766
+sg6
+S'Madagascar leader installed but envoys miss bash'
+p767
+sa(dp768
+g2
+S'http://www.reuters.com/article/worldNews/idUSTRE52K0ZW20090321'
+p769
+sg4
+S'20090321\xc2\xa008:33 AM EDT'
+p770
+sg6
+S"TIMELINE: Madagascar's political turmoil"
+p771
+sa(dp772
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSLL407620'
+p773
+sg4
+S'20090321\xc2\xa008:31 AM EDT'
+p774
+sg6
+S"At least 4 dead in new clashes in Russia's Dagestan"
+p775
+sa(dp776
+g2
+S'http://www.reuters.com/article/pressRelease/idUS36947+21-Mar-2009+PRN20090321'
+p777
+sg4
+S'20090321\xc2\xa008:30 AM EDT'
+p778
+sg6
+S'Following Is a Test Release'
+p779
+sa(dp780
+g2
+S'http://www.reuters.com/article/rbssAutoTruckManufacturers/idUSLL39892120090321'
+p781
+sg4
+S'20090321\xc2\xa008:23 AM EDT'
+p782
+sg6
+S'Dutch GM car dealer gets suspension of debt payments'
+p783
+sa(dp784
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSLL399972'
+p785
+sg4
+S'20090321\xc2\xa008:06 AM EDT'
+p786
+sg6
+S"TIMELINE-Madagascar's political turmoil"
+p787
+sa(dp788
+g2
+S'http://www.reuters.com/article/pressRelease/idUS35831+21-Mar-2009+PRN20090321'
+p789
+sg4
+S'20090321\xc2\xa008:00 AM EDT'
+p790
+sg6
+S'Following Is a Test Release'
+p791
+sa(dp792
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSSYD99960'
+p793
+sg4
+S'20090321\xc2\xa007:54 AM EDT'
+p794
+sg6
+S"Australian Labor wins fifth term in PM's home state"
+p795
+sa(dp796
+g2
+S'http://www.reuters.com/article/rbssInvestmentServices/idUSSYD9996020090321'
+p797
+sg4
+S'20090321\xc2\xa007:54 AM EDT'
+p798
+sg6
+S"UPDATE 1-Australian Labor wins fifth term in PM's home state"
+p799
+sa(dp800
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSLL375034'
+p801
+sg4
+S'20090321\xc2\xa007:35 AM EDT'
+p802
+sg6
+S'Hungarian PM to quit, wants new govt, new leader'
+p803
+sa(dp804
+g2
+S'http://www.reuters.com/article/pressRelease/idUS34727+21-Mar-2009+PRN20090321'
+p805
+sg4
+S'20090321\xc2\xa007:30 AM EDT'
+p806
+sg6
+S'Following Is a Test Release'
+p807
+sa(dp808
+g2
+S'http://www.reuters.com/article/rbssAirlines/idUSLL20794020090321'
+p809
+sg4
+S'20090321\xc2\xa007:15 AM EDT'
+p810
+sg6
+S'TUI management, union agree short-time work deal'
+p811
+sa(dp812
+g2
+S'http://www.reuters.com/article/GCA-Economy/idUSTRE52J1CR20090321'
+p813
+sg4
+S'20090321\xc2\xa007:15 AM EDT'
+p814
+sg6
+S'EU backs stronger IMF, eastern aid lifeline'
+p815
+sa(dp816
+g2
+S'http://www.reuters.com/article/rbssBanks/idUSLL39889720090321'
+p817
+sg4
+S'20090321\xc2\xa007:06 AM EDT'
+p818
+sg6
+S"UPDATE 1-Kuwait's Gulf Bank posts Q4 loss as crisis bites"
+p819
+sa(dp820
+g2
+S'http://www.reuters.com/article/pressRelease/idUS33582+21-Mar-2009+PRN20090321'
+p821
+sg4
+S'20090321\xc2\xa007:00 AM EDT'
+p822
+sg6
+S'Following Is a Test Release'
+p823
+sa(dp824
+g2
+S'http://www.reuters.com/article/newsMaps/idUSTRE52K0US20090321'
+p825
+sg4
+S'20090321\xc2\xa006:51 AM EDT'
+p826
+sg6
+S'Indians, Pakistanis trade fire in Kashmir: Pakistan'
+p827
+sa(dp828
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSISL424721'
+p829
+sg4
+S'20090321\xc2\xa006:45 AM EDT'
+p830
+sg6
+S'Indians, Pakistanis trade fire in Kashmir - Pakistan'
+p831
+sa(dp832
+g2
+S'http://www.reuters.com/article/lifestyleMolt/idUSTRE52K0U220090321'
+p833
+sg4
+S'20090321\xc2\xa006:45 AM EDT'
+p834
+sg6
+S'At Tokyo\'s "anime" fair, fans defy recession'
+p835
+sa(dp836
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSSYD409110'
+p837
+sg4
+S'20090321\xc2\xa006:41 AM EDT'
+p838
+sg6
+S"Australian Labor wins fifth term in PM's home state"
+p839
+sa(dp840
+g2
+S'http://www.reuters.com/article/rbssInvestmentServices/idUSSYD40911020090321'
+p841
+sg4
+S'20090321\xc2\xa006:41 AM EDT'
+p842
+sg6
+S"Australian Labor wins fifth term in PM's home state"
+p843
+sa(dp844
+g2
+S'http://www.reuters.com/article/newsMaps/idUSTRE52K0AE20090321'
+p845
+sg4
+S'20090321\xc2\xa006:32 AM EDT'
+p846
+sg6
+S'Mexico captures "drug lord" accused of U.S. attack'
+p847
+sa(dp848
+g2
+S'http://www.reuters.com/article/internal_ReutersNewsRoom_BehindTheScenes_MOLT/idUSTRE52K0SZ20090321'
+p849
+sg4
+S'20090321\xc2\xa006:30 AM EDT'
+p850
+sg6
+S'Financial crisis can lead to modest lifestyles'
+p851
+sa(dp852
+g2
+S'http://www.reuters.com/article/pressRelease/idUS32580+21-Mar-2009+PRN20090321'
+p853
+sg4
+S'20090321\xc2\xa006:30 AM EDT'
+p854
+sg6
+S'Following Is a Test Release'
+p855
+sa(dp856
+g2
+S'http://www.reuters.com/article/homepageCrisis/idUSLL386188._CH_.2400'
+p857
+sg4
+S'20090321\xc2\xa006:10 AM EDT'
+p858
+sg6
+S'All envoys snub Madagascar installation - witnesses'
+p859
+sa(dp860
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSLL386188'
+p861
+sg4
+S'20090321\xc2\xa006:10 AM EDT'
+p862
+sg6
+S'All envoys snub Madagascar installation - witnesses'
+p863
+sa(dp864
+g2
+S'http://www.reuters.com/article/politicsNews/idUSTRE52K0RK20090321'
+p865
+sg4
+S'20090321\xc2\xa006:10 AM EDT'
+p866
+sg6
+S'Obama offers new start with Iran'
+p867
+sa(dp868
+g2
+S'http://www.reuters.com/article/mediaNews/idUSSEO8490820090321'
+p869
+sg4
+S'20090321\xc2\xa006:03 AM EDT'
+p870
+sg6
+S'UPDATE 2-N.Korea reopens hotline, says holding 2 Americans'
+p871
+sa(dp872
+g2
+S'http://www.reuters.com/article/pressRelease/idUS31597+21-Mar-2009+BW20090321'
+p873
+sg4
+S'20090321\xc2\xa006:02 AM EDT'
+p874
+sg6
+S'Image Entertainment Continues Negotiations with Nyx Regarding Closing Date Extension'
+p875
+sa(dp876
+g2
+S'http://www.reuters.com/article/companyNewsAndPR/idUSN2052498720090321'
+p877
+sg4
+S'20090321\xc2\xa006:00 AM EDT'
+p878
+sg6
+S'Obama sticks to budget but sees room for compromise'
+p879
+sa(dp880
+g2
+S'http://www.reuters.com/article/pressRelease/idUS31540+21-Mar-2009+PRN20090321'
+p881
+sg4
+S'20090321\xc2\xa006:00 AM EDT'
+p882
+sg6
+S'Following Is a Test Release'
+p883
+sa(dp884
+g2
+S'http://www.reuters.com/article/pressRelease/idUS31532+21-Mar-2009+PRN20090321'
+p885
+sg4
+S'20090321\xc2\xa006:00 AM EDT'
+p886
+sg6
+S'RNC:  Governor Haley Barbour (R-MS) Delivers Weekly Republican Address'
+p887
+sa(dp888
+g2
+S'http://www.reuters.com/article/pressRelease/idUS31531+21-Mar-2009+PRN20090321'
+p889
+sg4
+S'20090321\xc2\xa006:00 AM EDT'
+p890
+sg6
+S'Charities Use Credit Cards Creatively to Keep Funds Flowing In'
+p891
+sa(dp892
+g2
+S'http://www.reuters.com/article/pressRelease/idUS31486+21-Mar-2009+PRN20090321'
+p893
+sg4
+S'20090321\xc2\xa005:59 AM EDT'
+p894
+sg6
+S'GOOD MORNING -- March 21, 2009'
+p895
+sa(dp896
+g2
+S'http://www.reuters.com/article/sportsNews/idUSTRE52J4S120090321'
+p897
+sg4
+S'20090321\xc2\xa005:42 AM EDT'
+p898
+sg6
+S"Thai Chapchai breaks Asian Tour's 72-hole record"
+p899
+sa(dp900
+g2
+S'http://www.reuters.com/article/pressRelease/idUS30919+21-Mar-2009+BW20090321'
+p901
+sg4
+S'20090321\xc2\xa005:38 AM EDT'
+p902
+sg6
+S'Fareed Zakaria is India Abroad Person of the Year 2008'
+p903
+sa(dp904
+g2
+S'http://www.reuters.com/article/topNews/idUSTRE52K0PZ20090321'
+p905
+sg4
+S'20090321\xc2\xa005:34 AM EDT'
+p906
+sg6
+S'U.S. to suspend non-humanitarian aid to Madagascar'
+p907
+sa(dp908
+g2
+S'http://www.reuters.com/article/topNews/idUSTRE52K0IN20090321'
+p909
+sg4
+S'20090321\xc2\xa005:34 AM EDT'
+p910
+sg6
+S"FACTBOX: Madagascar's new president Rajoelina"
+p911
+sa(dp912
+g2
+S'http://www.reuters.com/article/topNews/idUSTRE52J4TA20090321'
+p913
+sg4
+S'20090321\xc2\xa005:34 AM EDT'
+p914
+sg6
+S"TIMELINE: Madagascar's political turmoil"
+p915
+sa(dp916
+g2
+S'http://www.reuters.com/article/homepageCrisis/idUSLL286846._CH_.2400'
+p917
+sg4
+S'20090321\xc2\xa005:32 AM EDT'
+p918
+sg6
+S"Envoys boycott Madagascar leader's installation"
+p919
+sa(dp920
+g2
+S'http://www.reuters.com/article/pressRelease/idUS30669+21-Mar-2009+PRN20090321'
+p921
+sg4
+S'20090321\xc2\xa005:30 AM EDT'
+p922
+sg6
+S'Following Is a Test Release'
+p923
+sa(dp924
+g2
+S'http://www.reuters.com/article/reviewsNews/idUSTRE52K0P920090321'
+p925
+sg4
+S'20090321\xc2\xa005:08 AM EDT'
+p926
+sg6
+S'Revamped "West Side Story" a disappointment'
+p927
+sa(dp928
+g2
+S'http://www.reuters.com/article/musicNews/idUSTRE52K0P120090321'
+p929
+sg4
+S'20090321\xc2\xa005:06 AM EDT'
+p930
+sg6
+S'Universal Music inks deal for Hendrix catalog'
+p931
+sa(dp932
+g2
+S'http://www.reuters.com/article/entertainmentNews/idUSTRE52K0O620090321'
+p933
+sg4
+S'20090321\xc2\xa005:00 AM EDT'
+p934
+sg6
+S'Metallica welcomes new "Guitar Hero" fans'
+p935
+sa(dp936
+g2
+S'http://www.reuters.com/article/pressRelease/idUS29990+21-Mar-2009+PRN20090321'
+p937
+sg4
+S'20090321\xc2\xa005:00 AM EDT'
+p938
+sg6
+S'Following Is a Test Release'
+p939
+sa(dp940
+g2
+S'http://www.reuters.com/article/musicNews/idUSTRE52K0NM20090321'
+p941
+sg4
+S'20090321\xc2\xa004:56 AM EDT'
+p942
+sg6
+S'Smashing Pumpkins sheds Chamberlin'
+p943
+sa(dp944
+g2
+S'http://www.reuters.com/article/pressRelease/idUS29770+21-Mar-2009+MW20090321'
+p945
+sg4
+S'20090321\xc2\xa004:52 AM EDT'
+p946
+sg6
+S' Rolex: The Top 5 Rolex Super President Watches Demanded in the U.K. by Melrose Jewelers'
+p947
+sa(dp948
+g2
+S'http://www.reuters.com/article/filmNews/idUSTRE52K0N420090321'
+p949
+sg4
+S'20090321\xc2\xa004:50 AM EDT'
+p950
+sg6
+S'Vatican expresses disapproval of "Angels & Demons"'
+p951
+sa(dp952
+g2
+S'http://www.reuters.com/article/pressRelease/idUS29677+21-Mar-2009+MW20090321'
+p953
+sg4
+S'20090321\xc2\xa004:50 AM EDT'
+p954
+sg6
+S' Rolex: The Top 5 Rolex Super President Watches Demanded in the U.K. by Melrose Jewelers'
+p955
+sa(dp956
+g2
+S'http://www.reuters.com/article/ousivMolt/idUSTRE52K0GO20090321'
+p957
+sg4
+S'20090321\xc2\xa004:42 AM EDT'
+p958
+sg6
+S'China clears Johnson & Johnson baby products after probe'
+p959
+sa(dp960
+g2
+S'http://www.reuters.com/article/pressRelease/idUS29058+21-Mar-2009+PRN20090321'
+p961
+sg4
+S'20090321\xc2\xa004:30 AM EDT'
+p962
+sg6
+S'Following Is a Test Release'
+p963
+sa(dp964
+g2
+S'http://www.reuters.com/article/euRegulatoryNews/idUSPEK13832520090321'
+p965
+sg4
+S'20090321\xc2\xa004:23 AM EDT'
+p966
+sg6
+S'UPDATE1-China clears Johnson & Johnson baby products after probe'
+p967
+sa(dp968
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSPEK138325'
+p969
+sg4
+S'20090321\xc2\xa004:23 AM EDT'
+p970
+sg6
+S'UPDATE1-China clears Johnson & Johnson baby products after probe'
+p971
+sa(dp972
+g2
+S'http://www.reuters.com/article/newsMaps/idUSTRE52K0KP20090321'
+p973
+sg4
+S'20090321\xc2\xa004:16 AM EDT'
+p974
+sg6
+S'Iran sees no change in U.S. policy: Khamenei'
+p975
+sa(dp976
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSSEO84908'
+p977
+sg4
+S'20090321\xc2\xa004:04 AM EDT'
+p978
+sg6
+S'N.Korea reopens hotline, says holding 2 Americans'
+p979
+sa(dp980
+g2
+S'http://www.reuters.com/article/pressRelease/idUS28477+21-Mar-2009+PRN20090321'
+p981
+sg4
+S'20090321\xc2\xa004:00 AM EDT'
+p982
+sg6
+S'Following Is a Test Release'
+p983
+sa(dp984
+g2
+S'http://www.reuters.com/article/newsMaps/idUSTRE52K0JW20090321'
+p985
+sg4
+S'20090321\xc2\xa003:51 AM EDT'
+p986
+sg6
+S'NATO commander sees Afghan security gains in 2010'
+p987
+sa(dp988
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSSP422495'
+p989
+sg4
+S'20090321\xc2\xa003:46 AM EDT'
+p990
+sg6
+S'Suicide car bomber kills 5 Afghans, one policeman'
+p991
+sa(dp992
+g2
+S'http://www.reuters.com/article/pressRelease/idUS27946+21-Mar-2009+PRN20090321'
+p993
+sg4
+S'20090321\xc2\xa003:30 AM EDT'
+p994
+sg6
+S'Following Is a Test Release'
+p995
+sa(dp996
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSLL286846'
+p997
+sg4
+S'20090321\xc2\xa003:13 AM EDT'
+p998
+sg6
+S"Envoys to boycott Madagascar head's installation"
+p999
+sa(dp1000
+g2
+S'http://www.reuters.com/article/pressRelease/idUS27407+21-Mar-2009+PRN20090321'
+p1001
+sg4
+S'20090321\xc2\xa003:00 AM EDT'
+p1002
+sg6
+S'Following Is a Test Release'
+p1003
+sa(dp1004
+g2
+S'http://www.reuters.com/article/newsMaps/idUSTRE52K0HR20090321'
+p1005
+sg4
+S'20090321\xc2\xa002:59 AM EDT'
+p1006
+sg6
+S'North Korea confirms detention of two Americans'
+p1007
+sa(dp1008
+g2
+S'http://www.reuters.com/article/newsMaps/idUSN2050127920090321'
+p1009
+sg4
+S'20090321\xc2\xa002:56 AM EDT'
+p1010
+sg6
+S'U.S. to suspend non-humanitarian aid to Madagascar'
+p1011
+sa(dp1012
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSLL312842'
+p1013
+sg4
+S'20090321\xc2\xa002:54 AM EDT'
+p1014
+sg6
+S"FACTBOX-Madagascar's new president Rajoelina"
+p1015
+sa(dp1016
+g2
+S'http://www.reuters.com/article/newsMaps/idUSTRE52K0HI20090321'
+p1017
+sg4
+S'20090321\xc2\xa002:42 AM EDT'
+p1018
+sg6
+S"Envoys to boycott Madagascar head's installation"
+p1019
+sa(dp1020
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSSEO63800'
+p1021
+sg4
+S'20090321\xc2\xa002:41 AM EDT'
+p1022
+sg6
+S'North Korea confirms detention of two Americans'
+p1023
+sa(dp1024
+g2
+S'http://www.reuters.com/article/mediaNews/idUSSEO6380020090321'
+p1025
+sg4
+S'20090321\xc2\xa002:41 AM EDT'
+p1026
+sg6
+S'North Korea confirms detention of two Americans'
+p1027
+sa(dp1028
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSLL729909'
+p1029
+sg4
+S'20090321\xc2\xa002:38 AM EDT'
+p1030
+sg6
+S"Envoys to boycott Madagascar head's installation"
+p1031
+sa(dp1032
+g2
+S'http://www.reuters.com/article/rbssWirelessTelecommunicationServices/idUSBOM42086220090321'
+p1033
+sg4
+S'20090321\xc2\xa002:32 AM EDT'
+p1034
+sg6
+S'Vodafone to spin off Indian mobile masts -report'
+p1035
+sa(dp1036
+g2
+S'http://www.reuters.com/article/pressRelease/idUS26870+21-Mar-2009+PRN20090321'
+p1037
+sg4
+S'20090321\xc2\xa002:30 AM EDT'
+p1038
+sg6
+S'Following Is a Test Release'
+p1039
+sa(dp1040
+g2
+S'http://www.reuters.com/article/sportsNews/idUSTRE52J0B420090321'
+p1041
+sg4
+S'20090321\xc2\xa002:25 AM EDT'
+p1042
+sg6
+S'Egos stung, reputations trashed in NCAA thrillers'
+p1043
+sa(dp1044
+g2
+S'http://www.reuters.com/article/GCA-CreditCrisis/idUSTRE52K0H020090321'
+p1045
+sg4
+S'20090321\xc2\xa002:21 AM EDT'
+p1046
+sg6
+S'White House considers reforms for nonbank finance firms'
+p1047
+sa(dp1048
+g2
+S'http://www.reuters.com/article/rbssEngineeringConstruction/idUSBOM39670320090321'
+p1049
+sg4
+S'20090321\xc2\xa002:17 AM EDT'
+p1050
+sg6
+S"India's L&T; stays in race for Satyam Computer-reports"
+p1051
+sa(dp1052
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSISL437096'
+p1053
+sg4
+S'20090321\xc2\xa002:15 AM EDT'
+p1054
+sg6
+S'FACTBOX-Security developments in Afghanistan, March 21'
+p1055
+sa(dp1056
+g2
+S'http://www.reuters.com/article/pressRelease/idUS26309+21-Mar-2009+PRN20090321'
+p1057
+sg4
+S'20090321\xc2\xa002:00 AM EDT'
+p1058
+sg6
+S'Following Is a Test Release'
+p1059
+sa(dp1060
+g2
+S'http://www.reuters.com/article/euRegulatoryNews/idUSPEK13249620090321'
+p1061
+sg4
+S'20090321\xc2\xa001:57 AM EDT'
+p1062
+sg6
+S'China clears Johnson & Johnson baby products after probe'
+p1063
+sa(dp1064
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSPEK132496'
+p1065
+sg4
+S'20090321\xc2\xa001:57 AM EDT'
+p1066
+sg6
+S'China clears Johnson & Johnson baby products after probe'
+p1067
+sa(dp1068
+g2
+S'http://www.reuters.com/article/sportsNews/idUSTRE52K0E820090321'
+p1069
+sg4
+S'20090321\xc2\xa001:52 AM EDT'
+p1070
+sg6
+S'Oilers clip struggling Blackhawks 5-4 in shootout'
+p1071
+sa(dp1072
+g2
+S'http://www.reuters.com/article/sportsNews/idUSTRE52J6H920090321'
+p1073
+sg4
+S'20090321\xc2\xa001:39 AM EDT'
+p1074
+sg6
+S'Roddick crushes Djokovic, Nadal beats Del Potro'
+p1075
+sa(dp1076
+g2
+S'http://www.reuters.com/article/sportsNews/idUSTRE52K0G820090321'
+p1077
+sg4
+S'20090321\xc2\xa001:39 AM EDT'
+p1078
+sg6
+S'Fitter Roddick looks to "out-Nadal" world number one'
+p1079
+sa(dp1080
+g2
+S'http://www.reuters.com/article/pressRelease/idUS25893+21-Mar-2009+PRN20090321'
+p1081
+sg4
+S'20090321\xc2\xa001:30 AM EDT'
+p1082
+sg6
+S'Following Is a Test Release'
+p1083
+sa(dp1084
+g2
+S'http://www.reuters.com/article/worldNews/idUSTRE52K0FY20090321'
+p1085
+sg4
+S'20090321\xc2\xa001:28 AM EDT'
+p1086
+sg6
+S'Thai PM, ministers easily survive censure vote'
+p1087
+sa(dp1088
+g2
+S'http://www.reuters.com/article/rbssInvestmentServices/idUSBKK45118920090321'
+p1089
+sg4
+S'20090321\xc2\xa001:27 AM EDT'
+p1090
+sg6
+S'Thai PM, ministers easily survive censure vote'
+p1091
+sa(dp1092
+g2
+S'http://www.reuters.com/article/pressRelease/idUS25602+21-Mar-2009+PRN20090321'
+p1093
+sg4
+S'20090321\xc2\xa001:08 AM EDT'
+p1094
+sg6
+S'GOL Reaffirms its Business Plan and Announces a Capital Increase of R$203.5 Million'
+p1095
+sa(dp1096
+g2
+S'http://www.reuters.com/article/privateEquity/idUSN2052536020090321'
+p1097
+sg4
+S'20090321\xc2\xa001:05 AM EDT'
+p1098
+sg6
+S'White House considers reforms for nonbank fin firms'
+p1099
+sa(dp1100
+g2
+S'http://www.reuters.com/article/companyNewsAndPR/idUSPEK13254320090321'
+p1101
+sg4
+S'20090321\xc2\xa001:01 AM EDT'
+p1102
+sg6
+S'China to push fewer, stronger car and steel makers'
+p1103
+sa(dp1104
+g2
+S'http://www.reuters.com/article/pressRelease/idUS25410+21-Mar-2009+PRN20090321'
+p1105
+sg4
+S'20090321\xc2\xa001:00 AM EDT'
+p1106
+sg6
+S'Following Is a Test Release'
+p1107
+sa(dp1108
+g2
+S'http://www.reuters.com/article/sportsNews/idUSTRE52K0D620090321'
+p1109
+sg4
+S'20090321\xc2\xa012:59 AM EDT'
+p1110
+sg6
+S'Garnett returns to lift Celtics in win over Spurs'
+p1111
+sa(dp1112
+g2
+S'http://www.reuters.com/article/pressRelease/idUS25100+21-Mar-2009+PRN20090321'
+p1113
+sg4
+S'20090321\xc2\xa012:46 AM EDT'
+p1114
+sg6
+S"Heidi Steele Wins Coveted 'Driver of the Year' Title"
+p1115
+sa(dp1116
+g2
+S'http://www.reuters.com/article/pressRelease/idUS24735+21-Mar-2009+PRN20090321'
+p1117
+sg4
+S'20090321\xc2\xa012:30 AM EDT'
+p1118
+sg6
+S'Following Is a Test Release'
+p1119
+sa(dp1120
+g2
+S'http://www.reuters.com/article/pressRelease/idUS23697+21-Mar-2009+PRN20090321'
+p1121
+sg4
+S'20090321\xc2\xa012:01 AM EDT'
+p1122
+sg6
+S'U.S. Census Bureau Daily Feature for March 21'
+p1123
+sa(dp1124
+g2
+S'http://www.reuters.com/article/pressRelease/idUS23661+21-Mar-2009+PRN20090321'
+p1125
+sg4
+S'20090321\xc2\xa012:00 AM EDT'
+p1126
+sg6
+S'Following Is a Test Release'
+p1127
+sa(dp1128
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=WAO1235849070968'
+p1129
+sg4
+S'20090321\xc2\xa008:41 PM EDT'
+p1130
+sg6
+S'Jade Goody dies in her sleep'
+p1131
+sa.

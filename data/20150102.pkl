@@ -1,0 +1,2345 @@
+(lp0
+(dp1
+S'href'
+p2
+S'http://www.reuters.com/article/2015/01/02/markets-hongkong-stocks-midday-idUSL3N0UH09320150102'
+p3
+sS'ts'
+p4
+S'20150102\xc2\xa011:56PM UTC'
+p5
+sS'title'
+p6
+S'Chinae property leads gains in Hong Kong shares, casino stocks fall'
+p7
+sa(dp8
+g2
+S'http://www.reuters.com/article/2015/01/02/markets-india-banks-idUSI8N0P701R20150102'
+p9
+sg4
+S'20150102\xc2\xa011:49PM UTC'
+p10
+sg6
+S"India's Bank Nifty index surges to record high on hopes of reforms"
+p11
+sa(dp12
+g2
+S'http://www.reuters.com/article/2015/01/02/macau-gambling-revenue-idUSENNECP0SQ20150102'
+p13
+sg4
+S'20150102\xc2\xa011:45PM UTC'
+p14
+sg6
+S'Macau gambling revenue falls 2.6 pct in 2014, record 30.4 pct in December'
+p15
+sa(dp16
+g2
+S'http://www.reuters.com/article/2015/01/02/us-china-corruption-idUSKBN0KB03M20150102'
+p17
+sg4
+S'20150102\xc2\xa011:21PM UTC'
+p18
+sg6
+S'Senior Chinese diplomat sacked for corruption'
+p19
+sa(dp20
+g2
+S'http://www.reuters.com/article/2015/01/02/africa-factors-idUSL1N0UH02Z20150102'
+p21
+sg4
+S'20150102\xc2\xa011:19PM UTC'
+p22
+sg6
+S'African Markets - Factors to watch on Jan 2'
+p23
+sa(dp24
+g2
+S'http://www.reuters.com/article/2015/01/02/market-chatter-idUSL3N0UH0F020150102'
+p25
+sg4
+S'20150102\xc2\xa011:12PM UTC'
+p26
+sg6
+S'Market Chatter- Corporate finance press digest'
+p27
+sa(dp28
+g2
+S'http://www.reuters.com/article/2015/01/02/china-stampede-idUSL3N0UH07P20150102'
+p29
+sg4
+S'20150102\xc2\xa011:09PM UTC'
+p30
+sg6
+S'China demands answers after stampede in financial hub Shanghai'
+p31
+sa(dp32
+g2
+S'http://www.reuters.com/article/2015/01/02/us-usa-hawaii-obama-shaveice-idUSKBN0KB03E20150102'
+p33
+sg4
+S'20150102\xc2\xa011:08PM UTC'
+p34
+sg6
+S"Obama starts 2015 with 'shave ice' outing in Hawaii"
+p35
+sa(dp36
+g2
+S'http://www.reuters.com/article/2015/01/02/us-enbridge-inc-fire-idUSKBN0KB00B20150102'
+p37
+sg4
+S'20150102\xc2\xa011:06PM UTC'
+p38
+sg6
+S'Oil storage tanks in North Dakota catch fire; no injuries'
+p39
+sa(dp40
+g2
+S'http://www.reuters.com/article/2015/01/02/bkn-kings-timberwolves-writethru-idUSMTZEB12J70H3120150102'
+p41
+sg4
+S'20150102\xc2\xa011:04PM UTC'
+p42
+sg6
+S'Kings hand Timberwolves their 10th straight loss'
+p43
+sa(dp44
+g2
+S'http://www.reuters.com/article/2015/01/02/enbridge-inc-fire-idUSL1N0UH01R20150102'
+p45
+sg4
+S'20150102\xc2\xa011:03PM UTC'
+p46
+sg6
+S'UPDATE 1-Oil storage tanks in North Dakota catch fire; no injuries'
+p47
+sa(dp48
+g2
+S'http://www.reuters.com/article/2015/01/02/bkn-bulls-nuggets-writethru-idUSMTZEB12J6852R20150102'
+p49
+sg4
+S'20150102\xc2\xa011:00PM UTC'
+p50
+sg6
+S'Bulls swat record 18 shots in win over Nuggets'
+p51
+sa(dp52
+g2
+S'http://www.reuters.com/article/2015/01/02/markets-forex-idUSL3N0UH0BF20150102'
+p53
+sg4
+S'20150102\xc2\xa010:50PM UTC'
+p54
+sg6
+S'FOREX-Dollar shines at start of new year, euro hits 2-year low'
+p55
+sa(dp56
+g2
+S'http://www.reuters.com/article/2015/01/02/bkc-evansville-northerniowa-writethru-idUSMTZEB12J5T32P20150102'
+p57
+sg4
+S'20150102\xc2\xa010:47PM UTC'
+p58
+sg6
+S'Evansville rallies past UNI in MVC opener'
+p59
+sa(dp60
+g2
+S'http://www.reuters.com/article/2015/01/02/founder-secs-brief-idUSL3N0UH0CS20150102'
+p61
+sg4
+S'20150102\xc2\xa010:36PM UTC'
+p62
+sg6
+S'BRIEF-Founder Securities says its 2nd major shareholder applied to court to protect its assets'
+p63
+sa(dp64
+g2
+S'http://www.reuters.com/article/2015/01/02/morningcall-india-idUSL3N0UG10M20150102'
+p65
+sg4
+S'20150102\xc2\xa010:05PM UTC'
+p66
+sg6
+S'India Morning Call-Global Markets'
+p67
+sa(dp68
+g2
+S'http://www.reuters.com/article/2015/01/02/us-hyundai-motor-kia-motors-sales-idUSKBN0KA1WY20150102'
+p69
+sg4
+S'20150102\xc2\xa09:55PM UTC'
+p70
+sg6
+S'Hyundai-Kia see 2015 sales growth weakest in 12 years'
+p71
+sa(dp72
+g2
+S'http://www.reuters.com/article/2015/01/02/hyundai-motor-kia-motors-sales-idUSL3N0U62DB20150102'
+p73
+sg4
+S'20150102\xc2\xa09:53PM UTC'
+p74
+sg6
+S'UPDATE 2-Hyundai-Kia see 2015 sales growth weakest in 12 years'
+p75
+sa(dp76
+g2
+S'http://www.reuters.com/article/2015/01/02/us-egypt-jazeera-idUSKBN0KA1DI20150102'
+p77
+sg4
+S'20150102\xc2\xa09:52PM UTC'
+p78
+sg6
+S'Jailed Australian journalist seeks presidential deportation from Egypt'
+p79
+sa(dp80
+g2
+S'http://www.reuters.com/article/2015/01/02/egypt-jazeera-australia-idUSL3N0UH07U20150102'
+p81
+sg4
+S'20150102\xc2\xa09:49PM UTC'
+p82
+sg6
+S'Jailed Australian journalist seeks presidential deportation from Egypt'
+p83
+sa(dp84
+g2
+S'http://www.reuters.com/article/2015/01/02/fbc-oregon-floridastate-recap-idUSMTZEB12J1VB2L20150102'
+p85
+sg4
+S'20150102\xc2\xa09:41PM UTC'
+p86
+sg6
+S'Oregon 59, Florida State 20'
+p87
+sa(dp88
+g2
+S'http://www.reuters.com/article/2015/01/02/press-digest-hongkong-idUSL3N0UH08T20150102'
+p89
+sg4
+S'20150102\xc2\xa09:38PM UTC'
+p90
+sg6
+S'PRESS DIGEST - Hong Kong - Jan 2'
+p91
+sa(dp92
+g2
+S'http://www.reuters.com/article/2015/01/02/fitch-affirms-and-withdraws-bluestone-se-idUSFit88498020150102'
+p93
+sg4
+S'20150102\xc2\xa09:33PM UTC'
+p94
+sg6
+S'Fitch Affirms and Withdraws Bluestone Servicer Ratings'
+p95
+sa(dp96
+g2
+S'http://www.reuters.com/article/2015/01/02/markets-australia-stocks-idUSL3N0UH06F20150102'
+p97
+sg4
+S'20150102\xc2\xa09:25PM UTC'
+p98
+sg6
+S'Australia shares start year on cautious note'
+p99
+sa(dp100
+g2
+S'http://www.reuters.com/article/2015/01/02/idUS222994310320150102'
+p101
+sg4
+S'20150102\xc2\xa09:13PM UTC'
+p102
+sg6
+S'China index: Ending the year without a bang'
+p103
+sa(dp104
+g2
+S'http://www.reuters.com/article/2015/01/02/idUS34112478220150102'
+p105
+sg4
+S'20150102\xc2\xa09:11PM UTC'
+p106
+sg6
+S'Japan\xe2\x80\x99s cash helicopter may be first to take off'
+p107
+sa(dp108
+g2
+S'http://www.reuters.com/article/2015/01/02/china-kaisa-group-debt-idUSL3N0UH00N20150102'
+p109
+sg4
+S'20150102\xc2\xa08:39PM UTC'
+p110
+sg6
+S'China developer Kaisa says fails to repay $51 mln loan, may default on others'
+p111
+sa(dp112
+g2
+S'http://www.reuters.com/article/2015/01/02/indonesia-airplane-idUSL3N0UG1BQ20150102'
+p113
+sg4
+S'20150102\xc2\xa08:34PM UTC'
+p114
+sg6
+S'Investigators to use acoustic equipment to search for AirAsia black boxes'
+p115
+sa(dp116
+g2
+S'http://www.reuters.com/article/2015/01/02/usa-florida-gaymarriage-idUSL1N0UG0LV20150102'
+p117
+sg4
+S'20150102\xc2\xa08:18PM UTC'
+p118
+sg6
+S'UPDATE 1-Federal judge allows gay marriages to begin across Florida'
+p119
+sa(dp120
+g2
+S'http://www.reuters.com/article/2015/01/02/us-usa-new-york-cuomo-idUSKBN0KA1TO20150102'
+p121
+sg4
+S'20150102\xc2\xa08:15PM UTC'
+p122
+sg6
+S'NY Governor Cuomo vows to rebuild trust in police in second term'
+p123
+sa(dp124
+g2
+S'http://www.reuters.com/article/2015/01/02/diary-emrg-econ-idUSL3N0UG10L20150102'
+p125
+sg4
+S'20150102\xc2\xa08:05PM UTC'
+p126
+sg6
+S'DIARY -Emerging Markets Economic Events to Jan 15'
+p127
+sa(dp128
+g2
+S'http://www.reuters.com/article/2015/01/02/diary-top-econ-idUSL3N0UG13620150102'
+p129
+sg4
+S'20150102\xc2\xa08:03PM UTC'
+p130
+sg6
+S'DIARY- Top Economic Events to Jan 15'
+p131
+sa(dp132
+g2
+S'http://www.reuters.com/article/2015/01/02/idUSnGNXc5p4mx+1c0+GNW20150102'
+p133
+sg4
+S'20150102\xc2\xa07:50PM UTC'
+p134
+sg6
+S'ADVA Optical Networking Appoints Ulrich Dopfer as New Chief Financial Officer'
+p135
+sa(dp136
+g2
+S'http://www.reuters.com/article/2015/01/02/singapore-economy-property-idUSS8N0Q602Q20150102'
+p137
+sg4
+S'20150102\xc2\xa07:50PM UTC'
+p138
+sg6
+S'Singapore private home prices fall 1.0 pct in Q4 - housing authority'
+p139
+sa(dp140
+g2
+S'http://www.reuters.com/article/2015/01/02/sino-american-nyse-idUSnPn1B6bww+90+PRN20150102'
+p141
+sg4
+S'20150102\xc2\xa07:41PM UTC'
+p142
+sg6
+S"Colorful Chinese Province Of Yunnan On Display At Times Square 2015 New Year's Eve Countdown"
+p143
+sa(dp144
+g2
+S'http://www.reuters.com/article/2015/01/02/enbridge-inc-fire-idUSL1N0UH00B20150102'
+p145
+sg4
+S'20150102\xc2\xa07:39PM UTC'
+p146
+sg6
+S'Enbridge oil facility in North Dakota catches fire; damage unclear'
+p147
+sa(dp148
+g2
+S'http://www.reuters.com/article/2015/01/02/markets-precious-idUSL3N0UH02A20150102'
+p149
+sg4
+S'20150102\xc2\xa07:35PM UTC'
+p150
+sg6
+S'PRECIOUS-Gold ticks up with oil, but poised for third weekly decline'
+p151
+sa(dp152
+g2
+S'http://www.reuters.com/article/2015/01/02/idUSnHUG7NvZ9z+1d4+ONE20150102'
+p153
+sg4
+S'20150102\xc2\xa07:30PM UTC'
+p154
+sg6
+S'ADVA Optical Networking Appoints Ulrich Dopfer as New Chief Financial Officer'
+p155
+sa(dp156
+g2
+S'http://www.reuters.com/article/2015/01/01/gm-recalls-reports-idUSL1N0UG0J220150101'
+p157
+sg4
+S'20150102\xc2\xa06:50PM UTC'
+p158
+sg6
+S'UPDATE 2-General Motors issues 3 new recalls, cites ignition systems'
+p159
+sa(dp160
+g2
+S'http://www.reuters.com/article/2015/01/01/us-usa-massachusetts-accident-idUSKBN0KA1X020150101'
+p161
+sg4
+S'20150102\xc2\xa06:20PM UTC'
+p162
+sg6
+S'Police car strikes, kills student lying on Massachusetts road'
+p163
+sa(dp164
+g2
+S'http://www.reuters.com/article/2015/01/01/us-hyundai-motor-kia-motors-sales-idUSKBN0KA1WY20150101'
+p165
+sg4
+S'20150102\xc2\xa06:18PM UTC'
+p166
+sg6
+S'Hyundai-Kia sees slowest sales growth in 12 years in 2015'
+p167
+sa(dp168
+g2
+S'http://www.reuters.com/article/2015/01/01/hyundai-motor-kia-motors-sales-idUSL3N0U62DB20150101'
+p169
+sg4
+S'20150102\xc2\xa06:14PM UTC'
+p170
+sg6
+S'UPDATE 1-Hyundai-Kia sees slowest sales growth in 12 years in 2015'
+p171
+sa(dp172
+g2
+S'http://www.reuters.com/article/2015/01/01/hyundai-motor-kia-motors-sales-idUSL3N0UG13N20150101'
+p173
+sg4
+S'20150102\xc2\xa06:09PM UTC'
+p174
+sg6
+S'Hyundai, Kia target 2.5 pct rise in global vehicle sales in 2015'
+p175
+sa(dp176
+g2
+S'http://www.reuters.com/article/2015/01/01/china-economy-pmi-idUSL3N0UG1AR20150101'
+p177
+sg4
+S'20150102\xc2\xa06:03PM UTC'
+p178
+sg6
+S'RPT-UPDATE 3-China Dec factory PMIs suggest economy cooling further, more stimulus expected'
+p179
+sa(dp180
+g2
+S'http://www.reuters.com/article/2015/01/01/fbc-missouri-minnesota-writethru-idUSMTZEB11IONIYG20150101'
+p181
+sg4
+S'20150102\xc2\xa06:02PM UTC'
+p182
+sg6
+S'Missouri uses tricks to down Minnesota'
+p183
+sa(dp184
+g2
+S'http://www.reuters.com/article/2015/01/01/tx-nexstar-broadcasting-idUSnBw015053a+100+BSW20150101'
+p185
+sg4
+S'20150102\xc2\xa06:00PM UTC'
+p186
+sg6
+S'Nexstar Broadcasting and Charter Communications Reach New Distribution Agreement Covering Fifteen Markets'
+p187
+sa(dp188
+g2
+S'http://www.reuters.com/article/2015/01/01/us-usa-florida-gaymarriage-idUSKBN0KA1WI20150101'
+p189
+sg4
+S'20150102\xc2\xa05:53PM UTC'
+p190
+sg6
+S'Federal judge allows gay marriages to begin across Florida'
+p191
+sa(dp192
+g2
+S'http://www.reuters.com/article/2015/01/01/usa-florida-gaymarriage-idUSL1N0UG0KV20150101'
+p193
+sg4
+S'20150102\xc2\xa05:46PM UTC'
+p194
+sg6
+S'Federal judge allows gay marriages to begin across Florida'
+p195
+sa(dp196
+g2
+S'http://www.reuters.com/article/2015/01/01/fbc-michiganstate-baylor-recap-idUSMTZEB11IQLC0B20150101'
+p197
+sg4
+S'20150102\xc2\xa05:46PM UTC'
+p198
+sg6
+S'Michigan State 42, Baylor 41'
+p199
+sa(dp200
+g2
+S'http://www.reuters.com/article/2015/01/01/il-alz-founder-passes-idUSnPnc6PQSW+8f+PRN20150101'
+p201
+sg4
+S'20150102\xc2\xa05:38PM UTC'
+p202
+sg6
+S"Alzheimer's Association Mourns Death Of Founding President And Honorary Chair Jerome H. Stone"
+p203
+sa(dp204
+g2
+S'http://www.reuters.com/article/2015/01/01/us-usa-police-cleveland-idUSKBN0KA1WG20150101'
+p205
+sg4
+S'20150102\xc2\xa05:34PM UTC'
+p206
+sg6
+S'Sheriff could probe police death of Cleveland boy: report'
+p207
+sa(dp208
+g2
+S'http://www.reuters.com/article/2015/01/01/us-ukraine-crisis-conflict-idUSKBN0KA1IQ20150101'
+p209
+sg4
+S'20150102\xc2\xa05:31PM UTC'
+p210
+sg6
+S'Ukraine says rebels keep up attacks into New Year'
+p211
+sa(dp212
+g2
+S'http://www.reuters.com/article/2015/01/01/us-mideast-crisis-assad-idUSKBN0K919D20150101'
+p213
+sg4
+S'20150102\xc2\xa05:30PM UTC'
+p214
+sg6
+S"Syria's Assad shown hugging troops in embattled Damascus district "
+p215
+sa(dp216
+g2
+S'http://www.reuters.com/article/2015/01/01/us-libya-security-idUSKBN0KA1WA20150101'
+p217
+sg4
+S'20150102\xc2\xa05:22PM UTC'
+p218
+sg6
+S'Libya sees more progress in extinguishing fire at eastern oil terminal'
+p219
+sa(dp220
+g2
+S'http://www.reuters.com/article/2015/01/01/libya-security-idUSL6N0UG0KL20150101'
+p221
+sg4
+S'20150102\xc2\xa05:18PM UTC'
+p222
+sg6
+S'Libya sees more progress in extinguishing fire at eastern oil terminal'
+p223
+sa(dp224
+g2
+S'http://www.reuters.com/article/2015/01/01/us-cuba-usa-dissidents-idUSKBN0KA1W220150101'
+p225
+sg4
+S'20150102\xc2\xa05:13PM UTC'
+p226
+sg6
+S'Cuban police detain protesters outside prison, dissidents say'
+p227
+sa(dp228
+g2
+S'http://www.reuters.com/article/2015/01/01/us-nhl-classic-idUSKBN0KA1VW20150101'
+p229
+sg4
+S'20150102\xc2\xa05:10PM UTC'
+p230
+sg6
+S'Capitals ring in New Year with Classic win over Blackhawks'
+p231
+sa(dp232
+g2
+S'http://www.reuters.com/article/2015/01/01/outback-free-shrimp-idUSnPn3dF4P7+8a+PRN20150101'
+p233
+sg4
+S'20150102\xc2\xa05:10PM UTC'
+p234
+sg6
+S'Touchdown! Outback Bowl Victors Wisconsin Badgers Score Free* Coconut Shrimp For America'
+p235
+sa(dp236
+g2
+S'http://www.reuters.com/article/2015/01/01/hkn-capitals-blackhawks-writethru-idUSMTZEB11IP5QYJ20150101'
+p237
+sg4
+S'20150102\xc2\xa05:09PM UTC'
+p238
+sg6
+S'Late goal lifts Caps past Blackhawks in Winter Classic'
+p239
+sa(dp240
+g2
+S'http://www.reuters.com/article/2015/01/01/us-usa-police-california-idUSKBN0KA1VU20150101'
+p241
+sg4
+S'20150102\xc2\xa05:07PM UTC'
+p242
+sg6
+S'California man arrested, charged with shooting at police'
+p243
+sa(dp244
+g2
+S'http://www.reuters.com/article/2015/01/01/fbc-wisconsin-auburn-writethru-idUSMTZEB11INTFYD20150101'
+p245
+sg4
+S'20150102\xc2\xa04:56PM UTC'
+p246
+sg6
+S'Gordon, Wisconsin run past Auburn in Outback Bowl'
+p247
+sa(dp248
+g2
+S'http://www.reuters.com/article/2015/01/01/ca-dole-rose-parade-idUSnPn493H0s+84+PRN20150101'
+p249
+sg4
+S'20150102\xc2\xa04:47PM UTC'
+p250
+sg6
+S'Dole Packaged Foods Breaks Records; Continues Winning Streak with Fifth Rose Parade Sweepstakes Trophy'
+p251
+sa(dp252
+g2
+S'http://www.reuters.com/article/2015/01/01/us-gm-recalls-reports-idUSKBN0KA1RZ20150101'
+p253
+sg4
+S'20150102\xc2\xa04:32PM UTC'
+p254
+sg6
+S'General Motors issues three new recalls, cites ignition systems'
+p255
+sa(dp256
+g2
+S'http://www.reuters.com/article/2015/01/01/ky-papa-johns-intl-idUSnBw015050a+100+BSW20150101'
+p257
+sg4
+S'20150102\xc2\xa04:21PM UTC'
+p258
+sg6
+S'Papa John\xe2\x80\x99s Celebrates Better Ingredients this New Year with Buy One Get One Offer'
+p259
+sa(dp260
+g2
+S'http://www.reuters.com/article/2015/01/01/markets-australia-stocks-idUSL3N0UG17320150101'
+p261
+sg4
+S'20150102\xc2\xa04:19PM UTC'
+p262
+sg6
+S'Australia shares seen to start the year weaker'
+p263
+sa(dp264
+g2
+S'http://www.reuters.com/article/2015/01/01/us-usa-crime-newyork-idUSKBN0KA1UI20150101'
+p265
+sg4
+S'20150102\xc2\xa04:12PM UTC'
+p266
+sg6
+S'New York City murders hit record low in 2014: NY Times'
+p267
+sa(dp268
+g2
+S'http://www.reuters.com/article/2015/01/01/us-ecb-policy-draghi-idUSKBN0KA1TT20150101'
+p269
+sg4
+S'20150102\xc2\xa04:11PM UTC'
+p270
+sg6
+S'Draghi: Risk of ECB failing its mandate higher than 6 mths ago - paper'
+p271
+sa(dp272
+g2
+S'http://www.reuters.com/article/2015/01/01/us-southkorea-youth-unemployment-idUSKBN0KA1US20150101'
+p273
+sg4
+S'20150102\xc2\xa04:08PM UTC'
+p274
+sg6
+S'With jobs scarce, South Korean students linger on campus'
+p275
+sa(dp276
+g2
+S'http://www.reuters.com/article/2015/01/01/us-sacyr-panama-idUSKBN0KA1UZ20150101'
+p277
+sg4
+S'20150102\xc2\xa04:07PM UTC'
+p278
+sg6
+S'Sacyr-led group wins $233 million claim in Panama Canal dispute'
+p279
+sa(dp280
+g2
+S'http://www.reuters.com/article/2015/01/01/idUSnGNX540fdT+1c1+GNW20150101'
+p281
+sg4
+S'20150102\xc2\xa03:52PM UTC'
+p282
+sg6
+S'SPAGHETTI WAREHOUSE INVITES GUESTS TO CELEBRATE NATIONAL SPAGHETTI DAY WITH "FREE SPAGHETTI SUNDAY" ON JANUARY 4TH'
+p283
+sa(dp284
+g2
+S'http://www.reuters.com/article/2015/01/01/us-nba-cavaliers-james-idUSKBN0KA1UG20150101'
+p285
+sg4
+S'20150102\xc2\xa03:50PM UTC'
+p286
+sg6
+S'James to miss two weeks with strained knee and back pain'
+p287
+sa(dp288
+g2
+S'http://www.reuters.com/article/2015/01/01/ca-princess-cruises-idUSnPn1ty3X5+82+PRN20150101'
+p289
+sg4
+S'20150102\xc2\xa03:47PM UTC'
+p290
+sg6
+S'Princess Cruises Kicks Off 50th Anniversary Year with First-Ever Float in The Rose Parade\xc2\xae'
+p291
+sa(dp292
+g2
+S'http://www.reuters.com/article/2015/01/01/us-usa-newyears-idUSKBN0K917020150101'
+p293
+sg4
+S'20150102\xc2\xa03:47PM UTC'
+p294
+sg6
+S'New Year rings in with tightened NYC security, California arrests '
+p295
+sa(dp296
+g2
+S'http://www.reuters.com/article/2015/01/01/sacyr-panama-idUSL1N0UG0I620150101'
+p297
+sg4
+S'20150102\xc2\xa03:36PM UTC'
+p298
+sg6
+S'Sacyr-led group wins $233 mln claim in Panama Canal dispute'
+p299
+sa(dp300
+g2
+S'http://www.reuters.com/article/2015/01/01/ca-fiesta-parade-floats-idUSnBw015048a+100+BSW20150101'
+p301
+sg4
+S'20150102\xc2\xa03:26PM UTC'
+p302
+sg6
+S'Fiesta Parade Floats and Its Clients Take Home 8 Rose Parade\xc2\xae Trophies, Including a 22nd Consecutive Sweepstakes Trophy for Its Dole Float Entry'
+p303
+sa(dp304
+g2
+S'http://www.reuters.com/article/2015/01/01/ca-wells-fargo-idUSnBw015046a+100+BSW20150101'
+p305
+sg4
+S'20150102\xc2\xa03:15PM UTC'
+p306
+sg6
+S'Wells Fargo and Military Warriors Support Foundation Surprise Veteran with Mortgage-Free Home During Rose Parade\xc2\xae'
+p307
+sa(dp308
+g2
+S'http://www.reuters.com/article/2015/01/01/us-usa-new-york-cuomo-idUSKBN0KA1TO20150101'
+p309
+sg4
+S'20150102\xc2\xa03:09PM UTC'
+p310
+sg6
+S'NY Governor Cuomo vows to rebuild trust in police in second term'
+p311
+sa(dp312
+g2
+S'http://www.reuters.com/article/2015/01/01/us-indonesia-airplane-idUSKBN0K900D20150101'
+p313
+sg4
+S'20150102\xc2\xa03:06PM UTC'
+p314
+sg6
+S'Weather stalls search for AirAsia black boxes; first victim buried'
+p315
+sa(dp316
+g2
+S'http://www.reuters.com/article/2015/01/01/us-indonesia-airplane-airbus-group-idUSKBN0KA1TK20150101'
+p317
+sg4
+S'20150102\xc2\xa03:06PM UTC'
+p318
+sg6
+S'French investigators to arrive Friday at AirAsia crash scene: BEA '
+p319
+sa(dp320
+g2
+S'http://www.reuters.com/article/2015/01/01/us-usa-policechief-georgia-idUSKBN0KA1TG20150101'
+p321
+sg4
+S'20150102\xc2\xa03:03PM UTC'
+p322
+sg6
+S'Georgia police chief says accidentally shot, critically hurt wife'
+p323
+sa(dp324
+g2
+S'http://www.reuters.com/article/2015/01/01/indonesia-airplane-airbus-group-idUSL6N0UG0IM20150101'
+p325
+sg4
+S'20150102\xc2\xa03:01PM UTC'
+p326
+sg6
+S'French investigators to arrive Friday at AirAsia crash scene - BEA'
+p327
+sa(dp328
+g2
+S'http://www.reuters.com/article/2015/01/01/us-kenya-attacks-idUSKBN0KA1T020150101'
+p329
+sg4
+S'20150102\xc2\xa02:45PM UTC'
+p330
+sg6
+S'Three Kenyan soldiers wounded in gun attack near Somali border'
+p331
+sa(dp332
+g2
+S'http://www.reuters.com/article/2015/01/01/us-brazil-rousseff-idUSKBN0KA1RP20150101'
+p333
+sg4
+S'20150102\xc2\xa02:38PM UTC'
+p334
+sg6
+S"Brazil's Rousseff vows budget cuts, anti-corruption push in second term"
+p335
+sa(dp336
+g2
+S'http://www.reuters.com/article/2015/01/01/brazil-rousseff-idUSL1N0UG0GI20150101'
+p337
+sg4
+S'20150102\xc2\xa02:36PM UTC'
+p338
+sg6
+S"UPDATE 1-Brazil's Rousseff vows budget cuts, anti-corruption push in 2nd term"
+p339
+sa(dp340
+g2
+S'http://www.reuters.com/article/2015/01/01/idUSnGNXtbcn9+e0+GNW20150101'
+p341
+sg4
+S'20150102\xc2\xa02:17PM UTC'
+p342
+sg6
+S"Experian's New FICO Score Validated and Recommended by America's Highest Achieving Credit Consumer, but Genuine Concern is Identified; YouTube Video Proves Model Accuracy"
+p343
+sa(dp344
+g2
+S'http://www.reuters.com/article/2015/01/01/us-dish-theinterview-idUSKBN0KA1SB20150101'
+p345
+sg4
+S'20150102\xc2\xa02:13PM UTC'
+p346
+sg6
+S"DISH Network to make 'The Interview' available on January 2"
+p347
+sa(dp348
+g2
+S'http://www.reuters.com/article/2015/01/01/us-brazil-mining-idUSKBN0KA1S720150101'
+p349
+sg4
+S'20150102\xc2\xa02:03PM UTC'
+p350
+sg6
+S'Brazil to rework mining code stalled in Congress, minister says'
+p351
+sa(dp352
+g2
+S'http://www.reuters.com/article/2015/01/01/brazil-mining-idUSL1N0UG0GK20150101'
+p353
+sg4
+S'20150102\xc2\xa02:01PM UTC'
+p354
+sg6
+S'Brazil to rework mining code stalled in Congress, minister says'
+p355
+sa(dp356
+g2
+S'http://www.reuters.com/article/2015/01/01/us-health-cancer-luck-idUSKBN0KA1S320150101'
+p357
+sg4
+S'20150102\xc2\xa02:01PM UTC'
+p358
+sg6
+S'Biological bad luck blamed in two-thirds of cancer cases'
+p359
+sa(dp360
+g2
+S'http://www.reuters.com/article/2015/01/01/health-cancer-luck-idUSL1N0UE0VF20150101'
+p361
+sg4
+S'20150102\xc2\xa02:00PM UTC'
+p362
+sg6
+S'Biological bad luck blamed in two-thirds of cancer cases'
+p363
+sa(dp364
+g2
+S'http://www.reuters.com/article/2015/01/01/us-palestinians-israel-abbas-idUSKBN0KA1NI20150101'
+p365
+sg4
+S'20150102\xc2\xa01:52PM UTC'
+p366
+sg6
+S'Abbas trades stalemate for confrontation in ICC move'
+p367
+sa(dp368
+g2
+S'http://www.reuters.com/article/2015/01/01/ny-toshiba-idUSnBw015044a+100+BSW20150101'
+p369
+sg4
+S'20150102\xc2\xa01:51PM UTC'
+p370
+sg6
+S"Behind-the-Scenes: Toshiba Documents Entire Times Square 2015 New Year's Eve Celebration in 90 Seconds"
+p371
+sa(dp372
+g2
+S'http://www.reuters.com/article/2015/01/01/gm-recalls-reports-idUSL1N0UG0DI20150101'
+p373
+sg4
+S'20150102\xc2\xa01:45PM UTC'
+p374
+sg6
+S'General Motors issues three new recalls -reports'
+p375
+sa(dp376
+g2
+S'http://www.reuters.com/article/2015/01/01/brazil-rousseff-idUSE4N0S302020150101'
+p377
+sg4
+S'20150102\xc2\xa01:33PM UTC'
+p378
+sg6
+S"Brazil's Rousseff vows fiscal austerity in second term"
+p379
+sa(dp380
+g2
+S'http://www.reuters.com/article/2015/01/01/fl-transmedia-idUSnPn5vTr8S+89+PRN20150101'
+p381
+sg4
+S'20150102\xc2\xa01:16PM UTC'
+p382
+sg6
+S'TransMedia Group Resolves To Do More PR For Humanity In 2015'
+p383
+sa(dp384
+g2
+S'http://www.reuters.com/article/2015/01/01/us-bahrain-arrest-usa-idUSKBN0KA1E420150101'
+p385
+sg4
+S'20150102\xc2\xa01:12PM UTC'
+p386
+sg6
+S'U.S. concerned over detention of Bahraini opposition leader'
+p387
+sa(dp388
+g2
+S'http://www.reuters.com/article/2015/01/01/idUSnMKWdk5jja+1c0+MKW20150101'
+p389
+sg4
+S'20150102\xc2\xa012:54PM UTC'
+p390
+sg6
+S'New Gold Completes Acquisition of Bayfield Ventures'
+p391
+sa(dp392
+g2
+S'http://www.reuters.com/article/2015/01/01/idUSnCCNbP7qB+e9+MKW20150101'
+p393
+sg4
+S'20150102\xc2\xa012:54PM UTC'
+p394
+sg6
+S'New Gold Completes Acquisition of Bayfield Ventures'
+p395
+sa(dp396
+g2
+S'http://www.reuters.com/article/2015/01/01/us-nfl-wildcard-idUSKBN0KA1QF20150101'
+p397
+sg4
+S'20150102\xc2\xa012:42PM UTC'
+p398
+sg6
+S'Resurgent Cowboys headline wildcard weekend'
+p399
+sa(dp400
+g2
+S'http://www.reuters.com/article/2015/01/01/us-nigeria-violence-idUSKBN0KA1Q120150101'
+p401
+sg4
+S'20150102\xc2\xa012:28PM UTC'
+p402
+sg6
+S"Suicide bomber hits church in Nigeria's Gombe, wounding eight"
+p403
+sa(dp404
+g2
+S'http://www.reuters.com/article/2015/01/01/us-tennis-brisbane-delpotro-idUSKBN0KA1BQ20150101'
+p405
+sg4
+S'20150102\xc2\xa012:17PM UTC'
+p406
+sg6
+S'Wrist injury rules Del Potro out of Brisbane event'
+p407
+sa(dp408
+g2
+S'http://www.reuters.com/article/2015/01/01/us-usa-helicoptercrash-arizona-idUSKBN0KA1PV20150101'
+p409
+sg4
+S'20150102\xc2\xa012:16PM UTC'
+p410
+sg6
+S"Two killed in crash of sheriff's office helicopter in Arizona"
+p411
+sa(dp412
+g2
+S'http://www.reuters.com/article/2015/01/01/us-pope-peace-idUSKBN0KA1IS20150101'
+p413
+sg4
+S'20150102\xc2\xa011:50AM UTC'
+p414
+sg6
+S'Pope urges united fight against slavery, human trafficking'
+p415
+sa(dp416
+g2
+S'http://www.reuters.com/article/2015/01/01/technavio-idUSnBw015011a+100+BSW20150101'
+p417
+sg4
+S'20150102\xc2\xa011:30AM UTC'
+p418
+sg6
+S'TechNavio Says Emerging Markets Will Provide Growth Opportunities to Manufacturers in the Global OEM Premium Audio Market by 2018'
+p419
+sa(dp420
+g2
+S'http://www.reuters.com/article/2015/01/01/us-turkey-arrest-idUSKBN0KA1OR20150101'
+p421
+sg4
+S'20150102\xc2\xa011:24AM UTC'
+p422
+sg6
+S'Man with automatic weapon detained near Istanbul palace: media'
+p423
+sa(dp424
+g2
+S'http://www.reuters.com/article/2015/01/01/us-iran-saudi-idUSKBN0KA1OP20150101'
+p425
+sg4
+S'20150102\xc2\xa011:22AM UTC'
+p426
+sg6
+S'Iran says Saudi Arabia should move to curb oil price fall'
+p427
+sa(dp428
+g2
+S'http://www.reuters.com/article/2015/01/01/us-france-economy-idUSKBN0KA1OI20150101'
+p429
+sg4
+S'20150102\xc2\xa011:11AM UTC'
+p430
+sg6
+S"Economist Piketty declines France's Legion d'Honneur"
+p431
+sa(dp432
+g2
+S'http://www.reuters.com/article/2015/01/01/us-mideast-crisis-syria-opposition-idUSKBN0KA1OA20150101'
+p433
+sg4
+S'20150102\xc2\xa011:10AM UTC'
+p434
+sg6
+S'Syria opposition group: Assad must go for any peace plan to work'
+p435
+sa(dp436
+g2
+S'http://www.reuters.com/article/2015/01/01/france-economy-idUSL6N0UG0F920150101'
+p437
+sg4
+S'20150102\xc2\xa011:09AM UTC'
+p438
+sg6
+S"Economist Piketty declines France's Legion d'Honneur"
+p439
+sa(dp440
+g2
+S'http://www.reuters.com/article/2015/01/01/france-economy-idUSL6N0UG0EH20150101'
+p441
+sg4
+S'20150102\xc2\xa011:08AM UTC'
+p442
+sg6
+S"Economist Piketty declines France's Legion d'Honneur"
+p443
+sa(dp444
+g2
+S'http://www.reuters.com/article/2015/01/01/us-health-elderly-winter-falls-idUSKBN0KA1O620150101'
+p445
+sg4
+S'20150102\xc2\xa011:07AM UTC'
+p446
+sg6
+S'Winter weather alerts may signal greater fall risk for elderly'
+p447
+sa(dp448
+g2
+S'http://www.reuters.com/article/2015/01/01/us-germany-immigration-idUSKBN0KA1KZ20150101'
+p449
+sg4
+S'20150102\xc2\xa011:03AM UTC'
+p450
+sg6
+S'One in 8 Germans would join anti-Muslim marches: poll'
+p451
+sa(dp452
+g2
+S'http://www.reuters.com/article/2015/01/01/idUSnGNXCCNJB+ff+GNW20150101'
+p453
+sg4
+S'20150102\xc2\xa011:00AM UTC'
+p454
+sg6
+S'New Year Hit of Internet Finance -- Licaiwu.com Comes Online at 0:00'
+p455
+sa(dp456
+g2
+S'http://www.reuters.com/article/2015/01/01/ga-zep-idUSnBw015008a+100+BSW20150101'
+p457
+sg4
+S'20150102\xc2\xa011:00AM UTC'
+p458
+sg6
+S'Restaurants, Food Service Operators and Consumers Take Note: Zep Inc. Launches Patent Pending Microwave Miracle Foaming Cleaner'
+p459
+sa(dp460
+g2
+S'http://www.reuters.com/article/2015/01/01/us-egypt-jazeera-idUSKBN0KA1DI20150101'
+p461
+sg4
+S'20150102\xc2\xa010:46AM UTC'
+p462
+sg6
+S'Egyptian court orders retrial of Al Jazeera journalists'
+p463
+sa(dp464
+g2
+S'http://www.reuters.com/article/2015/01/01/technavio-idUSnBw015010a+100+BSW20150101'
+p465
+sg4
+S'20150102\xc2\xa010:45AM UTC'
+p466
+sg6
+S'TechNavio Says the Need for Energy Conservation Will Drive the Global Lighting Control System Market Through 2019'
+p467
+sa(dp468
+g2
+S'http://www.reuters.com/article/2015/01/01/us-usa-earthquake-california-idUSKBN0KA1NC20150101'
+p469
+sg4
+S'20150102\xc2\xa010:41AM UTC'
+p470
+sg6
+S'Magnitude 5.1 quake hits in waters off Northern California coast'
+p471
+sa(dp472
+g2
+S'http://www.reuters.com/article/2015/01/01/oman-budget-idUSL6N0UG0CY20150101'
+p473
+sg4
+S'20150102\xc2\xa010:40AM UTC'
+p474
+sg6
+S'UPDATE 1-Oman 2015 budget raises state spending at expense of big deficit'
+p475
+sa(dp476
+g2
+S'http://www.reuters.com/article/2015/01/01/us-india-politics-idUSKBN0KA1NE20150101'
+p477
+sg4
+S'20150102\xc2\xa010:36AM UTC'
+p478
+sg6
+S'India PM replaces Soviet-style planning body, aiming to boost growth'
+p479
+sa(dp480
+g2
+S'http://www.reuters.com/article/2015/01/01/us-china-stampede-idUSKBN0K916W20150101'
+p481
+sg4
+S'20150102\xc2\xa010:33AM UTC'
+p482
+sg6
+S"New Year's Eve stampede kills 36 on Shanghai waterfront"
+p483
+sa(dp484
+g2
+S'http://www.reuters.com/article/2015/01/01/kanye-west-album-idUSnPn43Dy6X+89+PRN20150101'
+p485
+sg4
+S'20150102\xc2\xa010:18AM UTC'
+p486
+sg6
+S'Kanye West Releases "Only One," First Single From Forthcoming Solo Album & First Reveal Of Several Musical Collaborations With Paul McCartney To Come'
+p487
+sa(dp488
+g2
+S'http://www.reuters.com/article/2015/01/01/idUSnMKW8ZMJsa+1dc+MKW20150101'
+p489
+sg4
+S'20150102\xc2\xa010:13AM UTC'
+p490
+sg6
+S'Zeidman Technologies Announces Special Pricing for SynthOS'
+p491
+sa(dp492
+g2
+S'http://www.reuters.com/article/2015/01/01/vallarta-supermarket-idUSnPn6msWv+42+PRN20150101'
+p493
+sg4
+S'20150102\xc2\xa010:00AM UTC'
+p494
+sg6
+S"Children's Hospital Los Angeles Receives A Special Visit"
+p495
+sa(dp496
+g2
+S'http://www.reuters.com/article/2015/01/01/saudi-project-delay-idUSL6N0UF0JK20150101'
+p497
+sg4
+S'20150102\xc2\xa09:56AM UTC'
+p498
+sg6
+S'Saudi Aramco halts Ras Tanura clean fuels project-sources'
+p499
+sa(dp500
+g2
+S'http://www.reuters.com/article/2015/01/01/idUS99415436420150101'
+p501
+sg4
+S'20150102\xc2\xa09:54AM UTC'
+p502
+sg6
+S'Chinese authorities tear down cross on Christian nursing home'
+p503
+sa(dp504
+g2
+S'http://www.reuters.com/article/2015/01/01/dc-ajc-harpercollins-idUSnPn1vvsLl+82+PRN20150101'
+p505
+sg4
+S'20150102\xc2\xa09:51AM UTC'
+p506
+sg6
+S'AJC Urges HarperCollins to Ensure Maps Include Israel'
+p507
+sa(dp508
+g2
+S'http://www.reuters.com/article/2015/01/01/us-mideast-crisis-airstrikes-idUSKBN0KA1M320150101'
+p509
+sg4
+S'20150102\xc2\xa09:49AM UTC'
+p510
+sg6
+S'U.S., partners hit Islamic State in Syria, Iraq'
+p511
+sa(dp512
+g2
+S'http://www.reuters.com/article/2015/01/01/idUS100953789320150101'
+p513
+sg4
+S'20150102\xc2\xa09:44AM UTC'
+p514
+sg6
+S'Egyptian court permanently bans Jewish festival on \xe2\x80\x98moral\xe2\x80\x99 grounds'
+p515
+sa(dp516
+g2
+S'http://www.reuters.com/article/2015/01/01/us-health-ebola-leone-idUSKBN0KA1LP20150101'
+p517
+sg4
+S'20150102\xc2\xa09:34AM UTC'
+p518
+sg6
+S"Sierra Leone's president calls for week of fasting, prayer over Ebola"
+p519
+sa(dp520
+g2
+S'http://www.reuters.com/article/2015/01/01/health-ebola-leone-idUSL6N0UG0C120150101'
+p521
+sg4
+S'20150102\xc2\xa09:31AM UTC'
+p522
+sg6
+S"Sierra Leone's president calls for week of fasting, prayer over Ebola"
+p523
+sa(dp524
+g2
+S'http://www.reuters.com/article/2015/01/01/us-eu-latvia-idUSKBN0KA1LB20150101'
+p525
+sg4
+S'20150102\xc2\xa09:22AM UTC'
+p526
+sg6
+S'Latvia takes EU reins focused on growth plan, border defense'
+p527
+sa(dp528
+g2
+S'http://www.reuters.com/article/2015/01/01/idUS331995833020150101'
+p529
+sg4
+S'20150102\xc2\xa09:18AM UTC'
+p530
+sg6
+S'Egypt bans biblical epic \xe2\x80\x98Exodus,\xe2\x80\x99 20th Century Fox says'
+p531
+sa(dp532
+g2
+S'http://www.reuters.com/article/2015/01/01/oman-budget-idUSL6N0UG02320150101'
+p533
+sg4
+S'20150102\xc2\xa09:17AM UTC'
+p534
+sg6
+S'Oman 2015 budget raises state spending at expense of big deficit'
+p535
+sa(dp536
+g2
+S'http://www.reuters.com/article/2015/01/01/idUS342810804920150101'
+p537
+sg4
+S'20150102\xc2\xa09:11AM UTC'
+p538
+sg6
+S'New Zealand bar manager pleads not guilty to insulting Buddhism in Myanmar'
+p539
+sa(dp540
+g2
+S'http://www.reuters.com/article/2015/01/01/us-italy-president-resignation-idUSKBN0K914H20150101'
+p541
+sg4
+S'20150102\xc2\xa09:11AM UTC'
+p542
+sg6
+S'Italy president says he will step down soon'
+p543
+sa(dp544
+g2
+S'http://www.reuters.com/article/2015/01/01/us-books-authors-bausch-idUSKBN0KA1KR20150101'
+p545
+sg4
+S'20150102\xc2\xa09:02AM UTC'
+p546
+sg6
+S'Book Talk: Bausch on private love, tragedy in 9/11\xe2\x80\x99s shadow'
+p547
+sa(dp548
+g2
+S'http://www.reuters.com/article/2015/01/01/va-capitalone-mascot-idUSnPn5Gzyt6+90+PRN20150101'
+p549
+sg4
+S'20150102\xc2\xa09:00AM UTC'
+p550
+sg6
+S"Auburn's Aubie the Tiger Roars to Victory in the 2014 Capital One Mascot Challenge"
+p551
+sa(dp552
+g2
+S'http://www.reuters.com/article/2015/01/01/kraft-hockeyville-usa-idUSnPnwbCJb+46+PRN20150101'
+p553
+sg4
+S'20150102\xc2\xa09:00AM UTC'
+p554
+sg6
+S"The Puck Drops Today: Kraft, NHL\xc2\xae, NHLPA, NBC Sports Group And USA Hockey Search For America's Most Passionate Hockey Communities To Find Kraft Hockeyville\xe2\x84\xa2 USA"
+p555
+sa(dp556
+g2
+S'http://www.reuters.com/article/2015/01/01/ny-weightwatch-newmag-idUSnPnF3mzK+51+PRN20150101'
+p557
+sg4
+S'20150102\xc2\xa09:00AM UTC'
+p558
+sg6
+S'Weight Watchers Magazine Relaunches With Fresh New Look And Content'
+p559
+sa(dp560
+g2
+S'http://www.reuters.com/article/2015/01/01/wa-nintendo-idUSnBw015005a+100+BSW20150101'
+p561
+sg4
+S'20150102\xc2\xa09:00AM UTC'
+p562
+sg6
+S'Nintendo News: Nintendo Download Highlights New Digital Content for Nintendo Systems'
+p563
+sa(dp564
+g2
+S'http://www.reuters.com/article/2015/01/01/books-authors-bausch-idUSL1N0SO1QE20150101'
+p565
+sg4
+S'20150102\xc2\xa09:00AM UTC'
+p566
+sg6
+S"Book Talk-Bausch on private love, tragedy in 9/11's shadow"
+p567
+sa(dp568
+g2
+S'http://www.reuters.com/article/2015/01/01/nj-retro-fitness-idUSnBw015027a+100+BSW20150101'
+p569
+sg4
+S'20150102\xc2\xa09:00AM UTC'
+p570
+sg6
+S'Are You Paying Too Much For A Gym Membership?'
+p571
+sa(dp572
+g2
+S'http://www.reuters.com/article/2015/01/01/indonesia-airplane-idUSL3N0UG00Q20150101'
+p573
+sg4
+S'20150102\xc2\xa08:33AM UTC'
+p574
+sg6
+S'UPDATE 8-Weather stalls search for AirAsia black boxes; first victim buried'
+p575
+sa(dp576
+g2
+S'http://www.reuters.com/article/2015/01/01/wuyue-e-commerce-idUSnPn7yTDhy+8c+PRN20150101'
+p577
+sg4
+S'20150102\xc2\xa08:15AM UTC'
+p578
+sg6
+S'Wuyue E-commerce Kicks Off Worldwide Agents and Suppliers Recruiting Work'
+p579
+sa(dp580
+g2
+S'http://www.reuters.com/article/2015/01/01/idUS340951117620150101'
+p581
+sg4
+S'20150102\xc2\xa08:14AM UTC'
+p582
+sg6
+S'Guestview: A message of peace and compassion at Prophet Mohammad\xe2\x80\x99s birth'
+p583
+sa(dp584
+g2
+S'http://www.reuters.com/article/2015/01/01/us-mideast-crisis-syria-toll-idUSKBN0KA1J620150101'
+p585
+sg4
+S'20150102\xc2\xa08:13AM UTC'
+p586
+sg6
+S"Syria's war killed 76,021 in 2014: monitor"
+p587
+sa(dp588
+g2
+S'http://www.reuters.com/article/2015/01/01/idUSnMKWh8LNga+1cc+MKW20150101'
+p589
+sg4
+S'20150102\xc2\xa08:00AM UTC'
+p590
+sg6
+S"Knight Therapeutics Inc. and NeurAxon Inc. Form Partnership for the Commercialization of NeurAxon's Innovative Products"
+p591
+sa(dp592
+g2
+S'http://www.reuters.com/article/2015/01/01/idUSnCCN8TsmTQ+1d3+MKW20150101'
+p593
+sg4
+S'20150102\xc2\xa08:00AM UTC'
+p594
+sg6
+S"Knight Therapeutics Inc. and NeurAxon Inc. Form Partnership for the Commercialization of NeurAxon's Innovative Products"
+p595
+sa(dp596
+g2
+S'http://www.reuters.com/article/2015/01/01/tx-hilltop-holdings-idUSnBw015030a+100+BSW20150101'
+p597
+sg4
+S'20150102\xc2\xa08:00AM UTC'
+p598
+sg6
+S'Hilltop Holdings Inc. Completes Acquisition of SWS Group, Inc.'
+p599
+sa(dp600
+g2
+S'http://www.reuters.com/article/2015/01/01/us-lebanon-politics-karami-idUSKBN0KA1JI20150101'
+p601
+sg4
+S'20150102\xc2\xa07:49AM UTC'
+p602
+sg6
+S'Former Lebanese PM Karami dies: state news agency'
+p603
+sa(dp604
+g2
+S'http://www.reuters.com/article/2015/01/01/idUSL6N0UG08620150101'
+p605
+sg4
+S'20150102\xc2\xa07:17AM UTC'
+p606
+sg6
+S'Ethiopia dam project could start power generation by June - official'
+p607
+sa(dp608
+g2
+S'http://www.reuters.com/article/2015/01/01/ca-student-financial-aid-idUSnBw015028a+100+BSW20150101'
+p609
+sg4
+S'20150102\xc2\xa07:15AM UTC'
+p610
+sg6
+S'Filing a FAFSA Improves College Graduation Success'
+p611
+sa(dp612
+g2
+S'http://www.reuters.com/article/2015/01/01/wi-american-girl-idUSnBw015003a+100+BSW20150101'
+p613
+sg4
+S'20150102\xc2\xa07:00AM UTC'
+p614
+sg6
+S'American Girl\xe2\x80\x99s 2015 Girl of the Year\xe2\x84\xa2 \xe2\x80\x9cBakes\xe2\x80\x9d a Difference and Helps Girls Find Their Own Recipe for Success'
+p615
+sa(dp616
+g2
+S'http://www.reuters.com/article/2015/01/01/tx-md-buyline-idUSnBw015002a+100+BSW20150101'
+p617
+sg4
+S'20150102\xc2\xa07:00AM UTC'
+p618
+sg6
+S'MD Buyline Releases Q4.2014 \xe2\x80\x9cUser Satisfaction Trending\xe2\x84\xa2\xe2\x80\x9d Data'
+p619
+sa(dp620
+g2
+S'http://www.reuters.com/article/2015/01/01/collplant-hldg-usa-stocks-idUSL6N0UG09P20150101'
+p621
+sg4
+S'20150102\xc2\xa06:53AM UTC'
+p622
+sg6
+S"Israel's CollPlant plans to list ADRs on U.S. market"
+p623
+sa(dp624
+g2
+S'http://www.reuters.com/article/2015/01/01/idUSnMKWTpBYCa+1ee+MKW20150101'
+p625
+sg4
+S'20150102\xc2\xa06:46AM UTC'
+p626
+sg6
+S'Join THE Club(R): Diamond Resorts International(R) Offers Affordable Luxury Vacations for Everyone'
+p627
+sa(dp628
+g2
+S'http://www.reuters.com/article/2015/01/01/us-sri-lanka-flood-death-idUSKBN0KA1HU20150101'
+p629
+sg4
+S'20150102\xc2\xa06:42AM UTC'
+p630
+sg6
+S'Flash floods, mudslides kill at least 39 in Sri Lanka'
+p631
+sa(dp632
+g2
+S'http://www.reuters.com/article/2015/01/01/idUSL6N0UG09I20150101'
+p633
+sg4
+S'20150102\xc2\xa06:20AM UTC'
+p634
+sg6
+S'Istanbul December retail prices up 0.17 pct, 2015 rise 11.14 pct'
+p635
+sa(dp636
+g2
+S'http://www.reuters.com/article/2015/01/01/idUSnGNXbJn6hK+1d1+GNW20150101'
+p637
+sg4
+S'20150102\xc2\xa06:11AM UTC'
+p638
+sg6
+S'World Patent Marketing Goes Public on New Years with Plans to Open the New York Inventor Exchange (NYIE)'
+p639
+sa(dp640
+g2
+S'http://www.reuters.com/article/2015/01/01/us-mideast-crisis-syria-italians-idUSKBN0KA1H820150101'
+p641
+sg4
+S'20150102\xc2\xa06:07AM UTC'
+p642
+sg6
+S'Video purports to show two Italians held by Syria captors'
+p643
+sa(dp644
+g2
+S'http://www.reuters.com/article/2015/01/01/egypt-jazeera-idUSL6N0UG05C20150101'
+p645
+sg4
+S'20150102\xc2\xa06:07AM UTC'
+p646
+sg6
+S'UPDATE 3-Egyptian court orders retrial of Al Jazeera journalists'
+p647
+sa(dp648
+g2
+S'http://www.reuters.com/article/2015/01/01/turkey-economy-exports-idUSL6N0UG09020150101'
+p649
+sg4
+S'20150102\xc2\xa06:06AM UTC'
+p650
+sg6
+S"Turkey's December exports up 1.1 pct, 2014 exports at record high"
+p651
+sa(dp652
+g2
+S'http://www.reuters.com/article/2015/01/01/mideast-crisis-syria-italians-idUSL6N0UG06520150101'
+p653
+sg4
+S'20150102\xc2\xa06:06AM UTC'
+p654
+sg6
+S'Video purports to show two Italians held by Syria captors'
+p655
+sa(dp656
+g2
+S'http://www.reuters.com/article/2015/01/01/diary-us-meetings-week-idUSL3N0UG10520150101'
+p657
+sg4
+S'20150102\xc2\xa05:45AM UTC'
+p658
+sg6
+S'DIARY-U.S. MEETINGS/WEEK AHEAD'
+p659
+sa(dp660
+g2
+S'http://www.reuters.com/article/2015/01/01/diary-sp-500-earnings-month-idUSL3N0UG10320150101'
+p661
+sg4
+S'20150102\xc2\xa05:40AM UTC'
+p662
+sg6
+S'DIARY-S&P; 500 EARNINGS MONTH AHEAD'
+p663
+sa(dp664
+g2
+S'http://www.reuters.com/article/2015/01/01/diary-non-sp-week-idUSL3N0UG10120150101'
+p665
+sg4
+S'20150102\xc2\xa05:33AM UTC'
+p666
+sg6
+S'DIARY-NON S&P; WEEK AHEAD'
+p667
+sa(dp668
+g2
+S'http://www.reuters.com/article/2015/01/01/markets-india-stocks-idUSI8N0P701O20150101'
+p669
+sg4
+S'20150102\xc2\xa05:31AM UTC'
+p670
+sg6
+S'Indian shares close little changed; telecom stocks surge'
+p671
+sa(dp672
+g2
+S'http://www.reuters.com/article/2015/01/01/us-britain-airplane-idUSKBN0KA1GU20150101'
+p673
+sg4
+S'20150102\xc2\xa05:26AM UTC'
+p674
+sg6
+S'Qatar Airways flight makes unscheduled landing due to unruly passenger'
+p675
+sa(dp676
+g2
+S'http://www.reuters.com/article/2015/01/01/britain-airplane-idUSL6N0UG07G20150101'
+p677
+sg4
+S'20150102\xc2\xa05:23AM UTC'
+p678
+sg6
+S'UPDATE 1-Qatar Airways flight makes unscheduled landing due to unruly passenger'
+p679
+sa(dp680
+g2
+S'http://www.reuters.com/article/2015/01/01/idUSnHUG9kQcTy+1ca+ONE20150101'
+p681
+sg4
+S'20150102\xc2\xa05:01AM UTC'
+p682
+sg6
+S"OP suffered from a denial-of-services attack on New Year's Eve"
+p683
+sa(dp684
+g2
+S'http://www.reuters.com/article/2015/01/01/us-afghanistan-civilians-idUSKBN0KA1CY20150101'
+p685
+sg4
+S'20150102\xc2\xa05:00AM UTC'
+p686
+sg6
+S'Afghans take over full security charge, mortars kill 20 civilians'
+p687
+sa(dp688
+g2
+S'http://www.reuters.com/article/2015/01/01/il-careerbuilder-idUSnPnhKSW4+4e+PRN20150101'
+p689
+sg4
+S'20150102\xc2\xa05:00AM UTC'
+p690
+sg6
+S"Thirty-six Percent of Employers Plan to Hire Full-Time, Permanent Employees in the New Year, CareerBuilder's Annual Forecast Finds"
+p691
+sa(dp692
+g2
+S'http://www.reuters.com/article/2015/01/01/us-cuba-usa-dissidents-idUSKBN0K90VE20150101'
+p693
+sg4
+S'20150102\xc2\xa04:57AM UTC'
+p694
+sg6
+S'Cuba frees dissidents from crackdown condemned by U.S.'
+p695
+sa(dp696
+g2
+S'http://www.reuters.com/article/2015/01/01/us-pharmaceuticals-approvals-idUSKBN0KA1GC20150101'
+p697
+sg4
+S'20150102\xc2\xa04:49AM UTC'
+p698
+sg6
+S'Pharma and biotech on a roll as drug approvals hit 18-year high'
+p699
+sa(dp700
+g2
+S'http://www.reuters.com/article/2015/01/01/pharmaceuticals-approvals-idUSL6N0UE2C120150101'
+p701
+sg4
+S'20150102\xc2\xa04:46AM UTC'
+p702
+sg6
+S'Pharma and biotech on a roll as drug approvals hit 18-year high'
+p703
+sa(dp704
+g2
+S'http://www.reuters.com/article/2015/01/01/xiamen-intl-marathon-idUSnPn8h4C7V+85+PRN20150101'
+p705
+sg4
+S'20150102\xc2\xa04:34AM UTC'
+p706
+sg6
+S'Xiamen Marathon Expo Expects to Attract 45,000 Visitors for Abundant Events Centralizing on Charity'
+p707
+sa(dp708
+g2
+S'http://www.reuters.com/article/2015/01/01/us-northkorea-southkorea-idUSKBN0KA1AN20150101'
+p709
+sg4
+S'20150102\xc2\xa04:04AM UTC'
+p710
+sg6
+S'North Korea leader Kim Jong Un says open to summit with South'
+p711
+sa(dp712
+g2
+S'http://www.reuters.com/article/2015/01/01/britain-airplane-idUSL6N0UG06A20150101'
+p713
+sg4
+S'20150102\xc2\xa04:00AM UTC'
+p714
+sg6
+S'CORRECTED-Medical issue forces Qatar Airways flight to make unscheduled UK landing'
+p715
+sa(dp716
+g2
+S'http://www.reuters.com/article/2015/01/01/india-cenbank-mlm-idUSI8N0RJ00320150101'
+p717
+sg4
+S'20150102\xc2\xa03:33AM UTC'
+p718
+sg6
+S'India cbank cautions investors against multi-level marketing firms'
+p719
+sa(dp720
+g2
+S'http://www.reuters.com/article/2015/01/01/egypt-jazeera-jail-idUSL6N0UG05E20150101'
+p721
+sg4
+S'20150102\xc2\xa03:16AM UTC'
+p722
+sg6
+S'Al Jazeera journalists to remain in Egypt jail after retrial ordered-lawyer'
+p723
+sa(dp724
+g2
+S'http://www.reuters.com/article/2015/01/01/egypt-jazeera-idUSL6N0UE1LZ20150101'
+p725
+sg4
+S'20150102\xc2\xa03:14AM UTC'
+p726
+sg6
+S'REFILE-Egyptian court cancels jail sentences against Al Jazeera journalists-lawyer'
+p727
+sa(dp728
+g2
+S'http://www.reuters.com/article/2015/01/01/md-talklocal-idUSnBw015001a+100+BSW20150101'
+p729
+sg4
+S'20150102\xc2\xa03:00AM UTC'
+p730
+sg6
+S'TalkLocal to Exhibit at 2015 International CES, booth Sands 75530, Jan 6 - 9, 2015, in Las Vegas NV, US'
+p731
+sa(dp732
+g2
+S'http://www.reuters.com/article/2015/01/01/us-usa-politics-bush-idUSKBN0KA1D620150101'
+p733
+sg4
+S'20150102\xc2\xa02:28AM UTC'
+p734
+sg6
+S'Jeb Bush quits board posts ahead of possible White House run: Washington Post'
+p735
+sa(dp736
+g2
+S'http://www.reuters.com/article/2015/01/01/usa-politics-bush-idUSL1N0UG07K20150101'
+p737
+sg4
+S'20150102\xc2\xa02:24AM UTC'
+p738
+sg6
+S'Jeb Bush quits board posts ahead of possible White House run - Washington Post'
+p739
+sa(dp740
+g2
+S'http://www.reuters.com/article/2015/01/01/bkc-providence-creighton-recap-idUSMTZEB11HM2OXQ20150101'
+p741
+sg4
+S'20150102\xc2\xa01:37AM UTC'
+p742
+sg6
+S'Providence 65, Creighton 53'
+p743
+sa(dp744
+g2
+S'http://www.reuters.com/article/2015/01/01/bkc-iowast-mississippivalleystate-recap-idUSMTZEB11HLNNXO20150101'
+p745
+sg4
+S'20150102\xc2\xa01:28AM UTC'
+p746
+sg6
+S'Iowa State 83, Mississippi Valley State 33'
+p747
+sa(dp748
+g2
+S'http://www.reuters.com/article/2015/01/01/bkc-wichitast-drake-recap-idUSMTZEB11HLC0XM20150101'
+p749
+sg4
+S'20150102\xc2\xa01:21AM UTC'
+p750
+sg6
+S'Wichita State 66, Drake 58'
+p751
+sa(dp752
+g2
+S'http://www.reuters.com/article/2015/01/01/us-usa-police-losangeles-idUSKBN0KA1CM20150101'
+p753
+sg4
+S'20150102\xc2\xa01:19AM UTC'
+p754
+sg6
+S'Second suspect arrested in shooting of Los Angeles police car'
+p755
+sa(dp756
+g2
+S'http://www.reuters.com/article/2015/01/01/bkc-syracuse-cornell-recap-idUSMTZEB11HKWZXK20150101'
+p757
+sg4
+S'20150102\xc2\xa01:12AM UTC'
+p758
+sg6
+S'Syracuse 61, Cornell 44'
+p759
+sa(dp760
+g2
+S'http://www.reuters.com/article/2015/01/01/diary-top-econ-idUSL3N0UG0WW20150101'
+p761
+sg4
+S'20150102\xc2\xa01:10AM UTC'
+p762
+sg6
+S'DIARY- Top Economic Events to Jan 14'
+p763
+sa(dp764
+g2
+S'http://www.reuters.com/article/2015/01/01/fbc-mississippistate-georgiatech-recap-idUSMTZEB11HFG5VL20150101'
+p765
+sg4
+S'20150102\xc2\xa01:06AM UTC'
+p766
+sg6
+S'Georgia Tech 49, Mississippi State 34'
+p767
+sa(dp768
+g2
+S'http://www.reuters.com/article/2015/01/01/idUSnHUG9qm41M+1c1+ONE20150101'
+p769
+sg4
+S'20150102\xc2\xa01:00AM UTC'
+p770
+sg6
+S'Novartis completes divestment of Animal Health business to Eli Lilly for USD 5.4 billion'
+p771
+sa(dp772
+g2
+S'http://www.reuters.com/article/2015/01/01/in-eli-lilly-acquires-idUSnPn3xWBC6+8e+PRN20150101'
+p773
+sg4
+S'20150102\xc2\xa01:00AM UTC'
+p774
+sg6
+S'Lilly Finalizes Novartis Animal Health Acquisition'
+p775
+sa(dp776
+g2
+S'http://www.reuters.com/article/2015/01/01/hkn-oilers-flames-writethru-idUSMTZEB11HGSKVQ20150101'
+p777
+sg4
+S'20150102\xc2\xa012:58AM UTC'
+p778
+sg6
+S"Rookie's OT goal guides Flames past Oilers"
+p779
+sa(dp780
+g2
+S'http://www.reuters.com/article/2015/01/01/markets-india-stocks-idUSL3N0UG0W420150101'
+p781
+sg4
+S'20150102\xc2\xa012:56AM UTC'
+p782
+sg6
+S'Indian shares start 2015 on weak note'
+p783
+sa(dp784
+g2
+S'http://www.reuters.com/article/2015/01/01/us-china-economy-pmi-services-idUSKBN0KA1B420150101'
+p785
+sg4
+S'20150102\xc2\xa012:40AM UTC'
+p786
+sg6
+S'China service sector growth picks up in December'
+p787
+sa(dp788
+g2
+S'http://www.reuters.com/article/2015/01/01/us-china-economy-pmi-idUSKBN0KA1AF20150101'
+p789
+sg4
+S'20150102\xc2\xa012:40AM UTC'
+p790
+sg6
+S'China December factory PMIs suggest economy cooling further, more stimulus expected'
+p791
+sa(dp792
+g2
+S'http://www.reuters.com/article/2015/01/01/fbc-mississippi-texaschristian-writethru-idUSMTZEB11HJB0XI20150101'
+p793
+sg4
+S'20150102\xc2\xa012:38AM UTC'
+p794
+sg6
+S'Tech overruns Mississippi State in Orange Bowl'
+p795
+sa(dp796
+g2
+S'http://www.reuters.com/article/2015/01/01/china-economy-pmi-idUSL3N0UG0HZ20150101'
+p797
+sg4
+S'20150102\xc2\xa012:35AM UTC'
+p798
+sg6
+S'UPDATE 3-China Dec factory PMIs suggest economy cooling further, more stimulus expected'
+p799
+sa(dp800
+g2
+S'http://www.reuters.com/article/2015/01/01/idUSnGNXc0ZzLb+1ca+GNW20150101'
+p801
+sg4
+S'20150102\xc2\xa012:34AM UTC'
+p802
+sg6
+S'American HealthCare Lending is Experiencing Rapid Growth in Behavioral Health Financing'
+p803
+sa(dp804
+g2
+S'http://www.reuters.com/article/2015/01/01/hkn-flyers-avalanche-writethru-idUSMTZEB11HFTNVN20150101'
+p805
+sg4
+S'20150102\xc2\xa012:18AM UTC'
+p806
+sg6
+S"Avs rally behind O'Reilly, Iginla to beat Flyers in OT"
+p807
+sa(dp808
+g2
+S'http://www.reuters.com/article/2015/01/01/worldleaderstweet-dpc-idUSnPn9fW1Cr+8a+PRN20150101'
+p809
+sg4
+S'20150102\xc2\xa012:01AM UTC'
+p810
+sg6
+S"90% of the World's Democracies Have Leaders That Tweet"
+p811
+sa(dp812
+g2
+S'http://www.reuters.com/article/2015/01/01/census-daily-feature-idUSnPn3TvcQ5+92+PRN20150101'
+p813
+sg4
+S'20150102\xc2\xa012:01AM UTC'
+p814
+sg6
+S'U.S. Census Bureau Daily Feature for January 1'
+p815
+sa(dp816
+g2
+S'http://www.reuters.com/article/2015/01/01/idUSnMKWkq4m1a+1c0+MKW20150101'
+p817
+sg4
+S'20150102\xc2\xa012:01AM UTC'
+p818
+sg6
+S"petTracer's GPS Cat Collar -- Switzerland's Largest Fully Funded Crowdfunding Campaign in History"
+p819
+sa(dp820
+g2
+S'http://www.reuters.com/article/2015/01/01/ny-cline-group-idUSnBw315334a+100+BSW20150101'
+p821
+sg4
+S'20150102\xc2\xa012:00AM UTC'
+p822
+sg6
+S'The Cline Group Names Ari Applbaum Senior Vice President and Managing Director of Israel/ EMEA'
+p823
+sa(dp824
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=102073434'
+p825
+sg4
+S'20150102\xc2\xa011:00PM UTC'
+p826
+sg6
+S'Asia Week Ahead \xe2\x80\x93 how much is China slowing?'
+p827
+sa(dp828
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=102073055'
+p829
+sg4
+S'20150102\xc2\xa010:36PM UTC'
+p830
+sg6
+S'Haitians protest on Independance Day'
+p831
+sa(dp832
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=102071982'
+p833
+sg4
+S'20150102\xc2\xa09:22PM UTC'
+p834
+sg6
+S'Searchers find more bodies from AirAsia plane crash'
+p835
+sa(dp836
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=102071708'
+p837
+sg4
+S'20150102\xc2\xa08:45PM UTC'
+p838
+sg6
+S'Brazil\xe2\x80\x99s Rousseff sworn into second four-year term'
+p839
+sa(dp840
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=102066383'
+p841
+sg4
+S'20150102\xc2\xa04:36PM UTC'
+p842
+sg6
+S'Icy Texas roads causing minor accidents'
+p843
+sa(dp844
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=102066581'
+p845
+sg4
+S'20150102\xc2\xa04:31PM UTC'
+p846
+sg6
+S"Syria's Assad pays New Year's Eve visit to troops"
+p847
+sa(dp848
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=102066206'
+p849
+sg4
+S'20150102\xc2\xa04:18PM UTC'
+p850
+sg6
+S"Ukrainians march to celebrate anniversary of nationalist hero's birthday"
+p851
+sa(dp852
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=102065435'
+p853
+sg4
+S'20150102\xc2\xa03:31PM UTC'
+p854
+sg6
+S'"Polar plunge" in Chicago to help dogs find homes.'
+p855
+sa(dp856
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=102065117'
+p857
+sg4
+S'20150102\xc2\xa02:59PM UTC'
+p858
+sg6
+S'Authorities say Georgia police chief accidentally shoots wife'
+p859
+sa(dp860
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=102065159'
+p861
+sg4
+S'20150102\xc2\xa02:39PM UTC'
+p862
+sg6
+S'London welcomes in 2015 with parade'
+p863
+sa(dp864
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=102063831'
+p865
+sg4
+S'20150102\xc2\xa02:09PM UTC'
+p866
+sg6
+S'Braving frigid waters with nothing but a speedo to mark New Year in Rome'
+p867
+sa(dp868
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=632c60d4a6533d5e8c00607cc1924038826de252'
+p869
+sg4
+S'20150102\xc2\xa02:07PM UTC'
+p870
+sg6
+S'Congress votes on stem cell research'
+p871
+sa(dp872
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=102062758'
+p873
+sg4
+S'20150102\xc2\xa01:08PM UTC'
+p874
+sg6
+S'Man with automatic weapon, grenades, detained near Istanbul palace'
+p875
+sa(dp876
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=102062193'
+p877
+sg4
+S'20150102\xc2\xa012:53PM UTC'
+p878
+sg6
+S"Residents of Hawaii town give local twist to New Year's"
+p879
+sa(dp880
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=102062467'
+p881
+sg4
+S'20150102\xc2\xa012:53PM UTC'
+p882
+sg6
+S'Thousands in Berlin greet the new year with a morning run'
+p883
+sa(dp884
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=102063489'
+p885
+sg4
+S'20150102\xc2\xa012:49PM UTC'
+p886
+sg6
+S'Rare snowfall on coastal Italian town'
+p887
+sa(dp888
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=102061929'
+p889
+sg4
+S'20150102\xc2\xa012:25PM UTC'
+p890
+sg6
+S'Times Square revelers start 2015 with a kiss'
+p891
+sa(dp892
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=102061361'
+p893
+sg4
+S'20150102\xc2\xa012:01PM UTC'
+p894
+sg6
+S'First AirAsia plane crash victim buried in Indonesia'
+p895
+sa(dp896
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=102060461'
+p897
+sg4
+S'20150102\xc2\xa011:33AM UTC'
+p898
+sg6
+S'"Thank God we are Russians"- Crimean man celebrating New Year'
+p899
+sa(dp900
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=102060507'
+p901
+sg4
+S'20150102\xc2\xa011:32AM UTC'
+p902
+sg6
+S'Californians react to major SoCal snowfall'
+p903
+sa(dp904
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=102059614'
+p905
+sg4
+S'20150102\xc2\xa010:42AM UTC'
+p906
+sg6
+S"Pope in New Year's message urges united fight against slavery, human trafficking"
+p907
+sa(dp908
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=102058413'
+p909
+sg4
+S'20150102\xc2\xa09:43AM UTC'
+p910
+sg6
+S'Times Square ball drops on 2015, and the clean-up begins'
+p911
+sa(dp912
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=102058240'
+p913
+sg4
+S'20150102\xc2\xa09:37AM UTC'
+p914
+sg6
+S'Reaction after Egyptian court orders retrial of Al Jazeera journalists'
+p915
+sa(dp916
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=102056396'
+p917
+sg4
+S'20150102\xc2\xa08:28AM UTC'
+p918
+sg6
+S"Clean-up crews hit Times Square just after New Year's celebration"
+p919
+sa(dp920
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=102055672'
+p921
+sg4
+S'20150102\xc2\xa07:50AM UTC'
+p922
+sg6
+S"New Year's fireworks light up Las Vegas"
+p923
+sa(dp924
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=102055225'
+p925
+sg4
+S'20150102\xc2\xa07:27AM UTC'
+p926
+sg6
+S'Crowd fills Times Square to welcome New Year'
+p927
+sa(dp928
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=102050632'
+p929
+sg4
+S'20150102\xc2\xa03:42AM UTC'
+p930
+sg6
+S'Wedding party hit in Afghan violence'
+p931
+sa(dp932
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=102050636'
+p933
+sg4
+S'20150102\xc2\xa03:42AM UTC'
+p934
+sg6
+S'Search resumes for AirAsia victims'
+p935
+sa(dp936
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=102047984'
+p937
+sg4
+S'20150102\xc2\xa012:02AM UTC'
+p938
+sg6
+S"North Korea 'open to talks' with South"
+p939
+sa.

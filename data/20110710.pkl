@@ -1,0 +1,4235 @@
+(lp0
+(dp1
+S'href'
+p2
+S'http://www.reuters.com/article/2011/07/11/jpmorgan-idUSL3E7IB0BU20110711'
+p3
+sS'ts'
+p4
+S'20110710\xc2\xa011:55PM UTC'
+p5
+sS'title'
+p6
+S'JPMorgan appoints two new senior private bankers in Asia'
+p7
+sa(dp8
+g2
+S'http://www.reuters.com/article/2011/07/11/india-markets-open-idUSBMA00999420110711'
+p9
+sg4
+S'20110710\xc2\xa011:54PM UTC'
+p10
+sg6
+S'Indian shares drop 0.5 pct; Hindalco, ICICI fall'
+p11
+sa(dp12
+g2
+S'http://www.reuters.com/article/2011/07/11/idUS30276+11-Jul-2011+BW20110711'
+p13
+sg4
+S'20110710\xc2\xa011:54PM UTC'
+p14
+sg6
+S'CCID Consulting: China`s COMPASS Navigation Satellite Industry to Go Nationwide'
+p15
+sa(dp16
+g2
+S'http://www.reuters.com/article/2011/07/11/hainanair-placement-idUSL3E7IB0C620110711'
+p17
+sg4
+S'20110710\xc2\xa011:50PM UTC'
+p18
+sg6
+S'Hainan Air plans A-share placement '
+p19
+sa(dp20
+g2
+S'http://www.reuters.com/article/2011/07/11/idUSL3E7I405M20110711'
+p21
+sg4
+S'20110710\xc2\xa011:41PM UTC'
+p22
+sg6
+S'ASIA PRIVATE EQUITY WEEKLY NEWS, JULY 11, 2011'
+p23
+sa(dp24
+g2
+S'http://www.reuters.com/article/2011/07/11/markets-forex-idUSL3E7IB02A20110711'
+p25
+sg4
+S'20110710\xc2\xa011:39PM UTC'
+p26
+sg6
+S'FOREX-Euro falls as sovereign debt jitters spread'
+p27
+sa(dp28
+g2
+S'http://www.reuters.com/article/2011/07/11/idUS29175+11-Jul-2011+BW20110711'
+p29
+sg4
+S'20110710\xc2\xa011:38PM UTC'
+p30
+sg6
+S'NYSE Euronext a vil\xc3\xa1g vezet\xc5\x91 r\xc3\xa9szv\xc3\xa9nykibocs\xc3\xa1t\xc3\xb3ja 2011 els\xc5\x91 fel\xc3\xa9ben'
+p31
+sa(dp32
+g2
+S'http://www.reuters.com/article/2011/07/11/hon-hai-idUST8E7EI03420110711'
+p33
+sg4
+S'20110710\xc2\xa011:34PM UTC'
+p34
+sg6
+S'Hon Hai unit says plans to invest $1.55 bln in China '
+p35
+sa(dp36
+g2
+S'http://www.reuters.com/article/2011/07/11/indonesia-centralbank-idUSL3E7IB09M20110711'
+p37
+sg4
+S'20110710\xc2\xa011:30PM UTC'
+p38
+sg6
+S'Indonesia central bank deputy governor Rochadi dies'
+p39
+sa(dp40
+g2
+S'http://www.reuters.com/article/2011/07/11/idUS28597+11-Jul-2011+PRN20110711'
+p41
+sg4
+S'20110710\xc2\xa011:30PM UTC'
+p42
+sg6
+S'Following Is a Test Release'
+p43
+sa(dp44
+g2
+S'http://www.reuters.com/article/2011/07/11/idUS28576+11-Jul-2011+PRN20110711'
+p45
+sg4
+S'20110710\xc2\xa011:30PM UTC'
+p46
+sg6
+S'Life Technologies Launches New Distribution Center in India'
+p47
+sa(dp48
+g2
+S'http://www.reuters.com/article/2011/07/11/press-digest-british-business-idUSL6E7IB00020110711'
+p49
+sg4
+S'20110710\xc2\xa011:29PM UTC'
+p50
+sg6
+S'PRESS DIGEST - British business - July 11 '
+p51
+sa(dp52
+g2
+S'http://www.reuters.com/article/2011/07/11/hon-hai-idUST8E7EI03220110711'
+p53
+sg4
+S'20110710\xc2\xa011:24PM UTC'
+p54
+sg6
+S'Hon Hai says plans to list distribution unit in Taiwan'
+p55
+sa(dp56
+g2
+S'http://www.reuters.com/article/2011/07/11/china-economy-surplus-idUSB9E7F707F20110711'
+p57
+sg4
+S'20110710\xc2\xa011:22PM UTC'
+p58
+sg6
+S' China revises Q1 current account surplus to $28.8 bln-SAFE '
+p59
+sa(dp60
+g2
+S'http://www.reuters.com/article/2011/07/11/idUS27529+11-Jul-2011+BW20110711'
+p61
+sg4
+S'20110710\xc2\xa011:15PM UTC'
+p62
+sg6
+S'VCA Antech, Inc. to Acquire MediMedia Animal Health, LLC'
+p63
+sa(dp64
+g2
+S'http://www.reuters.com/article/2011/07/11/markets-japan-jgb-idUSL3E7IB09D20110711'
+p65
+sg4
+S'20110710\xc2\xa011:14PM UTC'
+p66
+sg6
+S'JGBs gain as dismal U.S. data tempers risk appetite '
+p67
+sa(dp68
+g2
+S'http://www.reuters.com/article/2011/07/11/markets-japan-stocks-idUSL3E7IB06K20110711'
+p69
+sg4
+S'20110710\xc2\xa011:12PM UTC'
+p70
+sg6
+S'REFILE-Nikkei falls on US jobs data, earnings eyed '
+p71
+sa(dp72
+g2
+S'http://www.reuters.com/article/2011/07/11/markets-precious-idUSL3E7IB04C20110711'
+p73
+sg4
+S'20110710\xc2\xa011:12PM UTC'
+p74
+sg6
+S'PRECIOUS-Gold steady on weak U.S. data, Europe debt woes'
+p75
+sa(dp76
+g2
+S'http://www.reuters.com/article/2011/07/11/vietnam-china-pipeline-idUSL3E7IB08S20110711'
+p77
+sg4
+S'20110710\xc2\xa011:09PM UTC'
+p78
+sg6
+S'Petrolimex, PetroChina in talks over $212 mln pipeline'
+p79
+sa(dp80
+g2
+S'http://www.reuters.com/article/2011/07/11/cme-yuan-idUSL3E7IB07K20110711'
+p81
+sg4
+S'20110710\xc2\xa011:06PM UTC'
+p82
+sg6
+S'UPDATE 1-CME to launch new Yuan FX futures contracts'
+p83
+sa(dp84
+g2
+S'http://www.reuters.com/article/2011/07/11/idUS26352+11-Jul-2011+PRN20110711'
+p85
+sg4
+S'20110710\xc2\xa011:00PM UTC'
+p86
+sg6
+S'Following Is a Test Release'
+p87
+sa(dp88
+g2
+S'http://www.reuters.com/article/2011/07/11/markets-treasuries-asia-idUSL3E7IB07S20110711'
+p89
+sg4
+S'20110710\xc2\xa010:59PM UTC'
+p90
+sg6
+S'TREASURIES-Bonds firm in Asia after dismal jobs data'
+p91
+sa(dp92
+g2
+S'http://www.reuters.com/article/2011/07/11/press-digest-financial-times-idUSLDE76A00X20110711'
+p93
+sg4
+S'20110710\xc2\xa010:56PM UTC'
+p94
+sg6
+S'PRESS DIGEST - Financial Times - July 11'
+p95
+sa(dp96
+g2
+S'http://www.reuters.com/article/2011/07/11/markets-ratings-icfoundaries-idUSWNA327120110711'
+p97
+sg4
+S'20110710\xc2\xa010:53PM UTC'
+p98
+sg6
+S'TEXT-Fitch: APAC IC foundries face oversupply risks, competition '
+p99
+sa(dp100
+g2
+S'http://www.reuters.com/article/2011/07/11/korea-bonds-5year-idUSL3E7IB07U20110711'
+p101
+sg4
+S'20110710\xc2\xa010:51PM UTC'
+p102
+sg6
+S'S.Korea sells 5-yr T-bonds at yield of 4.06 pct'
+p103
+sa(dp104
+g2
+S'http://www.reuters.com/article/2011/07/11/korea-economy-debt-idUSL3E7IB07R20110711'
+p105
+sg4
+S'20110710\xc2\xa010:49PM UTC'
+p106
+sg6
+S'S.Korea fin min sees soft landing in household debt '
+p107
+sa(dp108
+g2
+S'http://www.reuters.com/article/2011/07/11/idUS24883+11-Jul-2011+BW20110711'
+p109
+sg4
+S'20110710\xc2\xa010:45PM UTC'
+p110
+sg6
+S'World`s Second-Largest Solar Cell Maker-Taiwan Activates a Whole New Green Future'
+p111
+sa(dp112
+g2
+S'http://www.reuters.com/article/2011/07/11/us-spelling-bee-idUSTRE76A09620110711'
+p113
+sg4
+S'20110710\xc2\xa010:44PM UTC'
+p114
+sg6
+S'Could you spell that? In Spanish'
+p115
+sa(dp116
+g2
+S'http://www.reuters.com/article/2011/07/11/market-ratings-philippines-idUSWNA326920110711'
+p117
+sg4
+S'20110710\xc2\xa010:41PM UTC'
+p118
+sg6
+S"BRIEF-Moody's says Philippines outlook stable"
+p119
+sa(dp120
+g2
+S'http://www.reuters.com/article/2011/07/11/usa-debt-week-idUSWNA327020110711'
+p121
+sg4
+S'20110710\xc2\xa010:39PM UTC'
+p122
+sg6
+S'Obama set for debt negotiations all week - official'
+p123
+sa(dp124
+g2
+S'http://www.reuters.com/article/2011/07/11/markets-asia-foreign-idUSL3E7I80QM20110711'
+p125
+sg4
+S'20110710\xc2\xa010:38PM UTC'
+p126
+sg6
+S'TABLE-Foreigners buy Japan, Indian shares in latest week-Nomura'
+p127
+sa(dp128
+g2
+S'http://www.reuters.com/article/2011/07/11/markets-thailand-stocks-idUSL3E7IB07H20110711'
+p129
+sg4
+S'20110710\xc2\xa010:36PM UTC'
+p130
+sg6
+S'Thai stocks set to fall; banks may rise before results  '
+p131
+sa(dp132
+g2
+S'http://www.reuters.com/article/2011/07/11/northumbrianwater-idUSL6E7IB00H20110711'
+p133
+sg4
+S'20110710\xc2\xa010:33PM UTC'
+p134
+sg6
+S"Northumbrian opens books to Hong Kong's CKI - paper "
+p135
+sa(dp136
+g2
+S'http://www.reuters.com/article/2011/07/11/taiwan-sales-table-idUSL3E7I416T20110711'
+p137
+sg4
+S'20110710\xc2\xa010:30PM UTC'
+p138
+sg6
+S'TABLE-Taiwan corporate results in June'
+p139
+sa(dp140
+g2
+S'http://www.reuters.com/article/2011/07/11/idUSL3E7IB07620110711'
+p141
+sg4
+S'20110710\xc2\xa010:30PM UTC'
+p142
+sg6
+S'New Issue - Hotel Properties issues S$20mln 7yr MTN'
+p143
+sa(dp144
+g2
+S'http://www.reuters.com/article/2011/07/11/idUS23487+11-Jul-2011+PRN20110711'
+p145
+sg4
+S'20110710\xc2\xa010:30PM UTC'
+p146
+sg6
+S'Following Is a Test Release'
+p147
+sa(dp148
+g2
+S'http://www.reuters.com/article/2011/07/11/idUS23436+11-Jul-2011+BW20110711'
+p149
+sg4
+S'20110710\xc2\xa010:30PM UTC'
+p150
+sg6
+S'Hitachi Metals Announces the Development of Alloys with Improved Oxidation Resistance for Use in Fuel Cells'
+p151
+sa(dp152
+g2
+S'http://www.reuters.com/article/2011/07/11/us-syria-killings-homs-idUSTRE76A07Z20110711'
+p153
+sg4
+S'20110710\xc2\xa010:26PM UTC'
+p154
+sg6
+S'Syrian forces raid central city of Homs, one killed'
+p155
+sa(dp156
+g2
+S'http://www.reuters.com/article/2011/07/11/china-economy-zhou-idUSB9E7F707820110711'
+p157
+sg4
+S'20110710\xc2\xa010:24PM UTC'
+p158
+sg6
+S' China to keep policy tight, avoid big growth swings-c.bank head'
+p159
+sa(dp160
+g2
+S'http://www.reuters.com/article/2011/07/11/syria-killings-homs-idUSLDE76A00E20110711'
+p161
+sg4
+S'20110710\xc2\xa010:17PM UTC'
+p162
+sg6
+S'Syrian forces raid central city of Homs, one killed'
+p163
+sa(dp164
+g2
+S'http://www.reuters.com/article/2011/07/11/markets-taiwan-stocks-idUSL3E7IB05320110711'
+p165
+sg4
+S'20110710\xc2\xa010:17PM UTC'
+p166
+sg6
+S'Taiwan stocks down; semiconductors weigh'
+p167
+sa(dp168
+g2
+S'http://www.reuters.com/article/2011/07/11/health-eating-idUSL3E7IB06L20110711'
+p169
+sg4
+S'20110710\xc2\xa010:14PM UTC'
+p170
+sg6
+S'People with eating disorders likely to die earlier'
+p171
+sa(dp172
+g2
+S'http://www.reuters.com/article/2011/07/11/japan-nuclear-stress-idUST9E7FH01920110711'
+p173
+sg4
+S'20110710\xc2\xa010:14PM UTC'
+p174
+sg6
+S'Japan idled reactors could restart after stress test 1st stage'
+p175
+sa(dp176
+g2
+S'http://www.reuters.com/article/2011/07/11/markets-japan-stocks-idUSL3E7IB04G20110711'
+p177
+sg4
+S'20110710\xc2\xa010:06PM UTC'
+p178
+sg6
+S'REFILE-Nikkei falls as US jobs figures sour mood, banks dip'
+p179
+sa(dp180
+g2
+S'http://www.reuters.com/article/2011/07/11/us-boat-crash-idUSTRE76A07B20110711'
+p181
+sg4
+S'20110710\xc2\xa010:06PM UTC'
+p182
+sg6
+S'Four dead in Hudson River pleasure boat accident'
+p183
+sa(dp184
+g2
+S'http://www.reuters.com/article/2011/07/11/markets-korea-stocks-idUSL3E7IB00C20110711'
+p185
+sg4
+S'20110710\xc2\xa010:02PM UTC'
+p186
+sg6
+S'Seoul shares slip, exporters sag on weak U.S. data'
+p187
+sa(dp188
+g2
+S'http://www.reuters.com/article/2011/07/11/market-ratings-asian-stress-index-idUSWNA326620110711'
+p189
+sg4
+S'20110710\xc2\xa010:01PM UTC'
+p190
+sg6
+S"BRIEF-Moody's Asian Liquidity Stress Index shows solid liquidity "
+p191
+sa(dp192
+g2
+S'http://www.reuters.com/article/2011/07/11/indonesia-factors-idUSL3E7IB03C20110711'
+p193
+sg4
+S'20110710\xc2\xa010:01PM UTC'
+p194
+sg6
+S'UPDATE 1-Indonesia-Market Factors to watch - July 11'
+p195
+sa(dp196
+g2
+S'http://www.reuters.com/article/2011/07/11/idUS20560+11-Jul-2011+PRN20110711'
+p197
+sg4
+S'20110710\xc2\xa010:00PM UTC'
+p198
+sg6
+S'Following Is a Test Release'
+p199
+sa(dp200
+g2
+S'http://www.reuters.com/article/2011/07/11/idUS20529+11-Jul-2011+BW20110711'
+p201
+sg4
+S'20110710\xc2\xa010:00PM UTC'
+p202
+sg6
+S'Genpact and Nissan Extend Relationship to Strengthen HR Delivery Capabilities in Japan'
+p203
+sa(dp204
+g2
+S'http://www.reuters.com/article/2011/07/11/vietnam-energy-loan-idUSL3E7IA09720110711'
+p205
+sg4
+S'20110710\xc2\xa09:59PM UTC'
+p206
+sg6
+S'Banks lend $1.46 bln to thermal power plant in Vietnam'
+p207
+sa(dp208
+g2
+S'http://www.reuters.com/article/2011/07/11/kencana-sapuracrest-idUSL3E7IB04U20110711'
+p209
+sg4
+S'20110710\xc2\xa09:56PM UTC'
+p210
+sg6
+S"Malaysia's Kencana, SapuraCrest plan $4 bln merger-source"
+p211
+sa(dp212
+g2
+S'http://www.reuters.com/article/2011/07/11/health-sleep-idUSL3E7IB05720110711'
+p213
+sg4
+S'20110710\xc2\xa09:52PM UTC'
+p214
+sg6
+S'Does too little sleep lead to weight gain?'
+p215
+sa(dp216
+g2
+S'http://www.reuters.com/article/2011/07/11/china-economy-inflation-idUSL3E7IB05220110711'
+p217
+sg4
+S'20110710\xc2\xa09:50PM UTC'
+p218
+sg6
+S'RPT-UPDATE 2-China June inflation at 3-yr high; revives rate debate'
+p219
+sa(dp220
+g2
+S'http://www.reuters.com/article/2011/07/11/businesspro-us-markets-global-graphics-idUSTRE76A06H20110711'
+p221
+sg4
+S'20110710\xc2\xa09:45PM UTC'
+p222
+sg6
+S'Shares slide as economy worries resurface; euro'
+p223
+sa(dp224
+g2
+S'http://www.reuters.com/article/2011/07/11/oil-spill-montana-idUSN1E76908O20110711'
+p225
+sg4
+S'20110710\xc2\xa09:44PM UTC'
+p226
+sg6
+S'Government asks Exxon to retool Yellowstone spill plan'
+p227
+sa(dp228
+g2
+S'http://www.reuters.com/article/2011/07/11/idUSL3E7IB04D20110711'
+p229
+sg4
+S'20110710\xc2\xa09:42PM UTC'
+p230
+sg6
+S'China CNOOC refinery shuts aromatics unit after fire -source '
+p231
+sa(dp232
+g2
+S'http://www.reuters.com/article/2011/07/11/us-tennis-davis-us-idUSTRE7682NR20110711'
+p233
+sg4
+S'20110710\xc2\xa09:41PM UTC'
+p234
+sg6
+S'Spain beats U.S. to book place in Davis Cup semis'
+p235
+sa(dp236
+g2
+S'http://www.reuters.com/article/2011/07/11/hongkongpress-idUSL3E7IB03I20110711'
+p237
+sg4
+S'20110710\xc2\xa09:36PM UTC'
+p238
+sg6
+S'PRESS DIGEST - Hong Kong - July 11'
+p239
+sa(dp240
+g2
+S'http://www.reuters.com/article/2011/07/11/idUSL6E7IB00A20110711'
+p241
+sg4
+S'20110710\xc2\xa09:32PM UTC'
+p242
+sg6
+S'Blackstone sells stake in China food firm - FT '
+p243
+sa(dp244
+g2
+S'http://www.reuters.com/article/2011/07/11/idUS18341+11-Jul-2011+PRN20110711'
+p245
+sg4
+S'20110710\xc2\xa09:30PM UTC'
+p246
+sg6
+S'Following Is a Test Release'
+p247
+sa(dp248
+g2
+S'http://www.reuters.com/article/2011/07/11/markets-ratings-clp-idUSL3E7IB03L20110711'
+p249
+sg4
+S'20110710\xc2\xa09:29PM UTC'
+p250
+sg6
+S"TEXT-S&P; Rates CLP Australia Finance's New Bank Debt 'BBB'  "
+p251
+sa(dp252
+g2
+S'http://www.reuters.com/article/2011/07/11/markets-ratings-clp-idUSL3E7IB04420110711'
+p253
+sg4
+S'20110710\xc2\xa09:29PM UTC'
+p254
+sg6
+S"TEXT-S&P; Rates CLP Australia Finance's New Bank Debt 'BBB'  "
+p255
+sa(dp256
+g2
+S'http://www.reuters.com/article/2011/07/11/markets-ratings-clp-idUSWNA326520110711'
+p257
+sg4
+S'20110710\xc2\xa09:28PM UTC'
+p258
+sg6
+S"TEXT-S&P; Rates CLP Australia Finance's New Bank Debt 'BBB'  "
+p259
+sa(dp260
+g2
+S'http://www.reuters.com/article/2011/07/11/markets-hongkong-stocks-open-idUSH9E7HO02220110711'
+p261
+sg4
+S'20110710\xc2\xa09:25PM UTC'
+p262
+sg6
+S'HK shares to open down 0.6 pct, materials, financials weigh'
+p263
+sa(dp264
+g2
+S'http://www.reuters.com/article/2011/07/11/us-spill-montana-idUSTRE76A04F20110711'
+p265
+sg4
+S'20110710\xc2\xa09:25PM UTC'
+p266
+sg6
+S'Government asks Exxon to retool Yellowstone spill plan'
+p267
+sa(dp268
+g2
+S'http://www.reuters.com/article/2011/07/11/yurun-earnings-idUSL3E7IB01P20110711'
+p269
+sg4
+S'20110710\xc2\xa09:24PM UTC'
+p270
+sg6
+S'UPDATE 1-China Yurun Food says sees higher H1 net profit'
+p271
+sa(dp272
+g2
+S'http://www.reuters.com/article/2011/07/11/thailand-press-idUSL3E7IB03820110711'
+p273
+sg4
+S'20110710\xc2\xa09:22PM UTC'
+p274
+sg6
+S'PRESS DIGEST - Thai newspapers - July 11'
+p275
+sa(dp276
+g2
+S'http://www.reuters.com/article/2011/07/11/usa-debt-boehner-idUSWNA326420110711'
+p277
+sg4
+S'20110710\xc2\xa09:22PM UTC'
+p278
+sg6
+S'Boehner: spending curbs, no tax hikes in debt deal'
+p279
+sa(dp280
+g2
+S'http://www.reuters.com/article/2011/07/11/newscorp-hacking-sept-idUSLDE76A00620110711'
+p281
+sg4
+S'20110710\xc2\xa09:18PM UTC'
+p282
+sg6
+S'NOTW reporters tried to access 9/11 phone data-report'
+p283
+sa(dp284
+g2
+S'http://www.reuters.com/article/2011/07/11/markets-china-yuan-idUSEAP309B0020110711'
+p285
+sg4
+S'20110710\xc2\xa09:18PM UTC'
+p286
+sg6
+S'PBOC fixes yuan mid-point at 6.4709/dollar'
+p287
+sa(dp288
+g2
+S'http://www.reuters.com/article/2011/07/11/sanmiguel-idUSL3E7IB02J20110711'
+p289
+sg4
+S'20110710\xc2\xa09:18PM UTC'
+p290
+sg6
+S"Manila's San Miguel power unit eyes $500 mln from IPO - report  "
+p291
+sa(dp292
+g2
+S'http://www.reuters.com/article/2011/07/11/indonesia-factors-idUSL3E7IB01I20110711'
+p293
+sg4
+S'20110710\xc2\xa09:11PM UTC'
+p294
+sg6
+S'Indonesia-Market Factors to watch - July 11'
+p295
+sa(dp296
+g2
+S'http://www.reuters.com/article/2011/07/11/aig-idUSN1E76909N20110711'
+p297
+sg4
+S'20110710\xc2\xa09:09PM UTC'
+p298
+sg6
+S'AIG may replace banks in next share offer - WSJ'
+p299
+sa(dp300
+g2
+S'http://www.reuters.com/article/2011/07/11/polyus-kazakhgold-idUSLDE76A00920110711'
+p301
+sg4
+S'20110710\xc2\xa09:08PM UTC'
+p302
+sg6
+S'Polyus CEO: Kazakhgold takeover on track - FT'
+p303
+sa(dp304
+g2
+S'http://www.reuters.com/article/2011/07/11/markets-taiwan-stocks-idUST8E7EI03120110711'
+p305
+sg4
+S'20110710\xc2\xa09:08PM UTC'
+p306
+sg6
+S'Taiwan stocks ease; Hon Hai gains'
+p307
+sa(dp308
+g2
+S'http://www.reuters.com/article/2011/07/11/usa-debt-reid-idUSWEN520020110711'
+p309
+sg4
+S'20110710\xc2\xa09:04PM UTC'
+p310
+sg6
+S'Reid stresses need for balance in US debt talks'
+p311
+sa(dp312
+g2
+S'http://www.reuters.com/article/2011/07/11/idUS15724+11-Jul-2011+MW20110711'
+p313
+sg4
+S'20110710\xc2\xa09:00PM UTC'
+p314
+sg6
+S' Jusung Engineering and MEMC Announce High Efficiency Solar Cell Production Strategic Partnership'
+p315
+sa(dp316
+g2
+S'http://www.reuters.com/article/2011/07/11/idUS15617+11-Jul-2011+PRN20110711'
+p317
+sg4
+S'20110710\xc2\xa09:00PM UTC'
+p318
+sg6
+S'Following Is a Test Release'
+p319
+sa(dp320
+g2
+S'http://www.reuters.com/article/2011/07/11/idUS15595+11-Jul-2011+PRN20110711'
+p321
+sg4
+S'20110710\xc2\xa09:00PM UTC'
+p322
+sg6
+S'CME Group Announces the Launch of New Yuan FX Futures Contracts'
+p323
+sa(dp324
+g2
+S'http://www.reuters.com/article/2011/07/11/idUS15549+11-Jul-2011+MW20110711'
+p325
+sg4
+S'20110710\xc2\xa09:00PM UTC'
+p326
+sg6
+S' Jusung Engineering and MEMC Announce High Efficiency Solar Cell Production Strategic Partnership'
+p327
+sa(dp328
+g2
+S'http://www.reuters.com/article/2011/07/11/china-aviation-idUSL3E7IB01220110711'
+p329
+sg4
+S'20110710\xc2\xa08:59PM UTC'
+p330
+sg6
+S'China to invest over $232 bln in aviation -paper'
+p331
+sa(dp332
+g2
+S'http://www.reuters.com/article/2011/07/11/usa-debt-democrats-idUSWEN519820110711'
+p333
+sg4
+S'20110710\xc2\xa08:57PM UTC'
+p334
+sg6
+S'Democrats aim for sweeping deal in US debt talks'
+p335
+sa(dp336
+g2
+S'http://www.reuters.com/article/2011/07/11/idUSWNAS256920110711'
+p337
+sg4
+S'20110710\xc2\xa08:56PM UTC'
+p338
+sg6
+S'Qantas sees A$110-115 mln carbon tax cost; to pass onto customers'
+p339
+sa(dp340
+g2
+S'http://www.reuters.com/article/2011/07/11/markets-hongkong-stocks-idUSL3E7IB01G20110711'
+p341
+sg4
+S'20110710\xc2\xa08:56PM UTC'
+p342
+sg6
+S'HK shrs seen lower as China inflation stokes tightening fears'
+p343
+sa(dp344
+g2
+S'http://www.reuters.com/article/2011/07/11/usa-debt-pelosi-idUSWEN519720110711'
+p345
+sg4
+S'20110710\xc2\xa08:51PM UTC'
+p346
+sg6
+S'Pelosi concerned with fate of Medicaid in debt talks'
+p347
+sa(dp348
+g2
+S'http://www.reuters.com/article/2011/07/11/us-rihanna-idUSTRE76A02720110711'
+p349
+sg4
+S'20110710\xc2\xa08:49PM UTC'
+p350
+sg6
+S'Rihanna escapes fire during Dallas show'
+p351
+sa(dp352
+g2
+S'http://www.reuters.com/article/2011/07/11/southernunion-idUSN1E76909I20110711'
+p353
+sg4
+S'20110710\xc2\xa08:49PM UTC'
+p354
+sg6
+S'Southern Union talked with other suitors - WSJ'
+p355
+sa(dp356
+g2
+S'http://www.reuters.com/article/2011/07/11/usa-debt-grand-idUSWEN519620110711'
+p357
+sg4
+S'20110710\xc2\xa08:47PM UTC'
+p358
+sg6
+S"Obama renews calls for 'grand' deal - Democratic aide"
+p359
+sa(dp360
+g2
+S'http://www.reuters.com/article/2011/07/11/yurun-earnings-idUSH9E7HD02G20110711'
+p361
+sg4
+S'20110710\xc2\xa08:41PM UTC'
+p362
+sg6
+S'China Yurun Food says sees significant rise in H1 net profit'
+p363
+sa(dp364
+g2
+S'http://www.reuters.com/article/2011/07/11/markets-philippines-idUSL3E7I80VF20110711'
+p365
+sg4
+S'20110710\xc2\xa08:39PM UTC'
+p366
+sg6
+S'Philippines - Market factors to watch - July 11'
+p367
+sa(dp368
+g2
+S'http://www.reuters.com/article/2011/07/11/usa-debt-conference-idUSWNA326320110711'
+p369
+sg4
+S'20110710\xc2\xa08:31PM UTC'
+p370
+sg6
+S'Obama to hold Monday news conference on debt talks'
+p371
+sa(dp372
+g2
+S'http://www.reuters.com/article/2011/07/11/idUS12720+11-Jul-2011+PRN20110711'
+p373
+sg4
+S'20110710\xc2\xa08:30PM UTC'
+p374
+sg6
+S'Following Is a Test Release'
+p375
+sa(dp376
+g2
+S'http://www.reuters.com/article/2011/07/11/us-usa-campaign-pawlenty-idUSTRE7692F920110711'
+p377
+sg4
+S'20110710\xc2\xa08:24PM UTC'
+p378
+sg6
+S'Pawlenty raps rival Bachmann'
+p379
+sa(dp380
+g2
+S'http://www.reuters.com/article/2011/07/11/idUS12127+11-Jul-2011+BW20110711'
+p381
+sg4
+S'20110710\xc2\xa08:23PM UTC'
+p382
+sg6
+S'VCA Antech, Inc. Announces Definitive Purchase Agreement with BrightHeart Veterinary Centers, Inc.'
+p383
+sa(dp384
+g2
+S'http://www.reuters.com/article/2011/07/11/singapore-market-stocks-preopener-idUSL3E7IB00F20110711'
+p385
+sg4
+S'20110710\xc2\xa08:17PM UTC'
+p386
+sg6
+S'Singapore Stocks-May fall after US job data; Hsu Fu Chi in focus'
+p387
+sa(dp388
+g2
+S'http://www.reuters.com/article/2011/07/11/lg-hitachi-idUSL3E7IA0G520110711'
+p389
+sg4
+S'20110710\xc2\xa08:15PM UTC'
+p390
+sg6
+S'LG, Hitachi to form water treatment joint venture '
+p391
+sa(dp392
+g2
+S'http://www.reuters.com/article/2011/07/11/us-golf-pga-idUSTRE76900C20110711'
+p393
+sg4
+S'20110710\xc2\xa08:12PM UTC'
+p394
+sg6
+S'Steve Stricker wins John Deere Classic'
+p395
+sa(dp396
+g2
+S'http://www.reuters.com/article/2011/07/11/us-bannerman-idUSTRE76A00M20110711'
+p397
+sg4
+S'20110710\xc2\xa08:09PM UTC'
+p398
+sg6
+S"China's Sichuan Hanlong bids for Bannerman, eyeing"
+p399
+sa(dp400
+g2
+S'http://www.reuters.com/article/2011/07/11/markets-japan-stocks-idUSL3E7IB00020110711'
+p401
+sg4
+S'20110710\xc2\xa08:05PM UTC'
+p402
+sg6
+S'Nikkei falls on US jobs data, profit-taking '
+p403
+sa(dp404
+g2
+S'http://www.reuters.com/article/2011/07/11/markets-korea-stocks-idUSL3E7IA0FW20110711'
+p405
+sg4
+S'20110710\xc2\xa08:05PM UTC'
+p406
+sg6
+S'Seoul shares edge down at open; SK Telecom tumbles'
+p407
+sa(dp408
+g2
+S'http://www.reuters.com/article/2011/07/11/cellestis-idUSN1E76908T20110711'
+p409
+sg4
+S'20110710\xc2\xa08:04PM UTC'
+p410
+sg6
+S'UPDATE 1-Qiagen hikes offer for Cellestis by 7 percent'
+p411
+sa(dp412
+g2
+S'http://www.reuters.com/article/2011/07/11/us-libya-france-talks-idUSTRE76A00020110711'
+p413
+sg4
+S'20110710\xc2\xa08:04PM UTC'
+p414
+sg6
+S'Gaddafi government in talks with France: report'
+p415
+sa(dp416
+g2
+S'http://www.reuters.com/article/2011/07/11/usa-debt-monday-idUSWEN519520110711'
+p417
+sg4
+S'20110710\xc2\xa08:03PM UTC'
+p418
+sg6
+S'US debt talks to resume Monday - aides'
+p419
+sa(dp420
+g2
+S'http://www.reuters.com/article/2011/07/11/markets-forex-idUSL3E7IA0GF20110711'
+p421
+sg4
+S'20110710\xc2\xa08:00PM UTC'
+p422
+sg6
+S'FOREX-Euro falters as sovereign debt jitters spread'
+p423
+sa(dp424
+g2
+S'http://www.reuters.com/article/2011/07/11/idUS10067+11-Jul-2011+PRN20110711'
+p425
+sg4
+S'20110710\xc2\xa08:00PM UTC'
+p426
+sg6
+S'Following Is a Test Release'
+p427
+sa(dp428
+g2
+S'http://www.reuters.com/article/2011/07/11/idUS10016+11-Jul-2011+BW20110711'
+p429
+sg4
+S'20110710\xc2\xa08:00PM UTC'
+p430
+sg6
+S'Active Network and Triathlon Australia Enter Strategic Alliance to Enhance Triathlon and Multisport Down Under'
+p431
+sa(dp432
+g2
+S'http://www.reuters.com/article/2011/07/10/idUS72119+10-Jul-2011+MW20110710'
+p433
+sg4
+S'20110710\xc2\xa07:59PM UTC'
+p434
+sg6
+S" Sushi Popper Announces Appearance on Cooking Channel's United Tastes of America"
+p435
+sa(dp436
+g2
+S'http://www.reuters.com/article/2011/07/10/chinastateconstruction-idUSL3E7IA0G620110710'
+p437
+sg4
+S'20110710\xc2\xa07:58PM UTC'
+p438
+sg6
+S'China State Construction says H1 sales up 87 pct'
+p439
+sa(dp440
+g2
+S'http://www.reuters.com/article/2011/07/10/japan-economy-money-supply-idUSL3E7I80SQ20110710'
+p441
+sg4
+S'20110710\xc2\xa07:58PM UTC'
+p442
+sg6
+S'Japan June M3 money supply up 2.2 pct yr/yr - BOJ'
+p443
+sa(dp444
+g2
+S'http://www.reuters.com/article/2011/07/10/bannerman-idUSL3E7IA0F520110710'
+p445
+sg4
+S'20110710\xc2\xa07:58PM UTC'
+p446
+sg6
+S"UPDATE 1-China's Sichuan Hanlong bids for Bannerman, eyeing Namibia uranium "
+p447
+sa(dp448
+g2
+S'http://www.reuters.com/article/2011/07/10/us-usa-debt-idUSTRE7646S620110710'
+p449
+sg4
+S'20110710\xc2\xa07:58PM UTC'
+p450
+sg6
+S'Obama, lawmakers meet for 1 1/2 hours on debt impasse'
+p451
+sa(dp452
+g2
+S'http://www.reuters.com/article/2011/07/10/pressdigest-idUSL3E7IA0G720110710'
+p453
+sg4
+S'20110710\xc2\xa07:56PM UTC'
+p454
+sg6
+S'PRESS DIGEST - MALAYSIA - July 11'
+p455
+sa(dp456
+g2
+S'http://www.reuters.com/article/2011/07/10/us-cascade-crash-idUSTRE7693AB20110710'
+p457
+sg4
+S'20110710\xc2\xa07:49PM UTC'
+p458
+sg6
+S'Workers reach plane that crashed en route to air convention'
+p459
+sa(dp460
+g2
+S'http://www.reuters.com/article/2011/07/10/us-royals-idUSTRE75T5BA20110710'
+p461
+sg4
+S'20110710\xc2\xa07:43PM UTC'
+p462
+sg6
+S'From stars to Skid Row: Royals end California tour'
+p463
+sa(dp464
+g2
+S'http://www.reuters.com/article/2011/07/10/usa-debt-idUSN1E76808G20110710'
+p465
+sg4
+S'20110710\xc2\xa07:42PM UTC'
+p466
+sg6
+S'WRAPUP 6-Obama, lawmakers meet for 1 1/2 hours on debt impasse'
+p467
+sa(dp468
+g2
+S'http://www.reuters.com/article/2011/07/10/usa-debt-end-idUSWNA326020110710'
+p469
+sg4
+S'20110710\xc2\xa07:37PM UTC'
+p470
+sg6
+S'White House debt ceiling meeting ends - aide'
+p471
+sa(dp472
+g2
+S'http://www.reuters.com/article/2011/07/10/korea-economy-inflation-idUSL3E7IA0F120110710'
+p473
+sg4
+S'20110710\xc2\xa07:32PM UTC'
+p474
+sg6
+S'S.Korea fin min says concerned about demand-led inflation'
+p475
+sa(dp476
+g2
+S'http://www.reuters.com/article/2011/07/10/idUS69148+10-Jul-2011+PRN20110710'
+p477
+sg4
+S'20110710\xc2\xa07:30PM UTC'
+p478
+sg6
+S'Following Is a Test Release'
+p479
+sa(dp480
+g2
+S'http://www.reuters.com/article/2011/07/10/idUS69114+10-Jul-2011+BW20110710'
+p481
+sg4
+S'20110710\xc2\xa07:30PM UTC'
+p482
+sg6
+S'Samson Oil & Gas Outlines Committed Drilling Program'
+p483
+sa(dp484
+g2
+S'http://www.reuters.com/article/2011/07/10/markets-japan-stocks-idUSL3E7IA0EP20110710'
+p485
+sg4
+S'20110710\xc2\xa07:29PM UTC'
+p486
+sg6
+S'Nikkei set to fall on US jobs, may dip below 10,000'
+p487
+sa(dp488
+g2
+S'http://www.reuters.com/article/2011/07/10/libya-france-talks-idUSLDE7690F820110710'
+p489
+sg4
+S'20110710\xc2\xa07:26PM UTC'
+p490
+sg6
+S'Gaddafi govt in talks with France - report'
+p491
+sa(dp492
+g2
+S'http://www.reuters.com/article/2011/07/10/idUS68763+10-Jul-2011+MW20110710'
+p493
+sg4
+S'20110710\xc2\xa07:26PM UTC'
+p494
+sg6
+S' Bannerman Receives Acquisition Proposal'
+p495
+sa(dp496
+g2
+S'http://www.reuters.com/article/2011/07/10/idUS68716+10-Jul-2011+MW20110710'
+p497
+sg4
+S'20110710\xc2\xa07:25PM UTC'
+p498
+sg6
+S' Bannerman Receives Acquisition Proposal'
+p499
+sa(dp500
+g2
+S'http://www.reuters.com/article/2011/07/10/markets-korea-stocks-idUSL3E7I804C20110710'
+p501
+sg4
+S'20110710\xc2\xa07:24PM UTC'
+p502
+sg6
+S'Seoul shares seen opening down on weak U.S. jobs data'
+p503
+sa(dp504
+g2
+S'http://www.reuters.com/article/2011/07/10/idUSL3E7IA0EU20110710'
+p505
+sg4
+S'20110710\xc2\xa07:22PM UTC'
+p506
+sg6
+S'Nestle to acquire 60 pct of Singapore-listed Hsu Fu Chi'
+p507
+sa(dp508
+g2
+S'http://www.reuters.com/article/2011/07/10/idUS68360+10-Jul-2011+PRN20110710'
+p509
+sg4
+S'20110710\xc2\xa07:20PM UTC'
+p510
+sg6
+S'QIAGEN Updates Proposal to Acquire Cellestis Limited'
+p511
+sa(dp512
+g2
+S'http://www.reuters.com/article/2011/07/10/deutschebank-succession-idUSLDE76908W20110710'
+p513
+sg4
+S'20110710\xc2\xa07:19PM UTC'
+p514
+sg6
+S'CORRECTED - Deutsche Bank on track to endorse Jain as co-CEO'
+p515
+sa(dp516
+g2
+S'http://www.reuters.com/article/2011/07/10/idUS68293+10-Jul-2011+MW20110710'
+p517
+sg4
+S'20110710\xc2\xa07:19PM UTC'
+p518
+sg6
+S' Villa4vacation.com Adds "Reputation Score" and "Summer Discount" to Its Website Features'
+p519
+sa(dp520
+g2
+S'http://www.reuters.com/article/2011/07/10/us-newscorp-britain-lawyers-idUSTRE76938Q20110710'
+p521
+sg4
+S'20110710\xc2\xa07:17PM UTC'
+p522
+sg6
+S'UK government lawyers in plan to block BSkyB bid: paper'
+p523
+sa(dp524
+g2
+S'http://www.reuters.com/article/2011/07/10/economy-malaysia-indicators-idUSL3E7IA0F220110710'
+p525
+sg4
+S'20110710\xc2\xa07:16PM UTC'
+p526
+sg6
+S'TABLE-Malaysia economic indicators - July 11'
+p527
+sa(dp528
+g2
+S'http://www.reuters.com/article/2011/07/10/britain-southerncross-idUSLDE7690F920110710'
+p529
+sg4
+S'20110710\xc2\xa07:14PM UTC'
+p530
+sg6
+S'Southern Cross to announce complete breakup - Sky'
+p531
+sa(dp532
+g2
+S'http://www.reuters.com/article/2011/07/10/korea-factors-idUSL3E7IA0EH20110710'
+p533
+sg4
+S'20110710\xc2\xa07:14PM UTC'
+p534
+sg6
+S'S.Korea-Market Factors to watch July 11'
+p535
+sa(dp536
+g2
+S'http://www.reuters.com/article/2011/07/10/us-libya-idUSTRE7270JP20110710'
+p537
+sg4
+S'20110710\xc2\xa07:13PM UTC'
+p538
+sg6
+S'France tells Libya rebels to seek peace with Gaddafi'
+p539
+sa(dp540
+g2
+S'http://www.reuters.com/article/2011/07/10/newscorp-britain-lawyers-idUSL6E7IA07220110710'
+p541
+sg4
+S'20110710\xc2\xa07:13PM UTC'
+p542
+sg6
+S'UK govt lawyers in plan to block BSkyB bid -paper'
+p543
+sa(dp544
+g2
+S'http://www.reuters.com/article/2011/07/10/us-libya-nato-mayday-idUSTRE76938J20110710'
+p545
+sg4
+S'20110710\xc2\xa07:13PM UTC'
+p546
+sg6
+S"NATO answers refugee boat's mayday off Libya"
+p547
+sa(dp548
+g2
+S'http://www.reuters.com/article/2011/07/10/idUSS9E7HU01K20110710'
+p549
+sg4
+S'20110710\xc2\xa07:09PM UTC'
+p550
+sg6
+S" Australian uranium miner gets takeover bid from China's Sichuan Hanlong"
+p551
+sa(dp552
+g2
+S'http://www.reuters.com/article/2011/07/10/us-rollercoaster-death-idUSTRE76938720110710'
+p553
+sg4
+S'20110710\xc2\xa07:08PM UTC'
+p554
+sg6
+S"Double amputee's theme park death reignites regulatory fight"
+p555
+sa(dp556
+g2
+S'http://www.reuters.com/article/2011/07/10/markets-japan-stocks-orders-idUSL3E7IA0EQ20110710'
+p557
+sg4
+S'20110710\xc2\xa07:07PM UTC'
+p558
+sg6
+S'Foreign brokers set to buy Japanese stocks'
+p559
+sa(dp560
+g2
+S'http://www.reuters.com/article/2011/07/10/us-golf-pga-idUSTRE76900C20110710'
+p561
+sg4
+S'20110710\xc2\xa07:06PM UTC'
+p562
+sg6
+S'Steve Stricker wins John Deere Classic'
+p563
+sa(dp564
+g2
+S'http://www.reuters.com/article/2011/07/10/us-egypt-protest-idUSTRE7691UL20110710'
+p565
+sg4
+S'20110710\xc2\xa07:05PM UTC'
+p566
+sg6
+S'Egyptian frustrations with army, government mount'
+p567
+sa(dp568
+g2
+S'http://www.reuters.com/article/2011/07/10/idUS67338+10-Jul-2011+HUG20110710'
+p569
+sg4
+S'20110710\xc2\xa07:02PM UTC'
+p570
+sg6
+S'Thomson Reuters Survey Highlights Top Four Areas of Bank Concern for OTC Derivatives Regulation'
+p571
+sa(dp572
+g2
+S'http://www.reuters.com/article/2011/07/10/idUS67210+10-Jul-2011+MW20110710'
+p573
+sg4
+S'20110710\xc2\xa07:00PM UTC'
+p574
+sg6
+S' Thomson Reuters Survey Highlights Top Four Areas of Bank Concern for OTC Derivatives Regulation'
+p575
+sa(dp576
+g2
+S'http://www.reuters.com/article/2011/07/10/idUS67185+10-Jul-2011+PRN20110710'
+p577
+sg4
+S'20110710\xc2\xa07:00PM UTC'
+p578
+sg6
+S'Following Is a Test Release'
+p579
+sa(dp580
+g2
+S'http://www.reuters.com/article/2011/07/10/japan-diary-idUSL3E7GD1WJ20110710'
+p581
+sg4
+S'20110710\xc2\xa06:58PM UTC'
+p582
+sg6
+S'DIARY-Japan -July 11'
+p583
+sa(dp584
+g2
+S'http://www.reuters.com/article/2011/07/10/market-ratings-vertafore-idUSWNA325820110710'
+p585
+sg4
+S'20110710\xc2\xa06:43PM UTC'
+p586
+sg6
+S"BRIEF-Moody's says Vertafore's B2 CFR unaffected "
+p587
+sa(dp588
+g2
+S'http://www.reuters.com/article/2011/07/10/dynegy-idUSN1E76907U20110710'
+p589
+sg4
+S'20110710\xc2\xa06:43PM UTC'
+p590
+sg6
+S'UPDATE 1-Dynegy to reorganize; in talks for new credit'
+p591
+sa(dp592
+g2
+S'http://www.reuters.com/article/2011/07/10/idUSS9E7HU01M20110710'
+p593
+sg4
+S'20110710\xc2\xa06:42PM UTC'
+p594
+sg6
+S'Wesfarmers: Curragh coking coal prices down 10 pct vs June qtr'
+p595
+sa(dp596
+g2
+S'http://www.reuters.com/article/2011/07/10/idUS66355+10-Jul-2011+BW20110710'
+p597
+sg4
+S'20110710\xc2\xa06:41PM UTC'
+p598
+sg6
+S'Sino IC Technology Adopts Teradyne UltraFLEX Test System'
+p599
+sa(dp600
+g2
+S'http://www.reuters.com/article/2011/07/10/idUS65745+10-Jul-2011+PRN20110710'
+p601
+sg4
+S'20110710\xc2\xa06:30PM UTC'
+p602
+sg6
+S'Following Is a Test Release'
+p603
+sa(dp604
+g2
+S'http://www.reuters.com/article/2011/07/10/us-russia-boat-idUSTRE76914O20110710'
+p605
+sg4
+S'20110710\xc2\xa06:16PM UTC'
+p606
+sg6
+S"Over 100 missing after boat sinks in Russia's Volga"
+p607
+sa(dp608
+g2
+S'http://www.reuters.com/article/2011/07/10/usa-debt-meeting-idUSWEN519320110710'
+p609
+sg4
+S'20110710\xc2\xa06:15PM UTC'
+p610
+sg6
+S'U.S. talks aimed at averting debt default start'
+p611
+sa(dp612
+g2
+S'http://www.reuters.com/article/2011/07/10/idUS64561+10-Jul-2011+PRN20110710'
+p613
+sg4
+S'20110710\xc2\xa06:08PM UTC'
+p614
+sg6
+S'Oak Hill Capital Partners to Sell Primus International to Precision Castparts Corp. for $900 Million'
+p615
+sa(dp616
+g2
+S'http://www.reuters.com/article/2011/07/10/russia-boat-idUSLDE76907B20110710'
+p617
+sg4
+S'20110710\xc2\xa06:08PM UTC'
+p618
+sg6
+S"UPDATE 5-Over 100 missing after boat sinks in Russia's Volga"
+p619
+sa(dp620
+g2
+S'http://www.reuters.com/article/2011/07/10/idUS64068+10-Jul-2011+PRN20110710'
+p621
+sg4
+S'20110710\xc2\xa06:00PM UTC'
+p622
+sg6
+S'Following Is a Test Release'
+p623
+sa(dp624
+g2
+S'http://www.reuters.com/article/2011/07/10/markets-australia-carbon-idUSL3E7IA0DJ20110710'
+p625
+sg4
+S'20110710\xc2\xa06:00PM UTC'
+p626
+sg6
+S'RPT-Australia carbon plan to boost retail & renewables, dent airlines & miners'
+p627
+sa(dp628
+g2
+S'http://www.reuters.com/article/2011/07/10/idUS64025+10-Jul-2011+BW20110710'
+p629
+sg4
+S'20110710\xc2\xa06:00PM UTC'
+p630
+sg6
+S'Dynegy Provides Update on Restructuring Activities'
+p631
+sa(dp632
+g2
+S'http://www.reuters.com/article/2011/07/10/us-tennis-men-newport-idUSTRE76935320110710'
+p633
+sg4
+S'20110710\xc2\xa05:57PM UTC'
+p634
+sg6
+S'Isner wins Newport title after skipping wedding'
+p635
+sa(dp636
+g2
+S'http://www.reuters.com/article/2011/07/10/refinery-operations-coffeyville-idUSWEN519120110710'
+p637
+sg4
+S'20110710\xc2\xa05:51PM UTC'
+p638
+sg6
+S'Coffeyville refinery reports flaring - filing'
+p639
+sa(dp640
+g2
+S'http://www.reuters.com/article/2011/07/10/australia-carbon-coal-idUSL3E7IA0DC20110710'
+p641
+sg4
+S'20110710\xc2\xa05:46PM UTC'
+p642
+sg6
+S'RPT-Coal miners say Australia carbon tax treatment unfair'
+p643
+sa(dp644
+g2
+S'http://www.reuters.com/article/2011/07/10/australia-carbon-highlights-idUSL3E7IA0D820110710'
+p645
+sg4
+S'20110710\xc2\xa05:46PM UTC'
+p646
+sg6
+S"RPT-HIGHLIGHTS-Australia's carbon-reduction scheme"
+p647
+sa(dp648
+g2
+S'http://www.reuters.com/article/2011/07/10/us-egypt-ismailia-security-idUSTRE76934B20110710'
+p649
+sg4
+S'20110710\xc2\xa05:44PM UTC'
+p650
+sg6
+S'Egypt state security officers protest dismissal of police'
+p651
+sa(dp652
+g2
+S'http://www.reuters.com/article/2011/07/10/australia-carbon-idUSL3E7IA0D220110710'
+p653
+sg4
+S'20110710\xc2\xa05:43PM UTC'
+p654
+sg6
+S'RPT-UPDATE 4-Australia steps up climate fight, unveils sweeping carbon plan'
+p655
+sa(dp656
+g2
+S'http://www.reuters.com/article/2011/07/10/us-australia-carbon-idUSTRE7690C520110710'
+p657
+sg4
+S'20110710\xc2\xa05:32PM UTC'
+p658
+sg6
+S'Australia unveils sweeping carbon plan in climate fight'
+p659
+sa(dp660
+g2
+S'http://www.reuters.com/article/2011/07/10/us-australia-carbon-treasurer-idUSTRE76933I20110710'
+p661
+sg4
+S'20110710\xc2\xa05:32PM UTC'
+p662
+sg6
+S'Australia carbon tax will be budget neutral: Treasurer Swan'
+p663
+sa(dp664
+g2
+S'http://www.reuters.com/article/2011/07/10/idUS63191+10-Jul-2011+PRN20110710'
+p665
+sg4
+S'20110710\xc2\xa05:30PM UTC'
+p666
+sg6
+S'Following Is a Test Release'
+p667
+sa(dp668
+g2
+S'http://www.reuters.com/article/2011/07/10/refinery-operations-alon-bakersfield-idUSWEN518920110710'
+p669
+sg4
+S'20110710\xc2\xa05:29PM UTC'
+p670
+sg6
+S'Alon reports shutdown at Bakersfield plant -filing'
+p671
+sa(dp672
+g2
+S'http://www.reuters.com/article/2011/07/10/libya-idUSLDE76907X20110710'
+p673
+sg4
+S'20110710\xc2\xa05:23PM UTC'
+p674
+sg6
+S'WRAPUP 3-France tells Libya rebels to seek peace with Gaddafi'
+p675
+sa(dp676
+g2
+S'http://www.reuters.com/article/2011/07/10/us-precisioncastparts-idUSTRE76932L20110710'
+p677
+sg4
+S'20110710\xc2\xa05:18PM UTC'
+p678
+sg6
+S'Precision Castparts buys Primus for $900 million in cash'
+p679
+sa(dp680
+g2
+S'http://www.reuters.com/article/2011/07/10/precisioncastparts-idUSN1E76907020110710'
+p681
+sg4
+S'20110710\xc2\xa05:18PM UTC'
+p682
+sg6
+S'UPDATE 1-Precision Castparts buys Primus for $900 mln in cash'
+p683
+sa(dp684
+g2
+S'http://www.reuters.com/article/2011/07/10/us-libya-usa-idUSTRE7692YG20110710'
+p685
+sg4
+S'20110710\xc2\xa05:17PM UTC'
+p686
+sg6
+S"U.S. sticks to guns on ousting Libya's Gaddafi"
+p687
+sa(dp688
+g2
+S'http://www.reuters.com/article/2011/07/10/idUS62774+10-Jul-2011+PRN20110710'
+p689
+sg4
+S'20110710\xc2\xa05:17PM UTC'
+p690
+sg6
+S'NASA Plans Air Pollution Flight Over Maryland on July 11'
+p691
+sa(dp692
+g2
+S'http://www.reuters.com/article/2011/07/10/us-morocco-protests-idUSTRE76931S20110710'
+p693
+sg4
+S'20110710\xc2\xa05:12PM UTC'
+p694
+sg6
+S'No let up in Moroccan protests for deeper reform'
+p695
+sa(dp696
+g2
+S'http://www.reuters.com/article/2011/07/10/idUS62499+10-Jul-2011+PRN20110710'
+p697
+sg4
+S'20110710\xc2\xa05:11PM UTC'
+p698
+sg6
+S"Aerojet Engines Maneuver Space Shuttle on Atlantis' Historic Final Launch"
+p699
+sa(dp700
+g2
+S'http://www.reuters.com/article/2011/07/10/us-colombia-conflict-idUSTRE76931B20110710'
+p701
+sg4
+S'20110710\xc2\xa05:09PM UTC'
+p702
+sg6
+S'Colombia rebels kill 2 police, set off "horse bomb"'
+p703
+sa(dp704
+g2
+S'http://www.reuters.com/article/2011/07/10/us-libya-france-idUSTRE76930X20110710'
+p705
+sg4
+S'20110710\xc2\xa05:06PM UTC'
+p706
+sg6
+S'France says time for political solution in Libya'
+p707
+sa(dp708
+g2
+S'http://www.reuters.com/article/2011/07/10/us-egypt-minister-cancer-idUSTRE76930P20110710'
+p709
+sg4
+S'20110710\xc2\xa05:06PM UTC'
+p710
+sg6
+S'Egypt detains former minister over pesticides'
+p711
+sa(dp712
+g2
+S'http://www.reuters.com/article/2011/07/10/idUS61907+10-Jul-2011+GNW20110710'
+p713
+sg4
+S'20110710\xc2\xa05:00PM UTC'
+p714
+sg6
+S'Precision Castparts Corp. Creates Aerostructures Platform With Strategic Acquisition...'
+p715
+sa(dp716
+g2
+S'http://www.reuters.com/article/2011/07/10/idUS61881+10-Jul-2011+PRN20110710'
+p717
+sg4
+S'20110710\xc2\xa05:00PM UTC'
+p718
+sg6
+S'Following Is a Test Release'
+p719
+sa(dp720
+g2
+S'http://www.reuters.com/article/2011/07/10/idUS61852+10-Jul-2011+BW20110710'
+p721
+sg4
+S'20110710\xc2\xa05:00PM UTC'
+p722
+sg6
+S'SiliconBlue Launches "Los Angeles," Custom Mobile Device Platform for High-Speed Sensor Management, Custom Connectivity and Video and Image Solutions'
+p723
+sa(dp724
+g2
+S'http://www.reuters.com/article/2011/07/10/us-syria-dialogue-idUSTRE7691GT20110710'
+p725
+sg4
+S'20110710\xc2\xa04:59PM UTC'
+p726
+sg6
+S'Syrian opposition boycotts talks with government'
+p727
+sa(dp728
+g2
+S'http://www.reuters.com/article/2011/07/10/us-newscorp-bskyb-shares-idUSTRE7692ZJ20110710'
+p729
+sg4
+S'20110710\xc2\xa04:57PM UTC'
+p730
+sg6
+S'BSkyB under pressure as politics hijack merger'
+p731
+sa(dp732
+g2
+S'http://www.reuters.com/article/2011/07/10/newscorp-bskyb-shares-idUSLDE7690DA20110710'
+p733
+sg4
+S'20110710\xc2\xa04:54PM UTC'
+p734
+sg6
+S'BSkyB under pressure as politics hijack merger'
+p735
+sa(dp736
+g2
+S'http://www.reuters.com/article/2011/07/10/idUS61494+10-Jul-2011+MW20110710'
+p737
+sg4
+S'20110710\xc2\xa04:50PM UTC'
+p738
+sg6
+S' Ferrari FF Makes Its Debut in Toronto'
+p739
+sa(dp740
+g2
+S'http://www.reuters.com/article/2011/07/10/us-venezuela-chavez-idUSTRE76325D20110710'
+p741
+sg4
+S'20110710\xc2\xa04:50PM UTC'
+p742
+sg6
+S"Chavez doesn't have colon cancer or need chemo, says ally"
+p743
+sa(dp744
+g2
+S'http://www.reuters.com/article/2011/07/10/libya-usa-idUSN1E76906J20110710'
+p745
+sg4
+S'20110710\xc2\xa04:36PM UTC'
+p746
+sg6
+S"US sticks to guns on ousting Libya's Gaddafi"
+p747
+sa(dp748
+g2
+S'http://www.reuters.com/article/2011/07/10/digest-australia-business-idUSL3E7IA0CB20110710'
+p749
+sg4
+S'20110710\xc2\xa04:31PM UTC'
+p750
+sg6
+S'PRESS DIGEST-Australian Business News - July 11'
+p751
+sa(dp752
+g2
+S'http://www.reuters.com/article/2011/07/10/idUS60917+10-Jul-2011+PRN20110710'
+p753
+sg4
+S'20110710\xc2\xa04:30PM UTC'
+p754
+sg6
+S'Following Is a Test Release'
+p755
+sa(dp756
+g2
+S'http://www.reuters.com/article/2011/07/10/russia-boat-missing-idUSLDE7690E020110710'
+p757
+sg4
+S'20110710\xc2\xa04:26PM UTC'
+p758
+sg6
+S'Little hope for survivors after Russian boat sinks'
+p759
+sa(dp760
+g2
+S'http://www.reuters.com/article/2011/07/10/us-nigeria-blast-idUSTRE7691U320110710'
+p761
+sg4
+S'20110710\xc2\xa04:18PM UTC'
+p762
+sg6
+S'Blast in outskirts of Nigerian capital Abuja'
+p763
+sa(dp764
+g2
+S'http://www.reuters.com/article/2011/07/10/us-obama-plane-idUSTRE76904S20110710'
+p765
+sg4
+S'20110710\xc2\xa04:07PM UTC'
+p766
+sg6
+S'Fighter jets intercept third plane near Camp David'
+p767
+sa(dp768
+g2
+S'http://www.reuters.com/article/2011/07/10/us-athletics-diamond-birmingham-idUSTRE7692VQ20110710'
+p769
+sg4
+S'20110710\xc2\xa04:06PM UTC'
+p770
+sg6
+S'Powell cruises to Birmingham win without engaging top'
+p771
+sa(dp772
+g2
+S'http://www.reuters.com/article/2011/07/10/senegal-chad-habre-idUSL6E7IA06520110710'
+p773
+sg4
+S'20110710\xc2\xa04:04PM UTC'
+p774
+sg6
+S'Senegal suspends Habre return back to Chad -for min'
+p775
+sa(dp776
+g2
+S'http://www.reuters.com/article/2011/07/10/idUS59678+10-Jul-2011+PRN20110710'
+p777
+sg4
+S'20110710\xc2\xa04:00PM UTC'
+p778
+sg6
+S'Following Is a Test Release'
+p779
+sa(dp780
+g2
+S'http://www.reuters.com/article/2011/07/10/us-iraq-usa-panetta-idUSTRE7691P520110710'
+p781
+sg4
+S'20110710\xc2\xa03:59PM UTC'
+p782
+sg6
+S'New defense chief Panetta in Iraq, to press on drawdown'
+p783
+sa(dp784
+g2
+S'http://www.reuters.com/article/2011/07/10/us-curbyourenthusiasm-idUSTRE7692UP20110710'
+p785
+sg4
+S'20110710\xc2\xa03:48PM UTC'
+p786
+sg6
+S'"Curb" writer David Mandel talks about show\'s new season'
+p787
+sa(dp788
+g2
+S'http://www.reuters.com/article/2011/07/10/us-space-shuttle-idUSTRE7634ZA20110710'
+p789
+sg4
+S'20110710\xc2\xa03:36PM UTC'
+p790
+sg6
+S'Atlantis docks at space station on last mission'
+p791
+sa(dp792
+g2
+S'http://www.reuters.com/article/2011/07/10/us-britain-newscorp-murdoch-idUSTRE7690XW20110710'
+p793
+sg4
+S'20110710\xc2\xa03:34PM UTC'
+p794
+sg6
+S'Pressure mounts on UK government to halt Murdoch/BSkyB deal'
+p795
+sa(dp796
+g2
+S'http://www.reuters.com/article/2011/07/10/us-boxoffice-idUSTRE7691VY20110710'
+p797
+sg4
+S'20110710\xc2\xa03:34PM UTC'
+p798
+sg6
+S'"Transformers" global box office hits $645 million'
+p799
+sa(dp800
+g2
+S'http://www.reuters.com/article/2011/07/10/britain-newscorp-murdoch-idUSL6E7IA05A20110710'
+p801
+sg4
+S'20110710\xc2\xa03:33PM UTC'
+p802
+sg6
+S'UPDATE 1-Pressure mounts on UK govt to halt Murdoch/BSkyB deal'
+p803
+sa(dp804
+g2
+S'http://www.reuters.com/article/2011/07/10/boxoffice-idUSN1E76905Q20110710'
+p805
+sg4
+S'20110710\xc2\xa03:32PM UTC'
+p806
+sg6
+S"UPDATE 1-'Transformers' global box office hits $645 million"
+p807
+sa(dp808
+g2
+S'http://www.reuters.com/article/2011/07/10/idUS59016+10-Jul-2011+PRN20110710'
+p809
+sg4
+S'20110710\xc2\xa03:30PM UTC'
+p810
+sg6
+S'Following Is a Test Release'
+p811
+sa(dp812
+g2
+S'http://www.reuters.com/article/2011/07/10/us-obama-congress-trade-idUSTRE7692AF20110710'
+p813
+sg4
+S'20110710\xc2\xa03:18PM UTC'
+p814
+sg6
+S'Showdown looming on Korea trade without deal soon'
+p815
+sa(dp816
+g2
+S'http://www.reuters.com/article/2011/07/10/newzealand-markets-stocks-idUSL3E7I90AG20110710'
+p817
+sg4
+S'20110710\xc2\xa03:16PM UTC'
+p818
+sg6
+S'RPT-FEATURE-New Zealand stock market a world-beater, against the odds'
+p819
+sa(dp820
+g2
+S'http://www.reuters.com/article/2011/07/10/us-connecticut-sickleave-idUSTRE7692QE20110710'
+p821
+sg4
+S'20110710\xc2\xa03:09PM UTC'
+p822
+sg6
+S'Connecticut becomes first state to mandate paid sick time'
+p823
+sa(dp824
+g2
+S'http://www.reuters.com/article/2011/07/10/us-syria-usa-accuse-idUSTRE7692Q720110710'
+p825
+sg4
+S'20110710\xc2\xa03:09PM UTC'
+p826
+sg6
+S'U.S. accuses Syria of stirring protest outside embassy'
+p827
+sa(dp828
+g2
+S'http://www.reuters.com/article/2011/07/10/us-beckham-baby-idUSTRE7692PJ20110710'
+p829
+sg4
+S'20110710\xc2\xa03:07PM UTC'
+p830
+sg6
+S'David and Victoria Beckham welcome new baby girl'
+p831
+sa(dp832
+g2
+S'http://www.reuters.com/article/2011/07/10/us-economy-global-weekahead-idUSTRE7692OF20110710'
+p833
+sg4
+S'20110710\xc2\xa03:02PM UTC'
+p834
+sg6
+S'Hurdles abound in global recovery'
+p835
+sa(dp836
+g2
+S'http://www.reuters.com/article/2011/07/10/idUS58106+10-Jul-2011+PRN20110710'
+p837
+sg4
+S'20110710\xc2\xa03:00PM UTC'
+p838
+sg6
+S'Following Is a Test Release'
+p839
+sa(dp840
+g2
+S'http://www.reuters.com/article/2011/07/10/us-cycling-tour-car-idUSTRE7692O020110710'
+p841
+sg4
+S'20110710\xc2\xa02:59PM UTC'
+p842
+sg6
+S'Car incident causes furor in Tour de France peloton'
+p843
+sa(dp844
+g2
+S'http://www.reuters.com/article/2011/07/10/us-egypt-suezcanal-idUSTRE7692NL20110710'
+p845
+sg4
+S'20110710\xc2\xa02:56PM UTC'
+p846
+sg6
+S'Egypt Suez Canal working despite protests: agency'
+p847
+sa(dp848
+g2
+S'http://www.reuters.com/article/2011/07/10/us-newscorp-hacking-idUSTRE7641IO20110710'
+p849
+sg4
+S'20110710\xc2\xa02:52PM UTC'
+p850
+sg6
+S'Murdoch meets UK executive embroiled in scandal'
+p851
+sa(dp852
+g2
+S'http://www.reuters.com/article/2011/07/10/newscorp-idUSL6E7IA00O20110710'
+p853
+sg4
+S'20110710\xc2\xa02:51PM UTC'
+p854
+sg6
+S'WRAPUP 6-Murdoch meets UK executive embroiled in scandal'
+p855
+sa(dp856
+g2
+S'http://www.reuters.com/article/2011/07/10/us-lebanon-tribunal-idUSTRE7692LB20110710'
+p857
+sg4
+S'20110710\xc2\xa02:47PM UTC'
+p858
+sg6
+S'Interpol issues warrants for Hariri killing suspects'
+p859
+sa(dp860
+g2
+S'http://www.reuters.com/article/2011/07/10/idUS57648+10-Jul-2011+MW20110710'
+p861
+sg4
+S'20110710\xc2\xa02:47PM UTC'
+p862
+sg6
+S' Media Advisory: Event Cancellation Notice-Minister of State Bernier to Make an Important Announcement at the Calgary Stampede'
+p863
+sa(dp864
+g2
+S'http://www.reuters.com/article/2011/07/10/us-eurozone-idUSTRE7691HM20110710'
+p865
+sg4
+S'20110710\xc2\xa02:45PM UTC'
+p866
+sg6
+S'Exclusive: EU calls emergency meeting as crisis stalks Italy'
+p867
+sa(dp868
+g2
+S'http://www.reuters.com/article/2011/07/10/hungary-rates-idUSBUS00232820110710'
+p869
+sg4
+S'20110710\xc2\xa02:38PM UTC'
+p870
+sg6
+S'Hungary cbank can cut rates if CPI seen below target'
+p871
+sa(dp872
+g2
+S'http://www.reuters.com/article/2011/07/10/us-film-gunhillroad-idUSTRE7692K020110710'
+p873
+sg4
+S'20110710\xc2\xa02:34PM UTC'
+p874
+sg6
+S'"Gun Hill Road", an intimate film of family in transition'
+p875
+sa(dp876
+g2
+S'http://www.reuters.com/article/2011/07/10/us-tomatoes-heirloom-idUSTRE7692JR20110710'
+p877
+sg4
+S'20110710\xc2\xa02:33PM UTC'
+p878
+sg6
+S'Arkansas farmers see growing market in heirloom tomatoes'
+p879
+sa(dp880
+g2
+S'http://www.reuters.com/article/2011/07/10/us-energy-gasoline-retail-idUSTRE7692JH20110710'
+p881
+sg4
+S'20110710\xc2\xa02:32PM UTC'
+p882
+sg6
+S'U.S. gas prices dip to near $3.62/gallon'
+p883
+sa(dp884
+g2
+S'http://www.reuters.com/article/2011/07/10/idUS56898+10-Jul-2011+PRN20110710'
+p885
+sg4
+S'20110710\xc2\xa02:30PM UTC'
+p886
+sg6
+S'Following Is a Test Release'
+p887
+sa(dp888
+g2
+S'http://www.reuters.com/article/2011/07/10/us-china-accounting-enforcement-idUSTRE7692I820110710'
+p889
+sg4
+S'20110710\xc2\xa02:24PM UTC'
+p890
+sg6
+S'Where was SEC as trouble festered at Chinese companies?'
+p891
+sa(dp892
+g2
+S'http://www.reuters.com/article/2011/07/10/us-sudan-secession-idUSTRE76928420110710'
+p893
+sg4
+S'20110710\xc2\xa02:23PM UTC'
+p894
+sg6
+S"Analysis: Sudan's smooth separation masks messy divorce"
+p895
+sa(dp896
+g2
+S'http://www.reuters.com/article/2011/07/10/us-syria-ambassadors-idUSTRE7691GO20110710'
+p897
+sg4
+S'20110710\xc2\xa02:15PM UTC'
+p898
+sg6
+S'Syria summons U.S. and French envoys over Hama visit'
+p899
+sa(dp900
+g2
+S'http://www.reuters.com/article/2011/07/10/us-syria-france-idUSTRE7692HV20110710'
+p901
+sg4
+S'20110710\xc2\xa02:15PM UTC'
+p902
+sg6
+S'France summons Syrian envoy in Paris'
+p903
+sa(dp904
+g2
+S'http://www.reuters.com/article/2011/07/10/china-accounting-enforcement-idUSN1E76905A20110710'
+p905
+sg4
+S'20110710\xc2\xa02:13PM UTC'
+p906
+sg6
+S'INSIGHT-Where was SEC as trouble festered at Chinese companies?'
+p907
+sa(dp908
+g2
+S'http://www.reuters.com/article/2011/07/10/syria-france-idUSLDE7690CY20110710'
+p909
+sg4
+S'20110710\xc2\xa02:12PM UTC'
+p910
+sg6
+S'France summons Syrian envoy in Paris'
+p911
+sa(dp912
+g2
+S'http://www.reuters.com/article/2011/07/10/us-oil-alabama-birds-idUSTRE7692FL20110710'
+p913
+sg4
+S'20110710\xc2\xa02:11PM UTC'
+p914
+sg6
+S'Island off Alabama coast bursting with birds after oil spill'
+p915
+sa(dp916
+g2
+S'http://www.reuters.com/article/2011/07/10/us-newscorp-alwaleed-idUSTRE76926V20110710'
+p917
+sg4
+S'20110710\xc2\xa02:07PM UTC'
+p918
+sg6
+S'Saudi prince says no change in News Corp investment'
+p919
+sa(dp920
+g2
+S'http://www.reuters.com/article/2011/07/10/space-shuttle-idUSN1E76904R20110710'
+p921
+sg4
+S'20110710\xc2\xa02:06PM UTC'
+p922
+sg6
+S'UPDATE 1-Atlantis docks at space station on last mission'
+p923
+sa(dp924
+g2
+S'http://www.reuters.com/article/2011/07/10/newscorp-alaweed-idUSLDE7690CH20110710'
+p925
+sg4
+S'20110710\xc2\xa02:01PM UTC'
+p926
+sg6
+S'UPDATE 1-Saudi prince says no change in News Corp investment'
+p927
+sa(dp928
+g2
+S'http://www.reuters.com/article/2011/07/10/idUS55976+10-Jul-2011+PRN20110710'
+p929
+sg4
+S'20110710\xc2\xa02:00PM UTC'
+p930
+sg6
+S'Following Is a Test Release'
+p931
+sa(dp932
+g2
+S'http://www.reuters.com/article/2011/07/10/us-usa-campaign-pawlenty-idUSTRE7692F920110710'
+p933
+sg4
+S'20110710\xc2\xa01:50PM UTC'
+p934
+sg6
+S'Republican Pawlenty raps rival Bachmann'
+p935
+sa(dp936
+g2
+S'http://www.reuters.com/article/2011/07/10/us-usa-pakistan-aid-idUSTRE7691O520110710'
+p937
+sg4
+S'20110710\xc2\xa01:43PM UTC'
+p938
+sg6
+S'U.S. withholds $800 million in aid to Pakistan: White House'
+p939
+sa(dp940
+g2
+S'http://www.reuters.com/article/2011/07/10/us-yemen-clash-idUSTRE7692DT20110710'
+p941
+sg4
+S'20110710\xc2\xa01:42PM UTC'
+p942
+sg6
+S'Eight dead in Yemen as U.S. envoy presses Saleh to go'
+p943
+sa(dp944
+g2
+S'http://www.reuters.com/article/2011/07/10/us-newscorp-murdoch-brooks-idUSTRE76925320110710'
+p945
+sg4
+S'20110710\xc2\xa01:40PM UTC'
+p946
+sg6
+S'Murdoch exits London home with arm around Brooks'
+p947
+sa(dp948
+g2
+S'http://www.reuters.com/article/2011/07/10/us-india-accident-idUSTRE76916620110710'
+p949
+sg4
+S'20110710\xc2\xa01:39PM UTC'
+p950
+sg6
+S'At least 26 killed in north India rail accident'
+p951
+sa(dp952
+g2
+S'http://www.reuters.com/article/2011/07/10/newscorp-murdoch-london-idUSWLB758220110710'
+p953
+sg4
+S'20110710\xc2\xa01:38PM UTC'
+p954
+sg6
+S'Murdoch exits London home with arm around Brooks'
+p955
+sa(dp956
+g2
+S'http://www.reuters.com/article/2011/07/10/us-yemen-usa-idUSTRE76928X20110710'
+p957
+sg4
+S'20110710\xc2\xa01:38PM UTC'
+p958
+sg6
+S'U.S. official meets Yemen president Saleh in Riyadh'
+p959
+sa(dp960
+g2
+S'http://www.reuters.com/article/2011/07/10/us-electrolux-idUSTRE7692BH20110710'
+p961
+sg4
+S'20110710\xc2\xa01:36PM UTC'
+p962
+sg6
+S'Electrolux to buy Egyptian appliance maker Olympic'
+p963
+sa(dp964
+g2
+S'http://www.reuters.com/article/2011/07/10/electrolux-idUSN1E76904I20110710'
+p965
+sg4
+S'20110710\xc2\xa01:33PM UTC'
+p966
+sg6
+S'UPDATE 1-Electrolux to buy Egyptian appliance maker Olympic'
+p967
+sa(dp968
+g2
+S'http://www.reuters.com/article/2011/07/10/us-cycling-tour-idUSTRE7691YY20110710'
+p969
+sg4
+S'20110710\xc2\xa01:33PM UTC'
+p970
+sg6
+S'Voeckler takes Tour lead on chaotic day'
+p971
+sa(dp972
+g2
+S'http://www.reuters.com/article/2011/07/10/us-cycling-tour-contador-idUSTRE7692A120110710'
+p973
+sg4
+S'20110710\xc2\xa01:33PM UTC'
+p974
+sg6
+S'Contador bothered by his knee after yet another crash'
+p975
+sa(dp976
+g2
+S'http://www.reuters.com/article/2011/07/10/us-electrolux-olympic-idUSTRE76929T20110710'
+p977
+sg4
+S'20110710\xc2\xa01:32PM UTC'
+p978
+sg6
+S'Electrolux buys controlling stake in Olympic Group'
+p979
+sa(dp980
+g2
+S'http://www.reuters.com/article/2011/07/10/electrolux-olympic-idUSWEA739620110710'
+p981
+sg4
+S'20110710\xc2\xa01:31PM UTC'
+p982
+sg6
+S'Electrolux buys controlling stake in Olympic Group'
+p983
+sa(dp984
+g2
+S'http://www.reuters.com/article/2011/07/10/idUS55006+10-Jul-2011+PRN20110710'
+p985
+sg4
+S'20110710\xc2\xa01:30PM UTC'
+p986
+sg6
+S'Following Is a Test Release'
+p987
+sa(dp988
+g2
+S'http://www.reuters.com/article/2011/07/10/idUS54933+10-Jul-2011+PRN20110710'
+p989
+sg4
+S'20110710\xc2\xa01:26PM UTC'
+p990
+sg6
+S'Weis Markets Announces Seventh Round of Price Freeze Program'
+p991
+sa(dp992
+g2
+S'http://www.reuters.com/article/2011/07/10/yemen-usa-idUSN1E76904T20110710'
+p993
+sg4
+S'20110710\xc2\xa01:18PM UTC'
+p994
+sg6
+S'US official meets Yemen president in Riyadh'
+p995
+sa(dp996
+g2
+S'http://www.reuters.com/article/2011/07/10/us-crime-letterman-burglary-idUSTRE76925P20110710'
+p997
+sg4
+S'20110710\xc2\xa01:14PM UTC'
+p998
+sg6
+S'Man arrested after break-in at Letterman show theater'
+p999
+sa(dp1000
+g2
+S'http://www.reuters.com/article/2011/07/10/syngenta-idUSN1E76903E20110710'
+p1001
+sg4
+S'20110710\xc2\xa01:13PM UTC'
+p1002
+sg6
+S"Syngenta stock could face some pressure - Barron's"
+p1003
+sa(dp1004
+g2
+S'http://www.reuters.com/article/2011/07/10/us-italy-market-idUSTRE76922A20110710'
+p1005
+sg4
+S'20110710\xc2\xa01:10PM UTC'
+p1006
+sg6
+S'Italy scrambles to soothe market jitters'
+p1007
+sa(dp1008
+g2
+S'http://www.reuters.com/article/2011/07/10/us-libya-un-idUSTRE76925Z20110710'
+p1009
+sg4
+S'20110710\xc2\xa01:07PM UTC'
+p1010
+sg6
+S'U.N. envoy talks to Libya about transition'
+p1011
+sa(dp1012
+g2
+S'http://www.reuters.com/article/2011/07/10/idUS54205+10-Jul-2011+BW20110710'
+p1013
+sg4
+S'20110710\xc2\xa01:07PM UTC'
+p1014
+sg6
+S'OSIsoft Announces Its Selection as Microsoft Sustainability Partner of the Year'
+p1015
+sa(dp1016
+g2
+S'http://www.reuters.com/article/2011/07/10/newscorp-alwaleed-idUSLDE7690BT20110710'
+p1017
+sg4
+S'20110710\xc2\xa01:06PM UTC'
+p1018
+sg6
+S'Saudi Prince says no change in News Corp investment'
+p1019
+sa(dp1020
+g2
+S'http://www.reuters.com/article/2011/07/10/us-newscorp-murdoch-brooks-idUSTRE76925G20110710'
+p1021
+sg4
+S'20110710\xc2\xa01:05PM UTC'
+p1022
+sg6
+S"News Corp's Rebekah Brooks arrives at Murdoch's London flat"
+p1023
+sa(dp1024
+g2
+S'http://www.reuters.com/article/2011/07/10/newscorp-murdoch-brooks-idUSWLB758120110710'
+p1025
+sg4
+S'20110710\xc2\xa01:01PM UTC'
+p1026
+sg6
+S"News Int's Brooks arrives at Murdoch's London flat"
+p1027
+sa(dp1028
+g2
+S'http://www.reuters.com/article/2011/07/10/idUS53926+10-Jul-2011+PRN20110710'
+p1029
+sg4
+S'20110710\xc2\xa01:00PM UTC'
+p1030
+sg6
+S'Following Is a Test Release'
+p1031
+sa(dp1032
+g2
+S'http://www.reuters.com/article/2011/07/10/us-turkmenistan-blasts-idUSTRE7691WX20110710'
+p1033
+sg4
+S'20110710\xc2\xa012:51PM UTC'
+p1034
+sg6
+S'Blasts at Turkmen arms depot kill 15 people'
+p1035
+sa(dp1036
+g2
+S'http://www.reuters.com/article/2011/07/10/ruthshospitality-idUSN1E76903820110710'
+p1037
+sg4
+S'20110710\xc2\xa012:49PM UTC'
+p1038
+sg6
+S"Ruth's Hospitality shares could rise - Barron's"
+p1039
+sa(dp1040
+g2
+S'http://www.reuters.com/article/2011/07/10/soccer-turkey-yildirim-idUSLDE76719E20110710'
+p1041
+sg4
+S'20110710\xc2\xa012:47PM UTC'
+p1042
+sg6
+S'Soccer-Fenerbahce chairman jailed on match-fixing charges-TV'
+p1043
+sa(dp1044
+g2
+S'http://www.reuters.com/article/2011/07/10/idUS53252+10-Jul-2011+BW20110710'
+p1045
+sg4
+S'20110710\xc2\xa012:41PM UTC'
+p1046
+sg6
+S'Electrolux Acquires Olympic Group'
+p1047
+sa(dp1048
+g2
+S'http://www.reuters.com/article/2011/07/10/boxoffice-chart-idUSN1E76904620110710'
+p1049
+sg4
+S'20110710\xc2\xa012:37PM UTC'
+p1050
+sg6
+S'The top films at the North American box office'
+p1051
+sa(dp1052
+g2
+S'http://www.reuters.com/article/2011/07/10/us-mexico-violence-idUSTRE76921I20110710'
+p1053
+sg4
+S'20110710\xc2\xa012:36PM UTC'
+p1054
+sg6
+S'Ten decapitated bodies left in truck in Mexico: report'
+p1055
+sa(dp1056
+g2
+S'http://www.reuters.com/article/2011/07/10/idUS52947+10-Jul-2011+GNW20110710'
+p1057
+sg4
+S'20110710\xc2\xa012:34PM UTC'
+p1058
+sg6
+S'AmTrust Financial Services, Inc. to Announce Second Quarter Results on July 29, 2011'
+p1059
+sa(dp1060
+g2
+S'http://www.reuters.com/article/2011/07/10/space-shuttle-idUSN1E76903P20110710'
+p1061
+sg4
+S'20110710\xc2\xa012:33PM UTC'
+p1062
+sg6
+S'Atlantis docks at space station on last mission'
+p1063
+sa(dp1064
+g2
+S'http://www.reuters.com/article/2011/07/10/idUS52849+10-Jul-2011+PRN20110710'
+p1065
+sg4
+S'20110710\xc2\xa012:30PM UTC'
+p1066
+sg6
+S'Following Is a Test Release'
+p1067
+sa(dp1068
+g2
+S'http://www.reuters.com/article/2011/07/10/us-sudan-south-independence-idUSTRE7691ZS20110710'
+p1069
+sg4
+S'20110710\xc2\xa012:28PM UTC'
+p1070
+sg6
+S'South Sudan prays, fields soccer team after split'
+p1071
+sa(dp1072
+g2
+S'http://www.reuters.com/article/2011/07/10/us-eurozone-italy-germany-welt-idUSTRE7691YP20110710'
+p1073
+sg4
+S'20110710\xc2\xa012:24PM UTC'
+p1074
+sg6
+S'Rescue fund not big enough for Italy: German paper'
+p1075
+sa(dp1076
+g2
+S'http://www.reuters.com/article/2011/07/10/us-eurozone-germany-wulff-idUSTRE7691XR20110710'
+p1077
+sg4
+S'20110710\xc2\xa012:15PM UTC'
+p1078
+sg6
+S'Up to 15 years needed to fix Greece: German president'
+p1079
+sa(dp1080
+g2
+S'http://www.reuters.com/article/2011/07/10/us-germany-merkel-idUSTRE7691LB20110710'
+p1081
+sg4
+S'20110710\xc2\xa012:09PM UTC'
+p1082
+sg6
+S'Merkel signals ambitions to run for third term in 2013'
+p1083
+sa(dp1084
+g2
+S'http://www.reuters.com/article/2011/07/10/us-germany-debt-idUSTRE7691WJ20110710'
+p1085
+sg4
+S'20110710\xc2\xa012:09PM UTC'
+p1086
+sg6
+S'Germans say "Nein Danke!" to lower taxes'
+p1087
+sa(dp1088
+g2
+S'http://www.reuters.com/article/2011/07/10/turkmenistan-blasts-idUSLDE7690B120110710'
+p1089
+sg4
+S'20110710\xc2\xa012:09PM UTC'
+p1090
+sg6
+S'Blasts at Turkmen arms depot kill 15 people - govt'
+p1091
+sa(dp1092
+g2
+S'http://www.reuters.com/article/2011/07/10/callawaygolf-idUSN1E76903K20110710'
+p1093
+sg4
+S'20110710\xc2\xa012:04PM UTC'
+p1094
+sg6
+S"Callaway Golf shares undervalued-Barron's"
+p1095
+sa(dp1096
+g2
+S'http://www.reuters.com/article/2011/07/10/boxoffice-idUSN1E7680AV20110710'
+p1097
+sg4
+S'20110710\xc2\xa012:01PM UTC'
+p1098
+sg6
+S"'Transformers' controls box office for 2nd week"
+p1099
+sa(dp1100
+g2
+S'http://www.reuters.com/article/2011/07/10/idUS51767+10-Jul-2011+PRN20110710'
+p1101
+sg4
+S'20110710\xc2\xa012:00PM UTC'
+p1102
+sg6
+S'Following Is a Test Release'
+p1103
+sa(dp1104
+g2
+S'http://www.reuters.com/article/2011/07/10/us-egypt-pipeline-idUSTRE7691VT20110710'
+p1105
+sg4
+S'20110710\xc2\xa011:56AM UTC'
+p1106
+sg6
+S'Egypt gas pipeline to Israel to be ready by week end'
+p1107
+sa(dp1108
+g2
+S'http://www.reuters.com/article/2011/07/10/idUS51381+10-Jul-2011+PRN20110710'
+p1109
+sg4
+S'20110710\xc2\xa011:50AM UTC'
+p1110
+sg6
+S'Rocket Launches Completed from NASA Wallops'
+p1111
+sa(dp1112
+g2
+S'http://www.reuters.com/article/2011/07/10/cycling-tour-winner-idUSLDE76909N20110710'
+p1113
+sg4
+S'20110710\xc2\xa011:48AM UTC'
+p1114
+sg6
+S'Cycling-Sanchez wins Tour de France ninth stage'
+p1115
+sa(dp1116
+g2
+S'http://www.reuters.com/article/2011/07/10/idUS51075+10-Jul-2011+PRN20110710'
+p1117
+sg4
+S'20110710\xc2\xa011:39AM UTC'
+p1118
+sg6
+S'Rentrak Announces Official Box Office Numbers for Weekend of July 8, 2011'
+p1119
+sa(dp1120
+g2
+S'http://www.reuters.com/article/2011/07/10/nigeria-blast-idUSLDE7690AN20110710'
+p1121
+sg4
+S'20110710\xc2\xa011:37AM UTC'
+p1122
+sg6
+S'Blast in outskirts of Nigerian capital Abuja-NEMA'
+p1123
+sa(dp1124
+g2
+S'http://www.reuters.com/article/2011/07/10/us-usa-debt-geithner-idUSTRE7691CH20110710'
+p1125
+sg4
+S'20110710\xc2\xa011:37AM UTC'
+p1126
+sg6
+S'Geithner: failure not option on debt deal'
+p1127
+sa(dp1128
+g2
+S'http://www.reuters.com/article/2011/07/10/usa-debt-geithner-idUSN1E76903720110710'
+p1129
+sg4
+S'20110710\xc2\xa011:37AM UTC'
+p1130
+sg6
+S'UPDATE 1-Geithner: failure not option on U.S. debt deal'
+p1131
+sa(dp1132
+g2
+S'http://www.reuters.com/article/2011/07/10/idUS50873+10-Jul-2011+PRN20110710'
+p1133
+sg4
+S'20110710\xc2\xa011:30AM UTC'
+p1134
+sg6
+S'Following Is a Test Release'
+p1135
+sa(dp1136
+g2
+S'http://www.reuters.com/article/2011/07/10/us-yemen-idUSTRE73L1PP20110710'
+p1137
+sg4
+S'20110710\xc2\xa011:27AM UTC'
+p1138
+sg6
+S'Five killed in clash in south Yemen: report'
+p1139
+sa(dp1140
+g2
+S'http://www.reuters.com/article/2011/07/10/us-cycling-tour-vinokourov-idUSTRE7691CP20110710'
+p1141
+sg4
+S'20110710\xc2\xa011:26AM UTC'
+p1142
+sg6
+S'Vinokourov out of Tour on another day of crashes'
+p1143
+sa(dp1144
+g2
+S'http://www.reuters.com/article/2011/07/10/columns-us-sudan-idUSTRE7672JT20110710'
+p1145
+sg4
+S'20110710\xc2\xa011:25AM UTC'
+p1146
+sg6
+S'Independent South Sudan "free at last"'
+p1147
+sa(dp1148
+g2
+S'http://www.reuters.com/article/2011/07/10/us-pakistan-usa-zawahri-idUSTRE76912320110710'
+p1149
+sg4
+S'20110710\xc2\xa011:18AM UTC'
+p1150
+sg6
+S'Pakistan urges U.S. to share intelligence on Zawahri'
+p1151
+sa(dp1152
+g2
+S'http://www.reuters.com/article/2011/07/10/markets-stocks-ipos-idUSN1E76902K20110710'
+p1153
+sg4
+S'20110710\xc2\xa011:14AM UTC'
+p1154
+sg6
+S'RPT-IPO VIEW-Toys R Us IPO slow going; now seen in 2012'
+p1155
+sa(dp1156
+g2
+S'http://www.reuters.com/article/2011/07/10/us-usa-stocks-weekahead-idUSTRE7676Y520110710'
+p1157
+sg4
+S'20110710\xc2\xa011:13AM UTC'
+p1158
+sg6
+S'Earnings surprises may spark rally'
+p1159
+sa(dp1160
+g2
+S'http://www.reuters.com/article/2011/07/10/usa-stocks-weekahead-idUSN1E76902320110710'
+p1161
+sg4
+S'20110710\xc2\xa011:10AM UTC'
+p1162
+sg6
+S'RPT-Wall St Week Ahead: Earnings surprises may spark rally'
+p1163
+sa(dp1164
+g2
+S'http://www.reuters.com/article/2011/07/10/us-samsonite-idUSTRE7691OZ20110710'
+p1165
+sg4
+S'20110710\xc2\xa011:09AM UTC'
+p1166
+sg6
+S'Samsonite increases IPO to $1.3 billion with over-allotment'
+p1167
+sa(dp1168
+g2
+S'http://www.reuters.com/article/2011/07/10/iraq-usa-panetta-idUSLDE7690A720110710'
+p1169
+sg4
+S'20110710\xc2\xa011:04AM UTC'
+p1170
+sg6
+S'New US defense chief in Iraq, to press on drawdown'
+p1171
+sa(dp1172
+g2
+S'http://www.reuters.com/article/2011/07/10/newscorp-hacking-brand-idUSL6E7IA02720110710'
+p1173
+sg4
+S'20110710\xc2\xa011:03AM UTC'
+p1174
+sg6
+S'RPT-Axeing NOTW may not stop wider brand damage for Murdoch'
+p1175
+sa(dp1176
+g2
+S'http://www.reuters.com/article/2011/07/10/idUS65342769820110710'
+p1177
+sg4
+S'20110710\xc2\xa011:00AM UTC'
+p1178
+sg6
+S'Servers are like money, you\xe2\x80\x99ll always need more'
+p1179
+sa(dp1180
+g2
+S'http://www.reuters.com/article/2011/07/10/idUS49755+10-Jul-2011+PRN20110710'
+p1181
+sg4
+S'20110710\xc2\xa011:00AM UTC'
+p1182
+sg6
+S'Following Is a Test Release'
+p1183
+sa(dp1184
+g2
+S'http://www.reuters.com/article/2011/07/10/us-deutschebank-succession-idUSTRE7691MR20110710'
+p1185
+sg4
+S'20110710\xc2\xa010:55AM UTC'
+p1186
+sg6
+S'Deutsche Bank on track to endorse Jain as co-CEO'
+p1187
+sa(dp1188
+g2
+S'http://www.reuters.com/article/2011/07/10/samsonite-idUSL3E7IA08Q20110710'
+p1189
+sg4
+S'20110710\xc2\xa010:54AM UTC'
+p1190
+sg6
+S'Samsonite increases IPO to $1.3 bln with over-allotment'
+p1191
+sa(dp1192
+g2
+S'http://www.reuters.com/article/2011/07/10/usa-pakistan-aid-idUSN1E76902Q20110710'
+p1193
+sg4
+S'20110710\xc2\xa010:40AM UTC'
+p1194
+sg6
+S'US withholding some aid to Pakistan-WHouse'
+p1195
+sa(dp1196
+g2
+S'http://www.reuters.com/article/2011/07/10/us-newscorp-newsoftheworld-idUSTRE7691LS20110710'
+p1197
+sg4
+S'20110710\xc2\xa010:40AM UTC'
+p1198
+sg6
+S'Last edition of News of the World sells fast in London'
+p1199
+sa(dp1200
+g2
+S'http://www.reuters.com/article/2011/07/10/porsche-sales-idUSLDE76909B20110710'
+p1201
+sg4
+S'20110710\xc2\xa010:35AM UTC'
+p1202
+sg6
+S'Porsche car sales jump 36 pct in H1'
+p1203
+sa(dp1204
+g2
+S'http://www.reuters.com/article/2011/07/10/us-cycling-tour-vinokourov-legacy-idUSTRE7691KZ20110710'
+p1205
+sg4
+S'20110710\xc2\xa010:31AM UTC'
+p1206
+sg6
+S"Vinokourov's Tour de France saga ends in a ditch"
+p1207
+sa(dp1208
+g2
+S'http://www.reuters.com/article/2011/07/10/idUS48702+10-Jul-2011+PRN20110710'
+p1209
+sg4
+S'20110710\xc2\xa010:30AM UTC'
+p1210
+sg6
+S'Following Is a Test Release'
+p1211
+sa(dp1212
+g2
+S'http://www.reuters.com/article/2011/07/10/newscorp-newsoftheworld-idUSL6E7IA02420110710'
+p1213
+sg4
+S'20110710\xc2\xa010:25AM UTC'
+p1214
+sg6
+S'Last edition of News of the World sells fast in London'
+p1215
+sa(dp1216
+g2
+S'http://www.reuters.com/article/2011/07/10/germany-merkel-idUSLDE76906G20110710'
+p1217
+sg4
+S'20110710\xc2\xa010:24AM UTC'
+p1218
+sg6
+S'Merkel signals ambitions to run for 3rd term in 2013'
+p1219
+sa(dp1220
+g2
+S'http://www.reuters.com/article/2011/07/10/usa-debt-daley-idUSN1E76902H20110710'
+p1221
+sg4
+S'20110710\xc2\xa010:20AM UTC'
+p1222
+sg6
+S'Obama still wants big deficit package - Daley'
+p1223
+sa(dp1224
+g2
+S'http://www.reuters.com/article/2011/07/10/russia-boat-rescue-idUSLDE76909320110710'
+p1225
+sg4
+S'20110710\xc2\xa010:11AM UTC'
+p1226
+sg6
+S'CORRECTED-(OFFICIAL)-Russian official: 84 safe after boat sinks'
+p1227
+sa(dp1228
+g2
+S'http://www.reuters.com/article/2011/07/10/idUS47501+10-Jul-2011+PRN20110710'
+p1229
+sg4
+S'20110710\xc2\xa010:00AM UTC'
+p1230
+sg6
+S'Following Is a Test Release'
+p1231
+sa(dp1232
+g2
+S'http://www.reuters.com/article/2011/07/10/usa-debt-treasury-idUSN1E76901U20110710'
+p1233
+sg4
+S'20110710\xc2\xa09:59AM UTC'
+p1234
+sg6
+S'Geithner says failure not option in US debt talks'
+p1235
+sa(dp1236
+g2
+S'http://www.reuters.com/article/2011/07/10/idUS47050+10-Jul-2011+MW20110710'
+p1237
+sg4
+S'20110710\xc2\xa09:45AM UTC'
+p1238
+sg6
+S' Canadian Coast Guard Ship Louis S. St-Laurent Departs for Arctic Supporting Science and Northern Shipping'
+p1239
+sa(dp1240
+g2
+S'http://www.reuters.com/article/2011/07/10/russia-boat-rescue-idUSLDE76908F20110710'
+p1241
+sg4
+S'20110710\xc2\xa09:43AM UTC'
+p1242
+sg6
+S'One dead, 167 people saved after Russian boat sinks'
+p1243
+sa(dp1244
+g2
+S'http://www.reuters.com/article/2011/07/10/us-usa-debt-mcconnell-idUSTRE7691E520110710'
+p1245
+sg4
+S'20110710\xc2\xa09:43AM UTC'
+p1246
+sg6
+S'Big debt deal off table: Mitch McConnell'
+p1247
+sa(dp1248
+g2
+S'http://www.reuters.com/article/2011/07/10/motor-racing-prix-idUSL3E7IA07W20110710'
+p1249
+sg4
+S'20110710\xc2\xa09:37AM UTC'
+p1250
+sg6
+S'Motor racing-Alonso wins British GP for Ferrari'
+p1251
+sa(dp1252
+g2
+S'http://www.reuters.com/article/2011/07/10/idUS46477+10-Jul-2011+PRN20110710'
+p1253
+sg4
+S'20110710\xc2\xa09:30AM UTC'
+p1254
+sg6
+S'Following Is a Test Release'
+p1255
+sa(dp1256
+g2
+S'http://www.reuters.com/article/2011/07/10/safco-results-idUSLDE76901020110710'
+p1257
+sg4
+S'20110710\xc2\xa09:29AM UTC'
+p1258
+sg6
+S'UPDATE 2-Saudi Safco Q2 profit falls 13 pct; misses forecast'
+p1259
+sa(dp1260
+g2
+S'http://www.reuters.com/article/2011/07/10/usa-debt-mcconnell-idUSN1E76901D20110710'
+p1261
+sg4
+S'20110710\xc2\xa09:27AM UTC'
+p1262
+sg6
+S'Top US Senate Republican: Big debt deal off table'
+p1263
+sa(dp1264
+g2
+S'http://www.reuters.com/article/2011/07/10/usa-debt-geithner-idUSN1E76901L20110710'
+p1265
+sg4
+S'20110710\xc2\xa09:25AM UTC'
+p1266
+sg6
+S'US Geithner: Obama aiming for big debt deal'
+p1267
+sa(dp1268
+g2
+S'http://www.reuters.com/article/2011/07/10/industry-us-bbc-idUSTRE7691A220110710'
+p1269
+sg4
+S'20110710\xc2\xa09:19AM UTC'
+p1270
+sg6
+S'UK broadcaster BBC to cut 3,000 jobs - report'
+p1271
+sa(dp1272
+g2
+S'http://www.reuters.com/article/2011/07/10/creditsuisse-uae-culpepper-idUSLDE76908420110710'
+p1273
+sg4
+S'20110710\xc2\xa09:11AM UTC'
+p1274
+sg6
+S'MOVES-Credit Suisse names co-heads of MENA Investment Banking'
+p1275
+sa(dp1276
+g2
+S'http://www.reuters.com/article/2011/07/10/us-newscorp-hacking-murdoch-idUSTRE76916P20110710'
+p1277
+sg4
+S'20110710\xc2\xa09:07AM UTC'
+p1278
+sg6
+S'Reading axed paper, Murdoch arrives to face UK crisis'
+p1279
+sa(dp1280
+g2
+S'http://www.reuters.com/article/2011/07/10/us-newscorp-police-idUSTRE76902K20110710'
+p1281
+sg4
+S'20110710\xc2\xa09:07AM UTC'
+p1282
+sg6
+S'Hacking was "standard practice" at Murdoch paper: police'
+p1283
+sa(dp1284
+g2
+S'http://www.reuters.com/article/2011/07/10/us-newscorp-hacking-brand-idUSTRE76917U20110710'
+p1285
+sg4
+S'20110710\xc2\xa09:06AM UTC'
+p1286
+sg6
+S'Axeing paper may not stop wider brand damage for Murdoch'
+p1287
+sa(dp1288
+g2
+S'http://www.reuters.com/article/2011/07/10/us-usa-politics-teaparty-foreign-idUSTRE76917N20110710'
+p1289
+sg4
+S'20110710\xc2\xa09:01AM UTC'
+p1290
+sg6
+S'Tea Partiers show mixed views on foreign policy'
+p1291
+sa(dp1292
+g2
+S'http://www.reuters.com/article/2011/07/10/column-canada-markets-idUSN1E76901K20110710'
+p1293
+sg4
+S'20110710\xc2\xa09:00AM UTC'
+p1294
+sg6
+S"BAY STREET-Maple's embrace seen tough for TMX to elude"
+p1295
+sa(dp1296
+g2
+S'http://www.reuters.com/article/2011/07/10/idUS45321+10-Jul-2011+MW20110710'
+p1297
+sg4
+S'20110710\xc2\xa09:00AM UTC'
+p1298
+sg6
+S' CommerceTel Files for Patent Protection on Groundbreaking Mobile Technologies'
+p1299
+sa(dp1300
+g2
+S'http://www.reuters.com/article/2011/07/10/idUS45320+10-Jul-2011+MW20110710'
+p1301
+sg4
+S'20110710\xc2\xa09:00AM UTC'
+p1302
+sg6
+S' Media Advisory/REMINDER: Minister of State Bernier to Make an Important Tourism Announcement in Banff, Alberta'
+p1303
+sa(dp1304
+g2
+S'http://www.reuters.com/article/2011/07/10/idUS45309+10-Jul-2011+PRN20110710'
+p1305
+sg4
+S'20110710\xc2\xa09:00AM UTC'
+p1306
+sg6
+S'Following Is a Test Release'
+p1307
+sa(dp1308
+g2
+S'http://www.reuters.com/article/2011/07/10/idUS45300+10-Jul-2011+MW20110710'
+p1309
+sg4
+S'20110710\xc2\xa09:00AM UTC'
+p1310
+sg6
+S' CommerceTel Files for Patent Protection on Groundbreaking Mobile Technologies'
+p1311
+sa(dp1312
+g2
+S'http://www.reuters.com/article/2011/07/10/idUS45302+10-Jul-2011+MW20110710'
+p1313
+sg4
+S'20110710\xc2\xa09:00AM UTC'
+p1314
+sg6
+S' Media Advisory/REMINDER: Minister of State Bernier to Make an Important Tourism Announcement in Banff, Alberta'
+p1315
+sa(dp1316
+g2
+S'http://www.reuters.com/article/2011/07/10/idUS45301+10-Jul-2011+BW20110710'
+p1317
+sg4
+S'20110710\xc2\xa09:00AM UTC'
+p1318
+sg6
+S'ExtraHop Creates Fastest Virtual Application Performance Management (APM) Solution with New EH1000v Appliance'
+p1319
+sa(dp1320
+g2
+S'http://www.reuters.com/article/2011/07/10/idUS45020+10-Jul-2011+BW20110710'
+p1321
+sg4
+S'20110710\xc2\xa08:50AM UTC'
+p1322
+sg6
+S'IRENA and Africa partner for renewable energy breakthrough'
+p1323
+sa(dp1324
+g2
+S'http://www.reuters.com/article/2011/07/10/newscorp-hacking-murdoch-idUSL6E7IA02V20110710'
+p1325
+sg4
+S'20110710\xc2\xa08:42AM UTC'
+p1326
+sg6
+S'UPDATE 1-Reading axed paper, Murdoch arrives to face UK crisis'
+p1327
+sa(dp1328
+g2
+S'http://www.reuters.com/article/2011/07/10/idUS44372+10-Jul-2011+PRN20110710'
+p1329
+sg4
+S'20110710\xc2\xa08:30AM UTC'
+p1330
+sg6
+S'Following Is a Test Release'
+p1331
+sa(dp1332
+g2
+S'http://www.reuters.com/article/2011/07/10/italy-consob-idUSLDE76903X20110710'
+p1333
+sg4
+S'20110710\xc2\xa08:24AM UTC'
+p1334
+sg6
+S'Italy Consob may assess moves on short-selling-source'
+p1335
+sa(dp1336
+g2
+S'http://www.reuters.com/article/2011/07/10/suez-canal-factbox-idUSLDE76907120110710'
+p1337
+sg4
+S'20110710\xc2\xa08:22AM UTC'
+p1338
+sg6
+S'FACTBOX-The Suez Canal'
+p1339
+sa(dp1340
+g2
+S'http://www.reuters.com/article/2011/07/10/idUS43771+10-Jul-2011+MW20110710'
+p1341
+sg4
+S'20110710\xc2\xa08:12AM UTC'
+p1342
+sg6
+S' CallCopy Debuts cc: Discover 4.5 Workforce Optimization Suite at Cisco Live'
+p1343
+sa(dp1344
+g2
+S'http://www.reuters.com/article/2011/07/10/us-eurozone-crisis-vanrompuy-idUSTRE76913U20110710'
+p1345
+sg4
+S'20110710\xc2\xa08:07AM UTC'
+p1346
+sg6
+S"EU's Van Rompuy calls emergency debt crisis talks"
+p1347
+sa(dp1348
+g2
+S'http://www.reuters.com/article/2011/07/10/idUS43409+10-Jul-2011+PRN20110710'
+p1349
+sg4
+S'20110710\xc2\xa08:00AM UTC'
+p1350
+sg6
+S'Following Is a Test Release'
+p1351
+sa(dp1352
+g2
+S'http://www.reuters.com/article/2011/07/10/idUS43404+10-Jul-2011+PRN20110710'
+p1353
+sg4
+S'20110710\xc2\xa08:00AM UTC'
+p1354
+sg6
+S'Edible Arrangements\xc2\xae Celebrates National Dipped Fruit Week - July 10th - 17th, 2011'
+p1355
+sa(dp1356
+g2
+S'http://www.reuters.com/article/2011/07/10/idUS43401+10-Jul-2011+PRN20110710'
+p1357
+sg4
+S'20110710\xc2\xa08:00AM UTC'
+p1358
+sg6
+S'Vitamin D Lower In NFL Football Players Who Suffered Muscled Injuries, Study Reports'
+p1359
+sa(dp1360
+g2
+S'http://www.reuters.com/article/2011/07/10/russia-boat-idUSLDE76906A20110710'
+p1361
+sg4
+S'20110710\xc2\xa07:56AM UTC'
+p1362
+sg6
+S"Boat with over 170 people sinks in Russia's Volga"
+p1363
+sa(dp1364
+g2
+S'http://www.reuters.com/article/2011/07/10/eurozone-crisis-vanrompuy-idUSLDE76906C20110710'
+p1365
+sg4
+S'20110710\xc2\xa07:54AM UTC'
+p1366
+sg6
+S"EU's Van Rompuy calls emergency debt crisis talks"
+p1367
+sa(dp1368
+g2
+S'http://www.reuters.com/article/2011/07/10/us-israel-lebanon-gas-idUSTRE76912O20110710'
+p1369
+sg4
+S'20110710\xc2\xa07:52AM UTC'
+p1370
+sg6
+S'Israel outlines maritime border in Lebanon dispute'
+p1371
+sa(dp1372
+g2
+S'http://www.reuters.com/article/2011/07/10/aegis-idUSL6E7IA02920110710'
+p1373
+sg4
+S'20110710\xc2\xa07:50AM UTC'
+p1374
+sg6
+S"Doughty Hanson interested in Aegis's Synovate-paper"
+p1375
+sa(dp1376
+g2
+S'http://www.reuters.com/article/2011/07/10/us-pakistan-usa-zawahri-idUSTRE76911V20110710'
+p1377
+sg4
+S'20110710\xc2\xa07:48AM UTC'
+p1378
+sg6
+S'Pakistan urges U.S. to share intelligence on Zawahri'
+p1379
+sa(dp1380
+g2
+S'http://www.reuters.com/article/2011/07/10/idUS42835+10-Jul-2011+GNW20110710'
+p1381
+sg4
+S'20110710\xc2\xa07:39AM UTC'
+p1382
+sg6
+S'Rosetta Green Announces Production of Human Protein in Algae for Potential Treatment...'
+p1383
+sa(dp1384
+g2
+S'http://www.reuters.com/article/2011/07/10/imf-zhu-idUSWEB906220110710'
+p1385
+sg4
+S'20110710\xc2\xa07:36AM UTC'
+p1386
+sg6
+S'EU protectionism blocking bank recapitalisation- Zhu'
+p1387
+sa(dp1388
+g2
+S'http://www.reuters.com/article/2011/07/10/us-senegal-chad-un-idUSTRE7690Z120110710'
+p1389
+sg4
+S'20110710\xc2\xa07:32AM UTC'
+p1390
+sg6
+S'U.N. rights boss in last-minute plea to Senegal on Habre'
+p1391
+sa(dp1392
+g2
+S'http://www.reuters.com/article/2011/07/10/idUS42476+10-Jul-2011+PRN20110710'
+p1393
+sg4
+S'20110710\xc2\xa07:30AM UTC'
+p1394
+sg6
+S'Following Is a Test Release'
+p1395
+sa(dp1396
+g2
+S'http://www.reuters.com/article/2011/07/10/israel-lebanon-gas-idUSLDE76903320110710'
+p1397
+sg4
+S'20110710\xc2\xa07:29AM UTC'
+p1398
+sg6
+S'Israel outlines maritime border in Lebanon dispute'
+p1399
+sa(dp1400
+g2
+S'http://www.reuters.com/article/2011/07/10/us-vallares-idUSTRE7690YL20110710'
+p1401
+sg4
+S'20110710\xc2\xa07:28AM UTC'
+p1402
+sg6
+S'Ex-BP boss eyes Genel Enerji: report'
+p1403
+sa(dp1404
+g2
+S'http://www.reuters.com/article/2011/07/10/newscorp-hacking-murdoch-idUSL6E7IA02520110710'
+p1405
+sg4
+S'20110710\xc2\xa07:22AM UTC'
+p1406
+sg6
+S'Reading axed paper, Murdoch arrives to face UK crisis'
+p1407
+sa(dp1408
+g2
+S'http://www.reuters.com/article/2011/07/10/egypt-suezcanal-idUSLDE76903V20110710'
+p1409
+sg4
+S'20110710\xc2\xa07:17AM UTC'
+p1410
+sg6
+S'Egypt Suez Canal working despite protests - agency'
+p1411
+sa(dp1412
+g2
+S'http://www.reuters.com/article/2011/07/10/aurubis-copper-idUSLDE76905J20110710'
+p1413
+sg4
+S'20110710\xc2\xa07:04AM UTC'
+p1414
+sg6
+S'Aurubis CEO sees copper prices rising -paper'
+p1415
+sa(dp1416
+g2
+S'http://www.reuters.com/article/2011/07/10/idUS41367+10-Jul-2011+PRN20110710'
+p1417
+sg4
+S'20110710\xc2\xa07:00AM UTC'
+p1418
+sg6
+S'Following Is a Test Release'
+p1419
+sa(dp1420
+g2
+S'http://www.reuters.com/article/2011/07/10/idUS41348+10-Jul-2011+BW20110710'
+p1421
+sg4
+S'20110710\xc2\xa07:00AM UTC'
+p1422
+sg6
+S'Portable 3D Fun Rolls into the Twin Cities as Nintendo 3DS Joins Vans Warped Tour'
+p1423
+sa(dp1424
+g2
+S'http://www.reuters.com/article/2011/07/10/britain-newscorp-murdoch-idUSL6E7IA00V20110710'
+p1425
+sg4
+S'20110710\xc2\xa06:56AM UTC'
+p1426
+sg6
+S'Pressure mounts on UK govt to halt Murdoch/BSkyB deal'
+p1427
+sa(dp1428
+g2
+S'http://www.reuters.com/article/2011/07/10/rbs-guy-hands-idUSL6E7IA01P20110710'
+p1429
+sg4
+S'20110710\xc2\xa06:54AM UTC'
+p1430
+sg6
+S'Hands eyes bid for RBS jet hire firm-paper'
+p1431
+sa(dp1432
+g2
+S'http://www.reuters.com/article/2011/07/10/idUSL6E7IA01R20110710'
+p1433
+sg4
+S'20110710\xc2\xa06:46AM UTC'
+p1434
+sg6
+S'Odey Asset Mgmt buys 3 million BSkyB shares-CEO'
+p1435
+sa(dp1436
+g2
+S'http://www.reuters.com/article/2011/07/10/ecb-trichet-idUSLDE76904820110710'
+p1437
+sg4
+S'20110710\xc2\xa06:30AM UTC'
+p1438
+sg6
+S'UPDATE 1-Trichet says debt is global, not European problem'
+p1439
+sa(dp1440
+g2
+S'http://www.reuters.com/article/2011/07/10/idUS39875+10-Jul-2011+PRN20110710'
+p1441
+sg4
+S'20110710\xc2\xa06:30AM UTC'
+p1442
+sg6
+S'Following Is a Test Release'
+p1443
+sa(dp1444
+g2
+S'http://www.reuters.com/article/2011/07/10/malaysia-petronas-idUSL3E7IA06920110710'
+p1445
+sg4
+S'20110710\xc2\xa06:19AM UTC'
+p1446
+sg6
+S"Malaysia's Petronas eyes 1:1 reserve replenishment ratio-report"
+p1447
+sa(dp1448
+g2
+S'http://www.reuters.com/article/2011/07/10/us-usa-debt-boehner-idUSTRE76903420110710'
+p1449
+sg4
+S'20110710\xc2\xa06:15AM UTC'
+p1450
+sg6
+S'Boehner says debt talks scaled back over tax rift'
+p1451
+sa(dp1452
+g2
+S'http://www.reuters.com/article/2011/07/10/us-china-us-mullen-idUSTRE7690GU20110710'
+p1453
+sg4
+S'20110710\xc2\xa06:03AM UTC'
+p1454
+sg6
+S'Military chief visits China, says to maintain Asia presence'
+p1455
+sa(dp1456
+g2
+S'http://www.reuters.com/article/2011/07/10/idUS38426+10-Jul-2011+PRN20110710'
+p1457
+sg4
+S'20110710\xc2\xa06:00AM UTC'
+p1458
+sg6
+S'Following Is a Test Release'
+p1459
+sa(dp1460
+g2
+S'http://www.reuters.com/article/2011/07/10/idUS38365+10-Jul-2011+PRN20110710'
+p1461
+sg4
+S'20110710\xc2\xa05:59AM UTC'
+p1462
+sg6
+S'GOOD MORNING -- July 10, 2011'
+p1463
+sa(dp1464
+g2
+S'http://www.reuters.com/article/2011/07/10/us-china-economy-trade-idUSTRE7690J020110710'
+p1465
+sg4
+S'20110710\xc2\xa05:54AM UTC'
+p1466
+sg6
+S'China June import growth weakest in 20 months'
+p1467
+sa(dp1468
+g2
+S'http://www.reuters.com/article/2011/07/10/idUS36588+10-Jul-2011+PRN20110710'
+p1469
+sg4
+S'20110710\xc2\xa05:30AM UTC'
+p1470
+sg6
+S'Following Is a Test Release'
+p1471
+sa(dp1472
+g2
+S'http://www.reuters.com/article/2011/07/10/us-malaysia-protest-idUSTRE7680B720110710'
+p1473
+sg4
+S'20110710\xc2\xa05:28AM UTC'
+p1474
+sg6
+S'Over 1,400 arrested, tear gas fired in Malaysia protest'
+p1475
+sa(dp1476
+g2
+S'http://www.reuters.com/article/2011/07/10/us-malaysia-protest-scenarios-idUSTRE7690SE20110710'
+p1477
+sg4
+S'20110710\xc2\xa05:28AM UTC'
+p1478
+sg6
+S'Scenarios: What next for Malaysian PM after anti-govt rally?'
+p1479
+sa(dp1480
+g2
+S'http://www.reuters.com/article/2011/07/10/us-ukraine-fire-idUSTRE7690KK20110710'
+p1481
+sg4
+S'20110710\xc2\xa05:26AM UTC'
+p1482
+sg6
+S'Fire kills 16 in Ukrainian retirement home'
+p1483
+sa(dp1484
+g2
+S'http://www.reuters.com/article/2011/07/10/us-china-southsudan-idUSTRE7690RC20110710'
+p1485
+sg4
+S'20110710\xc2\xa05:19AM UTC'
+p1486
+sg6
+S"Eyeing oil, China's Hu promises strong ties with South Sudan"
+p1487
+sa(dp1488
+g2
+S'http://www.reuters.com/article/2011/07/10/us-bangladesh-strike-islamists-idUSTRE7690QW20110710'
+p1489
+sg4
+S'20110710\xc2\xa05:15AM UTC'
+p1490
+sg6
+S'Police, Islamists clash in Bangladesh, dozens hurt'
+p1491
+sa(dp1492
+g2
+S'http://www.reuters.com/article/2011/07/10/us-australia-carbon-analystview-idUSTRE7690HM20110710'
+p1493
+sg4
+S'20110710\xc2\xa05:12AM UTC'
+p1494
+sg6
+S"Analysts' view: Australia unveils carbon tax scheme"
+p1495
+sa(dp1496
+g2
+S'http://www.reuters.com/article/2011/07/10/us-australia-carbon-industryview-idUSTRE7690PL20110710'
+p1497
+sg4
+S'20110710\xc2\xa05:11AM UTC'
+p1498
+sg6
+S'Industry view: Australia releases details of landmark CO2 plan'
+p1499
+sa(dp1500
+g2
+S'http://www.reuters.com/article/2011/07/10/markets-australia-carbon-idUSL3E7IA04Z20110710'
+p1501
+sg4
+S'20110710\xc2\xa05:06AM UTC'
+p1502
+sg6
+S'Australia carbon plan to boost retail & renewables, dent airlines & miners'
+p1503
+sa(dp1504
+g2
+S'http://www.reuters.com/article/2011/07/10/egypt-inflation-idUSL6E7IA00F20110710'
+p1505
+sg4
+S'20110710\xc2\xa05:01AM UTC'
+p1506
+sg6
+S"UPDATE 1-Egypt's inflation eases slightly in June on food prices"
+p1507
+sa(dp1508
+g2
+S'http://www.reuters.com/article/2011/07/10/idUS34185+10-Jul-2011+PRN20110710'
+p1509
+sg4
+S'20110710\xc2\xa05:00AM UTC'
+p1510
+sg6
+S'Following Is a Test Release'
+p1511
+sa(dp1512
+g2
+S'http://www.reuters.com/article/2011/07/10/australia-carbon-idUSL3E7IA06E20110710'
+p1513
+sg4
+S'20110710\xc2\xa04:47AM UTC'
+p1514
+sg6
+S'INDUSTRY VIEW-Australia releases details of landmark CO2 plan'
+p1515
+sa(dp1516
+g2
+S'http://www.reuters.com/article/2011/07/10/us-israel-sudan-south-idUSTRE7690PB20110710'
+p1517
+sg4
+S'20110710\xc2\xa04:41AM UTC'
+p1518
+sg6
+S'Israel recognizes South Sudan, offers economic aid'
+p1519
+sa(dp1520
+g2
+S'http://www.reuters.com/article/2011/07/10/idUS31899+10-Jul-2011+PRN20110710'
+p1521
+sg4
+S'20110710\xc2\xa04:30AM UTC'
+p1522
+sg6
+S'Following Is a Test Release'
+p1523
+sa(dp1524
+g2
+S'http://www.reuters.com/article/2011/07/10/us-australia-carbon-coal-idUSTRE7690JH20110710'
+p1525
+sg4
+S'20110710\xc2\xa04:14AM UTC'
+p1526
+sg6
+S'Coal miners say Australia carbon tax treatment unfair'
+p1527
+sa(dp1528
+g2
+S'http://www.reuters.com/article/2011/07/10/australia-carbon-idUSL3E7IA02520110710'
+p1529
+sg4
+S'20110710\xc2\xa04:01AM UTC'
+p1530
+sg6
+S'UPDATE 4-Australia steps up climate fight, unveils sweeping carbon plan'
+p1531
+sa(dp1532
+g2
+S'http://www.reuters.com/article/2011/07/10/idUS27897+10-Jul-2011+PRN20110710'
+p1533
+sg4
+S'20110710\xc2\xa04:00AM UTC'
+p1534
+sg6
+S'Following Is a Test Release'
+p1535
+sa(dp1536
+g2
+S'http://www.reuters.com/article/2011/07/10/us-japan-quake-idUSTRE76905I20110710'
+p1537
+sg4
+S'20110710\xc2\xa03:57AM UTC'
+p1538
+sg6
+S'Quake jolts northeast Japan, no reports of damage'
+p1539
+sa(dp1540
+g2
+S'http://www.reuters.com/article/2011/07/10/us-libya-doctors-idUSTRE7690L120110710'
+p1541
+sg4
+S'20110710\xc2\xa03:53AM UTC'
+p1542
+sg6
+S'Doctors return from West to help Libyan rebels at front'
+p1543
+sa(dp1544
+g2
+S'http://www.reuters.com/article/2011/07/10/ecb-trichet-idUSWEB905620110710'
+p1545
+sg4
+S'20110710\xc2\xa03:46AM UTC'
+p1546
+sg6
+S"ECB's Trichet favours EU fin min in the long term"
+p1547
+sa(dp1548
+g2
+S'http://www.reuters.com/article/2011/07/10/snb-idUSLDE76901820110710'
+p1549
+sg4
+S'20110710\xc2\xa03:44AM UTC'
+p1550
+sg6
+S'SNB chairman sees no need to act on strong franc-report'
+p1551
+sa(dp1552
+g2
+S'http://www.reuters.com/article/2011/07/10/idUS23223+10-Jul-2011+PRN20110710'
+p1553
+sg4
+S'20110710\xc2\xa03:30AM UTC'
+p1554
+sg6
+S'Following Is a Test Release'
+p1555
+sa(dp1556
+g2
+S'http://www.reuters.com/article/2011/07/10/us-israel-turkey-idUSTRE7690JU20110710'
+p1557
+sg4
+S'20110710\xc2\xa03:15AM UTC'
+p1558
+sg6
+S'Israel FM says Turkey "shut door" on rapprochement'
+p1559
+sa(dp1560
+g2
+S'http://www.reuters.com/article/2011/07/10/idUS19290+10-Jul-2011+PRN20110710'
+p1561
+sg4
+S'20110710\xc2\xa03:00AM UTC'
+p1562
+sg6
+S'Following Is a Test Release'
+p1563
+sa(dp1564
+g2
+S'http://www.reuters.com/article/2011/07/10/australia-carbon-coal-idUSL3E7IA05020110710'
+p1565
+sg4
+S'20110710\xc2\xa02:43AM UTC'
+p1566
+sg6
+S'Coal miners say Australia carbon tax treatment unfair'
+p1567
+sa(dp1568
+g2
+S'http://www.reuters.com/article/2011/07/10/idUS18721+10-Jul-2011+PRN20110710'
+p1569
+sg4
+S'20110710\xc2\xa02:30AM UTC'
+p1570
+sg6
+S'Following Is a Test Release'
+p1571
+sa(dp1572
+g2
+S'http://www.reuters.com/article/2011/07/10/idUS17894+10-Jul-2011+PRN20110710'
+p1573
+sg4
+S'20110710\xc2\xa02:00AM UTC'
+p1574
+sg6
+S'Following Is a Test Release'
+p1575
+sa(dp1576
+g2
+S'http://www.reuters.com/article/2011/07/10/idUS17884+10-Jul-2011+BW20110710'
+p1577
+sg4
+S'20110710\xc2\xa02:00AM UTC'
+p1578
+sg6
+S'TBS Enterprise Mobility and QASR to offer integrated Enterprise Asset Management solutions for Utilities'
+p1579
+sa(dp1580
+g2
+S'http://www.reuters.com/article/2011/07/10/us-israel-netanyahu-balkans-interview-idUSTRE7690FW20110710'
+p1581
+sg4
+S'20110710\xc2\xa01:36AM UTC'
+p1582
+sg6
+S'For Israel, a Balkan bloom despite Palestine chill'
+p1583
+sa(dp1584
+g2
+S'http://www.reuters.com/article/2011/07/10/idUS17344+10-Jul-2011+PRN20110710'
+p1585
+sg4
+S'20110710\xc2\xa01:30AM UTC'
+p1586
+sg6
+S'Following Is a Test Release'
+p1587
+sa(dp1588
+g2
+S'http://www.reuters.com/article/2011/07/10/idUS16777+10-Jul-2011+PRN20110710'
+p1589
+sg4
+S'20110710\xc2\xa01:00AM UTC'
+p1590
+sg6
+S'Following Is a Test Release'
+p1591
+sa(dp1592
+g2
+S'http://www.reuters.com/article/2011/07/10/idUSL3E7IA03G20110710'
+p1593
+sg4
+S'20110710\xc2\xa012:35AM UTC'
+p1594
+sg6
+S'Japan to detail nuclear plant "stress tests" Monday-minister'
+p1595
+sa(dp1596
+g2
+S'http://www.reuters.com/article/2011/07/10/idUS16282+10-Jul-2011+PRN20110710'
+p1597
+sg4
+S'20110710\xc2\xa012:30AM UTC'
+p1598
+sg6
+S'Following Is a Test Release'
+p1599
+sa(dp1600
+g2
+S'http://www.reuters.com/article/2011/07/10/idUS15930+10-Jul-2011+MW20110710'
+p1601
+sg4
+S'20110710\xc2\xa012:06AM UTC'
+p1602
+sg6
+S' Renowned Animal Scientist Reviews Animal Care at Calgary Stampede'
+p1603
+sa(dp1604
+g2
+S'http://www.reuters.com/article/2011/07/10/idUS15799+10-Jul-2011+PRN20110710'
+p1605
+sg4
+S'20110710\xc2\xa012:01AM UTC'
+p1606
+sg6
+S'U.S. Census Bureau Daily Feature for July 10'
+p1607
+sa(dp1608
+g2
+S'http://www.reuters.com/article/2011/07/10/china-trade-iron-ore-idUSL3E7IA01R20110710'
+p1609
+sg4
+S'20110710\xc2\xa012:00AM UTC'
+p1610
+sg6
+S'China June iron ore imports fall to 51.09 mln T -Customs'
+p1611
+sa(dp1612
+g2
+S'http://www.reuters.com/article/2011/07/10/idUS15757+10-Jul-2011+PRN20110710'
+p1613
+sg4
+S'20110710\xc2\xa012:00AM UTC'
+p1614
+sg6
+S'Following Is a Test Release'
+p1615
+sa(dp1616
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=22610256'
+p1617
+sg4
+S'20110710\xc2\xa011:30PM UTC'
+p1618
+sg6
+S'Nearly 100 missing after boat sinks in Russia'
+p1619
+sa(dp1620
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=22608534'
+p1621
+sg4
+S'20110710\xc2\xa010:50PM UTC'
+p1622
+sg6
+S'California breeding program offers hope for endangered turtles'
+p1623
+sa(dp1624
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=22607834'
+p1625
+sg4
+S'20110710\xc2\xa010:32PM UTC'
+p1626
+sg6
+S'U.S. urges Saleh to step aside'
+p1627
+sa(dp1628
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=22615921'
+p1629
+sg4
+S'20110710\xc2\xa09:59PM UTC'
+p1630
+sg6
+S'\xe3\x83\xad\xe3\x82\xb7\xe3\x82\xa2\xe4\xb8\xad\xe9\x83\xa8\xe3\x81\xa7\xe9\x81\x8a\xe8\xa6\xa7\xe8\x88\xb9\xe6\xb2\x88\xe6\xb2\xa1\xe3\x80\x80\xe5\xb0\x91\xe3\x81\xaa\xe3\x81\x8f\xe3\x81\xa8\xe3\x82\x821\xe4\xba\xba\xe6\xad\xbb\xe4\xba\xa1\xe3\x80\x81100\xe4\xba\xba\xe8\xb6\x85\xe3\x81\x8c\xe4\xb8\x8d\xe6\x98\x8e\xef\xbc\x88\xe5\xad\x97\xe5\xb9\x95\xe3\x83\xbb10\xe6\x97\xa5\xef\xbc\x89'
+p1631
+sa(dp1632
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=22633980'
+p1633
+sg4
+S'20110710\xc2\xa09:39PM UTC'
+p1634
+sg6
+S'Lexus to lose top luxury spot in U.S.'
+p1635
+sa(dp1636
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=22604643'
+p1637
+sg4
+S'20110710\xc2\xa09:20PM UTC'
+p1638
+sg6
+S'Rebels on the road to Tripoli'
+p1639
+sa(dp1640
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=22621069'
+p1641
+sg4
+S'20110710\xc2\xa08:34PM UTC'
+p1642
+sg6
+S'Royals wrap up North American tour'
+p1643
+sa(dp1644
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=22640558'
+p1645
+sg4
+S'20110710\xc2\xa08:00PM UTC'
+p1646
+sg6
+S'Carbon tax sinks Australian stocks'
+p1647
+sa(dp1648
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=22600461'
+p1649
+sg4
+S'20110710\xc2\xa07:42PM UTC'
+p1650
+sg6
+S'Royal Artists'
+p1651
+sa(dp1652
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=22598610'
+p1653
+sg4
+S'20110710\xc2\xa06:59PM UTC'
+p1654
+sg6
+S'Atlantis docks at space station on last mission.'
+p1655
+sa(dp1656
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=22597129'
+p1657
+sg4
+S'20110710\xc2\xa06:34PM UTC'
+p1658
+sg6
+S'Repairing for battle in Libya.'
+p1659
+sa(dp1660
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=22624611'
+p1661
+sg4
+S'20110710\xc2\xa05:08PM UTC'
+p1662
+sg6
+S'Search for missing continues'
+p1663
+sa(dp1664
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=22593228'
+p1665
+sg4
+S'20110710\xc2\xa04:58PM UTC'
+p1666
+sg6
+S'No let up in demonstrations in Yemen'
+p1667
+sa(dp1668
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=22588337'
+p1669
+sg4
+S'20110710\xc2\xa03:25PM UTC'
+p1670
+sg6
+S'Obama aiming for big debt deal'
+p1671
+sa(dp1672
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=22593513'
+p1673
+sg4
+S'20110710\xc2\xa01:03PM UTC'
+p1674
+sg6
+S'Cairo activists block government building'
+p1675
+sa(dp1676
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=22589964'
+p1677
+sg4
+S'20110710\xc2\xa011:53AM UTC'
+p1678
+sg6
+S'India train crash kills at least 10'
+p1679
+sa(dp1680
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=22587124'
+p1681
+sg4
+S'20110710\xc2\xa010:52AM UTC'
+p1682
+sg6
+S'UN calls for Ethiopia drought support'
+p1683
+sa(dp1684
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=22584988'
+p1685
+sg4
+S'20110710\xc2\xa010:18AM UTC'
+p1686
+sg6
+S'South Sudanese celebrate independence'
+p1687
+sa(dp1688
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=22584985'
+p1689
+sg4
+S'20110710\xc2\xa010:18AM UTC'
+p1690
+sg6
+S'Australia unveils new carbon tax'
+p1691
+sa(dp1692
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=22582318'
+p1693
+sg4
+S'20110710\xc2\xa09:19AM UTC'
+p1694
+sg6
+S'China miners rescued after 8 days'
+p1695
+sa.

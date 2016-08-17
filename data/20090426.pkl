@@ -1,0 +1,6155 @@
+(lp0
+(dp1
+S'href'
+p2
+S'http://www.reuters.com/article/rbssIntegratedOilGas/idUSN2649695920090427'
+p3
+sS'ts'
+p4
+S'20090426\xc2\xa011:58 PM EDT'
+p5
+sS'title'
+p6
+S'RPT-UPDATE 2-Wall St Wk Ahead:Banks, Fed, earnings, flu in view'
+p7
+sa(dp8
+g2
+S'http://www.reuters.com/article/GCA-autos/idUSTRE53Q0FP20090427'
+p9
+sg4
+S'20090426\xc2\xa011:54 PM EDT'
+p10
+sg6
+S'Hyundai seeks $331 million credit for Russia plant'
+p11
+sa(dp12
+g2
+S'http://www.reuters.com/article/rbssAirlines/idUSSYU00639720090427'
+p13
+sg4
+S'20090426\xc2\xa011:51 PM EDT'
+p14
+sg6
+S'Australia strengthens border controls to fight flu'
+p15
+sa(dp16
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSSYU006397'
+p17
+sg4
+S'20090426\xc2\xa011:51 PM EDT'
+p18
+sg6
+S'Australia strengthens border controls to fight flu'
+p19
+sa(dp20
+g2
+S'http://www.reuters.com/article/bankruptcyNews/idUSN2649995420090427'
+p21
+sg4
+S'20090426\xc2\xa011:51 PM EDT'
+p22
+sg6
+S'UPDATE 1-US Treasury to make new Chrysler debt offer-sources'
+p23
+sa(dp24
+g2
+S'http://www.reuters.com/article/rbssAutoTruckManufacturers/idUST274YOHD620090427'
+p25
+sg4
+S'20090426\xc2\xa011:50 PM EDT'
+p26
+sg6
+S'Daihatsu Motor <7262.T>-2008/09 parent forecast'
+p27
+sa(dp28
+g2
+S'http://www.reuters.com/article/rbssAutoTruckManufacturers/idUST274884RR20090427'
+p29
+sg4
+S'20090426\xc2\xa011:50 PM EDT'
+p30
+sg6
+S'Daihatsu Motor <7262.T>-2008/09 parent results'
+p31
+sa(dp32
+g2
+S'http://www.reuters.com/article/rbssAutoTruckManufacturers/idUST27616RL720090427'
+p33
+sg4
+S'20090426\xc2\xa011:50 PM EDT'
+p34
+sg6
+S'Daihatsu Motor <7262.T>-2008/09 group results'
+p35
+sa(dp36
+g2
+S'http://www.reuters.com/article/usDollarRpt/idUSTKU10339020090427'
+p37
+sg4
+S'20090426\xc2\xa011:50 PM EDT'
+p38
+sg6
+S'Japan LDP: new stimulus package needed for 2010/11'
+p39
+sa(dp40
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSSP427743'
+p41
+sg4
+S'20090426\xc2\xa011:49 PM EDT'
+p42
+sg6
+S'FACTBOX-Impact on Asian industry if flu virus spreads'
+p43
+sa(dp44
+g2
+S'http://www.reuters.com/article/rbssOilGasExplorationProduction/idUSPEK36462820090427'
+p45
+sg4
+S'20090426\xc2\xa011:48 PM EDT'
+p46
+sg6
+S'PetroChina to raise storage capacity for Russian oil'
+p47
+sa(dp48
+g2
+S'http://www.reuters.com/article/GCA-BusinessofGreen/idUSTRE53Q0FI20090427'
+p49
+sg4
+S'20090426\xc2\xa011:47 PM EDT'
+p50
+sg6
+S'Ban gasoline cars from 2015: Norway Finance Minister'
+p51
+sa(dp52
+g2
+S'http://www.reuters.com/article/environmentNews/idUSN2446164120090427'
+p53
+sg4
+S'20090426\xc2\xa011:44 PM EDT'
+p54
+sg6
+S'New California fuel rule may violate NAFTA: lawyer'
+p55
+sa(dp56
+g2
+S'http://www.reuters.com/article/companyNewsAndPR/idUST33619820090427'
+p57
+sg4
+S'20090426\xc2\xa011:43 PM EDT'
+p58
+sg6
+S'TREASURIES-Rise in Asia after 10-yr yield hits key level'
+p59
+sa(dp60
+g2
+S'http://www.reuters.com/article/AGRLIV/idUSN2648252220090427'
+p61
+sg4
+S'20090426\xc2\xa011:36 PM EDT'
+p62
+sg6
+S'WRAPUP 11-World flu epidemic fear rises, Mexicans take refuge'
+p63
+sa(dp64
+g2
+S'http://www.reuters.com/article/rbssAdvancedMedicalEquipment/idUST27670AK320090427'
+p65
+sg4
+S'20090426\xc2\xa011:30 PM EDT'
+p66
+sg6
+S'Hitachi Medical <6910.T>-2008/09 group forecast'
+p67
+sa(dp68
+g2
+S'http://www.reuters.com/article/rbssAdvancedMedicalEquipment/idUST27205DYV20090427'
+p69
+sg4
+S'20090426\xc2\xa011:30 PM EDT'
+p70
+sg6
+S'Hitachi Medical <6910.T>-2008/09 parent forecast'
+p71
+sa(dp72
+g2
+S'http://www.reuters.com/article/rbssAutoTruckMotorcycleParts/idUST274IW08420090427'
+p73
+sg4
+S'20090426\xc2\xa011:30 PM EDT'
+p74
+sg6
+S'Teikoku Piston Ring <6463.T>-2008/09 group'
+p75
+sa(dp76
+g2
+S'http://www.reuters.com/article/rbssAutoTruckMotorcycleParts/idUST270G0G5H20090427'
+p77
+sg4
+S'20090426\xc2\xa011:30 PM EDT'
+p78
+sg6
+S'Teikoku Piston Ring <6463.T>-2008/09 parent'
+p79
+sa(dp80
+g2
+S'http://www.reuters.com/article/environmentNews/idUSTRE53Q0DS20090427'
+p81
+sg4
+S'20090426\xc2\xa011:30 PM EDT'
+p82
+sg6
+S'FACTBOX: Main points from ADB climate change study for SE Asia'
+p83
+sa(dp84
+g2
+S'http://www.reuters.com/article/pressRelease/idUS35380+27-Apr-2009+PRN20090427'
+p85
+sg4
+S'20090426\xc2\xa011:30 PM EDT'
+p86
+sg6
+S'Following Is a Test Release'
+p87
+sa(dp88
+g2
+S'http://www.reuters.com/article/rbssPharmaceuticals - Generic & Specialty/idUSDEL42769920090427'
+p89
+sg4
+S'20090426\xc2\xa011:30 PM EDT'
+p90
+sg6
+S"India's Ranbaxy to trim European operations -chmn"
+p91
+sa(dp92
+g2
+S'http://www.reuters.com/article/rbssBanks/idUSHKF08016220090427'
+p93
+sg4
+S'20090426\xc2\xa011:29 PM EDT'
+p94
+sg6
+S'ICBC drops on concern over foreign stake selldown'
+p95
+sa(dp96
+g2
+S'http://www.reuters.com/article/pressRelease/idUS35026+27-Apr-2009+BW20090427'
+p97
+sg4
+S'20090426\xc2\xa011:26 PM EDT'
+p98
+sg6
+S'The LDRA Tool Suite\xc2\xae Speeds IHI`s Previous Avionics Development Process by Fourteen Times'
+p99
+sa(dp100
+g2
+S'http://www.reuters.com/article/rbssBanks/idUSHKG30516420090427'
+p101
+sg4
+S'20090426\xc2\xa011:21 PM EDT'
+p102
+sg6
+S'TABLE-CM Bank 2008 net profit up 38 pct'
+p103
+sa(dp104
+g2
+S'http://www.reuters.com/article/rbssOilGasRefiningMarketing/idUSBMA00280520090427'
+p105
+sg4
+S'20090426\xc2\xa011:19 PM EDT'
+p106
+sg6
+S"TABLE-India's Petronet Q4 net jumps 70 pct"
+p107
+sa(dp108
+g2
+S'http://www.reuters.com/article/rbssBanks/idUSMAN42779420090427'
+p109
+sg4
+S'20090426\xc2\xa011:13 PM EDT'
+p110
+sg6
+S"Manila's Union Bank to issue $103 mln Tier 2 debt"
+p111
+sa(dp112
+g2
+S'http://www.reuters.com/article/rbssBanks/idUSJAK39476620090427'
+p113
+sg4
+S'20090426\xc2\xa011:13 PM EDT'
+p114
+sg6
+S"Indonesia's Bank Ekspor to raise 2 trln rph from bonds"
+p115
+sa(dp116
+g2
+S'http://www.reuters.com/article/earningsSeason/idUSSEO20956120090427'
+p117
+sg4
+S'20090426\xc2\xa011:09 PM EDT'
+p118
+sg6
+S'TABLE-Hyundai Mobis Q1 net profit up 37 pct y/y'
+p119
+sa(dp120
+g2
+S'http://www.reuters.com/article/pressRelease/idUS33406+27-Apr-2009+PRN20090427'
+p121
+sg4
+S'20090426\xc2\xa011:09 PM EDT'
+p122
+sg6
+S'FiSpace.Net Releases Report for Investors of Technology Equities BEAC, MSFT, GOOG,...'
+p123
+sa(dp124
+g2
+S'http://www.reuters.com/article/companyNewsAndPR/idUST36455120090427'
+p125
+sg4
+S'20090426\xc2\xa011:08 PM EDT'
+p126
+sg6
+S'JGBs fall on Nikkei rise, shrug off issuance plan'
+p127
+sa(dp128
+g2
+S'http://www.reuters.com/article/companyNewsAndPR/idUSN2648569520090427'
+p129
+sg4
+S'20090426\xc2\xa011:07 PM EDT'
+p130
+sg6
+S"UPDATE 10-Ecuador's Correa cruises to re-election victory"
+p131
+sa(dp132
+g2
+S'http://www.reuters.com/article/companyNews/idUSLR72748220090427'
+p133
+sg4
+S'20090426\xc2\xa011:06 PM EDT'
+p134
+sg6
+S'PRESS DIGEST - British business - April 27'
+p135
+sa(dp136
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSSP393424'
+p137
+sg4
+S'20090426\xc2\xa011:06 PM EDT'
+p138
+sg6
+S'FACTBOX-Asia moves to ward off new flu virus'
+p139
+sa(dp140
+g2
+S'http://www.reuters.com/article/usDollarRpt/idUSSP42816520090427'
+p141
+sg4
+S'20090426\xc2\xa011:05 PM EDT'
+p142
+sg6
+S'RPT-GLOBAL MARKETS-Asia stocks, Aussie fall on swine flu jitters'
+p143
+sa(dp144
+g2
+S'http://www.reuters.com/article/rbssCoal/idUSHKG35245320090427'
+p145
+sg4
+S'20090426\xc2\xa011:05 PM EDT'
+p146
+sg6
+S'TABLE-Yanzhou Coal says Q1 net profit down 48.5 pct'
+p147
+sa(dp148
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSN26489254'
+p149
+sg4
+S'20090426\xc2\xa011:02 PM EDT'
+p150
+sg6
+S'Swine flu death toll in Mexico rises to 103'
+p151
+sa(dp152
+g2
+S'http://www.reuters.com/article/rbssCommunicationsEquipment/idUSSEO34998620090427'
+p153
+sg4
+S'20090426\xc2\xa011:02 PM EDT'
+p154
+sg6
+S'Seoul shares firm in volatile trade; Hynix rises'
+p155
+sa(dp156
+g2
+S'http://www.reuters.com/article/rbssAutoTruckManufacturers/idUSN2649163320090427'
+p157
+sg4
+S'20090426\xc2\xa011:00 PM EDT'
+p158
+sg6
+S'US Treasury to make new Chrysler debt offer-sources'
+p159
+sa(dp160
+g2
+S'http://www.reuters.com/article/economicNews/idUSN2649864020090427'
+p161
+sg4
+S'20090426\xc2\xa011:00 PM EDT'
+p162
+sg6
+S'TAKE-A-LOOK: US bank stress tests, earnings, Fed and flu ahead'
+p163
+sa(dp164
+g2
+S'http://www.reuters.com/article/pressRelease/idUS32399+27-Apr-2009+PRN20090427'
+p165
+sg4
+S'20090426\xc2\xa011:00 PM EDT'
+p166
+sg6
+S'Following Is a Test Release'
+p167
+sa(dp168
+g2
+S'http://www.reuters.com/article/tokyoMktRpt/idUST36236320090427'
+p169
+sg4
+S'20090426\xc2\xa010:57 PM EDT'
+p170
+sg6
+S'Nikkei rises 0.8 pct on U.S. hope, Shinsei jumps'
+p171
+sa(dp172
+g2
+S'http://www.reuters.com/article/rbssAutoTruckManufacturers/idUST13361120090427'
+p173
+sg4
+S'20090426\xc2\xa010:53 PM EDT'
+p174
+sg6
+S'TABLE-Japan carmakers earnings preview'
+p175
+sa(dp176
+g2
+S'http://www.reuters.com/article/rbssCoal/idUSHKG30333420090427'
+p177
+sg4
+S'20090426\xc2\xa010:53 PM EDT'
+p178
+sg6
+S'TABLE-Yanzhou Coal 2008 net profit rises 100.9 pct'
+p179
+sa(dp180
+g2
+S'http://www.reuters.com/article/rbssBanks/idUSBKK42078620090427'
+p181
+sg4
+S'20090426\xc2\xa010:53 PM EDT'
+p182
+sg6
+S'Thai stocks seen lower, tourism shares in focus'
+p183
+sa(dp184
+g2
+S'http://www.reuters.com/article/earningsSeason/idUST30642520090427'
+p185
+sg4
+S'20090426\xc2\xa010:52 PM EDT'
+p186
+sg6
+S"PREVIEW-Japan carmakers' Q4 to plumb lows, 09/10 seen worse"
+p187
+sa(dp188
+g2
+S'http://www.reuters.com/article/rbssAerospaceDefense/idUST32431420090427'
+p189
+sg4
+S'20090426\xc2\xa010:51 PM EDT'
+p190
+sg6
+S"Tokyo Gas says to build world's biggest LNG tank"
+p191
+sa(dp192
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSSEO219689'
+p193
+sg4
+S'20090426\xc2\xa010:50 PM EDT'
+p194
+sg6
+S'No sign North Korea started plutonium work-report'
+p195
+sa(dp196
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSSP457574'
+p197
+sg4
+S'20090426\xc2\xa010:42 PM EDT'
+p198
+sg6
+S'FACTBOX-Main points from ADB climate change study for SE Asia'
+p199
+sa(dp200
+g2
+S'http://www.reuters.com/article/rbssMarineTransportation/idUSTKU10338920090427'
+p201
+sg4
+S'20090426\xc2\xa010:37 PM EDT'
+p202
+sg6
+S'Nippon Yusen cuts 2010/11 profit target by 59 pct'
+p203
+sa(dp204
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSN26462487'
+p205
+sg4
+S'20090426\xc2\xa010:37 PM EDT'
+p206
+sg6
+S'Swine flu death toll in Mexico rises to 103 -govt'
+p207
+sa(dp208
+g2
+S'http://www.reuters.com/article/rbssHeavyElectricalEquipment/idUSHKG30100920090427'
+p209
+sg4
+S'20090426\xc2\xa010:35 PM EDT'
+p210
+sg6
+S'TABLE-Shanghai Electric 2008 net profit down 9.9 pct'
+p211
+sa(dp212
+g2
+S'http://www.reuters.com/article/rbssRealEstateOperations/idUSPEK36072020090427'
+p213
+sg4
+S'20090426\xc2\xa010:34 PM EDT'
+p214
+sg6
+S'PRESS DIGEST - China - April 27'
+p215
+sa(dp216
+g2
+S'http://www.reuters.com/article/AIRLIN/idUSN2649465620090427'
+p217
+sg4
+S'20090426\xc2\xa010:33 PM EDT'
+p218
+sg6
+S'US airlines let customers change Mexico travel plans'
+p219
+sa(dp220
+g2
+S'http://www.reuters.com/article/mergersNews/idUSHKG36418820090427'
+p221
+sg4
+S'20090426\xc2\xa010:32 PM EDT'
+p222
+sg6
+S'Deutsche Bank hires M&A; banker from UBS'
+p223
+sa(dp224
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSMAN451616'
+p225
+sg4
+S'20090426\xc2\xa010:30 PM EDT'
+p226
+sg6
+S'Global warming threatens economic chaos in SE Asia-ADB'
+p227
+sa(dp228
+g2
+S'http://www.reuters.com/article/homepageCrisis/idUSMAN451616._CH_.2400'
+p229
+sg4
+S'20090426\xc2\xa010:30 PM EDT'
+p230
+sg6
+S'Global warming threatens economic chaos in SE Asia-ADB'
+p231
+sa(dp232
+g2
+S'http://www.reuters.com/article/rbssMarineTransportation/idUST276CZ00I20090427'
+p233
+sg4
+S'20090426\xc2\xa010:30 PM EDT'
+p234
+sg6
+S'Mitsui O. S. K. Lines <9104.T>-2008/09 parent'
+p235
+sa(dp236
+g2
+S'http://www.reuters.com/article/rbssMarineTransportation/idUST272OF2AU20090427'
+p237
+sg4
+S'20090426\xc2\xa010:30 PM EDT'
+p238
+sg6
+S'Mitsui O. S. K. Lines <9104.T>-2008/09 group'
+p239
+sa(dp240
+g2
+S'http://www.reuters.com/article/pressRelease/idUS29190+27-Apr-2009+PRN20090427'
+p241
+sg4
+S'20090426\xc2\xa010:30 PM EDT'
+p242
+sg6
+S'Following Is a Test Release'
+p243
+sa(dp244
+g2
+S'http://www.reuters.com/article/rbssAirlines/idUSSIN17615420090427'
+p245
+sg4
+S'20090426\xc2\xa010:29 PM EDT'
+p246
+sg6
+S'Singapore Hot Stocks-Singapore Air falls on swine flu fears'
+p247
+sa(dp248
+g2
+S'http://www.reuters.com/article/rbssMarineTransportation/idUST2742OKO220090427'
+p249
+sg4
+S'20090426\xc2\xa010:25 PM EDT'
+p250
+sg6
+S'Nippon Yusen <9101.T>-2008/09 parent results'
+p251
+sa(dp252
+g2
+S'http://www.reuters.com/article/rbssMarineTransportation/idUST274EUT7C20090427'
+p253
+sg4
+S'20090426\xc2\xa010:25 PM EDT'
+p254
+sg6
+S'Nippon Yusen <9101.T>-2008/09 group results'
+p255
+sa(dp256
+g2
+S'http://www.reuters.com/article/rbssHeavyElectricalEquipment/idUSHKG30416420090427'
+p257
+sg4
+S'20090426\xc2\xa010:21 PM EDT'
+p258
+sg6
+S'TABLE-Dongfang Electric Q1 net profit down 25 pct'
+p259
+sa(dp260
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSHAN465784'
+p261
+sg4
+S'20090426\xc2\xa010:16 PM EDT'
+p262
+sg6
+S'PRESS DIGEST - Vietnam newspapers - April 27'
+p263
+sa(dp264
+g2
+S'http://www.reuters.com/article/sportsNews/idUSTRE53Q0BR20090427'
+p265
+sg4
+S'20090426\xc2\xa010:15 PM EDT'
+p266
+sg6
+S'Nadal triumphs on Barcelona clay yet again'
+p267
+sa(dp268
+g2
+S'http://www.reuters.com/article/rbssBanks/idUSHKG30515620090427'
+p269
+sg4
+S'20090426\xc2\xa010:13 PM EDT'
+p270
+sg6
+S'TABLE-China Construction Bank Q1 profit down 18.3 pct'
+p271
+sa(dp272
+g2
+S'http://www.reuters.com/article/sportsNews/idUSTRE53Q0BI20090427'
+p273
+sg4
+S'20090426\xc2\xa010:13 PM EDT'
+p274
+sg6
+S'Bolt thinks he can lower 100m record to 9.4 seconds'
+p275
+sa(dp276
+g2
+S'http://www.reuters.com/article/pressRelease/idUS27024+27-Apr-2009+GNW20090427'
+p277
+sg4
+S'20090426\xc2\xa010:11 PM EDT'
+p278
+sg6
+S'Ad hoc: Jerini AG: Management Board and Supervisory Board Decide to Wind Down the...'
+p279
+sa(dp280
+g2
+S'http://www.reuters.com/article/rbssFinancialServices - Diversified/idUST35385620090427'
+p281
+sg4
+S'20090426\xc2\xa010:08 PM EDT'
+p282
+sg6
+S'REFILE-UPDATE 1-SMFG shares rises, in lead for Citi Japan assets'
+p283
+sa(dp284
+g2
+S'http://www.reuters.com/article/rbssAirlines/idUSBKK19299020090427'
+p285
+sg4
+S'20090426\xc2\xa010:08 PM EDT'
+p286
+sg6
+S'PRESS DIGEST - Thai newspapers - April 27'
+p287
+sa(dp288
+g2
+S'http://www.reuters.com/article/tokyoMktRpt/idUST33712220090427'
+p289
+sg4
+S'20090426\xc2\xa010:07 PM EDT'
+p290
+sg6
+S'Nikkei rises 0.8 pct on U.S. hope, Shinsei jumps'
+p291
+sa(dp292
+g2
+S'http://www.reuters.com/article/rbssUtilitiesElectric/idUSMAN30823420090427'
+p293
+sg4
+S'20090426\xc2\xa010:05 PM EDT'
+p294
+sg6
+S'PRESS DIGEST - Philippine newspapers - April 27'
+p295
+sa(dp296
+g2
+S'http://www.reuters.com/article/rbssCommercialServices & Supplies/idUST2744DBAL20090427'
+p297
+sg4
+S'20090426\xc2\xa010:01 PM EDT'
+p298
+sg6
+S'Fidec <8423.T>-2008/09 parent results'
+p299
+sa(dp300
+g2
+S'http://www.reuters.com/article/rbssCommercialServices & Supplies/idUST270S7WKF20090427'
+p301
+sg4
+S'20090426\xc2\xa010:01 PM EDT'
+p302
+sg6
+S'Fidec <8423.T>-2008/09 group results'
+p303
+sa(dp304
+g2
+S'http://www.reuters.com/article/rbssTextilesLeatherGoods/idUST272W76EB20090427'
+p305
+sg4
+S'20090426\xc2\xa010:01 PM EDT'
+p306
+sg6
+S'Teijin <3401.T>-2008/09 group forecast'
+p307
+sa(dp308
+g2
+S'http://www.reuters.com/article/rbssElectricalComponentsEquipment/idUST272WLTUP20090427'
+p309
+sg4
+S'20090426\xc2\xa010:01 PM EDT'
+p310
+sg6
+S'Sanyo Denki <6516.T>-2008/09 parent results'
+p311
+sa(dp312
+g2
+S'http://www.reuters.com/article/rbssAirFreightCourierServices/idUST276K9SSZ20090427'
+p313
+sg4
+S'20090426\xc2\xa010:01 PM EDT'
+p314
+sg6
+S'Yusen Air & Sea Service <9370.T>-2008/09 parent'
+p315
+sa(dp316
+g2
+S'http://www.reuters.com/article/rbssElectricalComponentsEquipment/idUST274A2VW720090427'
+p317
+sg4
+S'20090426\xc2\xa010:01 PM EDT'
+p318
+sg6
+S'Sanyo Denki <6516.T>-2008/09 group results'
+p319
+sa(dp320
+g2
+S'http://www.reuters.com/article/rbssAirFreightCourierServices/idUST274QO9B720090427'
+p321
+sg4
+S'20090426\xc2\xa010:01 PM EDT'
+p322
+sg6
+S'Yusen Air & Sea Service <9370.T>-2008/09 group'
+p323
+sa(dp324
+g2
+S'http://www.reuters.com/article/rbssMarineTransportation/idUST274C7Z4P20090427'
+p325
+sg4
+S'20090426\xc2\xa010:00 PM EDT'
+p326
+sg6
+S'Kawasaki Kisen <9107.T>-2008/09 parent results'
+p327
+sa(dp328
+g2
+S'http://www.reuters.com/article/rbssCommercialServices & Supplies/idUST2788HWOZ20090427'
+p329
+sg4
+S'20090426\xc2\xa010:00 PM EDT'
+p330
+sg6
+S'Fidec <8423.T>-2008/09 group forecast'
+p331
+sa(dp332
+g2
+S'http://www.reuters.com/article/rbssCommunicationsEquipment/idUST273GHRX20090427'
+p333
+sg4
+S'20090426\xc2\xa010:00 PM EDT'
+p334
+sg6
+S'SMK <6798.T>-2008/09 parent results'
+p335
+sa(dp336
+g2
+S'http://www.reuters.com/article/pressRelease/idUS25664+27-Apr-2009+GNW20090427'
+p337
+sg4
+S'20090426\xc2\xa010:00 PM EDT'
+p338
+sg6
+S'IIJ Releases a Free IPv6 Connection Feature, IPv6 Virtual Access'
+p339
+sa(dp340
+g2
+S'http://www.reuters.com/article/rbssMarineTransportation/idUST2728BJBT20090427'
+p341
+sg4
+S'20090426\xc2\xa010:00 PM EDT'
+p342
+sg6
+S'Kawasaki Kisen <9107.T>-2008/09 group results'
+p343
+sa(dp344
+g2
+S'http://www.reuters.com/article/rbssCommunicationsEquipment/idUST2760A9EO20090427'
+p345
+sg4
+S'20090426\xc2\xa010:00 PM EDT'
+p346
+sg6
+S'SMK <6798.T>-2008/09 group results'
+p347
+sa(dp348
+g2
+S'http://www.reuters.com/article/pressRelease/idUS25421+27-Apr-2009+PRN20090427'
+p349
+sg4
+S'20090426\xc2\xa010:00 PM EDT'
+p350
+sg6
+S'Following Is a Test Release'
+p351
+sa(dp352
+g2
+S'http://www.reuters.com/article/privateEquity/idUSLO96898620090427'
+p353
+sg4
+S'20090426\xc2\xa010:00 PM EDT'
+p354
+sg6
+S'Bfinance eyes Asia, US after MBO from Carlyle'
+p355
+sa(dp356
+g2
+S'http://www.reuters.com/article/pressRelease/idUS25392+27-Apr-2009+PRN20090427'
+p357
+sg4
+S'20090426\xc2\xa010:00 PM EDT'
+p358
+sg6
+S'WIBC-FM Wins an Unprecedented Third Crystal Radio Award'
+p359
+sa(dp360
+g2
+S'http://www.reuters.com/article/hongkongMktRpt/idUSHKF08016120090427'
+p361
+sg4
+S'20090426\xc2\xa009:58 PM EDT'
+p362
+sg6
+S'HK shares to open down 0.6 pct, drugmakers buck trend'
+p363
+sa(dp364
+g2
+S'http://www.reuters.com/article/privateEquityFinancialServicesAndRealEstate/idUST36936620090427'
+p365
+sg4
+S'20090426\xc2\xa009:55 PM EDT'
+p366
+sg6
+S'CORRECTED - CORRECTED-UPDATE 1-Merger talks send Shinsei, Aozora bank soarin'
+p367
+sa(dp368
+g2
+S'http://www.reuters.com/article/healthNews/idUSTRE53Q0A520090427'
+p369
+sg4
+S'20090426\xc2\xa009:54 PM EDT'
+p370
+sg6
+S'Mexico tries to assure markets after flu outbreak'
+p371
+sa(dp372
+g2
+S'http://www.reuters.com/article/healthNews/idUSTRE53P2UA20090427'
+p373
+sg4
+S'20090426\xc2\xa009:51 PM EDT'
+p374
+sg6
+S'Swine flu is new blow for crisis-hit Mexico'
+p375
+sa(dp376
+g2
+S'http://www.reuters.com/article/healthNews/idUSTRE53P2P220090427'
+p377
+sg4
+S'20090426\xc2\xa009:51 PM EDT'
+p378
+sg6
+S'FACTBOX:How swine flu spreads in humans'
+p379
+sa(dp380
+g2
+S'http://www.reuters.com/article/healthNews/idUSTRE53P2MF20090427'
+p381
+sg4
+S'20090426\xc2\xa009:51 PM EDT'
+p382
+sg6
+S'Finance chiefs, markets keep wary eye on swine flu'
+p383
+sa(dp384
+g2
+S'http://www.reuters.com/article/healthNews/idUSTRE53P2K120090427'
+p385
+sg4
+S'20090426\xc2\xa009:51 PM EDT'
+p386
+sg6
+S'FACTBOX: Making a flu vaccine can take months'
+p387
+sa(dp388
+g2
+S'http://www.reuters.com/article/healthNews/idUSTRE53P2DX20090427'
+p389
+sg4
+S'20090426\xc2\xa009:51 PM EDT'
+p390
+sg6
+S'Mexico flu scare empties streets, churches, bars'
+p391
+sa(dp392
+g2
+S'http://www.reuters.com/article/healthNews/idUSTRE53P1MS20090427'
+p393
+sg4
+S'20090426\xc2\xa009:51 PM EDT'
+p394
+sg6
+S'World ready to withstand potential pandemic: WHO'
+p395
+sa(dp396
+g2
+S'http://www.reuters.com/article/healthNews/idUSTRE53P2DI20090427'
+p397
+sg4
+S'20090426\xc2\xa009:51 PM EDT'
+p398
+sg6
+S'Swine flu cases raise more questions than answers'
+p399
+sa(dp400
+g2
+S'http://www.reuters.com/article/healthNews/idUSTRE53P1JK20090427'
+p401
+sg4
+S'20090426\xc2\xa009:51 PM EDT'
+p402
+sg6
+S'FACTBOX: How countries are defending against swine flu'
+p403
+sa(dp404
+g2
+S'http://www.reuters.com/article/healthNews/idUSTRE53P28J20090427'
+p405
+sg4
+S'20090426\xc2\xa009:51 PM EDT'
+p406
+sg6
+S'FACTBOX: Flu could boost drug makers, hit tourism and trade'
+p407
+sa(dp408
+g2
+S'http://www.reuters.com/article/healthNews/idUSTRE53P28I20090427'
+p409
+sg4
+S'20090426\xc2\xa009:51 PM EDT'
+p410
+sg6
+S'Q+A: World watching Mexico swine flu virus'
+p411
+sa(dp412
+g2
+S'http://www.reuters.com/article/healthNews/idUSTRE53Q09220090427'
+p413
+sg4
+S'20090426\xc2\xa009:51 PM EDT'
+p414
+sg6
+S'FACTBOX: New flu strain is a genetic mix'
+p415
+sa(dp416
+g2
+S'http://www.reuters.com/article/rbssInsuranceLifeHealth/idUSSHA6429120090427'
+p417
+sg4
+S'20090426\xc2\xa009:51 PM EDT'
+p418
+sg6
+S'China Pacific Q1 profit drops 89 pct on write-off'
+p419
+sa(dp420
+g2
+S'http://www.reuters.com/article/bondsNews/idUSN2649652520090427'
+p421
+sg4
+S'20090426\xc2\xa009:50 PM EDT'
+p422
+sg6
+S'UPDATE 2-Mexico tries to assure markets after flu outbreak'
+p423
+sa(dp424
+g2
+S'http://www.reuters.com/article/pressRelease/idUS23742+27-Apr-2009+GNW20090427'
+p425
+sg4
+S'20090426\xc2\xa009:48 PM EDT'
+p426
+sg6
+S'Will He Make It to Morningrise? -- New Investigative Thriller Follows a Man Chased...'
+p427
+sa(dp428
+g2
+S'http://www.reuters.com/article/pressRelease/idUS22934+27-Apr-2009+PRN20090427'
+p429
+sg4
+S'20090426\xc2\xa009:42 PM EDT'
+p430
+sg6
+S"Phillipsburg Tops Easton in Historic Gatorade REPLAY Game Proving 'Once An Athlete,..."
+p431
+sa(dp432
+g2
+S'http://www.reuters.com/article/rbssIndustryMaterialsUtilitiesNews/idUST274WAHDL20090427'
+p433
+sg4
+S'20090426\xc2\xa009:40 PM EDT'
+p434
+sg6
+S'Nitto FC <4033.T>-6mth group results'
+p435
+sa(dp436
+g2
+S'http://www.reuters.com/article/rbssCoal/idUSHKG36132520090427'
+p437
+sg4
+S'20090426\xc2\xa009:37 PM EDT'
+p438
+sg6
+S'Yanzhou Coal sets lower target in 2009, Q1 net down'
+p439
+sa(dp440
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSSP415227'
+p441
+sg4
+S'20090426\xc2\xa009:35 PM EDT'
+p442
+sg6
+S'RPT-FACTBOX-New flu strain is a genetic mix'
+p443
+sa(dp444
+g2
+S'http://www.reuters.com/article/rbssIndustryMaterialsUtilitiesNews/idUSHKG30540320090427'
+p445
+sg4
+S'20090426\xc2\xa009:35 PM EDT'
+p446
+sg6
+S"TABLE-Beijing Airport's 2008 net profit down 92.4 pct"
+p447
+sa(dp448
+g2
+S'http://www.reuters.com/article/GCA-CreditCrisis/idUSTRE53Q07F20090427'
+p449
+sg4
+S'20090426\xc2\xa009:33 PM EDT'
+p450
+sg6
+S'Swine flu is new blow for crisis-hit Mexico'
+p451
+sa(dp452
+g2
+S'http://www.reuters.com/article/companyNewsAndPR/idUSLR71153920090427'
+p453
+sg4
+S'20090426\xc2\xa009:31 PM EDT'
+p454
+sg6
+S'PRESS DIGEST - Financial Times - April 27'
+p455
+sa(dp456
+g2
+S'http://www.reuters.com/article/pressRelease/idUS21523+27-Apr-2009+PRN20090427'
+p457
+sg4
+S'20090426\xc2\xa009:30 PM EDT'
+p458
+sg6
+S'Following Is a Test Release'
+p459
+sa(dp460
+g2
+S'http://www.reuters.com/article/rbssMarineTransportation/idUSSHA36188520090427'
+p461
+sg4
+S'20090426\xc2\xa009:27 PM EDT'
+p462
+sg6
+S'Shanghai Port Q1 net profit falls 28 pct'
+p463
+sa(dp464
+g2
+S'http://www.reuters.com/article/rbssInvestmentServices/idUSHKG36207320090427'
+p465
+sg4
+S'20090426\xc2\xa009:24 PM EDT'
+p466
+sg6
+S'Hong Kong shares to gain on Wall Street lead'
+p467
+sa(dp468
+g2
+S'http://www.reuters.com/article/newsMaps/idUSTRE53P1IN20090427'
+p469
+sg4
+S'20090426\xc2\xa009:23 PM EDT'
+p470
+sg6
+S'For many in Ecuador, Correa means peace'
+p471
+sa(dp472
+g2
+S'http://www.reuters.com/article/newsMaps/idUSTRE53P1IP20090427'
+p473
+sg4
+S'20090426\xc2\xa009:23 PM EDT'
+p474
+sg6
+S'Q+A: What does Correa re-election mean for Ecuador?'
+p475
+sa(dp476
+g2
+S'http://www.reuters.com/article/newsMaps/idUSTRE53P1IO20090427'
+p477
+sg4
+S'20090426\xc2\xa009:23 PM EDT'
+p478
+sg6
+S'FACTBOX: Ecuador and its leftist president, Rafael Correa'
+p479
+sa(dp480
+g2
+S'http://www.reuters.com/article/rbssPharmaceuticals - Diversified/idUST12940020090427'
+p481
+sg4
+S'20090426\xc2\xa009:18 PM EDT'
+p482
+sg6
+S'Nikkei gains 1.5 pct on U.S. hope, Shinsei jumps'
+p483
+sa(dp484
+g2
+S'http://www.reuters.com/article/rbssRealEstateOperations/idUSHKG31830920090427'
+p485
+sg4
+S'20090426\xc2\xa009:17 PM EDT'
+p486
+sg6
+S'PRESS DIGEST - Hong Kong - April 27'
+p487
+sa(dp488
+g2
+S'http://www.reuters.com/article/pressRelease/idUS19742+27-Apr-2009+PRN20090427'
+p489
+sg4
+S'20090426\xc2\xa009:15 PM EDT'
+p490
+sg6
+S'Qualcomm and Broadcom Reach Settlement and Patent Agreement'
+p491
+sa(dp492
+g2
+S'http://www.reuters.com/article/sportsNews/idUSTRE53P2SC20090427'
+p493
+sg4
+S'20090426\xc2\xa009:13 PM EDT'
+p494
+sg6
+S'Kelly ends title drought in New Orleans'
+p495
+sa(dp496
+g2
+S'http://www.reuters.com/article/newsMaps/idUSTRE53P25320090427'
+p497
+sg4
+S'20090426\xc2\xa009:11 PM EDT'
+p498
+sg6
+S'Global ministers warn of risk of rising poverty'
+p499
+sa(dp500
+g2
+S'http://www.reuters.com/article/governmentFilingsNews/idUSN2649764220090427'
+p501
+sg4
+S'20090426\xc2\xa009:07 PM EDT'
+p502
+sg6
+S"AIG's ILFC unit gets bids less than $5 bln - FT"
+p503
+sa(dp504
+g2
+S'http://www.reuters.com/article/GCA-autos/idUSTRE53Q03420090427'
+p505
+sg4
+S'20090426\xc2\xa009:07 PM EDT'
+p506
+sg6
+S'Canadian workers accept sweeping cuts at Chrysler'
+p507
+sa(dp508
+g2
+S'http://www.reuters.com/article/pressRelease/idUS18554+27-Apr-2009+GNW20090427'
+p509
+sg4
+S'20090426\xc2\xa009:05 PM EDT'
+p510
+sg6
+S'Ad hoc: Jerini AG: Squeeze-Out Cash Compensation Specified in the Amount of EUR 7.53'
+p511
+sa(dp512
+g2
+S'http://www.reuters.com/article/rbssBeveragesBrewers/idUSSYU00639620090427'
+p513
+sg4
+S'20090426\xc2\xa009:02 PM EDT'
+p514
+sg6
+S"Australia's Lion shares race up after Kirin deal"
+p515
+sa(dp516
+g2
+S'http://www.reuters.com/article/pressRelease/idUS17978+27-Apr-2009+PRN20090427'
+p517
+sg4
+S'20090426\xc2\xa009:00 PM EDT'
+p518
+sg6
+S'Following Is a Test Release'
+p519
+sa(dp520
+g2
+S'http://www.reuters.com/article/pressRelease/idUS17964+27-Apr-2009+PRN20090427'
+p521
+sg4
+S'20090426\xc2\xa009:00 PM EDT'
+p522
+sg6
+S'Cohen Independent Research Group Initiates Coverage on Magnum with a $2.67 Buy Rating...'
+p523
+sa(dp524
+g2
+S'http://www.reuters.com/article/usDollarRpt/idUST32137220090427'
+p525
+sg4
+S'20090426\xc2\xa008:55 PM EDT'
+p526
+sg6
+S'FOREX-Yen, dollar gain, peso falls on flu jitters'
+p527
+sa(dp528
+g2
+S'http://www.reuters.com/article/pressRelease/idUS17394+27-Apr-2009+BW20090427'
+p529
+sg4
+S'20090426\xc2\xa008:55 PM EDT'
+p530
+sg6
+S'EVSO:Texas Launches $500 Million Solar Subsidy'
+p531
+sa(dp532
+g2
+S'http://www.reuters.com/article/rbssInvestmentServices/idUSSIN47532920090427'
+p533
+sg4
+S'20090426\xc2\xa008:53 PM EDT'
+p534
+sg6
+S'PRESS DIGEST - Singapore newspapers - April 27'
+p535
+sa(dp536
+g2
+S'http://www.reuters.com/article/rbssAutoTruckManufacturers/idUSN2645816520090427'
+p537
+sg4
+S'20090426\xc2\xa008:52 PM EDT'
+p538
+sg6
+S'UPDATE 2-Canadian workers accept sweeping cuts at Chrysler'
+p539
+sa(dp540
+g2
+S'http://www.reuters.com/article/lifestyleMolt/idUSTRE53Q03H20090427'
+p541
+sg4
+S'20090426\xc2\xa008:51 PM EDT'
+p542
+sg6
+S'Swiss canton bans nude hiking'
+p543
+sa(dp544
+g2
+S'http://www.reuters.com/article/ousivMolt/idUSTRE53Q02R20090427'
+p545
+sg4
+S'20090426\xc2\xa008:47 PM EDT'
+p546
+sg6
+S'UAW in accord with Chrysler, Fiat, U.S. government'
+p547
+sa(dp548
+g2
+S'http://www.reuters.com/article/bondsNews/idUST33417520090427'
+p549
+sg4
+S'20090426\xc2\xa008:42 PM EDT'
+p550
+sg6
+S'Japan cabinet OKs record extra budget for stimulus'
+p551
+sa(dp552
+g2
+S'http://www.reuters.com/article/rbssBeveragesBrewers/idUSLQ70464720090427'
+p553
+sg4
+S'20090426\xc2\xa008:42 PM EDT'
+p554
+sg6
+S'Cobra loses CEO before possible sale to Molson - report'
+p555
+sa(dp556
+g2
+S'http://www.reuters.com/article/pressRelease/idUS15879+27-Apr-2009+BW20090427'
+p557
+sg4
+S'20090426\xc2\xa008:42 PM EDT'
+p558
+sg6
+S'Brain Works Best When Cells Keep Right Rhythms, New Stanford Studies Suggest'
+p559
+sa(dp560
+g2
+S'http://www.reuters.com/article/sportsNews/idUSTRE53P2QM20090427'
+p561
+sg4
+S'20090426\xc2\xa008:39 PM EDT'
+p562
+sg6
+S'Birthday boy Fukudome shines in Cubs win'
+p563
+sa(dp564
+g2
+S'http://www.reuters.com/article/usDollarRpt/idUSTKU10338820090427'
+p565
+sg4
+S'20090426\xc2\xa008:38 PM EDT'
+p566
+sg6
+S'Japan finmin: economy too severe for early election'
+p567
+sa(dp568
+g2
+S'http://www.reuters.com/article/rbssMarineTransportation/idUSSIN45795920090427'
+p569
+sg4
+S'20090426\xc2\xa008:37 PM EDT'
+p570
+sg6
+S'Singapore Hot Stocks-CityDev, SMRT, Hong Leong Finance in focus'
+p571
+sa(dp572
+g2
+S'http://www.reuters.com/article/rbssAutoTruckManufacturers/idUSWEN787020090427'
+p573
+sg4
+S'20090426\xc2\xa008:36 PM EDT'
+p574
+sg6
+S'UAW in accord with Chrysler, Fiat, US government'
+p575
+sa(dp576
+g2
+S'http://www.reuters.com/article/rbssAirlines/idUSSHA24740420090427'
+p577
+sg4
+S'20090426\xc2\xa008:34 PM EDT'
+p578
+sg6
+S'Shanghai Air Q1 net drops 28.7 pct on weak demand'
+p579
+sa(dp580
+g2
+S'http://www.reuters.com/article/pressRelease/idUS13915+27-Apr-2009+PRN20090427'
+p581
+sg4
+S'20090426\xc2\xa008:30 PM EDT'
+p582
+sg6
+S'Following Is a Test Release'
+p583
+sa(dp584
+g2
+S'http://www.reuters.com/article/rbssWirelessTelecommunicationServices/idUSKLR39241920090427'
+p585
+sg4
+S'20090426\xc2\xa008:25 PM EDT'
+p586
+sg6
+S'PRESS DIGEST - Malaysia - April 27'
+p587
+sa(dp588
+g2
+S'http://www.reuters.com/article/rbssFinancialServices - Diversified/idUST34730420090427'
+p589
+sg4
+S'20090426\xc2\xa008:21 PM EDT'
+p590
+sg6
+S'SMFG shares up 4.2 pct, in lead for Citi Japan assets'
+p591
+sa(dp592
+g2
+S'http://www.reuters.com/article/rbssEnergyNews/idUSKLR48406320090427'
+p593
+sg4
+S'20090426\xc2\xa008:20 PM EDT'
+p594
+sg6
+S"Malaysia's RHB plans Korean sukuk roadshow-paper"
+p595
+sa(dp596
+g2
+S'http://www.reuters.com/article/rbssAirlines/idUSSP42456720090427'
+p597
+sg4
+S'20090426\xc2\xa008:19 PM EDT'
+p598
+sg6
+S'RPT-FACTBOX-Highlights of China-Taiwan agreements'
+p599
+sa(dp600
+g2
+S'http://www.reuters.com/article/rbssWirelessTelecommunicationServices/idUSSEO20922420090427'
+p601
+sg4
+S'20090426\xc2\xa008:16 PM EDT'
+p602
+sg6
+S'TABLE-S.Korea LG Telecom Q1 net profit rises 52 pct'
+p603
+sa(dp604
+g2
+S'http://www.reuters.com/article/rbssBeveragesBrewers/idUSWNAS633920090427'
+p605
+sg4
+S'20090426\xc2\xa008:16 PM EDT'
+p606
+sg6
+S'Lion: shareholders seem comfortable with Kirin deal'
+p607
+sa(dp608
+g2
+S'http://www.reuters.com/article/companyNewsAndPR/idUSTKU10338720090427'
+p609
+sg4
+S'20090426\xc2\xa008:13 PM EDT'
+p610
+sg6
+S"Japan to boost JGB issuance by Y16.9 trln in '09/10"
+p611
+sa(dp612
+g2
+S'http://www.reuters.com/article/rbssFinancialServicesAndRealEstateNews/idUSKLR15129720090427'
+p613
+sg4
+S'20090426\xc2\xa008:13 PM EDT'
+p614
+sg6
+S'Malaysia may lift foreign stakes in insurers-paper'
+p615
+sa(dp616
+g2
+S'http://www.reuters.com/article/economicNews/idUSTKU10338620090427'
+p617
+sg4
+S'20090426\xc2\xa008:09 PM EDT'
+p618
+sg6
+S'Japan cuts FY09/10 economic outlook amid recession'
+p619
+sa(dp620
+g2
+S'http://www.reuters.com/article/rbssInvestmentServices/idUSSEO30382720090427'
+p621
+sg4
+S'20090426\xc2\xa008:08 PM EDT'
+p622
+sg6
+S'Seoul shares firmer helped by U.S. data, earnings'
+p623
+sa(dp624
+g2
+S'http://www.reuters.com/article/rbssRealEstateOperations/idUSPEK34287020090427'
+p625
+sg4
+S'20090426\xc2\xa008:08 PM EDT'
+p626
+sg6
+S'China Vanke Q1 profit up 7 pct, says confidence up'
+p627
+sa(dp628
+g2
+S'http://www.reuters.com/article/tokyoMktRpt/idUST12939320090427'
+p629
+sg4
+S'20090426\xc2\xa008:07 PM EDT'
+p630
+sg6
+S'Nikkei rises 0.9 pct on U.S. economy hope, Wall St'
+p631
+sa(dp632
+g2
+S'http://www.reuters.com/article/pressRelease/idUS10994+27-Apr-2009+PRN20090427'
+p633
+sg4
+S'20090426\xc2\xa008:06 PM EDT'
+p634
+sg6
+S'MEDIA ADVISORY: GM President and CEO Fritz Henderson to Update Media on Revised GM...'
+p635
+sa(dp636
+g2
+S'http://www.reuters.com/article/bondsNews/idUSN2637076220090427'
+p637
+sg4
+S'20090426\xc2\xa008:05 PM EDT'
+p638
+sg6
+S"Ecuador's Correa easily wins re-election-quick count"
+p639
+sa(dp640
+g2
+S'http://www.reuters.com/article/rbssTechMediaTelecomNews/idUSKLR41565720090427'
+p641
+sg4
+S'20090426\xc2\xa008:02 PM EDT'
+p642
+sg6
+S'Malaysia Axiata unit mulls rights, bond issue-paper'
+p643
+sa(dp644
+g2
+S'http://www.reuters.com/article/pressRelease/idUS10220+27-Apr-2009+PRN20090427'
+p645
+sg4
+S'20090426\xc2\xa008:01 PM EDT'
+p646
+sg6
+S'Smithfield Foods Says It Found No Evidence of Swine Influenza at Its Mexican Joint...'
+p647
+sa(dp648
+g2
+S'http://www.reuters.com/article/rbssNonPaperContainersPackaging/idUST270STZ5M20090427'
+p649
+sg4
+S'20090426\xc2\xa008:00 PM EDT'
+p650
+sg6
+S'FP <7947.OS>-2008/09 group forecast'
+p651
+sa(dp652
+g2
+S'http://www.reuters.com/article/rbssNonPaperContainersPackaging/idUST2788F0O220090427'
+p653
+sg4
+S'20090426\xc2\xa008:00 PM EDT'
+p654
+sg6
+S'FP <7947.OS>-2008/09 parent forecast'
+p655
+sa(dp656
+g2
+S'http://www.reuters.com/article/pressRelease/idUS10028+27-Apr-2009+PRN20090427'
+p657
+sg4
+S'20090426\xc2\xa008:00 PM EDT'
+p658
+sg6
+S'Following Is a Test Release'
+p659
+sa(dp660
+g2
+S'http://www.reuters.com/article/pressRelease/idUS10010+27-Apr-2009+BW20090427'
+p661
+sg4
+S'20090426\xc2\xa008:00 PM EDT'
+p662
+sg6
+S'RiskMetrics Group Opens Beijing Office'
+p663
+sa(dp664
+g2
+S'http://www.reuters.com/article/usDollarRpt/idUSTKW00437720090426'
+p665
+sg4
+S'20090426\xc2\xa007:58 PM EDT'
+p666
+sg6
+S'Dollar falls to lowest in month vs yen on swine flu'
+p667
+sa(dp668
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSWEL135578'
+p669
+sg4
+S'20090426\xc2\xa007:56 PM EDT'
+p670
+sg6
+S'NZ teacher hospitalised for flu, more students tested'
+p671
+sa(dp672
+g2
+S'http://www.reuters.com/article/latestCrisis/idUST343556'
+p673
+sg4
+S'20090426\xc2\xa007:56 PM EDT'
+p674
+sg6
+S'ANALYSTS VIEW-Market fret over swine flu outbreak'
+p675
+sa(dp676
+g2
+S'http://www.reuters.com/article/rbssAerospaceDefense/idUSSEO5517420090426'
+p677
+sg4
+S'20090426\xc2\xa007:55 PM EDT'
+p678
+sg6
+S'PRESS DIGEST - South Korean newspapers - April 27'
+p679
+sa(dp680
+g2
+S'http://www.reuters.com/article/rbssITServicesConsulting/idUST276OCDIQ20090426'
+p681
+sg4
+S'20090426\xc2\xa007:55 PM EDT'
+p682
+sg6
+S'Adways <2489.T>-2008/09 group forecast'
+p683
+sa(dp684
+g2
+S'http://www.reuters.com/article/privateEquity/idUSWEN786620090426'
+p685
+sg4
+S'20090426\xc2\xa007:51 PM EDT'
+p686
+sg6
+S'GM plans to announce stepped up cost cuts-sources'
+p687
+sa(dp688
+g2
+S'http://www.reuters.com/article/pressRelease/idUS78249+26-Apr-2009+PRN20090426'
+p689
+sg4
+S'20090426\xc2\xa007:46 PM EDT'
+p690
+sg6
+S'CAW Members at Chrysler Ratify Restructuring Agreement'
+p691
+sa(dp692
+g2
+S'http://www.reuters.com/article/rbssFinancialServices - Diversified/idUST12459420090426'
+p693
+sg4
+S'20090426\xc2\xa007:44 PM EDT'
+p694
+sg6
+S'Citigroup, SMFG in talks on global tie-up - media'
+p695
+sa(dp696
+g2
+S'http://www.reuters.com/article/rbssInvestmentServices/idUSKLR39932420090426'
+p697
+sg4
+S'20090426\xc2\xa007:44 PM EDT'
+p698
+sg6
+S'Malaysia-Market factors to watch April 27'
+p699
+sa(dp700
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSN26495852'
+p701
+sg4
+S'20090426\xc2\xa007:43 PM EDT'
+p702
+sg6
+S'ANALYSIS-Swine flu is new blow for crisis-hit Mexico'
+p703
+sa(dp704
+g2
+S'http://www.reuters.com/article/AGRLIV/idUSN2648252220090426'
+p705
+sg4
+S'20090426\xc2\xa007:43 PM EDT'
+p706
+sg6
+S'RPT-WRAPUP 8-World flu epidemic fear rises, Mexicans shelter'
+p707
+sa(dp708
+g2
+S'http://www.reuters.com/article/pressRelease/idUS77949+26-Apr-2009+PRN20090426'
+p709
+sg4
+S'20090426\xc2\xa007:42 PM EDT'
+p710
+sg6
+S'Blaylock, 21, Becomes Youngest Angler To Win FLW Tour Event'
+p711
+sa(dp712
+g2
+S'http://www.reuters.com/article/rbssBeveragesBrewers/idUSHKG33637020090426'
+p713
+sg4
+S'20090426\xc2\xa007:41 PM EDT'
+p714
+sg6
+S'Beijing Enterprises plans $281 mln bonds'
+p715
+sa(dp716
+g2
+S'http://www.reuters.com/article/pressRelease/idUS77762+26-Apr-2009+PRN20090426'
+p717
+sg4
+S'20090426\xc2\xa007:39 PM EDT'
+p718
+sg6
+S'WestJet issues advisory for guests travelling to and from Mexico'
+p719
+sa(dp720
+g2
+S'http://www.reuters.com/article/rbssInsuranceMultiline/idUSSEO7488720090426'
+p721
+sg4
+S'20090426\xc2\xa007:33 PM EDT'
+p722
+sg6
+S'Seoul shares seen up helped by U.S. data, earnings'
+p723
+sa(dp724
+g2
+S'http://www.reuters.com/article/CMPTRS/idUST12938620090426'
+p725
+sg4
+S'20090426\xc2\xa007:32 PM EDT'
+p726
+sg6
+S'Nikkei seen range-bound as yen may hurt exporters'
+p727
+sa(dp728
+g2
+S'http://www.reuters.com/article/pressRelease/idUS76536+26-Apr-2009+PRN20090426'
+p729
+sg4
+S'20090426\xc2\xa007:30 PM EDT'
+p730
+sg6
+S'Following Is a Test Release'
+p731
+sa(dp732
+g2
+S'http://www.reuters.com/article/pressRelease/idUS76534+26-Apr-2009+PRN20090426'
+p733
+sg4
+S'20090426\xc2\xa007:30 PM EDT'
+p734
+sg6
+S'Caddo Intl Inc Releases Company Update and Announces Explosive Growth'
+p735
+sa(dp736
+g2
+S'http://www.reuters.com/article/rbssEntertainmentProduction/idUSN2645729320090426'
+p737
+sg4
+S'20090426\xc2\xa007:29 PM EDT'
+p738
+sg6
+S'Facebook plans to give developers more access -WSJ'
+p739
+sa(dp740
+g2
+S'http://www.reuters.com/article/privateEquityConsumerGoodsAndRetail/idUSN2645738220090426'
+p741
+sg4
+S'20090426\xc2\xa007:25 PM EDT'
+p742
+sg6
+S'Canadian Auto Workers union ratifies Chrysler deal'
+p743
+sa(dp744
+g2
+S'http://www.reuters.com/article/rbssAutoTruckManufacturers/idUSWEN786420090426'
+p745
+sg4
+S'20090426\xc2\xa007:23 PM EDT'
+p746
+sg6
+S'GM CEO to provide update on restructuring plan'
+p747
+sa(dp748
+g2
+S'http://www.reuters.com/article/managementIssues/idUSLQ67378820090426'
+p749
+sg4
+S'20090426\xc2\xa007:20 PM EDT'
+p750
+sg6
+S'SocGen denies report on billions in write-downs'
+p751
+sa(dp752
+g2
+S'http://www.reuters.com/article/pressRelease/idUS75761+26-Apr-2009+PRN20090426'
+p753
+sg4
+S'20090426\xc2\xa007:17 PM EDT'
+p754
+sg6
+S'Jake Thompson Wins Volkswagen Jetta TDI Cup Round #2 At VIR'
+p755
+sa(dp756
+g2
+S'http://www.reuters.com/article/sportsNews/idUSTRE53P2SC20090426'
+p757
+sg4
+S'20090426\xc2\xa007:15 PM EDT'
+p758
+sg6
+S'Kelly ends title drought in New Orleans'
+p759
+sa(dp760
+g2
+S'http://www.reuters.com/article/bondsNews/idUSN2649603720090426'
+p761
+sg4
+S'20090426\xc2\xa007:15 PM EDT'
+p762
+sg6
+S'RPR-Ecuadorean candidate says wait for official results'
+p763
+sa(dp764
+g2
+S'http://www.reuters.com/article/companyNewsAndPR/idUSN2648569520090426'
+p765
+sg4
+S'20090426\xc2\xa007:12 PM EDT'
+p766
+sg6
+S"UPDATE 7-Ecuador's Correa claims re-election victory"
+p767
+sa(dp768
+g2
+S'http://www.reuters.com/article/rbssMiningMetalsSpecialty/idUSSYU00639320090426'
+p769
+sg4
+S'20090426\xc2\xa007:07 PM EDT'
+p770
+sg6
+S'TEXT-Macmahon Holdings sees year profit at A$15-20 mln'
+p771
+sa(dp772
+g2
+S'http://www.reuters.com/article/healthNews/idUSTRE53N22820090426'
+p773
+sg4
+S'20090426\xc2\xa007:05 PM EDT'
+p774
+sg6
+S'World flu epidemic fear rises, Mexicans shelter'
+p775
+sa(dp776
+g2
+S'http://www.reuters.com/article/healthNews/idUSTRE53P2UA20090426'
+p777
+sg4
+S'20090426\xc2\xa007:05 PM EDT'
+p778
+sg6
+S"Mexico's Carstens watching markets after flu outbreak"
+p779
+sa(dp780
+g2
+S'http://www.reuters.com/article/usDollarRpt/idUSWBT01114620090426'
+p781
+sg4
+S'20090426\xc2\xa007:02 PM EDT'
+p782
+sg6
+S"Mexico's Carstens-watching markets after flu outbreak"
+p783
+sa(dp784
+g2
+S'http://www.reuters.com/article/globalMarketsNews/idUSTRE53P2U020090426'
+p785
+sg4
+S'20090426\xc2\xa007:02 PM EDT'
+p786
+sg6
+S"Mexico's peso falls 3 percent in Asian trading"
+p787
+sa(dp788
+g2
+S'http://www.reuters.com/article/innovationNewsConsumerGoodsAndRetail/idUSTRE53P2TV20090426'
+p789
+sg4
+S'20090426\xc2\xa007:01 PM EDT'
+p790
+sg6
+S'Kirin to take over Lion Nathan in A$3.5 billion deal'
+p791
+sa(dp792
+g2
+S'http://www.reuters.com/article/privateEquityFinancialServicesAndRealEstate/idUSLO35543820090426'
+p793
+sg4
+S'20090426\xc2\xa007:01 PM EDT'
+p794
+sg6
+S"Universal banking's days are numbered -study"
+p795
+sa(dp796
+g2
+S'http://www.reuters.com/article/pressRelease/idUS74419+26-Apr-2009+PRN20090426'
+p797
+sg4
+S'20090426\xc2\xa007:00 PM EDT'
+p798
+sg6
+S'Following Is a Test Release'
+p799
+sa(dp800
+g2
+S'http://www.reuters.com/article/usDollarRpt/idUSN2645677220090426'
+p801
+sg4
+S'20090426\xc2\xa006:57 PM EDT'
+p802
+sg6
+S"Mexico's peso falls 3 percent in Asian trading"
+p803
+sa(dp804
+g2
+S'http://www.reuters.com/article/rbssBeveragesBrewers/idUSSYD11979020090426'
+p805
+sg4
+S'20090426\xc2\xa006:57 PM EDT'
+p806
+sg6
+S'UPDATE 1-Kirin to take over Lion Nathan in A$3.5 bln deal'
+p807
+sa(dp808
+g2
+S'http://www.reuters.com/article/asiaRegulatoryNews/idUSN2647526320090426'
+p809
+sg4
+S'20090426\xc2\xa006:51 PM EDT'
+p810
+sg6
+S'HIGHLIGHTS-Comments from officials at IMF/World Bank meetings'
+p811
+sa(dp812
+g2
+S'http://www.reuters.com/article/pressRelease/idUS73475+26-Apr-2009+BW20090426'
+p813
+sg4
+S'20090426\xc2\xa006:50 PM EDT'
+p814
+sg6
+S'HHS Declares Public Health Emergency for Swine Flu'
+p815
+sa(dp816
+g2
+S'http://www.reuters.com/article/GCA-G20/idUSTRE53P25320090426'
+p817
+sg4
+S'20090426\xc2\xa006:47 PM EDT'
+p818
+sg6
+S'Global ministers warn of risk of rising poverty'
+p819
+sa(dp820
+g2
+S'http://www.reuters.com/article/homepageCrisis/idUSN26496148._CH_.2400'
+p821
+sg4
+S'20090426\xc2\xa006:46 PM EDT'
+p822
+sg6
+S'Global ministers warn of risk of rising poverty'
+p823
+sa(dp824
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSN26496148'
+p825
+sg4
+S'20090426\xc2\xa006:46 PM EDT'
+p826
+sg6
+S'Global ministers warn of risk of rising poverty'
+p827
+sa(dp828
+g2
+S'http://www.reuters.com/article/worldNews/idUSTRE53P1HX20090426'
+p829
+sg4
+S'20090426\xc2\xa006:33 PM EDT'
+p830
+sg6
+S"Ecuador's Correa claims re-election victory"
+p831
+sa(dp832
+g2
+S'http://www.reuters.com/article/pressRelease/idUS72011+26-Apr-2009+PRN20090426'
+p833
+sg4
+S'20090426\xc2\xa006:30 PM EDT'
+p834
+sg6
+S'Following Is a Test Release'
+p835
+sa(dp836
+g2
+S'http://www.reuters.com/article/rbssIntegratedOilGas/idUSN2649631320090426'
+p837
+sg4
+S'20090426\xc2\xa006:26 PM EDT'
+p838
+sg6
+S'Marathon says worker killed at Louisiana refinery'
+p839
+sa(dp840
+g2
+S'http://www.reuters.com/article/topNews/idUSTRE53P2DX20090426'
+p841
+sg4
+S'20090426\xc2\xa006:25 PM EDT'
+p842
+sg6
+S'Mexico flu scare empties streets, churches, bars'
+p843
+sa(dp844
+g2
+S'http://www.reuters.com/article/bondsNews/idUSN2649640820090426'
+p845
+sg4
+S'20090426\xc2\xa006:24 PM EDT'
+p846
+sg6
+S"Ecuador's president Correa claims re-election win"
+p847
+sa(dp848
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSN26494693'
+p849
+sg4
+S'20090426\xc2\xa006:24 PM EDT'
+p850
+sg6
+S'Mexico flu scare empties streets, churches, bars'
+p851
+sa(dp852
+g2
+S'http://www.reuters.com/article/sportsNews/idUSTRE53P2S320090426'
+p853
+sg4
+S'20090426\xc2\xa006:21 PM EDT'
+p854
+sg6
+S'James leads Cavaliers to sweep of Pistons and next round'
+p855
+sa(dp856
+g2
+S'http://www.reuters.com/article/domesticNews/idUSTRE53P2RB20090426'
+p857
+sg4
+S'20090426\xc2\xa006:16 PM EDT'
+p858
+sg6
+S'FDA warns of salmonella in sprouts'
+p859
+sa(dp860
+g2
+S'http://www.reuters.com/article/newsOne/idUSTRE53P2R220090426'
+p861
+sg4
+S'20090426\xc2\xa006:15 PM EDT'
+p862
+sg6
+S'Fearing the end, Chrysler fans flock to museum'
+p863
+sa(dp864
+g2
+S'http://www.reuters.com/article/ousivMolt/idUSTRE53P2QV20090426'
+p865
+sg4
+S'20090426\xc2\xa006:13 PM EDT'
+p866
+sg6
+S'Quadrangle wins investor vote of confidence: source'
+p867
+sa(dp868
+g2
+S'http://www.reuters.com/article/sportsNews/idUSTRE53P2QM20090426'
+p869
+sg4
+S'20090426\xc2\xa006:11 PM EDT'
+p870
+sg6
+S'Birthday boy Fukudome shines in Cubs win over Cards'
+p871
+sa(dp872
+g2
+S'http://www.reuters.com/article/americasMergersNews/idUSN2649269620090426'
+p873
+sg4
+S'20090426\xc2\xa006:08 PM EDT'
+p874
+sg6
+S'Quadrangle wins investor vote of confidence - source'
+p875
+sa(dp876
+g2
+S'http://www.reuters.com/article/rbssBeveragesBrewers/idUSWLF00131720090426'
+p877
+sg4
+S'20090426\xc2\xa006:08 PM EDT'
+p878
+sg6
+S'Lion Nathan says Kirin offers A$12.22 a share'
+p879
+sa(dp880
+g2
+S'http://www.reuters.com/article/companyNewsAndPR/idUSN2649625520090426'
+p881
+sg4
+S'20090426\xc2\xa006:06 PM EDT'
+p882
+sg6
+S"Ecuador's Correa wins re-election - exit polls"
+p883
+sa(dp884
+g2
+S'http://www.reuters.com/article/sportsNews/idUSTRE53P2Q220090426'
+p885
+sg4
+S'20090426\xc2\xa006:01 PM EDT'
+p886
+sg6
+S'Capitals beat Rangers in NY to tie playoff series'
+p887
+sa(dp888
+g2
+S'http://www.reuters.com/article/weekAheadG7/idUSJPDIARY20090426'
+p889
+sg4
+S'20090426\xc2\xa006:00 PM EDT'
+p890
+sg6
+S"DIARY-Japan April 27: Sharp, Kyocera, shipping lines' results"
+p891
+sa(dp892
+g2
+S'http://www.reuters.com/article/pressRelease/idUS69979+26-Apr-2009+PRN20090426'
+p893
+sg4
+S'20090426\xc2\xa006:00 PM EDT'
+p894
+sg6
+S'Following Is a Test Release'
+p895
+sa(dp896
+g2
+S'http://www.reuters.com/article/pressRelease/idUS69923+26-Apr-2009+BW20090426'
+p897
+sg4
+S'20090426\xc2\xa006:00 PM EDT'
+p898
+sg6
+S'SEMATECH Announces Breakthroughs in High Mobility Channels, Scaled High-k Gate Stacks, and Future Non-Volatile Memories'
+p899
+sa(dp900
+g2
+S'http://www.reuters.com/article/SCHOOL/idUSN2639479720090426'
+p901
+sg4
+S'20090426\xc2\xa005:58 PM EDT'
+p902
+sg6
+S'UPDATE 3-Canada confirms six cases of swine flu'
+p903
+sa(dp904
+g2
+S'http://www.reuters.com/article/healthNews/idUSTRE53P2P220090426'
+p905
+sg4
+S'20090426\xc2\xa005:57 PM EDT'
+p906
+sg6
+S'FACTBOX:How swine flu spreads in humans'
+p907
+sa(dp908
+g2
+S'http://www.reuters.com/article/lifestyleMolt/idUSTRE53P2NB20090426'
+p909
+sg4
+S'20090426\xc2\xa005:55 PM EDT'
+p910
+sg6
+S'U.S. airlines let customers change Mexico travel plans'
+p911
+sa(dp912
+g2
+S'http://www.reuters.com/article/bondsNews/idUSN2649610120090426'
+p913
+sg4
+S'20090426\xc2\xa005:55 PM EDT'
+p914
+sg6
+S"Exit poll says Ecuador's Correa won re-election bid"
+p915
+sa(dp916
+g2
+S'http://www.reuters.com/article/rbssAutoTruckManufacturers/idUSN2614656220090426'
+p917
+sg4
+S'20090426\xc2\xa005:47 PM EDT'
+p918
+sg6
+S'Fearing the end, Chrysler fans flock to museum'
+p919
+sa(dp920
+g2
+S'http://www.reuters.com/article/pressRelease/idUS68671+26-Apr-2009+PRN20090426'
+p921
+sg4
+S'20090426\xc2\xa005:42 PM EDT'
+p922
+sg6
+S"Father Breaks Cycling Record To Honor Daughter's Fight Against Lupus"
+p923
+sa(dp924
+g2
+S'http://www.reuters.com/article/rbssIntegratedOilGas/idUSN2647406320090426'
+p925
+sg4
+S'20090426\xc2\xa005:33 PM EDT'
+p926
+sg6
+S'Exxon says Baytown refinery units back after upsets'
+p927
+sa(dp928
+g2
+S'http://www.reuters.com/article/pressRelease/idUS68318+26-Apr-2009+PRN20090426'
+p929
+sg4
+S'20090426\xc2\xa005:30 PM EDT'
+p930
+sg6
+S'Following Is a Test Release'
+p931
+sa(dp932
+g2
+S'http://www.reuters.com/article/domesticNews/idUSTRE53P1TK20090426'
+p933
+sg4
+S'20090426\xc2\xa005:23 PM EDT'
+p934
+sg6
+S'U.S. acts swiftly to contain swine flu outbreak'
+p935
+sa(dp936
+g2
+S'http://www.reuters.com/article/domesticNews/idUSTRE53P2MS20090426'
+p937
+sg4
+S'20090426\xc2\xa005:23 PM EDT'
+p938
+sg6
+S'Finance chiefs, markets keep wary eye on swine flu'
+p939
+sa(dp940
+g2
+S'http://www.reuters.com/article/healthNews/idUSTRE53P2MF20090426'
+p941
+sg4
+S'20090426\xc2\xa005:22 PM EDT'
+p942
+sg6
+S'Finance chiefs, markets keep wary eye on swine flu'
+p943
+sa(dp944
+g2
+S'http://www.reuters.com/article/economicNews/idUSLQ65662720090426'
+p945
+sg4
+S'20090426\xc2\xa005:21 PM EDT'
+p946
+sg6
+S'Hungary seeks IMF support for stimulus-finmin'
+p947
+sa(dp948
+g2
+S'http://www.reuters.com/article/lifestyleMolt/idUSTRE53P2GK20090426'
+p949
+sg4
+S'20090426\xc2\xa005:21 PM EDT'
+p950
+sg6
+S'GM retirees watch, worry as day of reckoning nears'
+p951
+sa(dp952
+g2
+S'http://www.reuters.com/article/healthNews/idUSTRE53P2LQ20090426'
+p953
+sg4
+S'20090426\xc2\xa005:19 PM EDT'
+p954
+sg6
+S'U.S. airlines let customers change Mexico travel plans'
+p955
+sa(dp956
+g2
+S'http://www.reuters.com/article/BROKER/idUSN2649465620090426'
+p957
+sg4
+S'20090426\xc2\xa005:14 PM EDT'
+p958
+sg6
+S'US airlines let customers change Mexico travel plans'
+p959
+sa(dp960
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSN26494656'
+p961
+sg4
+S'20090426\xc2\xa005:14 PM EDT'
+p962
+sg6
+S'US airlines let customers change Mexico travel plans'
+p963
+sa(dp964
+g2
+S'http://www.reuters.com/article/BIOTRX/idUSN2649351120090426'
+p965
+sg4
+S'20090426\xc2\xa005:12 PM EDT'
+p966
+sg6
+S'UPDATE 1-U.S. acts swiftly to contain swine flu outbreak'
+p967
+sa(dp968
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSN26493511'
+p969
+sg4
+S'20090426\xc2\xa005:12 PM EDT'
+p970
+sg6
+S'U.S. acts swiftly to contain swine flu outbreak'
+p971
+sa(dp972
+g2
+S'http://www.reuters.com/article/topNews/idUSTRE53P2KH20090426'
+p973
+sg4
+S'20090426\xc2\xa005:12 PM EDT'
+p974
+sg6
+S'FACTBOX: Making a flu vaccine can take months'
+p975
+sa(dp976
+g2
+S'http://www.reuters.com/article/rbssAutoTruckManufacturers/idUSN2627836320090426'
+p977
+sg4
+S'20090426\xc2\xa005:12 PM EDT'
+p978
+sg6
+S'REFILE-GM retirees watch, worry as day of reckoning nears'
+p979
+sa(dp980
+g2
+S'http://www.reuters.com/article/healthNews/idUSTRE53P2K120090426'
+p981
+sg4
+S'20090426\xc2\xa005:10 PM EDT'
+p982
+sg6
+S'FACTBOX: Making a flu vaccine can take months'
+p983
+sa(dp984
+g2
+S'http://www.reuters.com/article/usDollarRpt/idUSN2648299720090426'
+p985
+sg4
+S'20090426\xc2\xa005:09 PM EDT'
+p986
+sg6
+S'Finance chiefs, markets keep wary eye on swine flu'
+p987
+sa(dp988
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSN26482997'
+p989
+sg4
+S'20090426\xc2\xa005:09 PM EDT'
+p990
+sg6
+S'Finance chiefs, markets keep wary eye on swine flu'
+p991
+sa(dp992
+g2
+S'http://www.reuters.com/article/pressRelease/idUS66755+26-Apr-2009+MW20090426'
+p993
+sg4
+S'20090426\xc2\xa005:08 PM EDT'
+p994
+sg6
+S' Government of Canada Is Working Closely  With Provinces and Territories and International Partners to Address Swine Flu'
+p995
+sa(dp996
+g2
+S'http://www.reuters.com/article/euRegulatoryNews/idUSN2649521720090426'
+p997
+sg4
+S'20090426\xc2\xa005:06 PM EDT'
+p998
+sg6
+S'FACTBOX-Making a flu vaccine can take months'
+p999
+sa(dp1000
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSN26495217'
+p1001
+sg4
+S'20090426\xc2\xa005:06 PM EDT'
+p1002
+sg6
+S'FACTBOX-Making a flu vaccine can take months'
+p1003
+sa(dp1004
+g2
+S'http://www.reuters.com/article/GCA-G20/idUSTRE53P2AO20090426'
+p1005
+sg4
+S'20090426\xc2\xa005:04 PM EDT'
+p1006
+sg6
+S'G20 pledges make hard work for finance ministers'
+p1007
+sa(dp1008
+g2
+S'http://www.reuters.com/article/pressRelease/idUS66546+26-Apr-2009+PRN20090426'
+p1009
+sg4
+S'20090426\xc2\xa005:03 PM EDT'
+p1010
+sg6
+S'CAIR: Fla. House GOP Leader Hosts Event Denying Religious Freedom'
+p1011
+sa(dp1012
+g2
+S'http://www.reuters.com/article/GCA-BarackObama/idUSTRE53P1GM20090426'
+p1013
+sg4
+S'20090426\xc2\xa005:02 PM EDT'
+p1014
+sg6
+S'Obama uses 100 days to build foundation'
+p1015
+sa(dp1016
+g2
+S'http://www.reuters.com/article/rbssOilGasRefiningMarketing/idUSN2649477820090426'
+p1017
+sg4
+S'20090426\xc2\xa005:01 PM EDT'
+p1018
+sg6
+S'Alon says Paramount, Calif., refinery at near-normal'
+p1019
+sa(dp1020
+g2
+S'http://www.reuters.com/article/pressRelease/idUS66365+26-Apr-2009+PRN20090426'
+p1021
+sg4
+S'20090426\xc2\xa005:00 PM EDT'
+p1022
+sg6
+S'Following Is a Test Release'
+p1023
+sa(dp1024
+g2
+S'http://www.reuters.com/article/rbssLeisureProducts/idUSSYD40999220090426'
+p1025
+sg4
+S'20090426\xc2\xa004:53 PM EDT'
+p1026
+sg6
+S'PRESS DIGEST-Australian Business News - April 27'
+p1027
+sa(dp1028
+g2
+S'http://www.reuters.com/article/economicNews/idUSN22ODAY20090426'
+p1029
+sg4
+S'20090426\xc2\xa004:48 PM EDT'
+p1030
+sg6
+S'DIARY - Today in Washington - April 27'
+p1031
+sa(dp1032
+g2
+S'http://www.reuters.com/article/newsOne/idUSTRE53P18C20090426'
+p1033
+sg4
+S'20090426\xc2\xa004:47 PM EDT'
+p1034
+sg6
+S'Iraq says U.S. raid "a crime," violated security pact'
+p1035
+sa(dp1036
+g2
+S'http://www.reuters.com/article/healthNews/idUSTRE53P2FJ20090426'
+p1037
+sg4
+S'20090426\xc2\xa004:45 PM EDT'
+p1038
+sg6
+S'Mexico says flu could have big economic impact'
+p1039
+sa(dp1040
+g2
+S'http://www.reuters.com/article/bondsNews/idUSN2649652520090426'
+p1041
+sg4
+S'20090426\xc2\xa004:41 PM EDT'
+p1042
+sg6
+S'UPDATE 1-Mexico says flu could have big economic impact'
+p1043
+sa(dp1044
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSN26496525'
+p1045
+sg4
+S'20090426\xc2\xa004:41 PM EDT'
+p1046
+sg6
+S'Mexico says flu could have big economic impact'
+p1047
+sa(dp1048
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSLQ662925'
+p1049
+sg4
+S'20090426\xc2\xa004:39 PM EDT'
+p1050
+sg6
+S'FACTBOX-Security developments in Iraq, April 26'
+p1051
+sa(dp1052
+g2
+S'http://www.reuters.com/article/marketsNews/idUSWAT01135020090426'
+p1053
+sg4
+S'20090426\xc2\xa004:33 PM EDT'
+p1054
+sg6
+S'IMF still sees Turkey deal in coming weeks'
+p1055
+sa(dp1056
+g2
+S'http://www.reuters.com/article/pressRelease/idUS65129+26-Apr-2009+PRN20090426'
+p1057
+sg4
+S'20090426\xc2\xa004:30 PM EDT'
+p1058
+sg6
+S'Following Is a Test Release'
+p1059
+sa(dp1060
+g2
+S'http://www.reuters.com/article/mnaNewsConsumerGoodsAndRetail/idUSLQ67088120090426'
+p1061
+sg4
+S'20090426\xc2\xa004:28 PM EDT'
+p1062
+sg6
+S"Fiat pledges not to close sites at GM's Opel-report"
+p1063
+sa(dp1064
+g2
+S'http://www.reuters.com/article/rbssIntegratedOilGas/idUSN2648188120090426'
+p1065
+sg4
+S'20090426\xc2\xa004:28 PM EDT'
+p1066
+sg6
+S'Rain triggers Exxon Baytown unit upsets-filing'
+p1067
+sa(dp1068
+g2
+S'http://www.reuters.com/article/globalMarketsNews/idUSTRE53G61V20090426'
+p1069
+sg4
+S'20090426\xc2\xa004:27 PM EDT'
+p1070
+sg6
+S'Banks, Fed, earnings, flu in view'
+p1071
+sa(dp1072
+g2
+S'http://www.reuters.com/article/BANKSL/idUSN2649695920090426'
+p1073
+sg4
+S'20090426\xc2\xa004:26 PM EDT'
+p1074
+sg6
+S'UPDATE 2-Wall St Wk Ahead:Banks, Fed, earnings, flu in view'
+p1075
+sa(dp1076
+g2
+S'http://www.reuters.com/article/bondsNews/idUSN2649383320090426'
+p1077
+sg4
+S'20090426\xc2\xa004:24 PM EDT'
+p1078
+sg6
+S'GM retirees watch, worry as day of reckoning nears'
+p1079
+sa(dp1080
+g2
+S'http://www.reuters.com/article/pressRelease/idUS64718+26-Apr-2009+MW20090426'
+p1081
+sg4
+S'20090426\xc2\xa004:20 PM EDT'
+p1082
+sg6
+S' Correctional Service of Canada: Assault at Saskatchewan Penitentiary'
+p1083
+sa(dp1084
+g2
+S'http://www.reuters.com/article/companyNewsAndPR/idUSWBT01114520090426'
+p1085
+sg4
+S'20090426\xc2\xa004:18 PM EDT'
+p1086
+sg6
+S'Mexico says flu could have big economic impact'
+p1087
+sa(dp1088
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSWBT011145'
+p1089
+sg4
+S'20090426\xc2\xa004:18 PM EDT'
+p1090
+sg6
+S'Mexico says flu could have big economic impact'
+p1091
+sa(dp1092
+g2
+S'http://www.reuters.com/article/GCA-Oil/idUSTRE53P2ER20090426'
+p1093
+sg4
+S'20090426\xc2\xa004:16 PM EDT'
+p1094
+sg6
+S'Average U.S. gasoline price barely budges'
+p1095
+sa(dp1096
+g2
+S'http://www.reuters.com/article/companyNewsAndPR/idUSLQ43663320090426'
+p1097
+sg4
+S'20090426\xc2\xa004:15 PM EDT'
+p1098
+sg6
+S'UPDATE 3-Left wins power in crisis-hit Iceland, eyes EU'
+p1099
+sa(dp1100
+g2
+S'http://www.reuters.com/article/healthNews/idUSTRE53P2DI20090426'
+p1101
+sg4
+S'20090426\xc2\xa004:10 PM EDT'
+p1102
+sg6
+S'Swine flu cases raise more questions than answers'
+p1103
+sa(dp1104
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSN26492325'
+p1105
+sg4
+S'20090426\xc2\xa004:07 PM EDT'
+p1106
+sg6
+S'ANALYSIS-Swine flu cases raise more questions than answers'
+p1107
+sa(dp1108
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSN26476901'
+p1109
+sg4
+S'20090426\xc2\xa004:06 PM EDT'
+p1110
+sg6
+S'Prison fire in Chile kills at least 10 inmates'
+p1111
+sa(dp1112
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSN26487430'
+p1113
+sg4
+S'20090426\xc2\xa004:03 PM EDT'
+p1114
+sg6
+S'Mexico flu scare empties streets, churches, bars'
+p1115
+sa(dp1116
+g2
+S'http://www.reuters.com/article/pressRelease/idUS63804+26-Apr-2009+MW20090426'
+p1117
+sg4
+S'20090426\xc2\xa004:00 PM EDT'
+p1118
+sg6
+S' Media Advisory/REMINDER: Minister of Public Safety to Deliver Remarks for National Victims of Crime Awareness Week'
+p1119
+sa(dp1120
+g2
+S'http://www.reuters.com/article/pressRelease/idUS63743+26-Apr-2009+PRN20090426'
+p1121
+sg4
+S'20090426\xc2\xa004:00 PM EDT'
+p1122
+sg6
+S'Following Is a Test Release'
+p1123
+sa(dp1124
+g2
+S'http://www.reuters.com/article/lifestyleMolt/idUSTRE53P2D620090426'
+p1125
+sg4
+S'20090426\xc2\xa003:56 PM EDT'
+p1126
+sg6
+S'Berlin "pro-religion" referendum soundly defeated'
+p1127
+sa(dp1128
+g2
+S'http://www.reuters.com/article/newsOne/idUSTRE53P2CT20090426'
+p1129
+sg4
+S'20090426\xc2\xa003:55 PM EDT'
+p1130
+sg6
+S'CDC prepares swine flu info cards for travelers'
+p1131
+sa(dp1132
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSN26488972'
+p1133
+sg4
+S'20090426\xc2\xa003:52 PM EDT'
+p1134
+sg6
+S'U.S. CDC prepares swine flu info cards for travelers'
+p1135
+sa(dp1136
+g2
+S'http://www.reuters.com/article/asiaIpoNews/idUSN2649290320090426'
+p1137
+sg4
+S'20090426\xc2\xa003:51 PM EDT'
+p1138
+sg6
+S'RPT-IPO VIEW-Despite recent deals, IPO pipeline thins out'
+p1139
+sa(dp1140
+g2
+S'http://www.reuters.com/article/pressRelease/idUS63272+26-Apr-2009+PRN20090426'
+p1141
+sg4
+S'20090426\xc2\xa003:50 PM EDT'
+p1142
+sg6
+S'11-Year-Old Word Wizards Defy Experts to Win 2009 National School SCRABBLE Championship'
+p1143
+sa(dp1144
+g2
+S'http://www.reuters.com/article/usDollarRpt/idUSWBT01114420090426'
+p1145
+sg4
+S'20090426\xc2\xa003:49 PM EDT'
+p1146
+sg6
+S'World Bank panel sees serious consequences for poor'
+p1147
+sa(dp1148
+g2
+S'http://www.reuters.com/article/healthNews/idUSTRE53P2B820090426'
+p1149
+sg4
+S'20090426\xc2\xa003:46 PM EDT'
+p1150
+sg6
+S'U.S. acts swiftly to contain swine flu outbreak'
+p1151
+sa(dp1152
+g2
+S'http://www.reuters.com/article/BIOTRX/idUSN2633430020090426'
+p1153
+sg4
+S'20090426\xc2\xa003:42 PM EDT'
+p1154
+sg6
+S'U.S. acts swiftly to contain swine flu outbreak'
+p1155
+sa(dp1156
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSN26334300'
+p1157
+sg4
+S'20090426\xc2\xa003:42 PM EDT'
+p1158
+sg6
+S'U.S. acts swiftly to contain swine flu outbreak'
+p1159
+sa(dp1160
+g2
+S'http://www.reuters.com/article/healthNews/idUSTRE53P2AC20090426'
+p1161
+sg4
+S'20090426\xc2\xa003:37 PM EDT'
+p1162
+sg6
+S'U.S. fears possible deaths as flu virus spreads'
+p1163
+sa(dp1164
+g2
+S'http://www.reuters.com/article/healthNews/idUSTRE53P20720090426'
+p1165
+sg4
+S'20090426\xc2\xa003:36 PM EDT'
+p1166
+sg6
+S'Canada confirms first cases of swine flu'
+p1167
+sa(dp1168
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSN26490216'
+p1169
+sg4
+S'20090426\xc2\xa003:34 PM EDT'
+p1170
+sg6
+S'U.S. fears possible deaths as flu virus spreads'
+p1171
+sa(dp1172
+g2
+S'http://www.reuters.com/article/pressRelease/idUS62436+26-Apr-2009+PRN20090426'
+p1173
+sg4
+S'20090426\xc2\xa003:30 PM EDT'
+p1174
+sg6
+S'Following Is a Test Release'
+p1175
+sa(dp1176
+g2
+S'http://www.reuters.com/article/healthNews/idUSTRE53P28J20090426'
+p1177
+sg4
+S'20090426\xc2\xa003:27 PM EDT'
+p1178
+sg6
+S'FACTBOX: Flu could boost drug makers, hit tourism and trade'
+p1179
+sa(dp1180
+g2
+S'http://www.reuters.com/article/healthNews/idUSTRE53P28I20090426'
+p1181
+sg4
+S'20090426\xc2\xa003:27 PM EDT'
+p1182
+sg6
+S'Q+A: World watching Mexico swine flu virus'
+p1183
+sa(dp1184
+g2
+S'http://www.reuters.com/article/healthNews/idUSTRE53P28H20090426'
+p1185
+sg4
+S'20090426\xc2\xa003:27 PM EDT'
+p1186
+sg6
+S'U.S. officials outline response to swine flu outbreak'
+p1187
+sa(dp1188
+g2
+S'http://www.reuters.com/article/newsOne/idUSTRE53P27Y20090426'
+p1189
+sg4
+S'20090426\xc2\xa003:25 PM EDT'
+p1190
+sg6
+S'U.S. officials outline response to swine flu outbreak'
+p1191
+sa(dp1192
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSN26343903'
+p1193
+sg4
+S'20090426\xc2\xa003:24 PM EDT'
+p1194
+sg6
+S'Q+A - World watching Mexico swine flu virus'
+p1195
+sa(dp1196
+g2
+S'http://www.reuters.com/article/filmNews/idUSTRE53P1T520090426'
+p1197
+sg4
+S'20090426\xc2\xa003:24 PM EDT'
+p1198
+sg6
+S"Beyonce's catfight thriller leads box office"
+p1199
+sa(dp1200
+g2
+S'http://www.reuters.com/article/pressRelease/idUS62128+26-Apr-2009+PRN20090426'
+p1201
+sg4
+S'20090426\xc2\xa003:23 PM EDT'
+p1202
+sg6
+S'Rentrak Theatrical Announces Box Office Numbers For Weekend of April 24, 2009'
+p1203
+sa(dp1204
+g2
+S'http://www.reuters.com/article/rbssPharmaceuticals - Generic & Specialty/idUSN2649320120090426'
+p1205
+sg4
+S'20090426\xc2\xa003:22 PM EDT'
+p1206
+sg6
+S'US officials outline response to swine flu outbreak'
+p1207
+sa(dp1208
+g2
+S'http://www.reuters.com/article/BROKER/idUSN2640325520090426'
+p1209
+sg4
+S'20090426\xc2\xa003:21 PM EDT'
+p1210
+sg6
+S'FACTBOX-Flu could boost drug makers, hit tourism and trade'
+p1211
+sa(dp1212
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSN26403255'
+p1213
+sg4
+S'20090426\xc2\xa003:21 PM EDT'
+p1214
+sg6
+S'FACTBOX-Flu could boost drug makers, hit tourism and trade'
+p1215
+sa(dp1216
+g2
+S'http://www.reuters.com/article/healthNews/idUSTRE53P1JK20090426'
+p1217
+sg4
+S'20090426\xc2\xa003:15 PM EDT'
+p1218
+sg6
+S'FACTBOX: How countries are defending against swine flu'
+p1219
+sa(dp1220
+g2
+S'http://www.reuters.com/article/newsMaps/idUSTRE53P25Z20090426'
+p1221
+sg4
+S'20090426\xc2\xa003:11 PM EDT'
+p1222
+sg6
+S'Early exit poll says Correa winning re-election bid'
+p1223
+sa(dp1224
+g2
+S'http://www.reuters.com/article/newsMaps/idUSTRE53P1J620090426'
+p1225
+sg4
+S'20090426\xc2\xa003:05 PM EDT'
+p1226
+sg6
+S'Karzai signed law not knowing contents: campaigners'
+p1227
+sa(dp1228
+g2
+S'http://www.reuters.com/article/pressRelease/idUS61261+26-Apr-2009+MW20090426'
+p1229
+sg4
+S'20090426\xc2\xa003:01 PM EDT'
+p1230
+sg6
+S' Endogenous Stem Cells Activators, Inc. (ESAI) Announces the Availability of KRONOS IV (4) in the Treatment of'
+p1231
+sa(dp1232
+g2
+S'http://www.reuters.com/article/rbssConsumerElectronics/idUSN2647796720090426'
+p1233
+sg4
+S'20090426\xc2\xa003:00 PM EDT'
+p1234
+sg6
+S"UPDATE 1-Beyonce's catfight thriller leads box office"
+p1235
+sa(dp1236
+g2
+S'http://www.reuters.com/article/pressRelease/idUS61209+26-Apr-2009+PRN20090426'
+p1237
+sg4
+S'20090426\xc2\xa003:00 PM EDT'
+p1238
+sg6
+S'Following Is a Test Release'
+p1239
+sa(dp1240
+g2
+S'http://www.reuters.com/article/bondsNews/idUSN2648991020090426'
+p1241
+sg4
+S'20090426\xc2\xa002:56 PM EDT'
+p1242
+sg6
+S'Early exit poll says Correa winning re-election bid'
+p1243
+sa(dp1244
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSN26363612'
+p1245
+sg4
+S'20090426\xc2\xa002:53 PM EDT'
+p1246
+sg6
+S'Global aid ministers warn of risk of rising poverty'
+p1247
+sa(dp1248
+g2
+S'http://www.reuters.com/article/newsOne/idUSTRE53P24U20090426'
+p1249
+sg4
+S'20090426\xc2\xa002:46 PM EDT'
+p1250
+sg6
+S'McCain differs with Cheney on interrogation memos'
+p1251
+sa(dp1252
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSN26492746'
+p1253
+sg4
+S'20090426\xc2\xa002:44 PM EDT'
+p1254
+sg6
+S'McCain differs with Cheney on interrogation memos'
+p1255
+sa(dp1256
+g2
+S'http://www.reuters.com/article/healthNews/idUSTRE53P23920090426'
+p1257
+sg4
+S'20090426\xc2\xa002:44 PM EDT'
+p1258
+sg6
+S'Most suspected flu patients in Mexico now healthy'
+p1259
+sa(dp1260
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSN26489623'
+p1261
+sg4
+S'20090426\xc2\xa002:42 PM EDT'
+p1262
+sg6
+S'Most suspected flu patients in Mexico now healthy'
+p1263
+sa(dp1264
+g2
+S'http://www.reuters.com/article/ousivMolt/idUSTRE53P23L20090426'
+p1265
+sg4
+S'20090426\xc2\xa002:32 PM EDT'
+p1266
+sg6
+S'Reinventing MySpace: New CEO is just the beginning'
+p1267
+sa(dp1268
+g2
+S'http://www.reuters.com/article/pressRelease/idUS60054+26-Apr-2009+PRN20090426'
+p1269
+sg4
+S'20090426\xc2\xa002:30 PM EDT'
+p1270
+sg6
+S'Following Is a Test Release'
+p1271
+sa(dp1272
+g2
+S'http://www.reuters.com/article/pressReleasesMolt/idUSTRE53P22L20090426'
+p1273
+sg4
+S'20090426\xc2\xa002:24 PM EDT'
+p1274
+sg6
+S'U.S. official cites progress in Chrysler talks'
+p1275
+sa(dp1276
+g2
+S'http://www.reuters.com/article/rbssAutoTruckManufacturers/idUSN2648488620090426'
+p1277
+sg4
+S'20090426\xc2\xa002:20 PM EDT'
+p1278
+sg6
+S'U.S. official cites progress in Chrysler talks'
+p1279
+sa(dp1280
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSLQ78682'
+p1281
+sg4
+S'20090426\xc2\xa002:19 PM EDT'
+p1282
+sg6
+S'Nigerian gunmen free Briton after 3-week captivity'
+p1283
+sa(dp1284
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSN26294145'
+p1285
+sg4
+S'20090426\xc2\xa002:19 PM EDT'
+p1286
+sg6
+S'Most suspected flu patients in Mexico now healthy'
+p1287
+sa(dp1288
+g2
+S'http://www.reuters.com/article/pressRelease/idUS59451+26-Apr-2009+PRN20090426'
+p1289
+sg4
+S'20090426\xc2\xa002:17 PM EDT'
+p1290
+sg6
+S'NEWSWEEK International Editions: Highlights and Exclusives, May 4 Issue'
+p1291
+sa(dp1292
+g2
+S'http://www.reuters.com/article/companyNewsAndPR/idUSN2648895120090426'
+p1293
+sg4
+S'20090426\xc2\xa002:08 PM EDT'
+p1294
+sg6
+S'Zimbabwe needs to do more for financial aid-bank'
+p1295
+sa(dp1296
+g2
+S'http://www.reuters.com/article/pressRelease/idUS58771+26-Apr-2009+PRN20090426'
+p1297
+sg4
+S'20090426\xc2\xa002:00 PM EDT'
+p1298
+sg6
+S'Following Is a Test Release'
+p1299
+sa(dp1300
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSN26394797'
+p1301
+sg4
+S'20090426\xc2\xa001:59 PM EDT'
+p1302
+sg6
+S'Canada confirms first cases of swine flu'
+p1303
+sa(dp1304
+g2
+S'http://www.reuters.com/article/reutersEdge/idUSTRE53P1ZJ20090426'
+p1305
+sg4
+S'20090426\xc2\xa001:57 PM EDT'
+p1306
+sg6
+S'Wildcard in any auto bankruptcy: the consumer'
+p1307
+sa(dp1308
+g2
+S'http://www.reuters.com/article/BROKER/idUSN2645578720090426'
+p1309
+sg4
+S'20090426\xc2\xa001:53 PM EDT'
+p1310
+sg6
+S'LATAM WEEKAHEAD-Brazil,Colombia seen cutting interest rates'
+p1311
+sa(dp1312
+g2
+S'http://www.reuters.com/article/healthNews/idUSTRE53P1Z720090426'
+p1313
+sg4
+S'20090426\xc2\xa001:50 PM EDT'
+p1314
+sg6
+S'U.S. says premature to talk about impact of flu on economy'
+p1315
+sa(dp1316
+g2
+S'http://www.reuters.com/article/pressRelease/idUS58234+26-Apr-2009+PRN20090426'
+p1317
+sg4
+S'20090426\xc2\xa001:44 PM EDT'
+p1318
+sg6
+S'NEWSWEEK Media Lead Sheet/May 4, 2009 Issue (on Newsstands Monday, April 27)'
+p1319
+sa(dp1320
+g2
+S'http://www.reuters.com/article/companyNewsAndPR/idUSN2616666620090426'
+p1321
+sg4
+S'20090426\xc2\xa001:44 PM EDT'
+p1322
+sg6
+S'US says premature to talk about impact of flu on economy'
+p1323
+sa(dp1324
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSN26166666'
+p1325
+sg4
+S'20090426\xc2\xa001:44 PM EDT'
+p1326
+sg6
+S'US says premature to talk about impact of flu on economy'
+p1327
+sa(dp1328
+g2
+S'http://www.reuters.com/article/companyNewsAndPR/idUSN2444736320090426'
+p1329
+sg4
+S'20090426\xc2\xa001:40 PM EDT'
+p1330
+sg6
+S'PREVIEW-Fed to hold fire this week to take stock of actions'
+p1331
+sa(dp1332
+g2
+S'http://www.reuters.com/article/healthNews/idUSTRE53P1FB20090426'
+p1333
+sg4
+S'20090426\xc2\xa001:40 PM EDT'
+p1334
+sg6
+S'Drug and vaccine makers on standby over swine flu'
+p1335
+sa(dp1336
+g2
+S'http://www.reuters.com/article/worldNews/idUSISL21802620090426'
+p1337
+sg4
+S'20090426\xc2\xa001:33 PM EDT'
+p1338
+sg6
+S'Pakistan urges Taliban to lay down arms'
+p1339
+sa(dp1340
+g2
+S'http://www.reuters.com/article/GCA-Oil/idUSTRE53P1W620090426'
+p1341
+sg4
+S'20090426\xc2\xa001:32 PM EDT'
+p1342
+sg6
+S"Oil could rally to $60 by year-end: OPEC's al-Badri"
+p1343
+sa(dp1344
+g2
+S'http://www.reuters.com/article/pressRelease/idUS57538+26-Apr-2009+PRN20090426'
+p1345
+sg4
+S'20090426\xc2\xa001:30 PM EDT'
+p1346
+sg6
+S'Following Is a Test Release'
+p1347
+sa(dp1348
+g2
+S'http://www.reuters.com/article/healthNews/idUSTRE53P1V220090426'
+p1349
+sg4
+S'20090426\xc2\xa001:27 PM EDT'
+p1350
+sg6
+S'U.S. says not testing travelers from Mexico for flu'
+p1351
+sa(dp1352
+g2
+S'http://www.reuters.com/article/rbssConsumerGoodsAndRetailNews/idUSN2648893720090426'
+p1353
+sg4
+S'20090426\xc2\xa001:26 PM EDT'
+p1354
+sg6
+S"General Mills stock has upside - Barron's"
+p1355
+sa(dp1356
+g2
+S'http://www.reuters.com/article/rbssAirlines/idUSN2646021520090426'
+p1357
+sg4
+S'20090426\xc2\xa001:24 PM EDT'
+p1358
+sg6
+S"Chile's Pinera put investments in blind trust-media"
+p1359
+sa(dp1360
+g2
+S'http://www.reuters.com/article/pressRelease/idUS57332+26-Apr-2009+MW20090426'
+p1361
+sg4
+S'20090426\xc2\xa001:24 PM EDT'
+p1362
+sg6
+S' REMINDER/Media Advisory: Minister Day to Visit Washington'
+p1363
+sa(dp1364
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSN26491120'
+p1365
+sg4
+S'20090426\xc2\xa001:19 PM EDT'
+p1366
+sg6
+S'US says not testing travelers from Mexico for flu'
+p1367
+sa(dp1368
+g2
+S'http://www.reuters.com/article/rbssOilGasExplorationProduction/idUSN2629664820090426'
+p1369
+sg4
+S'20090426\xc2\xa001:18 PM EDT'
+p1370
+sg6
+S"Suncor shares could rise to high $30s-Barron's"
+p1371
+sa(dp1372
+g2
+S'http://www.reuters.com/article/bondsNews/idUSN2649111520090426'
+p1373
+sg4
+S'20090426\xc2\xa001:17 PM EDT'
+p1374
+sg6
+S'UPDATE 1-Twenty swine flu cases confirmed in U.S. - officials'
+p1375
+sa(dp1376
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSN26491115'
+p1377
+sg4
+S'20090426\xc2\xa001:17 PM EDT'
+p1378
+sg6
+S'Twenty swine flu cases confirmed in U.S. - officials'
+p1379
+sa(dp1380
+g2
+S'http://www.reuters.com/article/rbssFoodDistribution & Convenience Stores/idUSN2646817620090426'
+p1381
+sg4
+S'20090426\xc2\xa001:15 PM EDT'
+p1382
+sg6
+S"Chile's Cencosud to invest $200 mln in 2009-report"
+p1383
+sa(dp1384
+g2
+S'http://www.reuters.com/article/worldNews/idUSTRE53P1ST20090426'
+p1385
+sg4
+S'20090426\xc2\xa001:14 PM EDT'
+p1386
+sg6
+S"FACTBOX: Iraq's security pact with the United States"
+p1387
+sa(dp1388
+g2
+S'http://www.reuters.com/article/healthNews/idUSTRE53P1SD20090426'
+p1389
+sg4
+S'20090426\xc2\xa001:13 PM EDT'
+p1390
+sg6
+S'Flu-wary Russia curbs meat imports from Americas'
+p1391
+sa(dp1392
+g2
+S'http://www.reuters.com/article/healthNews/idUSTRE53P1S520090426'
+p1393
+sg4
+S'20090426\xc2\xa001:13 PM EDT'
+p1394
+sg6
+S'Twenty swine flu cases confirmed in U.S.'
+p1395
+sa(dp1396
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSLQ600185'
+p1397
+sg4
+S'20090426\xc2\xa001:12 PM EDT'
+p1398
+sg6
+S'Flu-wary Russia curbs meat imports from Americas'
+p1399
+sa(dp1400
+g2
+S'http://www.reuters.com/article/rbssAirlines/idUSLQ57862420090426'
+p1401
+sg4
+S'20090426\xc2\xa001:11 PM EDT'
+p1402
+sg6
+S'Lufthansa restarts Tel Aviv-Munich flights'
+p1403
+sa(dp1404
+g2
+S'http://www.reuters.com/article/scienceNews/idUSTRE53P1DT20090426'
+p1405
+sg4
+S'20090426\xc2\xa001:11 PM EDT'
+p1406
+sg6
+S"Cache of mummies unearthed at Egypt's Lahun pyramid"
+p1407
+sa(dp1408
+g2
+S'http://www.reuters.com/article/smallBusinessNews/idUSTRE53M13G20090426'
+p1409
+sg4
+S'20090426\xc2\xa001:09 PM EDT'
+p1410
+sg6
+S'"Banker to the poor" gives New York women a boost'
+p1411
+sa(dp1412
+g2
+S'http://www.reuters.com/article/scienceNews/idUSTRE53P1R120090426'
+p1413
+sg4
+S'20090426\xc2\xa001:08 PM EDT'
+p1414
+sg6
+S'Experts identify genes linked to chronic diseases'
+p1415
+sa(dp1416
+g2
+S'http://www.reuters.com/article/pressRelease/idUS56272+26-Apr-2009+PRN20090426'
+p1417
+sg4
+S'20090426\xc2\xa001:02 PM EDT'
+p1418
+sg6
+S'CDC Media Availability on Human Swine Influenza Cases'
+p1419
+sa(dp1420
+g2
+S'http://www.reuters.com/article/domesticNews/idUSTRE53P1LC20090426'
+p1421
+sg4
+S'20090426\xc2\xa001:01 PM EDT'
+p1422
+sg6
+S'Twenty swine flu cases confirmed in U.S.'
+p1423
+sa(dp1424
+g2
+S'http://www.reuters.com/article/latestCrisis/idUST121709'
+p1425
+sg4
+S'20090426\xc2\xa001:00 PM EDT'
+p1426
+sg6
+S'Experts identify genes linked to chronic diseases'
+p1427
+sa(dp1428
+g2
+S'http://www.reuters.com/article/pressRelease/idUS56103+26-Apr-2009+PRN20090426'
+p1429
+sg4
+S'20090426\xc2\xa001:00 PM EDT'
+p1430
+sg6
+S'Following Is a Test Release'
+p1431
+sa(dp1432
+g2
+S'http://www.reuters.com/article/healthNews/idUSTRE53P1MS20090426'
+p1433
+sg4
+S'20090426\xc2\xa001:00 PM EDT'
+p1434
+sg6
+S'World ready to withstand potential pandemic: WHO'
+p1435
+sa(dp1436
+g2
+S'http://www.reuters.com/article/pressRelease/idUS56077+26-Apr-2009+BW20090426'
+p1437
+sg4
+S'20090426\xc2\xa001:00 PM EDT'
+p1438
+sg6
+S'PURE Bioscience`s SDC-Based Disinfectant Meets CDC`s Recommendation for Infection Control for Care of Patients with Confirmed or Suspected Swine Influenza A (H1N1) Virus in both Home and Healthcare Settings'
+p1439
+sa(dp1440
+g2
+S'http://www.reuters.com/article/bondsNews/idUSN2648989220090426'
+p1441
+sg4
+S'20090426\xc2\xa012:59 PM EDT'
+p1442
+sg6
+S'Twenty swine flu cases confirmed in U.S., officials'
+p1443
+sa(dp1444
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSN26489892'
+p1445
+sg4
+S'20090426\xc2\xa012:59 PM EDT'
+p1446
+sg6
+S'Twenty swine flu cases confirmed in U.S., officials'
+p1447
+sa(dp1448
+g2
+S'http://www.reuters.com/article/worldNews/idUSTRE53P0RV20090426'
+p1449
+sg4
+S'20090426\xc2\xa012:59 PM EDT'
+p1450
+sg6
+S'Sri Lanka rejects Tamil Tiger ceasefire'
+p1451
+sa(dp1452
+g2
+S'http://www.reuters.com/article/rbssInvestmentServices/idUSLQ52090220090426'
+p1453
+sg4
+S'20090426\xc2\xa012:54 PM EDT'
+p1454
+sg6
+S'UPDATE 2-Global swings to Q4 loss, says no debt deal yet'
+p1455
+sa(dp1456
+g2
+S'http://www.reuters.com/article/pressRelease/idUS55690+26-Apr-2009+BW20090426'
+p1457
+sg4
+S'20090426\xc2\xa012:52 PM EDT'
+p1458
+sg6
+S'VCA Animal Hospitals Offers Free Boarding for Pets Affected by South Carolina Fires'
+p1459
+sa(dp1460
+g2
+S'http://www.reuters.com/article/rbssRetailSpecialty/idUSLQ59587620090426'
+p1461
+sg4
+S'20090426\xc2\xa012:51 PM EDT'
+p1462
+sg6
+S'Dave Whelan in talks to buy Slazenger brand-report'
+p1463
+sa(dp1464
+g2
+S'http://www.reuters.com/article/usDollarRpt/idUSLQ61564920090426'
+p1465
+sg4
+S'20090426\xc2\xa012:47 PM EDT'
+p1466
+sg6
+S'UPDATE 1-World ready to withstand potential pandemic - WHO'
+p1467
+sa(dp1468
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSLQ615649'
+p1469
+sg4
+S'20090426\xc2\xa012:47 PM EDT'
+p1470
+sg6
+S'World ready to withstand potential pandemic - WHO'
+p1471
+sa(dp1472
+g2
+S'http://www.reuters.com/article/middleeastCrisis/idUSLQ610206'
+p1473
+sg4
+S'20090426\xc2\xa012:46 PM EDT'
+p1474
+sg6
+S'Iraq says US raid "a crime," violated security pact'
+p1475
+sa(dp1476
+g2
+S'http://www.reuters.com/article/privateEquityFinancialServicesAndRealEstate/idUSLQ39505220090426'
+p1477
+sg4
+S'20090426\xc2\xa012:36 PM EDT'
+p1478
+sg6
+S"Northern Rock 'sold by end of year'-report"
+p1479
+sa(dp1480
+g2
+S'http://www.reuters.com/article/pressRelease/idUS54864+26-Apr-2009+PRN20090426'
+p1481
+sg4
+S'20090426\xc2\xa012:34 PM EDT'
+p1482
+sg6
+S'TitanStocks.com: How to Make $100,000 or More Trading Stocks'
+p1483
+sa(dp1484
+g2
+S'http://www.reuters.com/article/pressRelease/idUS54648+26-Apr-2009+PRN20090426'
+p1485
+sg4
+S'20090426\xc2\xa012:30 PM EDT'
+p1486
+sg6
+S'Following Is a Test Release'
+p1487
+sa(dp1488
+g2
+S'http://www.reuters.com/article/bondsNews/idUSLQ60420820090426'
+p1489
+sg4
+S'20090426\xc2\xa012:30 PM EDT'
+p1490
+sg6
+S'UPDATE 1-UK Conservatives propose "government of thrift"'
+p1491
+sa(dp1492
+g2
+S'http://www.reuters.com/article/ousivMolt/idUSTRE53P1NX20090426'
+p1493
+sg4
+S'20090426\xc2\xa012:29 PM EDT'
+p1494
+sg6
+S'U.S. says need to resolve Swiss UBS case appropriately'
+p1495
+sa(dp1496
+g2
+S'http://www.reuters.com/article/newsMaps/idUSTRE53P1NL20090426'
+p1497
+sg4
+S'20090426\xc2\xa012:27 PM EDT'
+p1498
+sg6
+S'Iraq calls U.S. raid "crime" that violated pact'
+p1499
+sa(dp1500
+g2
+S'http://www.reuters.com/article/GCA-Iraq/idUSTRE53P1NG20090426'
+p1501
+sg4
+S'20090426\xc2\xa012:27 PM EDT'
+p1502
+sg6
+S'Iraq calls U.S. raid "crime" that violated pact'
+p1503
+sa(dp1504
+g2
+S'http://www.reuters.com/article/pressRelease/idUS54347+26-Apr-2009+MW20090426'
+p1505
+sg4
+S'20090426\xc2\xa012:25 PM EDT'
+p1506
+sg6
+S' Media Advisory: Public Health Agency of Canada'
+p1507
+sa(dp1508
+g2
+S'http://www.reuters.com/article/managementIssues/idUSLQ59381720090426'
+p1509
+sg4
+S'20090426\xc2\xa012:25 PM EDT'
+p1510
+sg6
+S"Sainsbury's CEO King set for 6 mln stg bonus-report"
+p1511
+sa(dp1512
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSLQ608495'
+p1513
+sg4
+S'20090426\xc2\xa012:25 PM EDT'
+p1514
+sg6
+S'Iraq calls U.S. raid "crime" that violated pact'
+p1515
+sa(dp1516
+g2
+S'http://www.reuters.com/article/pressRelease/idUS54239+26-Apr-2009+MW20090426'
+p1517
+sg4
+S'20090426\xc2\xa012:24 PM EDT'
+p1518
+sg6
+S' Media Advisory: Public Health Agency of Canada'
+p1519
+sa(dp1520
+g2
+S'http://www.reuters.com/article/domesticNews/idUSTRE53P1MP20090426'
+p1521
+sg4
+S'20090426\xc2\xa012:24 PM EDT'
+p1522
+sg6
+S'NYC mayor confirms eight mild swine flu cases'
+p1523
+sa(dp1524
+g2
+S'http://www.reuters.com/article/usDollarRpt/idUSLQ57742720090426'
+p1525
+sg4
+S'20090426\xc2\xa012:19 PM EDT'
+p1526
+sg6
+S'World ready to withstand potential pandemic - WHO'
+p1527
+sa(dp1528
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSLQ577427'
+p1529
+sg4
+S'20090426\xc2\xa012:19 PM EDT'
+p1530
+sg6
+S'World ready to withstand potential pandemic - WHO'
+p1531
+sa(dp1532
+g2
+S'http://www.reuters.com/article/topNews/idUSN2441697520090426'
+p1533
+sg4
+S'20090426\xc2\xa012:19 PM EDT'
+p1534
+sg6
+S"Summers says U.S. economy's freefall has ended"
+p1535
+sa(dp1536
+g2
+S'http://www.reuters.com/article/rbssPharmaceuticals - Generic & Specialty/idUSLQ42716820090426'
+p1537
+sg4
+S'20090426\xc2\xa012:13 PM EDT'
+p1538
+sg6
+S'Cholesterol drugs may cut risk of prostate cancer'
+p1539
+sa(dp1540
+g2
+S'http://www.reuters.com/article/CARMFG/idUSN2648927420090426'
+p1541
+sg4
+S'20090426\xc2\xa012:10 PM EDT'
+p1542
+sg6
+S"Summers says U.S. economy's freefall has ended"
+p1543
+sa(dp1544
+g2
+S'http://www.reuters.com/article/rbssIndustrialConglomerates/idUSLQ66984920090426'
+p1545
+sg4
+S'20090426\xc2\xa012:07 PM EDT'
+p1546
+sg6
+S"BAA 'may not get 1.6 bln stg' for Gatwick-report"
+p1547
+sa(dp1548
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSN26485024'
+p1549
+sg4
+S'20090426\xc2\xa012:04 PM EDT'
+p1550
+sg6
+S'NYC mayor confirms eight mild swine flu cases'
+p1551
+sa(dp1552
+g2
+S'http://www.reuters.com/article/rbssAutoTruckManufacturers/idUSLQ57398220090426'
+p1553
+sg4
+S'20090426\xc2\xa012:01 PM EDT'
+p1554
+sg6
+S"Fiat's Iveco truck unit to cut 1,000 jobs in Spain"
+p1555
+sa(dp1556
+g2
+S'http://www.reuters.com/article/pressRelease/idUS53089+26-Apr-2009+PRN20090426'
+p1557
+sg4
+S'20090426\xc2\xa012:00 PM EDT'
+p1558
+sg6
+S'Court Rules Limelight Networks(TM) Does Not Infringe Akamai Patent'
+p1559
+sa(dp1560
+g2
+S'http://www.reuters.com/article/pressRelease/idUS53073+26-Apr-2009+PRN20090426'
+p1561
+sg4
+S'20090426\xc2\xa012:00 PM EDT'
+p1562
+sg6
+S'Following Is a Test Release'
+p1563
+sa(dp1564
+g2
+S'http://www.reuters.com/article/pressRelease/idUS53068+26-Apr-2009+BW20090426'
+p1565
+sg4
+S'20090426\xc2\xa012:00 PM EDT'
+p1566
+sg6
+S"Obama's 100 Days of Silence on AIDS Challenged in AHF TV Ad"
+p1567
+sa(dp1568
+g2
+S'http://www.reuters.com/article/rbssConsumerElectronics/idUSN0843444020090426'
+p1569
+sg4
+S'20090426\xc2\xa011:59 AM EDT'
+p1570
+sg6
+S'The top movies at the North American box office'
+p1571
+sa(dp1572
+g2
+S'http://www.reuters.com/article/rbssInvestmentServices/idUSLQ60152320090426'
+p1573
+sg4
+S'20090426\xc2\xa011:55 AM EDT'
+p1574
+sg6
+S"RPT-Barclays 'refinances bond insurer exposure'-report"
+p1575
+sa(dp1576
+g2
+S'http://www.reuters.com/article/rbssCommercialServices & Supplies/idUSLQ58170020090426'
+p1577
+sg4
+S'20090426\xc2\xa011:52 AM EDT'
+p1578
+sg6
+S"UK's G4S may reclaim bonuses-report"
+p1579
+sa(dp1580
+g2
+S'http://www.reuters.com/article/worldNews/idUSTRE53P1IP20090426'
+p1581
+sg4
+S'20090426\xc2\xa011:50 AM EDT'
+p1582
+sg6
+S'Q+A: What does Correa re-election mean for Ecuador?'
+p1583
+sa(dp1584
+g2
+S'http://www.reuters.com/article/worldNews/idUSTRE53P1IO20090426'
+p1585
+sg4
+S'20090426\xc2\xa011:50 AM EDT'
+p1586
+sg6
+S'FACTBOX: Ecuador and its leftist president, Rafael Correa'
+p1587
+sa(dp1588
+g2
+S'http://www.reuters.com/article/worldNews/idUSTRE53P1IN20090426'
+p1589
+sg4
+S'20090426\xc2\xa011:50 AM EDT'
+p1590
+sg6
+S'For many in Ecuador, Correa means peace'
+p1591
+sa(dp1592
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSLQ562978'
+p1593
+sg4
+S'20090426\xc2\xa011:48 AM EDT'
+p1594
+sg6
+S'FACTBOX-How countries are defending against swine flu'
+p1595
+sa(dp1596
+g2
+S'http://www.reuters.com/article/rbssBroadcasting/idUSLQ55348920090426'
+p1597
+sg4
+S'20090426\xc2\xa011:45 AM EDT'
+p1598
+sg6
+S'ITV stakeholders in talks over new CEO-report'
+p1599
+sa(dp1600
+g2
+S'http://www.reuters.com/article/regulatoryNewsFinancialServicesAndRealEstate/idUSN2644219420090426'
+p1601
+sg4
+S'20090426\xc2\xa011:44 AM EDT'
+p1602
+sg6
+S'PREVIEW-For Bank of America CEO, the fun may be over'
+p1603
+sa(dp1604
+g2
+S'http://www.reuters.com/article/newsOne/idUSTRE53P1HA20090426'
+p1605
+sg4
+S'20090426\xc2\xa011:40 AM EDT'
+p1606
+sg6
+S'Iraq PM says can confirm insurgent leader arrest'
+p1607
+sa(dp1608
+g2
+S'http://www.reuters.com/article/gc05/idUSTRE53M39W20090426'
+p1609
+sg4
+S'20090426\xc2\xa011:39 AM EDT'
+p1610
+sg6
+S'Iraq PM says can confirm insurgent leader arrest'
+p1611
+sa(dp1612
+g2
+S'http://www.reuters.com/article/GCA-BarackObama/idUSTRE53P1GV20090426'
+p1613
+sg4
+S'20090426\xc2\xa011:38 AM EDT'
+p1614
+sg6
+S'FACTBOX: Obama relies on small band of trusted advisers'
+p1615
+sa(dp1616
+g2
+S'http://www.reuters.com/article/GCA-BarackObama/idUSTRE53P1GS20090426'
+p1617
+sg4
+S'20090426\xc2\xa011:38 AM EDT'
+p1618
+sg6
+S'FACTBOX: Promises, promises: How Obama has fared'
+p1619
+sa(dp1620
+g2
+S'http://www.reuters.com/article/GCA-BarackObama/idUSTRE53P1GP20090426'
+p1621
+sg4
+S'20090426\xc2\xa011:38 AM EDT'
+p1622
+sg6
+S"FACTBOX: Obama's first 100 days by the numbers"
+p1623
+sa(dp1624
+g2
+S'http://www.reuters.com/article/pressRelease/idUS51763+26-Apr-2009+PRN20090426'
+p1625
+sg4
+S'20090426\xc2\xa011:34 AM EDT'
+p1626
+sg6
+S"NEWSWEEK Cover: To Boldly Go ... How 'Star Trek' Taught Us To Dream Big"
+p1627
+sa(dp1628
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSLQ525440'
+p1629
+sg4
+S'20090426\xc2\xa011:33 AM EDT'
+p1630
+sg6
+S'UK to boost special forces to help terrorism fight'
+p1631
+sa(dp1632
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSLQ566545'
+p1633
+sg4
+S'20090426\xc2\xa011:31 AM EDT'
+p1634
+sg6
+S'Iraq PM says can confirm insurgent leader arrest'
+p1635
+sa(dp1636
+g2
+S'http://www.reuters.com/article/pressRelease/idUS51539+26-Apr-2009+PRN20090426'
+p1637
+sg4
+S'20090426\xc2\xa011:30 AM EDT'
+p1638
+sg6
+S'Following Is a Test Release'
+p1639
+sa(dp1640
+g2
+S'http://www.reuters.com/article/newsOne/idUSTRE53P1FO20090426'
+p1641
+sg4
+S'20090426\xc2\xa011:29 AM EDT'
+p1642
+sg6
+S'Drug and vaccine makers on standby over swine flu'
+p1643
+sa(dp1644
+g2
+S'http://www.reuters.com/article/worldNews/idUSTRE53P0UE20090426'
+p1645
+sg4
+S'20090426\xc2\xa011:27 AM EDT'
+p1646
+sg6
+S'Pope creates 5 saints including Portuguese warrior'
+p1647
+sa(dp1648
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSLQ588649'
+p1649
+sg4
+S'20090426\xc2\xa011:25 AM EDT'
+p1650
+sg6
+S'Drug and vaccine makers on standby over swine flu'
+p1651
+sa(dp1652
+g2
+S'http://www.reuters.com/article/rbssBiotechnology/idUSLQ58864920090426'
+p1653
+sg4
+S'20090426\xc2\xa011:25 AM EDT'
+p1654
+sg6
+S'Drug and vaccine makers on standby over swine flu'
+p1655
+sa(dp1656
+g2
+S'http://www.reuters.com/article/healthNews/idUSTRE53P1DD20090426'
+p1657
+sg4
+S'20090426\xc2\xa011:17 AM EDT'
+p1658
+sg6
+S'WHO\'s "war room" in high gear after flu outbreaks'
+p1659
+sa(dp1660
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSN26488473'
+p1661
+sg4
+S'20090426\xc2\xa011:11 AM EDT'
+p1662
+sg6
+S'US pork groups urge hog farmers to reduce flu risk'
+p1663
+sa(dp1664
+g2
+S'http://www.reuters.com/article/homepageCrisis/idUSLQ545662._CH_.2400'
+p1665
+sg4
+S'20090426\xc2\xa011:03 AM EDT'
+p1666
+sg6
+S'Darfur rebels get death sentence for 2008 attack'
+p1667
+sa(dp1668
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSLQ545662'
+p1669
+sg4
+S'20090426\xc2\xa011:03 AM EDT'
+p1670
+sg6
+S'Darfur rebels get death sentence for 2008 attack'
+p1671
+sa(dp1672
+g2
+S'http://www.reuters.com/article/healthNews/idUSTRE53P1CQ20090426'
+p1673
+sg4
+S'20090426\xc2\xa011:01 AM EDT'
+p1674
+sg6
+S'White house says no need to panic on swine flu'
+p1675
+sa(dp1676
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSLP389993'
+p1677
+sg4
+S'20090426\xc2\xa011:00 AM EDT'
+p1678
+sg6
+S'WHO\'s "war room" in high gear after flu outbreaks'
+p1679
+sa(dp1680
+g2
+S'http://www.reuters.com/article/pressRelease/idUS50129+26-Apr-2009+PRN20090426'
+p1681
+sg4
+S'20090426\xc2\xa011:00 AM EDT'
+p1682
+sg6
+S'Following Is a Test Release'
+p1683
+sa(dp1684
+g2
+S'http://www.reuters.com/article/televisionNews/idUSTRE53O2IV20090426'
+p1685
+sg4
+S'20090426\xc2\xa010:51 AM EDT'
+p1686
+sg6
+S'"Golden Girls" star Bea Arthur dies at 86'
+p1687
+sa(dp1688
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSLQ728403'
+p1689
+sg4
+S'20090426\xc2\xa010:41 AM EDT'
+p1690
+sg6
+S'Blast in Philippine southern beach resort, 1 dead'
+p1691
+sa(dp1692
+g2
+S'http://www.reuters.com/article/rbssUtilitiesNaturalGas/idUSLQ53546520090426'
+p1693
+sg4
+S'20090426\xc2\xa010:39 AM EDT'
+p1694
+sg6
+S'RWE, Vattenfall emerge as Venture bidders-report'
+p1695
+sa(dp1696
+g2
+S'http://www.reuters.com/article/worldNews/idUSLQ52492520090426'
+p1697
+sg4
+S'20090426\xc2\xa010:37 AM EDT'
+p1698
+sg6
+S'Somali pirates seize Yemen oil tanker: Yemen official'
+p1699
+sa(dp1700
+g2
+S'http://www.reuters.com/article/rbssBanks/idUSLQ56404720090426'
+p1701
+sg4
+S'20090426\xc2\xa010:34 AM EDT'
+p1702
+sg6
+S'Deutsche Bank likely to report 25 pct Q1 ROE-paper'
+p1703
+sa(dp1704
+g2
+S'http://www.reuters.com/article/GCA-G20/idUSTRE53P1AM20090426'
+p1705
+sg4
+S'20090426\xc2\xa010:31 AM EDT'
+p1706
+sg6
+S'Geithner urges push to implement agreed reform'
+p1707
+sa(dp1708
+g2
+S'http://www.reuters.com/article/rbssInvestmentServices/idUSN2442979920090426'
+p1709
+sg4
+S'20090426\xc2\xa010:30 AM EDT'
+p1710
+sg6
+S'BAY STREET: Small, aggressive rivals eye TMX stronghold'
+p1711
+sa(dp1712
+g2
+S'http://www.reuters.com/article/pressRelease/idUS48571+26-Apr-2009+PRN20090426'
+p1713
+sg4
+S'20090426\xc2\xa010:30 AM EDT'
+p1714
+sg6
+S'Following Is a Test Release'
+p1715
+sa(dp1716
+g2
+S'http://www.reuters.com/article/GCA-G20/idUSTRE53P1AH20090426'
+p1717
+sg4
+S'20090426\xc2\xa010:28 AM EDT'
+p1718
+sg6
+S"Developed countries resist IMF reform: Russia's Kudrin"
+p1719
+sa(dp1720
+g2
+S'http://www.reuters.com/article/environmentNews/idUSTRE53P1AA20090426'
+p1721
+sg4
+S'20090426\xc2\xa010:26 AM EDT'
+p1722
+sg6
+S'Central Asian leaders to gather for water summit'
+p1723
+sa(dp1724
+g2
+S'http://www.reuters.com/article/rbssFinancialServicesAndRealEstateNews/idUSLQ53767120090426'
+p1725
+sg4
+S'20090426\xc2\xa010:24 AM EDT'
+p1726
+sg6
+S'Nationalising Irish banks wld hit debt raising-Fin Min'
+p1727
+sa(dp1728
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSMAN338739'
+p1729
+sg4
+S'20090426\xc2\xa010:22 AM EDT'
+p1730
+sg6
+S'Blast in Philippine southern beach resort, 1 dead'
+p1731
+sa(dp1732
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSLQ528841'
+p1733
+sg4
+S'20090426\xc2\xa010:16 AM EDT'
+p1734
+sg6
+S'INTERVIEW-Cameroon forest elephants face extinction - WWF'
+p1735
+sa(dp1736
+g2
+S'http://www.reuters.com/article/companyNewsAndPR/idUSLQ49945920090426'
+p1737
+sg4
+S'20090426\xc2\xa010:16 AM EDT'
+p1738
+sg6
+S"UPDATE 1-Developed countries resist IMF reform-Russia's Kudrin"
+p1739
+sa(dp1740
+g2
+S'http://www.reuters.com/article/politicsNews/idUSTRE53P16A20090426'
+p1741
+sg4
+S'20090426\xc2\xa010:14 AM EDT'
+p1742
+sg6
+S'Summers says no unremitting freefall in economy'
+p1743
+sa(dp1744
+g2
+S'http://www.reuters.com/article/domesticNews/idUSTRE53O19D20090426'
+p1745
+sg4
+S'20090426\xc2\xa010:11 AM EDT'
+p1746
+sg6
+S'Ebadi team denied access to U.S.-Iranian reporter: aide'
+p1747
+sa(dp1748
+g2
+S'http://www.reuters.com/article/rbssRealEstateOperations/idUSLQ54601920090426'
+p1749
+sg4
+S'20090426\xc2\xa010:04 AM EDT'
+p1750
+sg6
+S'Egyptian shares climb, Talaat Moustafa retreats'
+p1751
+sa(dp1752
+g2
+S'http://www.reuters.com/article/filmNews/idUSTRE53P17V20090426'
+p1753
+sg4
+S'20090426\xc2\xa010:03 AM EDT'
+p1754
+sg6
+S'Tribeca film focuses on beheaded Afghan "fixer"'
+p1755
+sa(dp1756
+g2
+S'http://www.reuters.com/article/homepageCrisis/idUSISL218026._CH_.2400'
+p1757
+sg4
+S'20090426\xc2\xa010:00 AM EDT'
+p1758
+sg6
+S'Pakistan urges Taliban to lay down arms'
+p1759
+sa(dp1760
+g2
+S'http://www.reuters.com/article/pressRelease/idUS47272+26-Apr-2009+PRN20090426'
+p1761
+sg4
+S'20090426\xc2\xa010:00 AM EDT'
+p1762
+sg6
+S'Following Is a Test Release'
+p1763
+sa(dp1764
+g2
+S'http://www.reuters.com/article/GCA-PresidentPostcards/idUSTRE53L32C20090426'
+p1765
+sg4
+S'20090426\xc2\xa009:51 AM EDT'
+p1766
+sg6
+S'Economic storm clouds breaking, finance leaders say'
+p1767
+sa(dp1768
+g2
+S'http://www.reuters.com/article/rbssAutoTruckManufacturers/idUSN2648723920090426'
+p1769
+sg4
+S'20090426\xc2\xa009:49 AM EDT'
+p1770
+sg6
+S'UPDATE 1-Summers says no unremitting freefall in US economy'
+p1771
+sa(dp1772
+g2
+S'http://www.reuters.com/article/rbssInvestmentTrusts/idUSLQ55603820090426'
+p1773
+sg4
+S'20090426\xc2\xa009:47 AM EDT'
+p1774
+sg6
+S'UPDATE 1-3i says mulls share issue to shore up finances'
+p1775
+sa(dp1776
+g2
+S'http://www.reuters.com/article/pressRelease/idUS46697+26-Apr-2009+BW20090426'
+p1777
+sg4
+S'20090426\xc2\xa009:47 AM EDT'
+p1778
+sg6
+S'Maples advise on the Launch of up to \xe2\x82\xac90bn of Exchange Traded Commodities and Funds'
+p1779
+sa(dp1780
+g2
+S'http://www.reuters.com/article/pressRelease/idUS46566+26-Apr-2009+PRN20090426'
+p1781
+sg4
+S'20090426\xc2\xa009:44 AM EDT'
+p1782
+sg6
+S'North Carolina Team Wins $10,000 First Prize in Upset at 2009 National School SCRABBLE...'
+p1783
+sa(dp1784
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSLQ609143'
+p1785
+sg4
+S'20090426\xc2\xa009:42 AM EDT'
+p1786
+sg6
+S'Anger at deadly U.S. military raid in southern Iraq'
+p1787
+sa(dp1788
+g2
+S'http://www.reuters.com/article/mediaNews/idUSN2445237320090426'
+p1789
+sg4
+S'20090426\xc2\xa009:41 AM EDT'
+p1790
+sg6
+S"Tribeca film focuses on beheaded Afghan 'fixer'"
+p1791
+sa(dp1792
+g2
+S'http://www.reuters.com/article/worldNews/idUSTRE53O1BV20090426'
+p1793
+sg4
+S'20090426\xc2\xa009:32 AM EDT'
+p1794
+sg6
+S'Italian cruise ship beats off pirate attack'
+p1795
+sa(dp1796
+g2
+S'http://www.reuters.com/article/worldNews/idUSTRE53P10E20090426'
+p1797
+sg4
+S'20090426\xc2\xa009:32 AM EDT'
+p1798
+sg6
+S'Somali pirates seize Yemen oil tanker: Yemen official'
+p1799
+sa(dp1800
+g2
+S'http://www.reuters.com/article/worldNews/idUSTRE53P14Q20090426'
+p1801
+sg4
+S'20090426\xc2\xa009:30 AM EDT'
+p1802
+sg6
+S'Iran arrests group planning pre-vote bombings: radio'
+p1803
+sa(dp1804
+g2
+S'http://www.reuters.com/article/pressRelease/idUS45894+26-Apr-2009+PRN20090426'
+p1805
+sg4
+S'20090426\xc2\xa009:30 AM EDT'
+p1806
+sg6
+S'Following Is a Test Release'
+p1807
+sa(dp1808
+g2
+S'http://www.reuters.com/article/worldNews/idUSTRE53P0Y420090426'
+p1809
+sg4
+S'20090426\xc2\xa009:27 AM EDT'
+p1810
+sg6
+S'Six ton drug blaze a small step in Afghan battles'
+p1811
+sa(dp1812
+g2
+S'http://www.reuters.com/article/worldNews/idUSTRE53P14F20090426'
+p1813
+sg4
+S'20090426\xc2\xa009:27 AM EDT'
+p1814
+sg6
+S"Split Afghan opposition helps Karzai's chances"
+p1815
+sa(dp1816
+g2
+S'http://www.reuters.com/article/bankruptcyNews/idUSWAT01134720090426'
+p1817
+sg4
+S'20090426\xc2\xa009:23 AM EDT'
+p1818
+sg6
+S'Summers says no unremitting freefall in US economy'
+p1819
+sa(dp1820
+g2
+S'http://www.reuters.com/article/pressRelease/idUS45558+26-Apr-2009+BW20090426'
+p1821
+sg4
+S'20090426\xc2\xa009:23 AM EDT'
+p1822
+sg6
+S'USADATA Unveils Sales Leads On Demand Platform for DICE Members'
+p1823
+sa(dp1824
+g2
+S'http://www.reuters.com/article/rbssInsuranceMultiline/idUSLQ48341720090426'
+p1825
+sg4
+S'20090426\xc2\xa009:19 AM EDT'
+p1826
+sg6
+S'UPDATE 1-Ping An to vote against Fortis-BNP Paribas deal'
+p1827
+sa(dp1828
+g2
+S'http://www.reuters.com/article/homepageCrisis/idUSLQ469394._CH_.2400'
+p1829
+sg4
+S'20090426\xc2\xa009:16 AM EDT'
+p1830
+sg6
+S'Palestinian village welcomes Israeli shoppers'
+p1831
+sa(dp1832
+g2
+S'http://www.reuters.com/article/middleeastCrisis/idUSLQ469394'
+p1833
+sg4
+S'20090426\xc2\xa009:16 AM EDT'
+p1834
+sg6
+S'Palestinian village welcomes Israeli shoppers'
+p1835
+sa(dp1836
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSLQ524925'
+p1837
+sg4
+S'20090426\xc2\xa009:11 AM EDT'
+p1838
+sg6
+S'Somali pirates seize Yemen oil tanker -Yemen official'
+p1839
+sa(dp1840
+g2
+S'http://www.reuters.com/article/healthNews/idUSTRE53P12M20090426'
+p1841
+sg4
+S'20090426\xc2\xa009:06 AM EDT'
+p1842
+sg6
+S'Experts to advise WHO on pandemic alert phase'
+p1843
+sa(dp1844
+g2
+S'http://www.reuters.com/article/healthNews/idUSTRE53P12U20090426'
+p1845
+sg4
+S'20090426\xc2\xa009:06 AM EDT'
+p1846
+sg6
+S'White House to hold special briefing on swine flu'
+p1847
+sa(dp1848
+g2
+S'http://www.reuters.com/article/healthNews/idUSTRE53P12P20090426'
+p1849
+sg4
+S'20090426\xc2\xa009:06 AM EDT'
+p1850
+sg6
+S'EU Commission: no swine flu reported yet in Europe'
+p1851
+sa(dp1852
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSN26486828'
+p1853
+sg4
+S'20090426\xc2\xa009:05 AM EDT'
+p1854
+sg6
+S'RPT-White House to hold special briefing on swine flu'
+p1855
+sa(dp1856
+g2
+S'http://www.reuters.com/article/worldNews/idUSTRE53P12B20090426'
+p1857
+sg4
+S'20090426\xc2\xa009:01 AM EDT'
+p1858
+sg6
+S'Karzai scraps parade a year after attempt on life'
+p1859
+sa(dp1860
+g2
+S'http://www.reuters.com/article/companyNewsAndPR/idUSLQ52530720090426'
+p1861
+sg4
+S'20090426\xc2\xa009:00 AM EDT'
+p1862
+sg6
+S"Developed countries resist IMF reform-Russia's Kudrin"
+p1863
+sa(dp1864
+g2
+S'http://www.reuters.com/article/pressRelease/idUS44517+26-Apr-2009+PRN20090426'
+p1865
+sg4
+S'20090426\xc2\xa009:00 AM EDT'
+p1866
+sg6
+S'640 Architects and Engineers Call for New Investigation of 9/11'
+p1867
+sa(dp1868
+g2
+S'http://www.reuters.com/article/pressRelease/idUS44516+26-Apr-2009+PRN20090426'
+p1869
+sg4
+S'20090426\xc2\xa009:00 AM EDT'
+p1870
+sg6
+S'Following Is a Test Release'
+p1871
+sa(dp1872
+g2
+S'http://www.reuters.com/article/politicsNews/idUSTRE53P0GV20090426'
+p1873
+sg4
+S'20090426\xc2\xa008:57 AM EDT'
+p1874
+sg6
+S'Clinton says U.S. will never sell out Lebanon'
+p1875
+sa(dp1876
+g2
+S'http://www.reuters.com/article/pressRelease/idUS44365+26-Apr-2009+PRN20090426'
+p1877
+sg4
+S'20090426\xc2\xa008:57 AM EDT'
+p1878
+sg6
+S'Dubai Customs Celebrates World IP Day'
+p1879
+sa(dp1880
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSLQ76043'
+p1881
+sg4
+S'20090426\xc2\xa008:55 AM EDT'
+p1882
+sg6
+S'Saudi king visits oil-producing area after unrest'
+p1883
+sa(dp1884
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSISL471780'
+p1885
+sg4
+S'20090426\xc2\xa008:54 AM EDT'
+p1886
+sg6
+S"ANALYSIS-Split Afghan opposition helps Karzai's chances"
+p1887
+sa(dp1888
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSLQ464392'
+p1889
+sg4
+S'20090426\xc2\xa008:48 AM EDT'
+p1890
+sg6
+S'Darfur rebels get death sentence for 2008 attack'
+p1891
+sa(dp1892
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSLQ502607'
+p1893
+sg4
+S'20090426\xc2\xa008:40 AM EDT'
+p1894
+sg6
+S'EU Commission: no swine flu reported yet in Europe'
+p1895
+sa(dp1896
+g2
+S'http://www.reuters.com/article/usDollarRpt/idUSLQ53649220090426'
+p1897
+sg4
+S'20090426\xc2\xa008:40 AM EDT'
+p1898
+sg6
+S'UPDATE 1-Experts to advise WHO on pandemic alert phase'
+p1899
+sa(dp1900
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSLQ536492'
+p1901
+sg4
+S'20090426\xc2\xa008:40 AM EDT'
+p1902
+sg6
+S'Experts to advise WHO on pandemic alert phase'
+p1903
+sa(dp1904
+g2
+S'http://www.reuters.com/article/mnaNewsFinancialServicesAndRealEstate/idUSLQ52916520090426'
+p1905
+sg4
+S'20090426\xc2\xa008:39 AM EDT'
+p1906
+sg6
+S'Ping An to vote against Fortis-BNP Paribas deal'
+p1907
+sa(dp1908
+g2
+S'http://www.reuters.com/article/worldNews/idUSTRE53P0ZJ20090426'
+p1909
+sg4
+S'20090426\xc2\xa008:38 AM EDT'
+p1910
+sg6
+S'Weekend blasts kill 16 children in Pakistan'
+p1911
+sa(dp1912
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSISL401585'
+p1913
+sg4
+S'20090426\xc2\xa008:37 AM EDT'
+p1914
+sg6
+S'Karzai scraps parade a year after attempt on life'
+p1915
+sa(dp1916
+g2
+S'http://www.reuters.com/article/companyNewsAndPR/idUSIMFDIARY20090426'
+p1917
+sg4
+S'20090426\xc2\xa008:37 AM EDT'
+p1918
+sg6
+S'DIARY-G7, IMF and World Bank meetings in Washington'
+p1919
+sa(dp1920
+g2
+S'http://www.reuters.com/article/homepageCrisis/idUSLQ505976._CH_.2400'
+p1921
+sg4
+S'20090426\xc2\xa008:34 AM EDT'
+p1922
+sg6
+S'Kidnapped MSF workers could be freed Sunday - elder'
+p1923
+sa(dp1924
+g2
+S'http://www.reuters.com/article/africaCrisis/idUSLQ505976'
+p1925
+sg4
+S'20090426\xc2\xa008:34 AM EDT'
+p1926
+sg6
+S'Kidnapped MSF workers could be freed Sunday - elder'
+p1927
+sa(dp1928
+g2
+S'http://www.reuters.com/article/pressRelease/idUS43256+26-Apr-2009+PRN20090426'
+p1929
+sg4
+S'20090426\xc2\xa008:30 AM EDT'
+p1930
+sg6
+S'Following Is a Test Release'
+p1931
+sa(dp1932
+g2
+S'http://www.reuters.com/article/companyNewsAndPR/idUSLQ52912820090426'
+p1933
+sg4
+S'20090426\xc2\xa008:24 AM EDT'
+p1934
+sg6
+S'Experts to advise WHO on pandemic alert phase'
+p1935
+sa(dp1936
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSLQ529128'
+p1937
+sg4
+S'20090426\xc2\xa008:24 AM EDT'
+p1938
+sg6
+S'Experts to advise WHO on pandemic alert phase'
+p1939
+sa(dp1940
+g2
+S'http://www.reuters.com/article/asiaCrisis/idUSISL218026'
+p1941
+sg4
+S'20090426\xc2\xa008:17 AM EDT'
+p1942
+sg6
+S'Pakistan begins military offensive against militants'
+p1943
+sa(dp1944
+g2
+S'http://www.reuters.com/article/homepageCrisis/idUSLQ468972._CH_.2400'
+p1945
+sg4
+S'20090426\xc2\xa008:15 AM EDT'
+p1946
+sg6
+S'ANALYSIS-After bombings, Iraqis worry about worse to come'
+p1947
+sa(dp1948
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSLQ468972'
+p1949
+sg4
+S'20090426\xc2\xa008:15 AM EDT'
+p1950
+sg6
+S'ANALYSIS-After bombings, Iraqis worry about worse to come'
+p1951
+sa(dp1952
+g2
+S'http://www.reuters.com/article/worldNews/idUSTRE53P0Y720090426'
+p1953
+sg4
+S'20090426\xc2\xa008:06 AM EDT'
+p1954
+sg6
+S'Destroying Afghan opium crop: But does it help?'
+p1955
+sa(dp1956
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSLQ526899'
+p1957
+sg4
+S'20090426\xc2\xa008:06 AM EDT'
+p1958
+sg6
+S'Seized Yemen tanker empty of oil cargo -Yemen official'
+p1959
+sa(dp1960
+g2
+S'http://www.reuters.com/article/companyNews/idUSN2445471120090426'
+p1961
+sg4
+S'20090426\xc2\xa008:00 AM EDT'
+p1962
+sg6
+S"FACTBOX-Obama's first 100 days by the numbers"
+p1963
+sa(dp1964
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSN24436844'
+p1965
+sg4
+S'20090426\xc2\xa008:00 AM EDT'
+p1966
+sg6
+S'FACTBOX-Promises, promises: How Obama has fared'
+p1967
+sa(dp1968
+g2
+S'http://www.reuters.com/article/companyNewsAndPR/idUSN2548208420090426'
+p1969
+sg4
+S'20090426\xc2\xa008:00 AM EDT'
+p1970
+sg6
+S'FACTBOX-Ecuador and its leftist president, Rafael Correa'
+p1971
+sa(dp1972
+g2
+S'http://www.reuters.com/article/companyNewsAndPR/idUSN2548029520090426'
+p1973
+sg4
+S'20090426\xc2\xa008:00 AM EDT'
+p1974
+sg6
+S'Correa set to gain easy victory as Ecuador votes'
+p1975
+sa(dp1976
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSN25437507'
+p1977
+sg4
+S'20090426\xc2\xa008:00 AM EDT'
+p1978
+sg6
+S'FACTBOX-Obama relies on small band of trusted advisers'
+p1979
+sa(dp1980
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSN25409071'
+p1981
+sg4
+S'20090426\xc2\xa008:00 AM EDT'
+p1982
+sg6
+S'ANALYSIS-Obama uses 100 days to build foundation'
+p1983
+sa(dp1984
+g2
+S'http://www.reuters.com/article/companyNewsAndPR/idUSN2546563720090426'
+p1985
+sg4
+S'20090426\xc2\xa008:00 AM EDT'
+p1986
+sg6
+S'Q+A-What does Correa re-election mean for Ecuador?'
+p1987
+sa(dp1988
+g2
+S'http://www.reuters.com/article/pressRelease/idUS42206+26-Apr-2009+PRN20090426'
+p1989
+sg4
+S'20090426\xc2\xa008:00 AM EDT'
+p1990
+sg6
+S'Following Is a Test Release'
+p1991
+sa(dp1992
+g2
+S'http://www.reuters.com/article/pressRelease/idUS42207+26-Apr-2009+PRN20090426'
+p1993
+sg4
+S'20090426\xc2\xa008:00 AM EDT'
+p1994
+sg6
+S'Honeywell LifeStream(TM) Products Improve Patient Care by Offering Greater Access...'
+p1995
+sa(dp1996
+g2
+S'http://www.reuters.com/article/newsOne/idUSTRE53P0X120090426'
+p1997
+sg4
+S'20090426\xc2\xa007:53 AM EDT'
+p1998
+sg6
+S"TIMELINE: Sri Lanka's 25-year civil war"
+p1999
+sa(dp2000
+g2
+S'http://www.reuters.com/article/companyNewsAndPR/idUSN2648547920090426'
+p2001
+sg4
+S'20090426\xc2\xa007:50 AM EDT'
+p2002
+sg6
+S"Ecuador's Correa set to win election on Sunday-poll"
+p2003
+sa(dp2004
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSISL404335'
+p2005
+sg4
+S'20090426\xc2\xa007:50 AM EDT'
+p2006
+sg6
+S'Six tonne drug blaze a small step in Afghan battles'
+p2007
+sa(dp2008
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSLQ518930'
+p2009
+sg4
+S'20090426\xc2\xa007:48 AM EDT'
+p2010
+sg6
+S'Somali pirates seize Yemen oil tanker -Yemen official'
+p2011
+sa(dp2012
+g2
+S'http://www.reuters.com/article/homepageCrisis/idUSLQ501723._CH_.2400'
+p2013
+sg4
+S'20090426\xc2\xa007:47 AM EDT'
+p2014
+sg6
+S'Kidnapped MSF workers could be freed Sunday -elder'
+p2015
+sa(dp2016
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSLQ501723'
+p2017
+sg4
+S'20090426\xc2\xa007:47 AM EDT'
+p2018
+sg6
+S'Kidnapped MSF workers could be freed Sunday -elder'
+p2019
+sa(dp2020
+g2
+S'http://www.reuters.com/article/worldNews/idUSTRE53P0V520090426'
+p2021
+sg4
+S'20090426\xc2\xa007:46 AM EDT'
+p2022
+sg6
+S'Weekend blasts kill 16 children in Pakistan'
+p2023
+sa(dp2024
+g2
+S'http://www.reuters.com/article/worldNews/idUSTRE53P0W320090426'
+p2025
+sg4
+S'20090426\xc2\xa007:45 AM EDT'
+p2026
+sg6
+S'NATO, Pakistan hold joint naval exercise off Karachi'
+p2027
+sa(dp2028
+g2
+S'http://www.reuters.com/article/pressRelease/idUS41418+26-Apr-2009+BW20090426'
+p2029
+sg4
+S'20090426\xc2\xa007:43 AM EDT'
+p2030
+sg6
+S'Western Union annonce ses r\xc3\xa9sultats pour le premier trimestre'
+p2031
+sa(dp2032
+g2
+S'http://www.reuters.com/article/worldNews/idUSTRE53O30R20090426'
+p2033
+sg4
+S'20090426\xc2\xa007:37 AM EDT'
+p2034
+sg6
+S'Residents appeal for peace in Pakistani valley'
+p2035
+sa(dp2036
+g2
+S'http://www.reuters.com/article/homepageCrisis/idUSSP212534._CH_.2400'
+p2037
+sg4
+S'20090426\xc2\xa007:34 AM EDT'
+p2038
+sg6
+S"TIMELINE-Sri Lanka's 25-year civil war"
+p2039
+sa(dp2040
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSSP212534'
+p2041
+sg4
+S'20090426\xc2\xa007:34 AM EDT'
+p2042
+sg6
+S"TIMELINE-Sri Lanka's 25-year civil war"
+p2043
+sa(dp2044
+g2
+S'http://www.reuters.com/article/mnaNewsFinancialServicesAndRealEstate/idUSLQ51326220090426'
+p2045
+sg4
+S'20090426\xc2\xa007:34 AM EDT'
+p2046
+sg6
+S'Fortis, BNP, Belgian state agree RPI finance'
+p2047
+sa(dp2048
+g2
+S'http://www.reuters.com/article/pressRelease/idUS40798+26-Apr-2009+PRN20090426'
+p2049
+sg4
+S'20090426\xc2\xa007:30 AM EDT'
+p2050
+sg6
+S'Following Is a Test Release'
+p2051
+sa(dp2052
+g2
+S'http://www.reuters.com/article/pressRelease/idUS40672+26-Apr-2009+MW20090426'
+p2053
+sg4
+S'20090426\xc2\xa007:26 AM EDT'
+p2054
+sg6
+S' Fortis holding, BNP Paribas, Fortis Bank and the Belgian State agree on funding arrangements for special purpose'
+p2055
+sa(dp2056
+g2
+S'http://www.reuters.com/article/homepageCrisis/idUSISL178985._CH_.2400'
+p2057
+sg4
+S'20090426\xc2\xa007:22 AM EDT'
+p2058
+sg6
+S'Pakistan begins military offensive against militants'
+p2059
+sa(dp2060
+g2
+S'http://www.reuters.com/article/worldNews/idUSTRE53K1CQ20090426'
+p2061
+sg4
+S'20090426\xc2\xa007:17 AM EDT'
+p2062
+sg6
+S'ANC wins big in South Africa'
+p2063
+sa(dp2064
+g2
+S'http://www.reuters.com/article/worldNews/idUSTRE53P0T920090426'
+p2065
+sg4
+S'20090426\xc2\xa007:16 AM EDT'
+p2066
+sg6
+S'South African unions demand action after ANC win'
+p2067
+sa(dp2068
+g2
+S'http://www.reuters.com/article/healthNews/idUSTRE53P0SR20090426'
+p2069
+sg4
+S'20090426\xc2\xa007:14 AM EDT'
+p2070
+sg6
+S'FACTBOX: Asia moves to ward off new flu virus'
+p2071
+sa(dp2072
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSLQ493806'
+p2073
+sg4
+S'20090426\xc2\xa007:10 AM EDT'
+p2074
+sg6
+S'RPT-Destroying Afghan opium crop: But does it help?'
+p2075
+sa(dp2076
+g2
+S'http://www.reuters.com/article/usDollarRpt/idUSLQ49245120090426'
+p2077
+sg4
+S'20090426\xc2\xa007:04 AM EDT'
+p2078
+sg6
+S'UPDATE 1-South African unions demand action after ANC win'
+p2079
+sa(dp2080
+g2
+S'http://www.reuters.com/article/rbssBanks/idUSLQ48214020090426'
+p2081
+sg4
+S'20090426\xc2\xa007:02 AM EDT'
+p2082
+sg6
+S'Investors trying to oust Allied Irish CEO-report'
+p2083
+sa(dp2084
+g2
+S'http://www.reuters.com/article/homepageCrisis/idUSSP122113._CH_.2400'
+p2085
+sg4
+S'20090426\xc2\xa007:02 AM EDT'
+p2086
+sg6
+S"Sri Lanka's Tamil Tigers declare ceasefire"
+p2087
+sa(dp2088
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSSP122113'
+p2089
+sg4
+S'20090426\xc2\xa007:02 AM EDT'
+p2090
+sg6
+S"Sri Lanka's Tamil Tigers declare ceasefire"
+p2091
+sa(dp2092
+g2
+S'http://www.reuters.com/article/pressRelease/idUS39498+26-Apr-2009+PRN20090426'
+p2093
+sg4
+S'20090426\xc2\xa007:00 AM EDT'
+p2094
+sg6
+S'Following Is a Test Release'
+p2095
+sa(dp2096
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSLQ477509'
+p2097
+sg4
+S'20090426\xc2\xa006:58 AM EDT'
+p2098
+sg6
+S'Mother, newborn killed in French helicopter crash'
+p2099
+sa(dp2100
+g2
+S'http://www.reuters.com/article/homepageCrisis/idUSCOL119393._CH_.2400'
+p2101
+sg4
+S'20090426\xc2\xa006:52 AM EDT'
+p2102
+sg6
+S"Sri Lanka rejects Tigers' ceasefire-defence chief"
+p2103
+sa(dp2104
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSCOL119393'
+p2105
+sg4
+S'20090426\xc2\xa006:52 AM EDT'
+p2106
+sg6
+S"Sri Lanka rejects Tigers' ceasefire-defence chief"
+p2107
+sa(dp2108
+g2
+S'http://www.reuters.com/article/rbssTechMediaTelecomNews/idUSLQ49261020090426'
+p2109
+sg4
+S'20090426\xc2\xa006:51 AM EDT'
+p2110
+sg6
+S'Independent seeks roll over of bulk of bond-report'
+p2111
+sa(dp2112
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSCOL97991'
+p2113
+sg4
+S'20090426\xc2\xa006:44 AM EDT'
+p2114
+sg6
+S"Sri Lanka's Tamil Tigers call ceasefire-statement"
+p2115
+sa(dp2116
+g2
+S'http://www.reuters.com/article/pressRelease/idUS38154+26-Apr-2009+PRN20090426'
+p2117
+sg4
+S'20090426\xc2\xa006:30 AM EDT'
+p2118
+sg6
+S'Following Is a Test Release'
+p2119
+sa(dp2120
+g2
+S'http://www.reuters.com/article/healthNews/idUSTRE53P0P020090426'
+p2121
+sg4
+S'20090426\xc2\xa006:21 AM EDT'
+p2122
+sg6
+S'EU Commission: no swine flu reported yet in Europe'
+p2123
+sa(dp2124
+g2
+S'http://www.reuters.com/article/pressRelease/idUS37502+26-Apr-2009+PRN20090426'
+p2125
+sg4
+S'20090426\xc2\xa006:14 AM EDT'
+p2126
+sg6
+S'Hawaii Celebrates Waikiki SPAM JAM(R) Festival'
+p2127
+sa(dp2128
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSLQ493636'
+p2129
+sg4
+S'20090426\xc2\xa006:13 AM EDT'
+p2130
+sg6
+S'EU Commission: no swine flu reported yet in Europe'
+p2131
+sa(dp2132
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSISL398488'
+p2133
+sg4
+S'20090426\xc2\xa006:05 AM EDT'
+p2134
+sg6
+S"On Afghan peak, French show Old Europe's mettle"
+p2135
+sa(dp2136
+g2
+S'http://www.reuters.com/article/pressRelease/idUS36985+26-Apr-2009+PRN20090426'
+p2137
+sg4
+S'20090426\xc2\xa006:00 AM EDT'
+p2138
+sg6
+S'Following Is a Test Release'
+p2139
+sa(dp2140
+g2
+S'http://www.reuters.com/article/pressRelease/idUS36970+26-Apr-2009+PRN20090426'
+p2141
+sg4
+S'20090426\xc2\xa005:59 AM EDT'
+p2142
+sg6
+S'GOOD MORNING -- April 26, 2009'
+p2143
+sa(dp2144
+g2
+S'http://www.reuters.com/article/homepageCrisis/idUSISL418165._CH_.2400'
+p2145
+sg4
+S'20090426\xc2\xa005:57 AM EDT'
+p2146
+sg6
+S'Residents appeal for peace in Pakistani valley'
+p2147
+sa(dp2148
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSISL418165'
+p2149
+sg4
+S'20090426\xc2\xa005:57 AM EDT'
+p2150
+sg6
+S'Residents appeal for peace in Pakistani valley'
+p2151
+sa(dp2152
+g2
+S'http://www.reuters.com/article/rbssAirlines/idUSTP30279920090426'
+p2153
+sg4
+S'20090426\xc2\xa005:54 AM EDT'
+p2154
+sg6
+S'FACTBOX-Highlights of China-Taiwan agreements'
+p2155
+sa(dp2156
+g2
+S'http://www.reuters.com/article/homepageCrisis/idUSN26482522._CH_.2400'
+p2157
+sg4
+S'20090426\xc2\xa005:46 AM EDT'
+p2158
+sg6
+S'World on alert as Mexico flu epidemic fear grows'
+p2159
+sa(dp2160
+g2
+S'http://www.reuters.com/article/latestCrisis/idUST344175'
+p2161
+sg4
+S'20090426\xc2\xa005:44 AM EDT'
+p2162
+sg6
+S'FACTBOX-Asia moves to ward off new flu virus'
+p2163
+sa(dp2164
+g2
+S'http://www.reuters.com/article/pressRelease/idUS35602+26-Apr-2009+BW20090426'
+p2165
+sg4
+S'20090426\xc2\xa005:34 AM EDT'
+p2166
+sg6
+S'Axial Vector Energy Corporation and Petro-AVEC Announce the Formation of Petro-AVEC North America ("PANA")'
+p2167
+sa(dp2168
+g2
+S'http://www.reuters.com/article/topNews/idUSTRE53P0M820090426'
+p2169
+sg4
+S'20090426\xc2\xa005:33 AM EDT'
+p2170
+sg6
+S'UK airline cabin crew member does not have swine flu'
+p2171
+sa(dp2172
+g2
+S'http://www.reuters.com/article/topNews/idUSTRE53P0I320090426'
+p2173
+sg4
+S'20090426\xc2\xa005:33 AM EDT'
+p2174
+sg6
+S'New Zealand pupils likely to have swine flu'
+p2175
+sa(dp2176
+g2
+S'http://www.reuters.com/article/companyNewsAndPR/idUSLQ48411520090426'
+p2177
+sg4
+S'20090426\xc2\xa005:33 AM EDT'
+p2178
+sg6
+S'REFILE-UPDATE 1-Harmony says two trapped mine workers found dead'
+p2179
+sa(dp2180
+g2
+S'http://www.reuters.com/article/rbssFoodProcessing/idUSLQ46950120090426'
+p2181
+sg4
+S'20090426\xc2\xa005:30 AM EDT'
+p2182
+sg6
+S'Strauss to raise 300 mln shekels in bond issue'
+p2183
+sa(dp2184
+g2
+S'http://www.reuters.com/article/pressRelease/idUS35354+26-Apr-2009+PRN20090426'
+p2185
+sg4
+S'20090426\xc2\xa005:30 AM EDT'
+p2186
+sg6
+S'Following Is a Test Release'
+p2187
+sa(dp2188
+g2
+S'http://www.reuters.com/article/usDollarRpt/idUSLQ46687820090426'
+p2189
+sg4
+S'20090426\xc2\xa005:24 AM EDT'
+p2190
+sg6
+S'South Africa cabinet in focus after big ANC victory'
+p2191
+sa(dp2192
+g2
+S'http://www.reuters.com/article/homepageCrisis/idUSWEL402972._CH_.2400'
+p2193
+sg4
+S'20090426\xc2\xa005:20 AM EDT'
+p2194
+sg6
+S'New Zealand pupils likely to have swine flu'
+p2195
+sa(dp2196
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSWEL402972'
+p2197
+sg4
+S'20090426\xc2\xa005:20 AM EDT'
+p2198
+sg6
+S'New Zealand pupils likely to have swine flu'
+p2199
+sa(dp2200
+g2
+S'http://www.reuters.com/article/newsMaps/idUSTRE53P0KU20090426'
+p2201
+sg4
+S'20090426\xc2\xa005:16 AM EDT'
+p2202
+sg6
+S'Israel rejects Syria preconditions for peace talks'
+p2203
+sa(dp2204
+g2
+S'http://www.reuters.com/article/newsMaps/idUSTRE53P0DF20090426'
+p2205
+sg4
+S'20090426\xc2\xa005:10 AM EDT'
+p2206
+sg6
+S'Taiwan, China in landmark financial services deal'
+p2207
+sa(dp2208
+g2
+S'http://www.reuters.com/article/pressRelease/idUS33075+26-Apr-2009+BW20090426'
+p2209
+sg4
+S'20090426\xc2\xa005:07 AM EDT'
+p2210
+sg6
+S'VocalTec Announces Partnership and a New Joint Customer with AMT Group'
+p2211
+sa(dp2212
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSLQ463959'
+p2213
+sg4
+S'20090426\xc2\xa005:02 AM EDT'
+p2214
+sg6
+S'Israel rejects Syria preconditions for peace talks'
+p2215
+sa(dp2216
+g2
+S'http://www.reuters.com/article/pressRelease/idUS32504+26-Apr-2009+PRN20090426'
+p2217
+sg4
+S'20090426\xc2\xa005:00 AM EDT'
+p2218
+sg6
+S'Following Is a Test Release'
+p2219
+sa(dp2220
+g2
+S'http://www.reuters.com/article/newsMaps/idUSTRE53P0JR20090426'
+p2221
+sg4
+S'20090426\xc2\xa004:53 AM EDT'
+p2222
+sg6
+S'U.S. promises review of Kuwait Guantanamo inmates'
+p2223
+sa(dp2224
+g2
+S'http://www.reuters.com/article/companyNewsAndPR/idUSTP34749820090426'
+p2225
+sg4
+S'20090426\xc2\xa004:51 AM EDT'
+p2226
+sg6
+S'UPDATE 1-Taiwan, China in landmark financial services deal'
+p2227
+sa(dp2228
+g2
+S'http://www.reuters.com/article/homepageCrisis/idUSISL422544._CH_.2400'
+p2229
+sg4
+S'20090426\xc2\xa004:50 AM EDT'
+p2230
+sg6
+S'Weekend blasts kill 16 children in Pakistan'
+p2231
+sa(dp2232
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSISL422544'
+p2233
+sg4
+S'20090426\xc2\xa004:50 AM EDT'
+p2234
+sg6
+S'Weekend blasts kill 16 children in Pakistan'
+p2235
+sa(dp2236
+g2
+S'http://www.reuters.com/article/reutersEdge/idUSTRE53P0JA20090426'
+p2237
+sg4
+S'20090426\xc2\xa004:41 AM EDT'
+p2238
+sg6
+S'Saudi Arabia mulls allowing women to vote: report'
+p2239
+sa(dp2240
+g2
+S'http://www.reuters.com/article/GCA-Oil/idUSTRE53P0CB20090426'
+p2241
+sg4
+S'20090426\xc2\xa004:35 AM EDT'
+p2242
+sg6
+S'Gulf OPEC OK for now with $50 oil, sees risks'
+p2243
+sa(dp2244
+g2
+S'http://www.reuters.com/article/pressRelease/idUS30254+26-Apr-2009+PRN20090426'
+p2245
+sg4
+S'20090426\xc2\xa004:30 AM EDT'
+p2246
+sg6
+S'Following Is a Test Release'
+p2247
+sa(dp2248
+g2
+S'http://www.reuters.com/article/homepageCrisis/idUSLQ459179._CH_.2400'
+p2249
+sg4
+S'20090426\xc2\xa004:22 AM EDT'
+p2250
+sg6
+S'Saudi Arabia mulls allowing women to vote -papers'
+p2251
+sa(dp2252
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSLQ459179'
+p2253
+sg4
+S'20090426\xc2\xa004:22 AM EDT'
+p2254
+sg6
+S'Saudi Arabia mulls allowing women to vote -papers'
+p2255
+sa(dp2256
+g2
+S'http://www.reuters.com/article/politicsNews/idUSTRE53O23A20090426'
+p2257
+sg4
+S'20090426\xc2\xa004:05 AM EDT'
+p2258
+sg6
+S'Clinton urges Iraqis to overcome divisions'
+p2259
+sa(dp2260
+g2
+S'http://www.reuters.com/article/politicsNews/idUSTRE53M31W20090426'
+p2261
+sg4
+S'20090426\xc2\xa004:05 AM EDT'
+p2262
+sg6
+S'Iran condemns U.S. in Iraq, Clinton sees progress'
+p2263
+sa(dp2264
+g2
+S'http://www.reuters.com/article/politicsNews/idUSTRE53O29320090426'
+p2265
+sg4
+S'20090426\xc2\xa004:05 AM EDT'
+p2266
+sg6
+S'FACTBOX: Security developments in Iraq'
+p2267
+sa(dp2268
+g2
+S'http://www.reuters.com/article/pressRelease/idUS28084+26-Apr-2009+PRN20090426'
+p2269
+sg4
+S'20090426\xc2\xa004:00 AM EDT'
+p2270
+sg6
+S'Following Is a Test Release'
+p2271
+sa(dp2272
+g2
+S'http://www.reuters.com/article/pressRelease/idUS25999+26-Apr-2009+PRN20090426'
+p2273
+sg4
+S'20090426\xc2\xa003:30 AM EDT'
+p2274
+sg6
+S'Following Is a Test Release'
+p2275
+sa(dp2276
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSLQ444483'
+p2277
+sg4
+S'20090426\xc2\xa003:28 AM EDT'
+p2278
+sg6
+S'Israel rejects Syria preconditions for peace talks'
+p2279
+sa(dp2280
+g2
+S'http://www.reuters.com/article/homepageCrisis/idUSLQ444483._CH_.2400'
+p2281
+sg4
+S'20090426\xc2\xa003:28 AM EDT'
+p2282
+sg6
+S'Israel rejects Syria preconditions for peace talks'
+p2283
+sa(dp2284
+g2
+S'http://www.reuters.com/article/GCA-Oil/idUSTRE53P0F620090426'
+p2285
+sg4
+S'20090426\xc2\xa003:27 AM EDT'
+p2286
+sg6
+S'Iran can make more of its energy riches: U.S. envoy'
+p2287
+sa(dp2288
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSWEL457702'
+p2289
+sg4
+S'20090426\xc2\xa003:20 AM EDT'
+p2290
+sg6
+S'New Zealand pupils quarantined in swine flu scare'
+p2291
+sa(dp2292
+g2
+S'http://www.reuters.com/article/worldNews/idUSTRE53P0ET20090426'
+p2293
+sg4
+S'20090426\xc2\xa003:12 AM EDT'
+p2294
+sg6
+S"S.Africa's Manuel may move to new government body: report"
+p2295
+sa(dp2296
+g2
+S'http://www.reuters.com/article/pressRelease/idUS23771+26-Apr-2009+PRN20090426'
+p2297
+sg4
+S'20090426\xc2\xa003:00 AM EDT'
+p2298
+sg6
+S'Following Is a Test Release'
+p2299
+sa(dp2300
+g2
+S'http://www.reuters.com/article/companyNewsAndPR/idUSLQ45620920090426'
+p2301
+sg4
+S'20090426\xc2\xa002:56 AM EDT'
+p2302
+sg6
+S'Harmony says two trapped workers found dead'
+p2303
+sa(dp2304
+g2
+S'http://www.reuters.com/article/sportsNews/idUSTRE53P06S20090426'
+p2305
+sg4
+S'20090426\xc2\xa002:56 AM EDT'
+p2306
+sg6
+S'Ramirez grand slam powers White Sox by Jays'
+p2307
+sa(dp2308
+g2
+S'http://www.reuters.com/article/sportsNews/idUSTRE53P0E920090426'
+p2309
+sg4
+S'20090426\xc2\xa002:53 AM EDT'
+p2310
+sg6
+S'Penguins oust Flyers, Sharks stay alive in overtime'
+p2311
+sa(dp2312
+g2
+S'http://www.reuters.com/article/mnaNewsTechMediaTelco/idUSLQ71322420090426'
+p2313
+sg4
+S'20090426\xc2\xa002:52 AM EDT'
+p2314
+sg6
+S"Israel's Koor cuts Credit Suisse stake to 2.78 pct"
+p2315
+sa(dp2316
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSBKK432761'
+p2317
+sg4
+S'20090426\xc2\xa002:41 AM EDT'
+p2318
+sg6
+S'Thais pine for political fix as unrest hurt economy'
+p2319
+sa(dp2320
+g2
+S'http://www.reuters.com/article/rbssInvestmentServices/idUSBKK43276120090426'
+p2321
+sg4
+S'20090426\xc2\xa002:41 AM EDT'
+p2322
+sg6
+S'Thais pine for political fix as unrest hurt economy'
+p2323
+sa(dp2324
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSISL188488'
+p2325
+sg4
+S'20090426\xc2\xa002:40 AM EDT'
+p2326
+sg6
+S'REFILE-Weekend blasts kill 16 children in Pakistan'
+p2327
+sa(dp2328
+g2
+S'http://www.reuters.com/article/pressRelease/idUS22682+26-Apr-2009+PRN20090426'
+p2329
+sg4
+S'20090426\xc2\xa002:30 AM EDT'
+p2330
+sg6
+S'Following Is a Test Release'
+p2331
+sa(dp2332
+g2
+S'http://www.reuters.com/article/usDollarRpt/idUSTP34815320090426'
+p2333
+sg4
+S'20090426\xc2\xa002:25 AM EDT'
+p2334
+sg6
+S'China, Taiwan in landmark financial services deal'
+p2335
+sa(dp2336
+g2
+S'http://www.reuters.com/article/healthNews/idUSTRE53P0CM20090426'
+p2337
+sg4
+S'20090426\xc2\xa002:24 AM EDT'
+p2338
+sg6
+S'FACTBOX: Asia moves to ward off new flu virus'
+p2339
+sa(dp2340
+g2
+S'http://www.reuters.com/article/healthNews/idUSTRE53P0CJ20090426'
+p2341
+sg4
+S'20090426\xc2\xa002:24 AM EDT'
+p2342
+sg6
+S'Texas says tracks third probable case of swine flu'
+p2343
+sa(dp2344
+g2
+S'http://www.reuters.com/article/worldNews/idUSTRE53P0BJ20090426'
+p2345
+sg4
+S'20090426\xc2\xa002:16 AM EDT'
+p2346
+sg6
+S'Correa set to gain easy victory as Ecuador votes'
+p2347
+sa(dp2348
+g2
+S'http://www.reuters.com/article/worldNews/idUSTRE53P0AF20090426'
+p2349
+sg4
+S'20090426\xc2\xa002:16 AM EDT'
+p2350
+sg6
+S'FACTBOX: Ecuador and its leftist president, Rafael Correa'
+p2351
+sa(dp2352
+g2
+S'http://www.reuters.com/article/worldNews/idUSTRE53P0A420090426'
+p2353
+sg4
+S'20090426\xc2\xa002:16 AM EDT'
+p2354
+sg6
+S'Q+A: What does Correa re-election mean for Ecuador?'
+p2355
+sa(dp2356
+g2
+S'http://www.reuters.com/article/pressRelease/idUS21628+26-Apr-2009+PRN20090426'
+p2357
+sg4
+S'20090426\xc2\xa002:00 AM EDT'
+p2358
+sg6
+S'Following Is a Test Release'
+p2359
+sa(dp2360
+g2
+S'http://www.reuters.com/article/sportsNews/idUSTRE53P0BB20090426'
+p2361
+sg4
+S'20090426\xc2\xa001:58 AM EDT'
+p2362
+sg6
+S'Mavericks, Lakers close in on playoff series wins'
+p2363
+sa(dp2364
+g2
+S'http://www.reuters.com/article/pressRelease/idUS20690+26-Apr-2009+PRN20090426'
+p2365
+sg4
+S'20090426\xc2\xa001:30 AM EDT'
+p2366
+sg6
+S'Following Is a Test Release'
+p2367
+sa(dp2368
+g2
+S'http://www.reuters.com/article/pressRelease/idUS20523+26-Apr-2009+BW20090426'
+p2369
+sg4
+S'20090426\xc2\xa001:24 AM EDT'
+p2370
+sg6
+S'Western Union gibt Ergebnisse des ersten Quartals bekannt'
+p2371
+sa(dp2372
+g2
+S'http://www.reuters.com/article/homepageCrisis/idUSHKG345587._CH_.2400'
+p2373
+sg4
+S'20090426\xc2\xa001:23 AM EDT'
+p2374
+sg6
+S'FACTBOX-Asia moves to ward off new flu virus'
+p2375
+sa(dp2376
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSHKG345587'
+p2377
+sg4
+S'20090426\xc2\xa001:23 AM EDT'
+p2378
+sg6
+S'FACTBOX-Asia moves to ward off new flu virus'
+p2379
+sa(dp2380
+g2
+S'http://www.reuters.com/article/newsOne/idUSN2529726020090426'
+p2381
+sg4
+S'20090426\xc2\xa001:15 AM EDT'
+p2382
+sg6
+S'Chrysler creditors urged to make concessions'
+p2383
+sa(dp2384
+g2
+S'http://www.reuters.com/article/newsOne/idUSTRE53P08X20090426'
+p2385
+sg4
+S'20090426\xc2\xa001:15 AM EDT'
+p2386
+sg6
+S'Chrysler, CAW in tentative deal, GM draws $2 billion'
+p2387
+sa(dp2388
+g2
+S'http://www.reuters.com/article/worldNews/idUSTRE53P08M20090426'
+p2389
+sg4
+S'20090426\xc2\xa001:09 AM EDT'
+p2390
+sg6
+S'New China stimulus tranche less than expected'
+p2391
+sa(dp2392
+g2
+S'http://www.reuters.com/article/companyNewsAndPR/idUSLQ42553320090426'
+p2393
+sg4
+S'20090426\xc2\xa001:02 AM EDT'
+p2394
+sg6
+S'PRESS DIGEST = British business - April 26'
+p2395
+sa(dp2396
+g2
+S'http://www.reuters.com/article/pressRelease/idUS19774+26-Apr-2009+PRN20090426'
+p2397
+sg4
+S'20090426\xc2\xa001:00 AM EDT'
+p2398
+sg6
+S'Following Is a Test Release'
+p2399
+sa(dp2400
+g2
+S'http://www.reuters.com/article/worldNews/idUSTRE53P07L20090426'
+p2401
+sg4
+S'20090426\xc2\xa012:33 AM EDT'
+p2402
+sg6
+S'Crisis-hit Icelanders vote for centre-left'
+p2403
+sa(dp2404
+g2
+S'http://www.reuters.com/article/pressRelease/idUS18984+26-Apr-2009+PRN20090426'
+p2405
+sg4
+S'20090426\xc2\xa012:30 AM EDT'
+p2406
+sg6
+S'Following Is a Test Release'
+p2407
+sa(dp2408
+g2
+S'http://www.reuters.com/article/pressRelease/idUS18690+26-Apr-2009+PRN20090426'
+p2409
+sg4
+S'20090426\xc2\xa012:22 AM EDT'
+p2410
+sg6
+S'Melody Successfully Evades Pirates Near Seychelles'
+p2411
+sa(dp2412
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSN26482522'
+p2413
+sg4
+S'20090426\xc2\xa012:14 AM EDT'
+p2414
+sg6
+S'World on alert as Mexico flu epidemic fear grows'
+p2415
+sa(dp2416
+g2
+S'http://www.reuters.com/article/pressRelease/idUS18100+26-Apr-2009+PRN20090426'
+p2417
+sg4
+S'20090426\xc2\xa012:01 AM EDT'
+p2418
+sg6
+S'U.S. Census Bureau Daily Feature for April 26'
+p2419
+sa(dp2420
+g2
+S'http://www.reuters.com/article/pressRelease/idUS18054+26-Apr-2009+PRN20090426'
+p2421
+sg4
+S'20090426\xc2\xa012:00 AM EDT'
+p2422
+sg6
+S'Following Is a Test Release'
+p2423
+sa(dp2424
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=ftpo1235901103036'
+p2425
+sg4
+S'20090426\xc2\xa008:48 PM EDT'
+p2426
+sg6
+S'Skimpy skiiers mark end of season'
+p2427
+sa(dp2428
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=ftpo1235901103001'
+p2429
+sg4
+S'20090426\xc2\xa012:37 PM EDT'
+p2430
+sg6
+S'Rescued Orangutan arrives in Riyadh'
+p2431
+sa(dp2432
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=WAO1240481970186'
+p2433
+sg4
+S'20090426\xc2\xa012:34 PM EDT'
+p2434
+sg6
+S"Pakistan's anti-Taliban offensive"
+p2435
+sa(dp2436
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=ftpo1235901102996'
+p2437
+sg4
+S'20090426\xc2\xa012:11 PM EDT'
+p2438
+sg6
+S'Suspected swine flu cases rise'
+p2439
+sa(dp2440
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=ftpo1235901102991'
+p2441
+sg4
+S'20090426\xc2\xa011:12 AM EDT'
+p2442
+sg6
+S'Afghan drugs go up in smoke'
+p2443
+sa(dp2444
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=ftpo1235901102986'
+p2445
+sg4
+S'20090426\xc2\xa010:38 AM EDT'
+p2446
+sg6
+S'Epic voyage ends in disaster'
+p2447
+sa(dp2448
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=ftpo1235901102981'
+p2449
+sg4
+S'20090426\xc2\xa009:53 AM EDT'
+p2450
+sg6
+S'Pope creates five new saints'
+p2451
+sa(dp2452
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=ftpo1235901102976'
+p2453
+sg4
+S'20090426\xc2\xa009:05 AM EDT'
+p2454
+sg6
+S"Mass wedding in China's quake city"
+p2455
+sa(dp2456
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=ftpo1235901102966'
+p2457
+sg4
+S'20090426\xc2\xa006:53 AM EDT'
+p2458
+sg6
+S'Sri Lanka urged to protect civilians'
+p2459
+sa(dp2460
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=ftpo1235901102961'
+p2461
+sg4
+S'20090426\xc2\xa006:04 AM EDT'
+p2462
+sg6
+S'Swine flu deaths rise'
+p2463
+sa.

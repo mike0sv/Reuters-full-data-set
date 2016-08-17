@@ -1,0 +1,4355 @@
+(lp0
+(dp1
+S'href'
+p2
+S'http://www.reuters.com/article/rbssOfficeEquipment/idUST10235020081215'
+p3
+sS'ts'
+p4
+S'20081214\xc2\xa011:59 PM EST'
+p5
+sS'title'
+p6
+S'Nikkei climbs 4.8 pct on hope for US autos bailout'
+p7
+sa(dp8
+g2
+S'http://www.reuters.com/article/environmentNews/idUSTRE4BE06T20081215'
+p9
+sg4
+S'20081214\xc2\xa011:56 PM EST'
+p10
+sg6
+S"FACTBOX: Timeline for Australia's carbon trading plans"
+p11
+sa(dp12
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSMAN385286'
+p13
+sg4
+S'20081214\xc2\xa011:44 PM EST'
+p14
+sg6
+S'Boat sinks in northern Philippines, 23 dead'
+p15
+sa(dp16
+g2
+S'http://www.reuters.com/article/rbssPaperProducts/idUSHKF07979520081215'
+p17
+sg4
+S'20081214\xc2\xa011:41 PM EST'
+p18
+sg6
+S'TABLE-Lee & Man Paper H1 net profit down 6.9 pct'
+p19
+sa(dp20
+g2
+S'http://www.reuters.com/article/rbssFinancialServices - Diversified/idUSTP16200920081215'
+p21
+sg4
+S'20081214\xc2\xa011:39 PM EST'
+p22
+sg6
+S"Taiwan's Mega Fin revisits plan to acquire rival"
+p23
+sa(dp24
+g2
+S'http://www.reuters.com/article/companyNewsAndPR/idUSLF56989020081215'
+p25
+sg4
+S'20081214\xc2\xa011:32 PM EST'
+p26
+sg6
+S'PRESS DIGEST - British business - Dec 15'
+p27
+sa(dp28
+g2
+S'http://www.reuters.com/article/etfNews/idUSHKF07979420081215'
+p29
+sg4
+S'20081214\xc2\xa011:32 PM EST'
+p30
+sg6
+S'CCB shares fall after BOA denies share sale'
+p31
+sa(dp32
+g2
+S'http://www.reuters.com/article/rbssInvestmentTrusts/idUSBMA00200720081215'
+p33
+sg4
+S'20081214\xc2\xa011:31 PM EST'
+p34
+sg6
+S'Indian shares open 1.4 percent higher'
+p35
+sa(dp36
+g2
+S'http://www.reuters.com/article/sportsNews/idUSTRE4BE0AE20081215'
+p37
+sg4
+S'20081214\xc2\xa011:30 PM EST'
+p38
+sg6
+S'Huet steers Blackhawks to win over Blue Jackets'
+p39
+sa(dp40
+g2
+S'http://www.reuters.com/article/pressRelease/idUS34377+15-Dec-2008+PRN20081215'
+p41
+sg4
+S'20081214\xc2\xa011:30 PM EST'
+p42
+sg6
+S'Following Is a Test Release'
+p43
+sa(dp44
+g2
+S'http://www.reuters.com/article/rbssPreciousMetalsMinerals/idUSSYU00573120081215'
+p45
+sg4
+S'20081214\xc2\xa011:22 PM EST'
+p46
+sg6
+S'Australia zinc miner Perilya rejects CBH bid'
+p47
+sa(dp48
+g2
+S'http://www.reuters.com/article/globalMarketsNews/idUSTRE4BC01G20081215'
+p49
+sg4
+S'20081214\xc2\xa011:18 PM EST'
+p50
+sg6
+S'Stocks may brake for GM, Fed'
+p51
+sa(dp52
+g2
+S'http://www.reuters.com/article/CARMFG/idUSN1449010020081215'
+p53
+sg4
+S'20081214\xc2\xa011:13 PM EST'
+p54
+sg6
+S'CORRECTED - CORRECTED-UPDATE 1-Wall St Week Ahead: Stocks may brake for GM,'
+p55
+sa(dp56
+g2
+S'http://www.reuters.com/article/pressRelease/idUS32985+15-Dec-2008+PRN20081215'
+p57
+sg4
+S'20081214\xc2\xa011:10 PM EST'
+p58
+sg6
+S"Spike TV Announces 2008 'Video Game Awards' Winners"
+p59
+sa(dp60
+g2
+S'http://www.reuters.com/article/hongkongMktRpt/idUSHKG16262720081215'
+p61
+sg4
+S'20081214\xc2\xa011:07 PM EST'
+p62
+sg6
+S'HK shares gain 2.8 pct even as CCB, BOC HK drag'
+p63
+sa(dp64
+g2
+S'http://www.reuters.com/article/usDollarRpt/idUSN1445826920081215'
+p65
+sg4
+S'20081214\xc2\xa011:06 PM EST'
+p66
+sg6
+S'CORRECTED - CORRECTED-EMERGING MARKETS WEEK-Volatile trade and interest rate'
+p67
+sa(dp68
+g2
+S'http://www.reuters.com/article/PBLSHG/idUSN1234090820081215'
+p69
+sg4
+S'20081214\xc2\xa011:02 PM EST'
+p70
+sg6
+S'Reuters, Politico to share political news coverage'
+p71
+sa(dp72
+g2
+S'http://www.reuters.com/article/rbssChemicalsAgricultural/idUSISL36047120081215'
+p73
+sg4
+S'20081214\xc2\xa011:02 PM EST'
+p74
+sg6
+S'RPT-Pakistan share price floor set to go'
+p75
+sa(dp76
+g2
+S'http://www.reuters.com/article/pressRelease/idUS32198+15-Dec-2008+PRN20081215'
+p77
+sg4
+S'20081214\xc2\xa011:00 PM EST'
+p78
+sg6
+S'Following Is a Test Release'
+p79
+sa(dp80
+g2
+S'http://www.reuters.com/article/pressRelease/idUS32173+15-Dec-2008+BW20081215'
+p81
+sg4
+S'20081214\xc2\xa011:00 PM EST'
+p82
+sg6
+S'First Multi-Unit Hilton Garden Inn\xc2\xae Agreement Signed in the Middle East'
+p83
+sa(dp84
+g2
+S'http://www.reuters.com/article/pressRelease/idUS32171+15-Dec-2008+BW20081215'
+p85
+sg4
+S'20081214\xc2\xa011:00 PM EST'
+p86
+sg6
+S'Telenity Opens Regional Office in Dubai'
+p87
+sa(dp88
+g2
+S'http://www.reuters.com/article/pressRelease/idUS32170+15-Dec-2008+BW20081215'
+p89
+sg4
+S'20081214\xc2\xa011:00 PM EST'
+p90
+sg6
+S'Telenity Announces a New Suite of Personalized Call Management Services'
+p91
+sa(dp92
+g2
+S'http://www.reuters.com/article/pressRelease/idUS32168+15-Dec-2008+BW20081215'
+p93
+sg4
+S'20081214\xc2\xa011:00 PM EST'
+p94
+sg6
+S'Four Major Middle Eastern Mobile Carriers Deploy Ditech Networks\xe2\x80\x99 Voice Quality Platform'
+p95
+sa(dp96
+g2
+S'http://www.reuters.com/article/pressRelease/idUS32166+15-Dec-2008+BW20081215'
+p97
+sg4
+S'20081214\xc2\xa011:00 PM EST'
+p98
+sg6
+S'Research and Markets: A Report Examining the Hong Kong Energy Market: Providing a Comprehensive Overview of Market Dynamics, Current Issues and Future Prospects'
+p99
+sa(dp100
+g2
+S'http://www.reuters.com/article/rbssIntegratedTelecommunicationsServices/idUSSYB00459020081215'
+p101
+sg4
+S'20081214\xc2\xa010:51 PM EST'
+p102
+sg6
+S'Australia rules out new Telstra broadband bid'
+p103
+sa(dp104
+g2
+S'http://www.reuters.com/article/companyNewsAndPR/idUST5436620081215'
+p105
+sg4
+S'20081214\xc2\xa010:51 PM EST'
+p106
+sg6
+S'TREASURIES-Fall in Asia, eyes on Fed meeting this week'
+p107
+sa(dp108
+g2
+S'http://www.reuters.com/article/artsNews/idUSTRE4BE0F920081215'
+p109
+sg4
+S'20081214\xc2\xa010:51 PM EST'
+p110
+sg6
+S'"Shrek" a family musical with gay-pride element'
+p111
+sa(dp112
+g2
+S'http://www.reuters.com/article/filmNews/idUSTRE4BE0EM20081215'
+p113
+sg4
+S'20081214\xc2\xa010:39 PM EST'
+p114
+sg6
+S'"Earth" stands tall at overseas box office'
+p115
+sa(dp116
+g2
+S'http://www.reuters.com/article/tokyoMktRpt/idUSTKW00317720081215'
+p117
+sg4
+S'20081214\xc2\xa010:39 PM EST'
+p118
+sg6
+S'Nikkei surges 5 pct, hope for U.S. autos buoys'
+p119
+sa(dp120
+g2
+S'http://www.reuters.com/article/pressRelease/idUS29699+15-Dec-2008+PRN20081215'
+p121
+sg4
+S'20081214\xc2\xa010:30 PM EST'
+p122
+sg6
+S'Following Is a Test Release'
+p123
+sa(dp124
+g2
+S'http://www.reuters.com/article/GCA-autos/idUSTRE4BE0D520081215'
+p125
+sg4
+S'20081214\xc2\xa010:28 PM EST'
+p126
+sg6
+S'Kia Motors cuts working hours on slowing demand'
+p127
+sa(dp128
+g2
+S'http://www.reuters.com/article/hongkongMktRpt/idUSHKG13292820081215'
+p129
+sg4
+S'20081214\xc2\xa010:28 PM EST'
+p130
+sg6
+S'HK Hot Stocks - Bulk shippers gain; BOC HK, CCB drop'
+p131
+sa(dp132
+g2
+S'http://www.reuters.com/article/rbssMarineTransportation/idUSJAK38085720081215'
+p133
+sg4
+S'20081214\xc2\xa010:25 PM EST'
+p134
+sg6
+S'PRESS DIGEST-Indonesian Newspapers - Dec 15'
+p135
+sa(dp136
+g2
+S'http://www.reuters.com/article/filmNews/idUSTRE4BE0C920081215'
+p137
+sg4
+S'20081214\xc2\xa010:25 PM EST'
+p138
+sg6
+S'"Despereaux" a dreary mouse tale'
+p139
+sa(dp140
+g2
+S'http://www.reuters.com/article/rbssFoodProcessing/idUSHAN30565520081215'
+p141
+sg4
+S'20081214\xc2\xa010:24 PM EST'
+p142
+sg6
+S"Vietnam's Vinamilk 11-month gross up 44.6 pct"
+p143
+sa(dp144
+g2
+S'http://www.reuters.com/article/rbssAutoTruckManufacturers/idUSSEO16275320081215'
+p145
+sg4
+S'20081214\xc2\xa010:23 PM EST'
+p146
+sg6
+S'Kia Motors cuts working hours on slowing demand'
+p147
+sa(dp148
+g2
+S'http://www.reuters.com/article/rbssUtilitiesElectric/idUSSEL00040220081215'
+p149
+sg4
+S'20081214\xc2\xa010:16 PM EST'
+p150
+sg6
+S'KEPCO consortium wins $2.5 bln Saudi plant project'
+p151
+sa(dp152
+g2
+S'http://www.reuters.com/article/rbssBanks/idUSSYD41219520081215'
+p153
+sg4
+S'20081214\xc2\xa010:15 PM EST'
+p154
+sg6
+S"FACTBOX-Australia banks' government guaranteed bond issues"
+p155
+sa(dp156
+g2
+S'http://www.reuters.com/article/asiaMergersNews/idUSHKG13271220081215'
+p157
+sg4
+S'20081214\xc2\xa010:13 PM EST'
+p158
+sg6
+S'Report of Bank of America\'s CCB share sale "untrue" - source'
+p159
+sa(dp160
+g2
+S'http://www.reuters.com/article/politicsNews/idUSTRE4BE04Y20081215'
+p161
+sg4
+S'20081214\xc2\xa010:13 PM EST'
+p162
+sg6
+S'Bush talks with Karzai on surprise Afghan visit'
+p163
+sa(dp164
+g2
+S'http://www.reuters.com/article/rbssBanks/idUSSYD36073720081215'
+p165
+sg4
+S'20081214\xc2\xa010:10 PM EST'
+p166
+sg6
+S'Macquarie, ANZ add to US$ government-backed bonds'
+p167
+sa(dp168
+g2
+S'http://www.reuters.com/article/ousivMolt/idUSTRE4BE03Z20081215'
+p169
+sg4
+S'20081214\xc2\xa010:09 PM EST'
+p170
+sg6
+S'Japan business sentiment in biggest dive since 70s'
+p171
+sa(dp172
+g2
+S'http://www.reuters.com/article/ousivMolt/idUSTRE4BE04420081215'
+p173
+sg4
+S'20081214\xc2\xa010:09 PM EST'
+p174
+sg6
+S'INSTANT VIEW: Japan business sentiment dives, lowest since 2002'
+p175
+sa(dp176
+g2
+S'http://www.reuters.com/article/rbssEntertainmentProduction/idUSHKG16201020081215'
+p177
+sg4
+S'20081214\xc2\xa010:06 PM EST'
+p178
+sg6
+S'Shaw Brothers shares suspended -HKex'
+p179
+sa(dp180
+g2
+S'http://www.reuters.com/article/CMPSRV/idUSLF55511520081215'
+p181
+sg4
+S'20081214\xc2\xa010:04 PM EST'
+p182
+sg6
+S'PRESS DIGEST - Financial Times - Dec 15'
+p183
+sa(dp184
+g2
+S'http://www.reuters.com/article/companyNewsAndPR/idUSHKG14914220081215'
+p185
+sg4
+S'20081214\xc2\xa010:02 PM EST'
+p186
+sg6
+S'RPT-GLOBAL MARKETS-Asia stocks up on fresh US auto bailout hopes'
+p187
+sa(dp188
+g2
+S'http://www.reuters.com/article/pressRelease/idUS27530+15-Dec-2008+PRN20081215'
+p189
+sg4
+S'20081214\xc2\xa010:00 PM EST'
+p190
+sg6
+S'Following Is a Test Release'
+p191
+sa(dp192
+g2
+S'http://www.reuters.com/article/homepageCrisis/idUSLE486419._CH_.2400'
+p193
+sg4
+S'20081214\xc2\xa010:00 PM EST'
+p194
+sg6
+S'Western powers press Israel to ease Gaza cash crunch'
+p195
+sa(dp196
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSLE486419'
+p197
+sg4
+S'20081214\xc2\xa010:00 PM EST'
+p198
+sg6
+S'Western powers press Israel to ease Gaza cash crunch'
+p199
+sa(dp200
+g2
+S'http://www.reuters.com/article/pressRelease/idUS27451+15-Dec-2008+BW20081215'
+p201
+sg4
+S'20081214\xc2\xa010:00 PM EST'
+p202
+sg6
+S'Research and Markets: Gain an Insight into the Asian Mobile Communications Market as Its Dynamic Growth & Innovation Prompts Further Growth'
+p203
+sa(dp204
+g2
+S'http://www.reuters.com/article/pressRelease/idUS27456+15-Dec-2008+BW20081215'
+p205
+sg4
+S'20081214\xc2\xa010:00 PM EST'
+p206
+sg6
+S'ClearMYrecord.com Relaunches Service to Expedite Process of Expunging Criminal Records for Millions of Americans'
+p207
+sa(dp208
+g2
+S'http://www.reuters.com/article/pressRelease/idUS27105+15-Dec-2008+BW20081215'
+p209
+sg4
+S'20081214\xc2\xa009:56 PM EST'
+p210
+sg6
+S'Hexion Specialty Chemicals, Inc. Announces Termination of Merger Agreement With Huntsman Corporation and Settlement'
+p211
+sa(dp212
+g2
+S'http://www.reuters.com/article/bondsNews/idUST5041720081215'
+p213
+sg4
+S'20081214\xc2\xa009:53 PM EST'
+p214
+sg6
+S'JGBs fall as investors book profits after tankan'
+p215
+sa(dp216
+g2
+S'http://www.reuters.com/article/rbssChemicalsSpecialty/idUSWNAB250920081215'
+p217
+sg4
+S'20081214\xc2\xa009:43 PM EST'
+p218
+sg6
+S'Huntsman, Apollo terminate deal, settle litigation'
+p219
+sa(dp220
+g2
+S'http://www.reuters.com/article/rbssBanks/idUSHKG15205920081215'
+p221
+sg4
+S'20081214\xc2\xa009:42 PM EST'
+p222
+sg6
+S'Macquarie signs MOU to set up China venture-source'
+p223
+sa(dp224
+g2
+S'http://www.reuters.com/article/tokyoMktRpt/idUST28241420081215'
+p225
+sg4
+S'20081214\xc2\xa009:42 PM EST'
+p226
+sg6
+S'Nikkei jumps, hope for U.S. autos beats weak tankan'
+p227
+sa(dp228
+g2
+S'http://www.reuters.com/article/CARMFG/idUSN1446120820081215'
+p229
+sg4
+S'20081214\xc2\xa009:36 PM EST'
+p230
+sg6
+S'UPDATE 2-Bush says auto bailout not ready'
+p231
+sa(dp232
+g2
+S'http://www.reuters.com/article/internetNews/idUSTRE4BE09820081215'
+p233
+sg4
+S'20081214\xc2\xa009:35 PM EST'
+p234
+sg6
+S'Google wants "fast track" for its content: WSJ'
+p235
+sa(dp236
+g2
+S'http://www.reuters.com/article/usDollarRpt/idUST15239020081215'
+p237
+sg4
+S'20081214\xc2\xa009:33 PM EST'
+p238
+sg6
+S"HIGHLIGHTS-BOJ's Shirakawa see Japan contraction in 09/10-FT"
+p239
+sa(dp240
+g2
+S'http://www.reuters.com/article/pressRelease/idUS25305+15-Dec-2008+PRN20081215'
+p241
+sg4
+S'20081214\xc2\xa009:33 PM EST'
+p242
+sg6
+S'Huntsman Terminates Merger Agreement and Settles With Hexion and Apollo for $1 Billion'
+p243
+sa(dp244
+g2
+S'http://www.reuters.com/article/rbssITServicesConsulting/idUSN1447331520081215'
+p245
+sg4
+S'20081214\xc2\xa009:33 PM EST'
+p246
+sg6
+S'Google wants "fast track" for its content - WSJ'
+p247
+sa(dp248
+g2
+S'http://www.reuters.com/article/pressRelease/idUS24942+15-Dec-2008+PRN20081215'
+p249
+sg4
+S'20081214\xc2\xa009:30 PM EST'
+p250
+sg6
+S'Following Is a Test Release'
+p251
+sa(dp252
+g2
+S'http://www.reuters.com/article/BANKSL/idUST16207320081215'
+p253
+sg4
+S'20081214\xc2\xa009:29 PM EST'
+p254
+sg6
+S'UPDATE 1-Nomura says has $303 mln Madoff-related exposure'
+p255
+sa(dp256
+g2
+S'http://www.reuters.com/article/rbssBanks/idUSHKG3473620081215'
+p257
+sg4
+S'20081214\xc2\xa009:24 PM EST'
+p258
+sg6
+S'RPT-Bank of America to sell China Construction Bank shrs -report'
+p259
+sa(dp260
+g2
+S'http://www.reuters.com/article/environmentNews/idUSTRE4BE07R20081215'
+p261
+sg4
+S'20081214\xc2\xa009:22 PM EST'
+p262
+sg6
+S'INSTANT VIEW: Australia commits to July 2010 carbon trade start'
+p263
+sa(dp264
+g2
+S'http://www.reuters.com/article/rbssIndustryMaterialsUtilitiesNews/idUSBKK38128520081215'
+p265
+sg4
+S'20081214\xc2\xa009:18 PM EST'
+p266
+sg6
+S'PRESS DIGEST - Thai newspapers, December 15'
+p267
+sa(dp268
+g2
+S'http://www.reuters.com/article/economicNews/idUST15165820081215'
+p269
+sg4
+S'20081214\xc2\xa009:17 PM EST'
+p270
+sg6
+S'HIGHLIGHTS-BOJ tankan: manuf sentiment worst since March 2002'
+p271
+sa(dp272
+g2
+S'http://www.reuters.com/article/rbssInvestmentServices/idUSSEO11377920081215'
+p273
+sg4
+S'20081214\xc2\xa009:16 PM EST'
+p274
+sg6
+S'Seoul shares rise as autos, financials advance'
+p275
+sa(dp276
+g2
+S'http://www.reuters.com/article/rbssInvestmentServices/idUSBKK14859120081215'
+p277
+sg4
+S'20081214\xc2\xa009:15 PM EST'
+p278
+sg6
+S"Thailand's PM vote to set trend for stock market"
+p279
+sa(dp280
+g2
+S'http://www.reuters.com/article/tokyoMktRpt/idUST15070220081215'
+p281
+sg4
+S'20081214\xc2\xa009:06 PM EST'
+p282
+sg6
+S'Nikkei surges as hope for US autos overpowers data'
+p283
+sa(dp284
+g2
+S'http://www.reuters.com/article/rbssInvestmentServices/idUSHKG13941520081215'
+p285
+sg4
+S'20081214\xc2\xa009:06 PM EST'
+p286
+sg6
+S'PRESS DIGEST - Hong Kong - Dec 15'
+p287
+sa(dp288
+g2
+S'http://www.reuters.com/article/globalMarketsNews/idUSTRE4BE07X20081215'
+p289
+sg4
+S'20081214\xc2\xa009:00 PM EST'
+p290
+sg6
+S'Bank of China Hong Kong shares fall'
+p291
+sa(dp292
+g2
+S'http://www.reuters.com/article/pressRelease/idUS22207+15-Dec-2008+PRN20081215'
+p293
+sg4
+S'20081214\xc2\xa009:00 PM EST'
+p294
+sg6
+S'Following Is a Test Release'
+p295
+sa(dp296
+g2
+S'http://www.reuters.com/article/pressRelease/idUS22178+15-Dec-2008+PRN20081215'
+p297
+sg4
+S'20081214\xc2\xa009:00 PM EST'
+p298
+sg6
+S'Tiger Woods Visits Punta Brava, His First Oceanfront Golf Course Design'
+p299
+sa(dp300
+g2
+S'http://www.reuters.com/article/hongkongMktRpt/idUSHKF07979320081215'
+p301
+sg4
+S'20081214\xc2\xa008:59 PM EST'
+p302
+sg6
+S'HK shares open up 4.1 pct on U.S. auto rescue hope'
+p303
+sa(dp304
+g2
+S'http://www.reuters.com/article/rbssBanks/idUSHKF07979220081215'
+p305
+sg4
+S'20081214\xc2\xa008:58 PM EST'
+p306
+sg6
+S'BOC HK falls on profit warning, broker downgrade'
+p307
+sa(dp308
+g2
+S'http://www.reuters.com/article/environmentNews/idUSTRE4BE07I20081215'
+p309
+sg4
+S'20081214\xc2\xa008:50 PM EST'
+p310
+sg6
+S'FACTBOX: Australia firms likely to be affected by carbon scheme'
+p311
+sa(dp312
+g2
+S'http://www.reuters.com/article/sportsNews/idUSTRE4BE07620081215'
+p313
+sg4
+S'20081214\xc2\xa008:49 PM EST'
+p314
+sg6
+S'Steelers claim AFC North title with dramatic win'
+p315
+sa(dp316
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSSYD357497'
+p317
+sg4
+S'20081214\xc2\xa008:46 PM EST'
+p318
+sg6
+S'FACTBOX-Australia firms likely to be affected by carbon scheme'
+p319
+sa(dp320
+g2
+S'http://www.reuters.com/article/environmentNews/idUSTRE4BE06S20081215'
+p321
+sg4
+S'20081214\xc2\xa008:44 PM EST'
+p322
+sg6
+S"FACTBOX: Australia's carbon footprint"
+p323
+sa(dp324
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSSYD361788'
+p325
+sg4
+S'20081214\xc2\xa008:43 PM EST'
+p326
+sg6
+S"FACTBOX-Timeline for Australia's carbon trading plans"
+p327
+sa(dp328
+g2
+S'http://www.reuters.com/article/environmentNews/idUSTRE4BE06H20081215'
+p329
+sg4
+S'20081214\xc2\xa008:43 PM EST'
+p330
+sg6
+S"SUMMARY: Highlights of Australia's climate-change policy"
+p331
+sa(dp332
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSSYD384549'
+p333
+sg4
+S'20081214\xc2\xa008:42 PM EST'
+p334
+sg6
+S"FACTBOX-Australia's carbon footprint"
+p335
+sa(dp336
+g2
+S'http://www.reuters.com/article/rbssOilGasExplorationProduction/idUSHKG15943420081215'
+p337
+sg4
+S'20081214\xc2\xa008:41 PM EST'
+p338
+sg6
+S'CNPC to bid for Verenex eyeing Libya asset -report'
+p339
+sa(dp340
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSSYD361609'
+p341
+sg4
+S'20081214\xc2\xa008:40 PM EST'
+p342
+sg6
+S"SUMMARY-Highlights of Australia's climate-change policy"
+p343
+sa(dp344
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSSYD382653'
+p345
+sg4
+S'20081214\xc2\xa008:40 PM EST'
+p346
+sg6
+S'Australia commits to July 2010 for carbon trade'
+p347
+sa(dp348
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSN14471009'
+p349
+sg4
+S'20081214\xc2\xa008:39 PM EST'
+p350
+sg6
+S'Bush makes unannounced visit to Afghanistan'
+p351
+sa(dp352
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSSYD348523'
+p353
+sg4
+S'20081214\xc2\xa008:38 PM EST'
+p354
+sg6
+S'INSTANT VIEW-Australia commits to July 2010 carbon trade start'
+p355
+sa(dp356
+g2
+S'http://www.reuters.com/article/pressRelease/idUS19807+15-Dec-2008+PRN20081215'
+p357
+sg4
+S'20081214\xc2\xa008:30 PM EST'
+p358
+sg6
+S'Following Is a Test Release'
+p359
+sa(dp360
+g2
+S'http://www.reuters.com/article/rbssInvestmentServices/idUSSEO9508820081215'
+p361
+sg4
+S'20081214\xc2\xa008:29 PM EST'
+p362
+sg6
+S'Seoul shares extend gains, up 5 pct as autos fly'
+p363
+sa(dp364
+g2
+S'http://www.reuters.com/article/hongkongMktRpt/idUSHKG9232820081215'
+p365
+sg4
+S'20081214\xc2\xa008:25 PM EST'
+p366
+sg6
+S'HK shares seen up on U.S auto hopes, China support'
+p367
+sa(dp368
+g2
+S'http://www.reuters.com/article/etfNews/idUST5029420081215'
+p369
+sg4
+S'20081214\xc2\xa008:22 PM EST'
+p370
+sg6
+S'REFILE-Nomura says has $303 mln Madoff-related exposure'
+p371
+sa(dp372
+g2
+S'http://www.reuters.com/article/etfNews/idUSSHA16046620081215'
+p373
+sg4
+S'20081214\xc2\xa008:22 PM EST'
+p374
+sg6
+S'Goldman takes stake in China cement maker -paper'
+p375
+sa(dp376
+g2
+S'http://www.reuters.com/article/bondsNews/idUST10693620081215'
+p377
+sg4
+S'20081214\xc2\xa008:22 PM EST'
+p378
+sg6
+S'JGBs fall as investors book profits after tankan'
+p379
+sa(dp380
+g2
+S'http://www.reuters.com/article/rbssInvestmentServices/idUSSEL00040120081215'
+p381
+sg4
+S'20081214\xc2\xa008:15 PM EST'
+p382
+sg6
+S'Korea Exchange halts programme buying'
+p383
+sa(dp384
+g2
+S'http://www.reuters.com/article/rbssInsuranceMultiline/idUSSHA31225320081215'
+p385
+sg4
+S'20081214\xc2\xa008:13 PM EST'
+p386
+sg6
+S'PRESS DIGEST - China - Dec 15'
+p387
+sa(dp388
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSSYB004589'
+p389
+sg4
+S'20081214\xc2\xa008:10 PM EST'
+p390
+sg6
+S'Australia commits to July 2010 for carbon trade'
+p391
+sa(dp392
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSN14462994'
+p393
+sg4
+S'20081214\xc2\xa008:08 PM EST'
+p394
+sg6
+S'Bush on visit to Afghanistan - White House'
+p395
+sa(dp396
+g2
+S'http://www.reuters.com/article/usDollarRpt/idUST4248620081215'
+p397
+sg4
+S'20081214\xc2\xa008:03 PM EST'
+p398
+sg6
+S'BOJ gov:Japan economy may shrink in FY 2009/10-FT'
+p399
+sa(dp400
+g2
+S'http://www.reuters.com/article/pressRelease/idUS16708+15-Dec-2008+PRN20081215'
+p401
+sg4
+S'20081214\xc2\xa008:00 PM EST'
+p402
+sg6
+S'Following Is a Test Release'
+p403
+sa(dp404
+g2
+S'http://www.reuters.com/article/pressRelease/idUS16699+15-Dec-2008+PRN20081215'
+p405
+sg4
+S'20081214\xc2\xa008:00 PM EST'
+p406
+sg6
+S'FDA Approves LUSEDRA(TM) (fospropofol disodium) Injection for Monitored Anesthesia...'
+p407
+sa(dp408
+g2
+S'http://www.reuters.com/article/homepageCrisis/idUSLE514159._CH_.2400'
+p409
+sg4
+S'20081214\xc2\xa008:00 PM EST'
+p410
+sg6
+S'Iraqi justice system falls short - report'
+p411
+sa(dp412
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSLE514159'
+p413
+sg4
+S'20081214\xc2\xa008:00 PM EST'
+p414
+sg6
+S'Iraqi justice system falls short - report'
+p415
+sa(dp416
+g2
+S'http://www.reuters.com/article/tokyoMktRpt/idUST16227720081215'
+p417
+sg4
+S'20081214\xc2\xa007:57 PM EST'
+p418
+sg6
+S'Nikkei jumps over 4 pct on relief over U.S. autos'
+p419
+sa(dp420
+g2
+S'http://www.reuters.com/article/pressRelease/idUS16224+15-Dec-2008+PRN20081215'
+p421
+sg4
+S'20081214\xc2\xa007:55 PM EST'
+p422
+sg6
+S'SANYO Electric Adopts Xilinx Extended Spartan-3A Family in Next-Generation Surveillance...'
+p423
+sa(dp424
+g2
+S'http://www.reuters.com/article/pressRelease/idUS15892+15-Dec-2008+PRN20081215'
+p425
+sg4
+S'20081214\xc2\xa007:51 PM EST'
+p426
+sg6
+S'Rentrak Theatrical Announces Box Office Estimates for Weekend of December 14, 2008'
+p427
+sa(dp428
+g2
+S'http://www.reuters.com/article/rbssChemicalsSpecialty/idUSSIN11210720081215'
+p429
+sg4
+S'20081214\xc2\xa007:34 PM EST'
+p430
+sg6
+S'PRESS DIGEST - Singapore newspapers - Dec 15'
+p431
+sa(dp432
+g2
+S'http://www.reuters.com/article/topNews/idUSTRE4BD0JB20081214'
+p433
+sg4
+S'20081214\xc2\xa007:33 PM EST'
+p434
+sg6
+S"Britain's Brown offers Pakistan help against militants"
+p435
+sa(dp436
+g2
+S'http://www.reuters.com/article/sportsNews/idUSTRE4BD1Y520081215'
+p437
+sg4
+S'20081214\xc2\xa007:32 PM EST'
+p438
+sg6
+S'Texans upset Titans for fourth consecutive win'
+p439
+sa(dp440
+g2
+S'http://www.reuters.com/article/rbssConsumerElectronics/idUSSHA5046320081215'
+p441
+sg4
+S'20081214\xc2\xa007:30 PM EST'
+p442
+sg6
+S'China to reshuffle equities index components'
+p443
+sa(dp444
+g2
+S'http://www.reuters.com/article/pressRelease/idUS13385+15-Dec-2008+PRN20081215'
+p445
+sg4
+S'20081214\xc2\xa007:30 PM EST'
+p446
+sg6
+S'Following Is a Test Release'
+p447
+sa(dp448
+g2
+S'http://www.reuters.com/article/rbssAutoTruckManufacturers/idUSSEO33758420081215'
+p449
+sg4
+S'20081214\xc2\xa007:26 PM EST'
+p450
+sg6
+S'PRESS DIGEST - South Korean newspapers - Dec 15'
+p451
+sa(dp452
+g2
+S'http://www.reuters.com/article/politicsNews/idUSTRE4BC14N20081215'
+p453
+sg4
+S'20081214\xc2\xa007:22 PM EST'
+p454
+sg6
+S'Obama to announce environment, energy team'
+p455
+sa(dp456
+g2
+S'http://www.reuters.com/article/CARMFG/idUSJAK39608020081215'
+p457
+sg4
+S'20081214\xc2\xa007:22 PM EST'
+p458
+sg6
+S'RPT-UPDATE 3-Top rubber producers to cut exports by a sixth'
+p459
+sa(dp460
+g2
+S'http://www.reuters.com/article/newsOne/idUSTRE4BE02720081215'
+p461
+sg4
+S'20081214\xc2\xa007:21 PM EST'
+p462
+sg6
+S'Americans rich and poor pawn more to pay bills'
+p463
+sa(dp464
+g2
+S'http://www.reuters.com/article/rbssEngineeringConstruction/idUSKLR39126120081215'
+p465
+sg4
+S'20081214\xc2\xa007:18 PM EST'
+p466
+sg6
+S'PRESS DIGEST - Malaysia - Dec 15'
+p467
+sa(dp468
+g2
+S'http://www.reuters.com/article/entertainmentNews/idUSTRE4BE00V20081215'
+p469
+sg4
+S'20081214\xc2\xa007:17 PM EST'
+p470
+sg6
+S'"Torino" and "Che" solid in limited release'
+p471
+sa(dp472
+g2
+S'http://www.reuters.com/article/rbssFishingFarming/idUSKLR5052620081215'
+p473
+sg4
+S'20081214\xc2\xa007:12 PM EST'
+p474
+sg6
+S"Malaysia's KLK seeks plantation buys as CPO tumbles"
+p475
+sa(dp476
+g2
+S'http://www.reuters.com/article/rbssRealEstateOperations/idUSKLR37691320081215'
+p477
+sg4
+S'20081214\xc2\xa007:08 PM EST'
+p478
+sg6
+S"Malaysia's I-Bhd to ink Capitaland deal-paper"
+p479
+sa(dp480
+g2
+S'http://www.reuters.com/article/tokyoMktRpt/idUSTKW00317620081215'
+p481
+sg4
+S'20081214\xc2\xa007:08 PM EST'
+p482
+sg6
+S'Nikkei rises 1.4 pct, eyes on yen and U.S. bailout'
+p483
+sa(dp484
+g2
+S'http://www.reuters.com/article/rbssInvestmentServices/idUSSEO27377420081215'
+p485
+sg4
+S'20081214\xc2\xa007:07 PM EST'
+p486
+sg6
+S'Seoul shares gain helped by US auto bailout hopes'
+p487
+sa(dp488
+g2
+S'http://www.reuters.com/article/GCA-Housing/idUSTRE4BE00C20081215'
+p489
+sg4
+S'20081214\xc2\xa007:06 PM EST'
+p490
+sg6
+S'Barclays sees UK house prices falling further'
+p491
+sa(dp492
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSSP376631'
+p493
+sg4
+S'20081214\xc2\xa007:05 PM EST'
+p494
+sg6
+S'Q+A-Is artifically boosting ocean CO2 capture bad?'
+p495
+sa(dp496
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSSP39844'
+p497
+sg4
+S'20081214\xc2\xa007:05 PM EST'
+p498
+sg6
+S'FEATURE-Scientists urge caution in ocean-CO2 capture schemes'
+p499
+sa(dp500
+g2
+S'http://www.reuters.com/article/pressRelease/idUS10275+15-Dec-2008+PRN20081215'
+p501
+sg4
+S'20081214\xc2\xa007:01 PM EST'
+p502
+sg6
+S'Voice Commerce Group Launches VoicePay TV'
+p503
+sa(dp504
+g2
+S'http://www.reuters.com/article/rbssConsumerFinancialServices/idUSLE45392020081215'
+p505
+sg4
+S'20081214\xc2\xa007:01 PM EST'
+p506
+sg6
+S'Barclays says to increase lending to small firms'
+p507
+sa(dp508
+g2
+S'http://www.reuters.com/article/pressRelease/idUS10019+15-Dec-2008+PRN20081215'
+p509
+sg4
+S'20081214\xc2\xa007:00 PM EST'
+p510
+sg6
+S'Following Is a Test Release'
+p511
+sa(dp512
+g2
+S'http://www.reuters.com/article/rbssBanks/idUSLM1186320081215'
+p513
+sg4
+S'20081214\xc2\xa007:00 PM EST'
+p514
+sg6
+S'Barclays sees UK house prices falling further'
+p515
+sa(dp516
+g2
+S'http://www.reuters.com/article/pressRelease/idUS10007+15-Dec-2008+PRN20081215'
+p517
+sg4
+S'20081214\xc2\xa007:00 PM EST'
+p518
+sg6
+S'Melrose Jewelers Announces the Top 5 Rolex Datejust Watch Models Demanded in America...'
+p519
+sa(dp520
+g2
+S'http://www.reuters.com/article/pressRelease/idUS94307+14-Dec-2008+MW20081214'
+p521
+sg4
+S'20081214\xc2\xa006:48 PM EST'
+p522
+sg6
+S' Notice of Conference Call & Media Advisory: Theratechnologies reports 52-week confirmatory Phase 3 results'
+p523
+sa(dp524
+g2
+S'http://www.reuters.com/article/industryNews/idUSTRE4BD23D20081214'
+p525
+sg4
+S'20081214\xc2\xa006:47 PM EST'
+p526
+sg6
+S"Beer, wrestling matches fuel scribes' imaginations"
+p527
+sa(dp528
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSN14462516'
+p529
+sg4
+S'20081214\xc2\xa006:45 PM EST'
+p530
+sg6
+S'Uruguay left picks ex-guerrilla to run for president'
+p531
+sa(dp532
+g2
+S'http://www.reuters.com/article/televisionNews/idUSTRE4BD22Z20081214'
+p533
+sg4
+S'20081214\xc2\xa006:44 PM EST'
+p534
+sg6
+S'"American Idol" changes its tune a little'
+p535
+sa(dp536
+g2
+S'http://www.reuters.com/article/usDollarRpt/idUSTKU00324320081214'
+p537
+sg4
+S'20081214\xc2\xa006:43 PM EST'
+p538
+sg6
+S'BOJ gov: Japan economy may shrink in FY 2009/10-FT'
+p539
+sa(dp540
+g2
+S'http://www.reuters.com/article/musicNews/idUSTRE4BD22E20081214'
+p541
+sg4
+S'20081214\xc2\xa006:42 PM EST'
+p542
+sg6
+S'Stone Temple Pilots and Offspring highlight KROQ show'
+p543
+sa(dp544
+g2
+S'http://www.reuters.com/article/rbssHealthcareFacilities/idUSSIN35782620081214'
+p545
+sg4
+S'20081214\xc2\xa006:42 PM EST'
+p546
+sg6
+S"Singapore's Parkway says to cut staff, salaries"
+p547
+sa(dp548
+g2
+S'http://www.reuters.com/article/economicNews/idUSLE53721320081214'
+p549
+sg4
+S'20081214\xc2\xa006:40 PM EST'
+p550
+sg6
+S"UPDATE 1-ECB's Trichet says fiscal rules must be kept - FT"
+p551
+sa(dp552
+g2
+S'http://www.reuters.com/article/rbssConsumerElectronics/idUSSP19004820081214'
+p553
+sg4
+S'20081214\xc2\xa006:40 PM EST'
+p554
+sg6
+S'PRESS DIGEST-Financial Times, Wall St Journal Asia editions'
+p555
+sa(dp556
+g2
+S'http://www.reuters.com/article/topNews/idUSTRE4BD21U20081214'
+p557
+sg4
+S'20081214\xc2\xa006:39 PM EST'
+p558
+sg6
+S'Mumbai attacks overshadow Afghan talks in France'
+p559
+sa(dp560
+g2
+S'http://www.reuters.com/article/COMSRV/idUSSNAPSHOT20081214'
+p561
+sg4
+S'20081214\xc2\xa006:37 PM EST'
+p562
+sg6
+S'SNAPSHOT - Financial Crisis - 2252 GMT'
+p563
+sa(dp564
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSLE122285'
+p565
+sg4
+S'20081214\xc2\xa006:37 PM EST'
+p566
+sg6
+S'Mumbai attacks overshadow Afghan talks in France'
+p567
+sa(dp568
+g2
+S'http://www.reuters.com/article/ousivMolt/idUSTRE4BD21A20081214'
+p569
+sg4
+S'20081214\xc2\xa006:35 PM EST'
+p570
+sg6
+S'Wal-Mart CEO sees recession change consumer habits'
+p571
+sa(dp572
+g2
+S'http://www.reuters.com/article/ousivMolt/idUSTRE4BD20P20081214'
+p573
+sg4
+S'20081214\xc2\xa006:34 PM EST'
+p574
+sg6
+S'Holiday shopping kick-off still weak: report'
+p575
+sa(dp576
+g2
+S'http://www.reuters.com/article/rbssInsuranceMultiline/idUSSEO11068420081214'
+p577
+sg4
+S'20081214\xc2\xa006:34 PM EST'
+p578
+sg6
+S'Seoul shares seen higher on US auto bailout hopes'
+p579
+sa(dp580
+g2
+S'http://www.reuters.com/article/rbssRetailDepartmentStores/idUSN1437622120081214'
+p581
+sg4
+S'20081214\xc2\xa006:31 PM EST'
+p582
+sg6
+S'UPDATE 1- Wal-Mart CEO sees recession change consumer habits'
+p583
+sa(dp584
+g2
+S'http://www.reuters.com/article/usDollarRpt/idUSTKW00317520081214'
+p585
+sg4
+S'20081214\xc2\xa006:30 PM EST'
+p586
+sg6
+S'Euro hits two-month highs vs dollar'
+p587
+sa(dp588
+g2
+S'http://www.reuters.com/article/pressRelease/idUS92262+14-Dec-2008+MW20081214'
+p589
+sg4
+S'20081214\xc2\xa006:30 PM EST'
+p590
+sg6
+S' SpendingPulse 2008 Holiday Midseason Update: U.S. Retail Sales Settle Into Steady Double Digit Declines Across Most'
+p591
+sa(dp592
+g2
+S'http://www.reuters.com/article/rbssRetailSpecialty/idUSN1444430520081214'
+p593
+sg4
+S'20081214\xc2\xa006:30 PM EST'
+p594
+sg6
+S'Holiday shopping kick-off still weak-SpendingPulse'
+p595
+sa(dp596
+g2
+S'http://www.reuters.com/article/pressRelease/idUS92212+14-Dec-2008+PRN20081214'
+p597
+sg4
+S'20081214\xc2\xa006:30 PM EST'
+p598
+sg6
+S'Following Is a Test Release'
+p599
+sa(dp600
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSSP373459'
+p601
+sg4
+S'20081214\xc2\xa006:24 PM EST'
+p602
+sg6
+S'RPT-INTERVIEW-Pakistan PM sees India ties normalising over time'
+p603
+sa(dp604
+g2
+S'http://www.reuters.com/article/pressReleasesMolt/idUSLD12500520081214'
+p605
+sg4
+S'20081214\xc2\xa006:06 PM EST'
+p606
+sg6
+S'Three European banks announce exposure to Madoff'
+p607
+sa(dp608
+g2
+S'http://www.reuters.com/article/pressReleasesMolt/idUSTRE4BD20820081214'
+p609
+sg4
+S'20081214\xc2\xa006:06 PM EST'
+p610
+sg6
+S"FACTBOX: Firms exposed to Madoff's alleged fraud"
+p611
+sa(dp612
+g2
+S'http://www.reuters.com/article/tokyoMktRpt/idUST7020120081214'
+p613
+sg4
+S'20081214\xc2\xa006:06 PM EST'
+p614
+sg6
+S'Nikkei to rebound, eyes on yen and U.S. autos bill'
+p615
+sa(dp616
+g2
+S'http://www.reuters.com/article/GCA-Economy/idUSTRE4BC1PV20081214'
+p617
+sg4
+S'20081214\xc2\xa006:04 PM EST'
+p618
+sg6
+S'Obama stimulus could reach $1 trillion: report'
+p619
+sa(dp620
+g2
+S'http://www.reuters.com/article/GCA-Economy/idUSTRE4BD1ZQ20081214'
+p621
+sg4
+S'20081214\xc2\xa006:04 PM EST'
+p622
+sg6
+S'Germany to decide at end-Jan on new stimulus: Glos'
+p623
+sa(dp624
+g2
+S'http://www.reuters.com/article/managementIssues/idUSN1247170520081214'
+p625
+sg4
+S'20081214\xc2\xa006:03 PM EST'
+p626
+sg6
+S"FACTBOX-Firms exposed to Madoff's alleged fraud"
+p627
+sa(dp628
+g2
+S'http://www.reuters.com/article/bondsNews/idUSLE53165720081214'
+p629
+sg4
+S'20081214\xc2\xa006:03 PM EST'
+p630
+sg6
+S'UPDATE 1-Germany to decide at end-Jan on new stimulus -Glos'
+p631
+sa(dp632
+g2
+S'http://www.reuters.com/article/GCA-Oil/idUSTRE4BD1ZG20081214'
+p633
+sg4
+S'20081214\xc2\xa006:02 PM EST'
+p634
+sg6
+S'Algeria says oil output cut 70,000 bpd since Nov 1'
+p635
+sa(dp636
+g2
+S'http://www.reuters.com/article/pressRelease/idUS90139+14-Dec-2008+PRN20081214'
+p637
+sg4
+S'20081214\xc2\xa006:00 PM EST'
+p638
+sg6
+S'Following Is a Test Release'
+p639
+sa(dp640
+g2
+S'http://www.reuters.com/article/GCA-Oil/idUSTRE4BD1Z920081214'
+p641
+sg4
+S'20081214\xc2\xa005:58 PM EST'
+p642
+sg6
+S'Algeria sees OK for gas projects in 3 or 4 months'
+p643
+sa(dp644
+g2
+S'http://www.reuters.com/article/rbssConsumerGoodsAndRetailNews/idUSN1446529220081214'
+p645
+sg4
+S'20081214\xc2\xa005:51 PM EST'
+p646
+sg6
+S'Canada may assist forestry, mining, minister says'
+p647
+sa(dp648
+g2
+S'http://www.reuters.com/article/sportsNews/idUSTRE4BD1Y520081214'
+p649
+sg4
+S'20081214\xc2\xa005:39 PM EST'
+p650
+sg6
+S'Texans hold off Titans for upset win'
+p651
+sa(dp652
+g2
+S'http://www.reuters.com/article/environmentNews/idUSTRE4BC14N20081214'
+p653
+sg4
+S'20081214\xc2\xa005:33 PM EST'
+p654
+sg6
+S'Obama to announce environment, energy team'
+p655
+sa(dp656
+g2
+S'http://www.reuters.com/article/environmentNews/idUSTRE4BC15120081214'
+p657
+sg4
+S'20081214\xc2\xa005:33 PM EST'
+p658
+sg6
+S'FACTBOX: Obama names NY official to housing Cabinet post'
+p659
+sa(dp660
+g2
+S'http://www.reuters.com/article/pressRelease/idUS88099+14-Dec-2008+PRN20081214'
+p661
+sg4
+S'20081214\xc2\xa005:30 PM EST'
+p662
+sg6
+S'Following Is a Test Release'
+p663
+sa(dp664
+g2
+S'http://www.reuters.com/article/rbssBanks/idUSN1445853820081214'
+p665
+sg4
+S'20081214\xc2\xa005:25 PM EST'
+p666
+sg6
+S'WRAPUP 1-Three European banks announce exposure to Madoff'
+p667
+sa(dp668
+g2
+S'http://www.reuters.com/article/pressRelease/idUS87542+14-Dec-2008+PRN20081214'
+p669
+sg4
+S'20081214\xc2\xa005:20 PM EST'
+p670
+sg6
+S'West Coast Bank Opens Benefit Accounts for Woodburn Bank Bombing Victims'
+p671
+sa(dp672
+g2
+S'http://www.reuters.com/article/rbssOilRelatedServicesEquipment/idUSSYU00572820081214'
+p673
+sg4
+S'20081214\xc2\xa005:04 PM EST'
+p674
+sg6
+S'TEXT-APA says debt reduced by A$647 mln'
+p675
+sa(dp676
+g2
+S'http://www.reuters.com/article/pressRelease/idUS86446+14-Dec-2008+MW20081214'
+p677
+sg4
+S'20081214\xc2\xa005:00 PM EST'
+p678
+sg6
+S' High River Gold Second Default Status Report'
+p679
+sa(dp680
+g2
+S'http://www.reuters.com/article/weekAheadG7/idUSJPDIARY20081214'
+p681
+sg4
+S'20081214\xc2\xa005:00 PM EST'
+p682
+sg6
+S'DIARY-Japan Dec 15: BOJ tankan, Nippon Steel speech'
+p683
+sa(dp684
+g2
+S'http://www.reuters.com/article/pressRelease/idUS86378+14-Dec-2008+PRN20081214'
+p685
+sg4
+S'20081214\xc2\xa005:00 PM EST'
+p686
+sg6
+S'Following Is a Test Release'
+p687
+sa(dp688
+g2
+S'http://www.reuters.com/article/pressRelease/idUS86373+14-Dec-2008+PRN20081214'
+p689
+sg4
+S'20081214\xc2\xa005:00 PM EST'
+p690
+sg6
+S'This Holiday Season, Pay Special Attention to Law Enforcement Officers on Our Roadways'
+p691
+sa(dp692
+g2
+S'http://www.reuters.com/article/pressRelease/idUS86016+14-Dec-2008+PRN20081214'
+p693
+sg4
+S'20081214\xc2\xa004:55 PM EST'
+p694
+sg6
+S'Week After Cyber Monday Brings Slight Lull in E-Commerce Sales Growth'
+p695
+sa(dp696
+g2
+S'http://www.reuters.com/article/reuterscomService1/idUSTRE4BD1UV20081214'
+p697
+sg4
+S'20081214\xc2\xa004:45 PM EST'
+p698
+sg6
+S'Over 14,000 Santas march in Porto for world record'
+p699
+sa(dp700
+g2
+S'http://www.reuters.com/article/peopleNews/idUSTRE4BD1UD20081214'
+p701
+sg4
+S'20081214\xc2\xa004:38 PM EST'
+p702
+sg6
+S'Fishburne enjoys memorable first day on "CSI" job'
+p703
+sa(dp704
+g2
+S'http://www.reuters.com/article/filmNews/idUSTRE4BD1TV20081214'
+p705
+sg4
+S'20081214\xc2\xa004:36 PM EST'
+p706
+sg6
+S'"American Pie" producer to direct "Twilight" sequel'
+p707
+sa(dp708
+g2
+S'http://www.reuters.com/article/pressRelease/idUS80087+14-Dec-2008+PRN20081214'
+p709
+sg4
+S'20081214\xc2\xa004:30 PM EST'
+p710
+sg6
+S'Following Is a Test Release'
+p711
+sa(dp712
+g2
+S'http://www.reuters.com/article/politicsNews/idUSTRE4BD0YK20081214'
+p713
+sg4
+S'20081214\xc2\xa004:26 PM EST'
+p714
+sg6
+S'Bush on farewell visit to Iraq dodges flying shoes'
+p715
+sa(dp716
+g2
+S'http://www.reuters.com/article/newsOne/idUSTRE4BD13I20081214'
+p717
+sg4
+S'20081214\xc2\xa004:25 PM EST'
+p718
+sg6
+S'TIMELINE: President Bush makes farewell visit to Iraq'
+p719
+sa(dp720
+g2
+S'http://www.reuters.com/article/topNews/idUSTRE4BD1BE20081214'
+p721
+sg4
+S'20081214\xc2\xa004:22 PM EST'
+p722
+sg6
+S'Hamas leaders say will not extend Gaza truce'
+p723
+sa(dp724
+g2
+S'http://www.reuters.com/article/topNews/idUSTRE4BD1LA20081214'
+p725
+sg4
+S'20081214\xc2\xa004:22 PM EST'
+p726
+sg6
+S'Hamas warns Israel truce coming to end'
+p727
+sa(dp728
+g2
+S'http://www.reuters.com/article/homepageCrisis/idUSLE506585._CH_.2400'
+p729
+sg4
+S'20081214\xc2\xa004:20 PM EST'
+p730
+sg6
+S'Hamas leaders say will not extend Gaza truce'
+p731
+sa(dp732
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSLE506585'
+p733
+sg4
+S'20081214\xc2\xa004:20 PM EST'
+p734
+sg6
+S'Hamas leaders say will not extend Gaza truce'
+p735
+sa(dp736
+g2
+S'http://www.reuters.com/article/GCA-CreditCrisis/idUSTRE4BD1QN20081214'
+p737
+sg4
+S'20081214\xc2\xa004:05 PM EST'
+p738
+sg6
+S'Ireland to invest billions in bank recapitalization'
+p739
+sa(dp740
+g2
+S'http://www.reuters.com/article/pressRelease/idUS77145+14-Dec-2008+PRN20081214'
+p741
+sg4
+S'20081214\xc2\xa004:00 PM EST'
+p742
+sg6
+S'Following Is a Test Release'
+p743
+sa(dp744
+g2
+S'http://www.reuters.com/article/innovationNews/idUSTRE4BD1QA20081214'
+p745
+sg4
+S'20081214\xc2\xa003:59 PM EST'
+p746
+sg6
+S'Macquarie bids for Citi Australian unit: report'
+p747
+sa(dp748
+g2
+S'http://www.reuters.com/article/rbssRetailDepartmentStores/idUSN1445828320081214'
+p749
+sg4
+S'20081214\xc2\xa003:59 PM EST'
+p750
+sg6
+S'Wal-Mart CEO sees recession change consumer habits'
+p751
+sa(dp752
+g2
+S'http://www.reuters.com/article/mnaNewsFinancialServicesAndRealEstate/idUSSYD37622520081214'
+p753
+sg4
+S'20081214\xc2\xa003:54 PM EST'
+p754
+sg6
+S'Macquarie bids for Citi Australian unit-report'
+p755
+sa(dp756
+g2
+S'http://www.reuters.com/article/sportsNews/idUSTRE4BD1PJ20081214'
+p757
+sg4
+S'20081214\xc2\xa003:43 PM EST'
+p758
+sg6
+S'Avery not welcome back, say Stars'
+p759
+sa(dp760
+g2
+S'http://www.reuters.com/article/ousivMolt/idUSTRE4B50CL20081214'
+p761
+sg4
+S'20081214\xc2\xa003:38 PM EST'
+p762
+sg6
+S'No word on auto bailout "for a while"'
+p763
+sa(dp764
+g2
+S'http://www.reuters.com/article/ousivMolt/idUSTRE4BD14U20081214'
+p765
+sg4
+S'20081214\xc2\xa003:37 PM EST'
+p766
+sg6
+S'No word on auto bailout "for a while:" White House'
+p767
+sa(dp768
+g2
+S'http://www.reuters.com/article/rbssAutoTruckManufacturers/idUSN1446120820081214'
+p769
+sg4
+S'20081214\xc2\xa003:33 PM EST'
+p770
+sg6
+S"UPDATE 1-No word on auto bailout 'for a while'-White House"
+p771
+sa(dp772
+g2
+S'http://www.reuters.com/article/pressRelease/idUS75714+14-Dec-2008+PRN20081214'
+p773
+sg4
+S'20081214\xc2\xa003:30 PM EST'
+p774
+sg6
+S'Following Is a Test Release'
+p775
+sa(dp776
+g2
+S'http://www.reuters.com/article/pressReleasesMolt/idUSTRE4BD0R920081214'
+p777
+sg4
+S'20081214\xc2\xa003:24 PM EST'
+p778
+sg6
+S"Spain's Santander details exposure to Madoff"
+p779
+sa(dp780
+g2
+S'http://www.reuters.com/article/rbssFinancialServices - Diversified/idUSLE47222620081214'
+p781
+sg4
+S'20081214\xc2\xa003:24 PM EST'
+p782
+sg6
+S'Ireland to invest billions in bank recapitalisation'
+p783
+sa(dp784
+g2
+S'http://www.reuters.com/article/etfNews/idUSLE51317920081214'
+p785
+sg4
+S'20081214\xc2\xa003:23 PM EST'
+p786
+sg6
+S"UPDATE 1-Spain's Santander details exposure to Madoff"
+p787
+sa(dp788
+g2
+S'http://www.reuters.com/article/politicsNews/idUSTRE4BD1MS20081214'
+p789
+sg4
+S'20081214\xc2\xa003:19 PM EST'
+p790
+sg6
+S'Obama to announce energy, environment picks'
+p791
+sa(dp792
+g2
+S'http://www.reuters.com/article/newsMaps/idUSTRE4BD1AJ20081214'
+p793
+sg4
+S'20081214\xc2\xa003:18 PM EST'
+p794
+sg6
+S'Nations launch offensive against Uganda LRA rebels'
+p795
+sa(dp796
+g2
+S'http://www.reuters.com/article/usDollarRpt/idUSN0928740320081214'
+p797
+sg4
+S'20081214\xc2\xa003:10 PM EST'
+p798
+sg6
+S'RPT-WITNESS-Living in U.S. is reminder of Asian crisis'
+p799
+sa(dp800
+g2
+S'http://www.reuters.com/article/topNews/idUSTRE4B91LB20081214'
+p801
+sg4
+S'20081214\xc2\xa003:04 PM EST'
+p802
+sg6
+S'Greek government under fire over handling of riots'
+p803
+sa(dp804
+g2
+S'http://www.reuters.com/article/bondsNews/idUSN1256117120081214'
+p805
+sg4
+S'20081214\xc2\xa003:00 PM EST'
+p806
+sg6
+S'GLOBAL ECONOMY WEEKAHEAD-Bidding adieu to the Great Moderation?'
+p807
+sa(dp808
+g2
+S'http://www.reuters.com/article/pressRelease/idUS74043+14-Dec-2008+PRN20081214'
+p809
+sg4
+S'20081214\xc2\xa003:00 PM EST'
+p810
+sg6
+S'Following Is a Test Release'
+p811
+sa(dp812
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSLE441199'
+p813
+sg4
+S'20081214\xc2\xa002:58 PM EST'
+p814
+sg6
+S'Hamas warns Israel truce coming to end'
+p815
+sa(dp816
+g2
+S'http://www.reuters.com/article/newsOne/idUSTRE4BD1EQ20081214'
+p817
+sg4
+S'20081214\xc2\xa002:58 PM EST'
+p818
+sg6
+S'Iraqi reporter throws shoes at Bush, calls him dog'
+p819
+sa(dp820
+g2
+S'http://www.reuters.com/article/topNews/idUSTRE4BD12M20081214'
+p821
+sg4
+S'20081214\xc2\xa002:57 PM EST'
+p822
+sg6
+S"Embattled Illinois governor won't resign Monday"
+p823
+sa(dp824
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSLE436564'
+p825
+sg4
+S'20081214\xc2\xa002:56 PM EST'
+p826
+sg6
+S'Hamas says will not renew truce with Israel'
+p827
+sa(dp828
+g2
+S'http://www.reuters.com/article/newsMaps/idUSTRE4BD1C820081214'
+p829
+sg4
+S'20081214\xc2\xa002:54 PM EST'
+p830
+sg6
+S"FACTBOX: Who are Uganda's LRA rebels?"
+p831
+sa(dp832
+g2
+S'http://www.reuters.com/article/companyNewsAndPR/idUSN1441207220081214'
+p833
+sg4
+S'20081214\xc2\xa002:54 PM EST'
+p834
+sg6
+S"UPDATE 3-Embattled Illinois governor won't resign Monday"
+p835
+sa(dp836
+g2
+S'http://www.reuters.com/article/rbssEngineeringConstruction/idUSLE49404520081214'
+p837
+sg4
+S'20081214\xc2\xa002:53 PM EST'
+p838
+sg6
+S'UPDATE 2-Budapest Airport talks collapse, flights grounded'
+p839
+sa(dp840
+g2
+S'http://www.reuters.com/article/privateEquityConsumerGoodsAndRetail/idUSN1445865120081214'
+p841
+sg4
+S'20081214\xc2\xa002:52 PM EST'
+p842
+sg6
+S'GMAC sweetens terms of debt swap, extends deadline'
+p843
+sa(dp844
+g2
+S'http://www.reuters.com/article/filmNews/idUSTRE4BB0Z420081214'
+p845
+sg4
+S'20081214\xc2\xa002:51 PM EST'
+p846
+sg6
+S'"Earth" spins Keanu Reeves to No. 1 at box office'
+p847
+sa(dp848
+g2
+S'http://www.reuters.com/article/pressReleasesMolt/idUSTRE4BD1IY20081214'
+p849
+sg4
+S'20081214\xc2\xa002:50 PM EST'
+p850
+sg6
+S'BNP Paribas says may face 350 million euro Madoff loss'
+p851
+sa(dp852
+g2
+S'http://www.reuters.com/article/rbssBanks/idUSWEA920020081214'
+p853
+sg4
+S'20081214\xc2\xa002:48 PM EST'
+p854
+sg6
+S'BNP Paribas says may face 350 mln euro Madoff loss'
+p855
+sa(dp856
+g2
+S'http://www.reuters.com/article/pressRelease/idUS72478+14-Dec-2008+PRN20081214'
+p857
+sg4
+S'20081214\xc2\xa002:30 PM EST'
+p858
+sg6
+S'Following Is a Test Release'
+p859
+sa(dp860
+g2
+S'http://www.reuters.com/article/usDollarRpt/idUSN1445826920081214'
+p861
+sg4
+S'20081214\xc2\xa002:15 PM EST'
+p862
+sg6
+S'EMERGING MARKETS WEEK-Volatile trade and interest rate cuts seen'
+p863
+sa(dp864
+g2
+S'http://www.reuters.com/article/pressRelease/idUS71728+14-Dec-2008+PRN20081214'
+p865
+sg4
+S'20081214\xc2\xa002:12 PM EST'
+p866
+sg6
+S'Newsweek International Editions: Highlights and Exclusives, December 22, 2008 Issue'
+p867
+sa(dp868
+g2
+S'http://www.reuters.com/article/rbssBanks/idUSLE47132420081214'
+p869
+sg4
+S'20081214\xc2\xa002:00 PM EST'
+p870
+sg6
+S'Angola launches first private TV channel'
+p871
+sa(dp872
+g2
+S'http://www.reuters.com/article/pressRelease/idUS71234+14-Dec-2008+PRN20081214'
+p873
+sg4
+S'20081214\xc2\xa002:00 PM EST'
+p874
+sg6
+S'AmerenUE Is Prepared for Severe Winter Weather, Offers Tips to Help Customers when...'
+p875
+sa(dp876
+g2
+S'http://www.reuters.com/article/pressRelease/idUS71225+14-Dec-2008+PRN20081214'
+p877
+sg4
+S'20081214\xc2\xa002:00 PM EST'
+p878
+sg6
+S'Following Is a Test Release'
+p879
+sa(dp880
+g2
+S'http://www.reuters.com/article/rbssMediaDiversified/idUSN1430326620081214'
+p881
+sg4
+S'20081214\xc2\xa001:53 PM EST'
+p882
+sg6
+S"UPDATE 1-'Earth' spins Keanu Reeves to No. 1 at box office"
+p883
+sa(dp884
+g2
+S'http://www.reuters.com/article/pressRelease/idUS70740+14-Dec-2008+MW20081214'
+p885
+sg4
+S'20081214\xc2\xa001:50 PM EST'
+p886
+sg6
+S' Con Edison Crews Heading North to Restore Power to National Grid and Central Hudson Customers'
+p887
+sa(dp888
+g2
+S'http://www.reuters.com/article/pressRelease/idUS69849+14-Dec-2008+PRN20081214'
+p889
+sg4
+S'20081214\xc2\xa001:30 PM EST'
+p890
+sg6
+S'Major deCODE-led Study Underscores Role of the Brain in Obesity'
+p891
+sa(dp892
+g2
+S'http://www.reuters.com/article/pressRelease/idUS69838+14-Dec-2008+PRN20081214'
+p893
+sg4
+S'20081214\xc2\xa001:30 PM EST'
+p894
+sg6
+S'Following Is a Test Release'
+p895
+sa(dp896
+g2
+S'http://www.reuters.com/article/scienceNews/idUSTRE4BD1G720081214'
+p897
+sg4
+S'20081214\xc2\xa001:29 PM EST'
+p898
+sg6
+S'Experts boost learning in rats with hearing defects'
+p899
+sa(dp900
+g2
+S'http://www.reuters.com/article/scienceNews/idUSTRE4BD1FY20081214'
+p901
+sg4
+S'20081214\xc2\xa001:28 PM EST'
+p902
+sg6
+S'Study finds six new gene mutations linked to obesity'
+p903
+sa(dp904
+g2
+S'http://www.reuters.com/article/scienceNews/idUSTRE4BD1GG20081214'
+p905
+sg4
+S'20081214\xc2\xa001:10 PM EST'
+p906
+sg6
+S'Nanotech sensor detects toxins in living cells'
+p907
+sa(dp908
+g2
+S'http://www.reuters.com/article/pressRelease/idUS68668+14-Dec-2008+PRN20081214'
+p909
+sg4
+S'20081214\xc2\xa001:06 PM EST'
+p910
+sg6
+S'NEWSWEEK Cover: The Fed Who Blew The Whistle'
+p911
+sa(dp912
+g2
+S'http://www.reuters.com/article/globalMarketsNews/idUSTRE4BC01G20081214'
+p913
+sg4
+S'20081214\xc2\xa001:03 PM EST'
+p914
+sg6
+S'Stocks may brake for GM, Fed, Goldman'
+p915
+sa(dp916
+g2
+S'http://www.reuters.com/article/COMSRV/idUSN1447680020081214'
+p917
+sg4
+S'20081214\xc2\xa001:02 PM EST'
+p918
+sg6
+S"Outlook for telecom equiment makers grim -Barron's"
+p919
+sa(dp920
+g2
+S'http://www.reuters.com/article/politicsNews/idUSTRE4BD1FG20081214'
+p921
+sg4
+S'20081214\xc2\xa001:00 PM EST'
+p922
+sg6
+S'Iraqi reporter throws shoes at Bush, calls him dog'
+p923
+sa(dp924
+g2
+S'http://www.reuters.com/article/latestCrisis/idUST128573'
+p925
+sg4
+S'20081214\xc2\xa001:00 PM EST'
+p926
+sg6
+S'Experts boost learning in rats with hearing defects'
+p927
+sa(dp928
+g2
+S'http://www.reuters.com/article/rbssBiotechnology/idUSN1347944420081214'
+p929
+sg4
+S'20081214\xc2\xa001:00 PM EST'
+p930
+sg6
+S'Study finds six new gene mutations linked to obesity'
+p931
+sa(dp932
+g2
+S'http://www.reuters.com/article/pressRelease/idUS68262+14-Dec-2008+PRN20081214'
+p933
+sg4
+S'20081214\xc2\xa001:00 PM EST'
+p934
+sg6
+S'Following Is a Test Release'
+p935
+sa(dp936
+g2
+S'http://www.reuters.com/article/pressRelease/idUS68251+14-Dec-2008+BW20081214'
+p937
+sg4
+S'20081214\xc2\xa001:00 PM EST'
+p938
+sg6
+S'Snoring or Soaring? Strength of Fruit-Fly Immune System Varies With Daily Cycle, Stanford Researchers Find'
+p939
+sa(dp940
+g2
+S'http://www.reuters.com/article/filmNews/idUSTRE4BD1F820081214'
+p941
+sg4
+S'20081214\xc2\xa012:59 PM EST'
+p942
+sg6
+S'Dutch MP shrugs off fears over his anti-Islam film'
+p943
+sa(dp944
+g2
+S'http://www.reuters.com/article/pressRelease/idUS68214+14-Dec-2008+PRN20081214'
+p945
+sg4
+S'20081214\xc2\xa012:59 PM EST'
+p946
+sg6
+S'NEWSWEEK: Media Lead Sheet/December 22, 2008 Issue'
+p947
+sa(dp948
+g2
+S'http://www.reuters.com/article/rbssConsumerGoodsAndRetailNews/idUSN3047722920081214'
+p949
+sg4
+S'20081214\xc2\xa012:56 PM EST'
+p950
+sg6
+S'The top movies at the North American box office'
+p951
+sa(dp952
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSLE493714'
+p953
+sg4
+S'20081214\xc2\xa012:55 PM EST'
+p954
+sg6
+S'Iraqi reporter throws shoes at Bush, calls him dog'
+p955
+sa(dp956
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSLE484096'
+p957
+sg4
+S'20081214\xc2\xa012:54 PM EST'
+p958
+sg6
+S'Dutch MP shrugs off fears over his anti-Islam film'
+p959
+sa(dp960
+g2
+S'http://www.reuters.com/article/rbssFinancialServices - Diversified/idUSLE46999120081214'
+p961
+sg4
+S'20081214\xc2\xa012:53 PM EST'
+p962
+sg6
+S'Fortis shareholders urge Belgium to redo carve-up'
+p963
+sa(dp964
+g2
+S'http://www.reuters.com/article/newIssuesNews/idUSN1448593920081214'
+p965
+sg4
+S'20081214\xc2\xa012:36 PM EST'
+p966
+sg6
+S'RPT-IPO VIEW-Retailers, restaurant IPOs in for long wait'
+p967
+sa(dp968
+g2
+S'http://www.reuters.com/article/pressRelease/idUS67041+14-Dec-2008+PRN20081214'
+p969
+sg4
+S'20081214\xc2\xa012:30 PM EST'
+p970
+sg6
+S'Following Is a Test Release'
+p971
+sa(dp972
+g2
+S'http://www.reuters.com/article/rbssMediaDiversified/idUSN1350108320081214'
+p973
+sg4
+S'20081214\xc2\xa012:28 PM EST'
+p974
+sg6
+S"'Earth' spins Keanu Reeves to No. 1 at box office"
+p975
+sa(dp976
+g2
+S'http://www.reuters.com/article/rbssSemiconductorEquipmentTesting/idUSN1448332420081214'
+p977
+sg4
+S'20081214\xc2\xa012:26 PM EST'
+p978
+sg6
+S"ASML shares could rally with chip demand -Barron's"
+p979
+sa(dp980
+g2
+S'http://www.reuters.com/article/rbssConsumerGoodsAndRetailNews/idUSN1448899320081214'
+p981
+sg4
+S'20081214\xc2\xa012:21 PM EST'
+p982
+sg6
+S"Gaylord Entertaintment shares worth $50 -Barron's"
+p983
+sa(dp984
+g2
+S'http://www.reuters.com/article/homepageCrisis/idUSLE474015._CH_.2400'
+p985
+sg4
+S'20081214\xc2\xa012:20 PM EST'
+p986
+sg6
+S'Governments launch military offensive on Uganda rebels'
+p987
+sa(dp988
+g2
+S'http://www.reuters.com/article/pressRelease/idUS66706+14-Dec-2008+PRN20081214'
+p989
+sg4
+S'20081214\xc2\xa012:20 PM EST'
+p990
+sg6
+S'Study Finds DOXIL(R) Combination Therapy Delays Disease Progression for Patients...'
+p991
+sa(dp992
+g2
+S'http://www.reuters.com/article/ousivMolt/idUSTRE4BD1CV20081214'
+p993
+sg4
+S'20081214\xc2\xa012:19 PM EST'
+p994
+sg6
+S'Fed to press rates toward zero'
+p995
+sa(dp996
+g2
+S'http://www.reuters.com/article/businessNews/idUSTRE4BD1CK20081214'
+p997
+sg4
+S'20081214\xc2\xa012:15 PM EST'
+p998
+sg6
+S'Rio Tinto says fundraising report is "speculation"'
+p999
+sa(dp1000
+g2
+S'http://www.reuters.com/article/rbssAppliancesToolsHousewares/idUSLE48260720081214'
+p1001
+sg4
+S'20081214\xc2\xa012:13 PM EST'
+p1002
+sg6
+S'UPDATE 1-Waterford Wedgwood may sell Rosenthal soon-paper'
+p1003
+sa(dp1004
+g2
+S'http://www.reuters.com/article/bondsNews/idUSN1245272120081214'
+p1005
+sg4
+S'20081214\xc2\xa012:13 PM EST'
+p1006
+sg6
+S'PREVIEW-Fed to press US rates toward zero, mull other tools'
+p1007
+sa(dp1008
+g2
+S'http://www.reuters.com/article/OILPRD/idUSLE47610120081214'
+p1009
+sg4
+S'20081214\xc2\xa012:12 PM EST'
+p1010
+sg6
+S"Kuwait's Aref Energy says JV finds gas in Texas"
+p1011
+sa(dp1012
+g2
+S'http://www.reuters.com/article/rbssMiningMetalsSpecialty/idUSLN57125220081214'
+p1013
+sg4
+S'20081214\xc2\xa012:10 PM EST'
+p1014
+sg6
+S'Rio Tinto says fundraising report is "speculation"'
+p1015
+sa(dp1016
+g2
+S'http://www.reuters.com/article/rbssChemicalsAgricultural/idUSISL36047120081214'
+p1017
+sg4
+S'20081214\xc2\xa012:06 PM EST'
+p1018
+sg6
+S'Pakistan share price floor set to go on Monday'
+p1019
+sa(dp1020
+g2
+S'http://www.reuters.com/article/weekAheadWallStreet/idUSN1449010020081214'
+p1021
+sg4
+S'20081214\xc2\xa012:05 PM EST'
+p1022
+sg6
+S'UPDATE 1-Wall St Week Ahead: Stocks may brake for GM, Fed'
+p1023
+sa(dp1024
+g2
+S'http://www.reuters.com/article/pressRelease/idUS65945+14-Dec-2008+PRN20081214'
+p1025
+sg4
+S'20081214\xc2\xa012:00 PM EST'
+p1026
+sg6
+S'Following Is a Test Release'
+p1027
+sa(dp1028
+g2
+S'http://www.reuters.com/article/topNews/idUSTRE4BD03F20081214'
+p1029
+sg4
+S'20081214\xc2\xa011:50 AM EST'
+p1030
+sg6
+S'New report slams U.S. reconstruction of Iraq: report'
+p1031
+sa(dp1032
+g2
+S'http://www.reuters.com/article/rbssSteel/idUSN1448886220081214'
+p1033
+sg4
+S'20081214\xc2\xa011:44 AM EST'
+p1034
+sg6
+S"Brazil's Vale does not rule out more job cuts-media"
+p1035
+sa(dp1036
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSLE634286'
+p1037
+sg4
+S'20081214\xc2\xa011:39 AM EST'
+p1038
+sg6
+S"FACTBOX-Who are Uganda's LRA rebels?"
+p1039
+sa(dp1040
+g2
+S'http://www.reuters.com/article/featuredCrisis/idUSLE474015'
+p1041
+sg4
+S'20081214\xc2\xa011:38 AM EST'
+p1042
+sg6
+S'Governments launch military offensive on Uganda rebels'
+p1043
+sa(dp1044
+g2
+S'http://www.reuters.com/article/rbssAppliancesToolsHousewares/idUSLE46806220081214'
+p1045
+sg4
+S'20081214\xc2\xa011:32 AM EST'
+p1046
+sg6
+S'Waterford Wedgwood may sell Rosenthal soon-paper'
+p1047
+sa(dp1048
+g2
+S'http://www.reuters.com/article/BROKER/idUSLE47149620081214'
+p1049
+sg4
+S'20081214\xc2\xa011:31 AM EST'
+p1050
+sg6
+S"UPDATE 1-UAE's Dolphin to issue $1 bln bond in 2009 - MEED"
+p1051
+sa(dp1052
+g2
+S'http://www.reuters.com/article/pressRelease/idUS64994+14-Dec-2008+PRN20081214'
+p1053
+sg4
+S'20081214\xc2\xa011:30 AM EST'
+p1054
+sg6
+S'Following Is a Test Release'
+p1055
+sa(dp1056
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSLE337780'
+p1057
+sg4
+S'20081214\xc2\xa011:28 AM EST'
+p1058
+sg6
+S'Hamas leader warns Israel of end of Gaza truce'
+p1059
+sa(dp1060
+g2
+S'http://www.reuters.com/article/sportsNews/idUSTRE4BD16T20081214'
+p1061
+sg4
+S'20081214\xc2\xa011:26 AM EST'
+p1062
+sg6
+S'Emotional Sorenstam ends career at Dubai Masters'
+p1063
+sa(dp1064
+g2
+S'http://www.reuters.com/article/pressReleasesMolt/idUSTRE4BD1AX20081214'
+p1065
+sg4
+S'20081214\xc2\xa011:20 AM EST'
+p1066
+sg6
+S'Top economists talk unconventional Fed policy'
+p1067
+sa(dp1068
+g2
+S'http://www.reuters.com/article/GCA-Oil/idUSTRE4BD1AC20081214'
+p1069
+sg4
+S'20081214\xc2\xa011:11 AM EST'
+p1070
+sg6
+S'Iraq oil cops seen ready to guard pipeline by 2011'
+p1071
+sa(dp1072
+g2
+S'http://www.reuters.com/article/domesticNews/idUSTRE4BD1A120081214'
+p1073
+sg4
+S'20081214\xc2\xa011:09 AM EST'
+p1074
+sg6
+S'U.S. property recovery to start by spring: Zell'
+p1075
+sa(dp1076
+g2
+S'http://www.reuters.com/article/homepageCrisis/idUSLE468224._CH_.2400'
+p1077
+sg4
+S'20081214\xc2\xa011:07 AM EST'
+p1078
+sg6
+S'Governments launch military offensive on LRA rebels'
+p1079
+sa(dp1080
+g2
+S'http://www.reuters.com/article/etfNews/idUSN1447852420081214'
+p1081
+sg4
+S'20081214\xc2\xa011:02 AM EST'
+p1082
+sg6
+S'RPT-Wall St Week Ahead: Stocks may brake for GM, Fed, Goldman'
+p1083
+sa(dp1084
+g2
+S'http://www.reuters.com/article/rbssIndustryMaterialsUtilitiesNews/idUSB46656720081214'
+p1085
+sg4
+S'20081214\xc2\xa011:00 AM EST'
+p1086
+sg6
+S'Tata to merge Corus to cut UK costs - report'
+p1087
+sa(dp1088
+g2
+S'http://www.reuters.com/article/pressRelease/idUS63829+14-Dec-2008+PRN20081214'
+p1089
+sg4
+S'20081214\xc2\xa011:00 AM EST'
+p1090
+sg6
+S'Following Is a Test Release'
+p1091
+sa(dp1092
+g2
+S'http://www.reuters.com/article/pressRelease/idUS63827+14-Dec-2008+PRN20081214'
+p1093
+sg4
+S'20081214\xc2\xa011:00 AM EST'
+p1094
+sg6
+S"Positive Phase II Study of Pacira's EXPAREL(TM) (DepoBupivacaine) in Hernia Repair..."
+p1095
+sa(dp1096
+g2
+S'http://www.reuters.com/article/olympicsNews/idUSLD48247620081214'
+p1097
+sg4
+S'20081214\xc2\xa010:59 AM EST'
+p1098
+sg6
+S'Advisory-Sport yearender package'
+p1099
+sa(dp1100
+g2
+S'http://www.reuters.com/article/featuredCrisis/idUSLE468224'
+p1101
+sg4
+S'20081214\xc2\xa010:57 AM EST'
+p1102
+sg6
+S'UGANDA, DEMOCRATIC REPUBLIC OF CONGO, SOUTH SUDAN LAUNCH JOINT M'
+p1103
+sa(dp1104
+g2
+S'http://www.reuters.com/article/topNews/idUSTRE4BD19D20081214'
+p1105
+sg4
+S'20081214\xc2\xa010:52 AM EST'
+p1106
+sg6
+S'Iraq says forces ready for key polls as U.S. withdraws'
+p1107
+sa(dp1108
+g2
+S'http://www.reuters.com/article/rbssEngineeringConstruction/idUSLE44251020081214'
+p1109
+sg4
+S'20081214\xc2\xa010:51 AM EST'
+p1110
+sg6
+S'Budapest Airport talks collapse, strike to proceed'
+p1111
+sa(dp1112
+g2
+S'http://www.reuters.com/article/GCA-GCA-iraq/idUSTRE4BD19720081214'
+p1113
+sg4
+S'20081214\xc2\xa010:51 AM EST'
+p1114
+sg6
+S'Iraq says forces ready for key polls as U.S. withdraws'
+p1115
+sa(dp1116
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSLE401681'
+p1117
+sg4
+S'20081214\xc2\xa010:50 AM EST'
+p1118
+sg6
+S'Egyptian bus plunges into canal, 55 dead'
+p1119
+sa(dp1120
+g2
+S'http://www.reuters.com/article/reuterscomService5/idUSTRE4BD18S20081214'
+p1121
+sg4
+S'20081214\xc2\xa010:44 AM EST'
+p1122
+sg6
+S"Volkswagen's 2009 sales could ease about 10 pct: CEO"
+p1123
+sa(dp1124
+g2
+S'http://www.reuters.com/article/pressRelease/idUS63113+14-Dec-2008+MW20081214'
+p1125
+sg4
+S'20081214\xc2\xa010:42 AM EST'
+p1126
+sg6
+S' Statement by the Minister of National Defence on the Death of Three Canadian Soldiers in Afghanistan'
+p1127
+sa(dp1128
+g2
+S'http://www.reuters.com/article/worldNews/idUSTRE4BD0A220081214'
+p1129
+sg4
+S'20081214\xc2\xa010:41 AM EST'
+p1130
+sg6
+S'Bomb blast kills 3 policemen in Afghanistan'
+p1131
+sa(dp1132
+g2
+S'http://www.reuters.com/article/worldNews/idUSTRE4BD18820081214'
+p1133
+sg4
+S'20081214\xc2\xa010:41 AM EST'
+p1134
+sg6
+S'NATO looks to north Afghan neighbors for supplies'
+p1135
+sa(dp1136
+g2
+S'http://www.reuters.com/article/pressReleasesMolt/idUSTRE4BD17V20081214'
+p1137
+sg4
+S'20081214\xc2\xa010:40 AM EST'
+p1138
+sg6
+S'BNP has no comment on Madoff exposure report'
+p1139
+sa(dp1140
+g2
+S'http://www.reuters.com/article/rbssAutoTruckManufacturers/idUSLE45574920081214'
+p1141
+sg4
+S'20081214\xc2\xa010:31 AM EST'
+p1142
+sg6
+S"Volkswagen's 2009 sales could ease about 10 pct-CEO"
+p1143
+sa(dp1144
+g2
+S'http://www.reuters.com/article/privateEquityIndustryMaterialsAndUtilities/idUSN1247279820081214'
+p1145
+sg4
+S'20081214\xc2\xa010:30 AM EST'
+p1146
+sg6
+S"REPEAT-Bay Street Week Ahead-Autoparts makers on razor's edge"
+p1147
+sa(dp1148
+g2
+S'http://www.reuters.com/article/pressRelease/idUS62568+14-Dec-2008+PRN20081214'
+p1149
+sg4
+S'20081214\xc2\xa010:30 AM EST'
+p1150
+sg6
+S'Following Is a Test Release'
+p1151
+sa(dp1152
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSISL366702'
+p1153
+sg4
+S'20081214\xc2\xa010:29 AM EST'
+p1154
+sg6
+S'NATO looks to north Afghan neighbours for supplies'
+p1155
+sa(dp1156
+g2
+S'http://www.reuters.com/article/pressRelease/idUS62476+14-Dec-2008+MW20081214'
+p1157
+sg4
+S'20081214\xc2\xa010:28 AM EST'
+p1158
+sg6
+S' Message from Her Excellency the Right Honourable Michaelle Jean, Governor General and Commander-in-Chief of Canada,...'
+p1159
+sa(dp1160
+g2
+S'http://www.reuters.com/article/rbssBanks/idUSLE45676820081214'
+p1161
+sg4
+S'20081214\xc2\xa010:26 AM EST'
+p1162
+sg6
+S'BNP has no comment on Madoff exposure report'
+p1163
+sa(dp1164
+g2
+S'http://www.reuters.com/article/sportsNews/idUSTRE4BD16Y20081214'
+p1165
+sg4
+S'20081214\xc2\xa010:17 AM EST'
+p1166
+sg6
+S'Sorenstam eyes fresh challenges after final event'
+p1167
+sa(dp1168
+g2
+S'http://www.reuters.com/article/rbssInvestmentServices/idUSLE42472920081214'
+p1169
+sg4
+S'20081214\xc2\xa010:16 AM EST'
+p1170
+sg6
+S"UPDATE 1-Kuwait's Dar says studying offers for Aston Martin"
+p1171
+sa(dp1172
+g2
+S'http://www.reuters.com/article/newsMaps/idUSTRE4BD0HM20081214'
+p1173
+sg4
+S'20081214\xc2\xa010:14 AM EST'
+p1174
+sg6
+S'Somali president sacks prime minister'
+p1175
+sa(dp1176
+g2
+S'http://www.reuters.com/article/homepageCrisis/idUSLE425337._CH_.2400'
+p1177
+sg4
+S'20081214\xc2\xa010:13 AM EST'
+p1178
+sg6
+S'Somali president sacks prime minister'
+p1179
+sa(dp1180
+g2
+S'http://www.reuters.com/article/rbssIndustryMaterialsUtilitiesNews/idUSLE42933620081214'
+p1181
+sg4
+S'20081214\xc2\xa010:11 AM EST'
+p1182
+sg6
+S'Staff back Aer Lingus staying independent, says CEO'
+p1183
+sa(dp1184
+g2
+S'http://www.reuters.com/article/globalMarketsNews/idUSTRE4BD15O20081214'
+p1185
+sg4
+S'20081214\xc2\xa010:01 AM EST'
+p1186
+sg6
+S'Fed cuts to mark pre-Xmas trading'
+p1187
+sa(dp1188
+g2
+S'http://www.reuters.com/article/pressRelease/idUS60321+14-Dec-2008+PRN20081214'
+p1189
+sg4
+S'20081214\xc2\xa010:00 AM EST'
+p1190
+sg6
+S'Following Is a Test Release'
+p1191
+sa(dp1192
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSLE499617'
+p1193
+sg4
+S'20081214\xc2\xa009:56 AM EST'
+p1194
+sg6
+S'Bush makes farewell visit to Iraq'
+p1195
+sa(dp1196
+g2
+S'http://www.reuters.com/article/bondsNews/idUSN1448762720081214'
+p1197
+sg4
+S'20081214\xc2\xa009:49 AM EST'
+p1198
+sg6
+S'Brazil to spur housing, infrastructure - minister'
+p1199
+sa(dp1200
+g2
+S'http://www.reuters.com/article/rbssRetailSpecialty/idUSLE43704720081214'
+p1201
+sg4
+S'20081214\xc2\xa009:47 AM EST'
+p1202
+sg6
+S'German retailers see solid Christmas business'
+p1203
+sa(dp1204
+g2
+S'http://www.reuters.com/article/newsMaps/idUSTRE4BD11820081214'
+p1205
+sg4
+S'20081214\xc2\xa009:42 AM EST'
+p1206
+sg6
+S'Hamas warns Israel truce coming to end'
+p1207
+sa(dp1208
+g2
+S'http://www.reuters.com/article/homepageCrisis/idUSLE441199._CH_.2400'
+p1209
+sg4
+S'20081214\xc2\xa009:42 AM EST'
+p1210
+sg6
+S'Hamas warns Israel truce coming to end'
+p1211
+sa(dp1212
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSLE405921'
+p1213
+sg4
+S'20081214\xc2\xa009:40 AM EST'
+p1214
+sg6
+S'FACTBOX-Security developments in Iraq, Dec 14'
+p1215
+sa(dp1216
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSLE448639'
+p1217
+sg4
+S'20081214\xc2\xa009:34 AM EST'
+p1218
+sg6
+S'TIMELINE-U.S. President Bush makes farewell visit to Iraq'
+p1219
+sa(dp1220
+g2
+S'http://www.reuters.com/article/pressRelease/idUS58241+14-Dec-2008+PRN20081214'
+p1221
+sg4
+S'20081214\xc2\xa009:30 AM EST'
+p1222
+sg6
+S'Following Is a Test Release'
+p1223
+sa(dp1224
+g2
+S'http://www.reuters.com/article/companyNewsAndPR/idUSN1446809720081214'
+p1225
+sg4
+S'20081214\xc2\xa009:17 AM EST'
+p1226
+sg6
+S'Blagojevich may quit on Monday - Illinois official'
+p1227
+sa(dp1228
+g2
+S'http://www.reuters.com/article/environmentNews/idUSTRE4B519W20081214'
+p1229
+sg4
+S'20081214\xc2\xa009:03 AM EST'
+p1230
+sg6
+S'Rich-poor rift adds hurdles to climate deal'
+p1231
+sa(dp1232
+g2
+S'http://www.reuters.com/article/pressRelease/idUS56439+14-Dec-2008+PRN20081214'
+p1233
+sg4
+S'20081214\xc2\xa009:01 AM EST'
+p1234
+sg6
+S"Wreaths Decorate Veterans' Graves Nationwide"
+p1235
+sa(dp1236
+g2
+S'http://www.reuters.com/article/pressRelease/idUS56365+14-Dec-2008+PRN20081214'
+p1237
+sg4
+S'20081214\xc2\xa009:00 AM EST'
+p1238
+sg6
+S"Santa's Sleigh this Year will be a Harley: Media Invitation to Join Santa at the..."
+p1239
+sa(dp1240
+g2
+S'http://www.reuters.com/article/pressRelease/idUS56369+14-Dec-2008+PRN20081214'
+p1241
+sg4
+S'20081214\xc2\xa009:00 AM EST'
+p1242
+sg6
+S'Following Is a Test Release'
+p1243
+sa(dp1244
+g2
+S'http://www.reuters.com/article/reutersEdge/idUSTRE4BD0YB20081214'
+p1245
+sg4
+S'20081214\xc2\xa008:59 AM EST'
+p1246
+sg6
+S'Zoellick warns finance rescues may hurt poor'
+p1247
+sa(dp1248
+g2
+S'http://www.reuters.com/article/homepageCrisis/idUSLE576906._CH_.2400'
+p1249
+sg4
+S'20081214\xc2\xa008:58 AM EST'
+p1250
+sg6
+S'Rich-poor rift adds hurdles to climate deal'
+p1251
+sa(dp1252
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSLE576906'
+p1253
+sg4
+S'20081214\xc2\xa008:58 AM EST'
+p1254
+sg6
+S'Rich-poor rift adds hurdles to climate deal'
+p1255
+sa(dp1256
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSPEK152594'
+p1257
+sg4
+S'20081214\xc2\xa008:58 AM EST'
+p1258
+sg6
+S'INTERVIEW-Zoellick warns finance rescues may hurt poor'
+p1259
+sa(dp1260
+g2
+S'http://www.reuters.com/article/rbssInvestmentServices/idUSLE41028620081214'
+p1261
+sg4
+S'20081214\xc2\xa008:53 AM EST'
+p1262
+sg6
+S'Egypt markets down slightly in low volume'
+p1263
+sa(dp1264
+g2
+S'http://www.reuters.com/article/rbssSemiconductors/idUSLE42858420081214'
+p1265
+sg4
+S'20081214\xc2\xa008:51 AM EST'
+p1266
+sg6
+S'Infineon may aid Qimonda with $66 mln-paper'
+p1267
+sa(dp1268
+g2
+S'http://www.reuters.com/article/sportsNews/idUSTRE4BD0ZI20081214'
+p1269
+sg4
+S'20081214\xc2\xa008:39 AM EST'
+p1270
+sg6
+S'Impressive Riesch wins La Molina slalom'
+p1271
+sa(dp1272
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSLE398703'
+p1273
+sg4
+S'20081214\xc2\xa008:38 AM EST'
+p1274
+sg6
+S'Greek government under fire over handling of riots'
+p1275
+sa(dp1276
+g2
+S'http://www.reuters.com/article/africaCrisis/idUSLE425337'
+p1277
+sg4
+S'20081214\xc2\xa008:32 AM EST'
+p1278
+sg6
+S'Somali president sacks prime minister'
+p1279
+sa(dp1280
+g2
+S'http://www.reuters.com/article/pressRelease/idUS55096+14-Dec-2008+PRN20081214'
+p1281
+sg4
+S'20081214\xc2\xa008:30 AM EST'
+p1282
+sg6
+S'Following Is a Test Release'
+p1283
+sa(dp1284
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSN14487467'
+p1285
+sg4
+S'20081214\xc2\xa008:29 AM EST'
+p1286
+sg6
+S'Bush makes farewell visit to Iraq'
+p1287
+sa(dp1288
+g2
+S'http://www.reuters.com/article/rbssRetailDepartmentStores/idUSL246299120081214'
+p1289
+sg4
+S'20081214\xc2\xa008:29 AM EST'
+p1290
+sg6
+S"UK retailer John Lewis's weekly sales dip"
+p1291
+sa(dp1292
+g2
+S'http://www.reuters.com/article/rbssInvestmentServices/idUSLE42741720081214'
+p1293
+sg4
+S'20081214\xc2\xa008:26 AM EST'
+p1294
+sg6
+S'Tel Aviv bourse to shorten trading day as of Jan 1'
+p1295
+sa(dp1296
+g2
+S'http://www.reuters.com/article/rbssAutoTruckMotorcycleParts/idUSLE42046020081214'
+p1297
+sg4
+S'20081214\xc2\xa008:24 AM EST'
+p1298
+sg6
+S'Schaeffler wants quick move onto Conti board-paper'
+p1299
+sa(dp1300
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSN14487480'
+p1301
+sg4
+S'20081214\xc2\xa008:16 AM EST'
+p1302
+sg6
+S'Bush makes farewell visit to Iraq'
+p1303
+sa(dp1304
+g2
+S'http://www.reuters.com/article/pressRelease/idUS54386+14-Dec-2008+PRN20081214'
+p1305
+sg4
+S'20081214\xc2\xa008:09 AM EST'
+p1306
+sg6
+S"RNC Launches New Web Video: 'Questions Remain'"
+p1307
+sa(dp1308
+g2
+S'http://www.reuters.com/article/rbssBanks/idUSLE40033020081214'
+p1309
+sg4
+S'20081214\xc2\xa008:06 AM EST'
+p1310
+sg6
+S'Irish govt set to invest billions in banks - paper'
+p1311
+sa(dp1312
+g2
+S'http://www.reuters.com/article/pressRelease/idUS54118+14-Dec-2008+MW20081214'
+p1313
+sg4
+S'20081214\xc2\xa008:01 AM EST'
+p1314
+sg6
+S' Reminder - Cisco to Share Report Reviewing Security Incidents of 2008, Emerging Threats for 2009'
+p1315
+sa(dp1316
+g2
+S'http://www.reuters.com/article/pressRelease/idUS54072+14-Dec-2008+PRN20081214'
+p1317
+sg4
+S'20081214\xc2\xa008:00 AM EST'
+p1318
+sg6
+S'Following Is a Test Release'
+p1319
+sa(dp1320
+g2
+S'http://www.reuters.com/article/pressRelease/idUS54070+14-Dec-2008+PRN20081214'
+p1321
+sg4
+S'20081214\xc2\xa008:00 AM EST'
+p1322
+sg6
+S'Three Clinical Studies of bioTheranostics Molecular Breast Cancer Diagnostics Presented...'
+p1323
+sa(dp1324
+g2
+S'http://www.reuters.com/article/pressRelease/idUS54063+14-Dec-2008+BW20081214'
+p1325
+sg4
+S'20081214\xc2\xa008:00 AM EST'
+p1326
+sg6
+S'Sew Cal Logo Selected to Provide Commemorative Shirts for the Rose Bowl Bound U.S.C. Trojans and Joe Paterno\xe2\x80\x99s Penn State Nittany Lions'
+p1327
+sa(dp1328
+g2
+S'http://www.reuters.com/article/newsMaps/idUSTRE4BD0XM20081214'
+p1329
+sg4
+S'20081214\xc2\xa007:50 AM EST'
+p1330
+sg6
+S'Zimbabwe publishes law for unity government'
+p1331
+sa(dp1332
+g2
+S'http://www.reuters.com/article/homepageCrisis/idUS122933737480._CH_.2400'
+p1333
+sg4
+S'20081214\xc2\xa007:49 AM EST'
+p1334
+sg6
+S'Zimbabwe publishes law for unity government'
+p1335
+sa(dp1336
+g2
+S'http://www.reuters.com/article/africaCrisis/idUS122933737480'
+p1337
+sg4
+S'20081214\xc2\xa007:49 AM EST'
+p1338
+sg6
+S'Zimbabwe publishes law for unity government'
+p1339
+sa(dp1340
+g2
+S'http://www.reuters.com/article/worldNews/idUSTRE4BD0XF20081214'
+p1341
+sg4
+S'20081214\xc2\xa007:48 AM EST'
+p1342
+sg6
+S'U.S. to build cyclone shelters in Bangladesh'
+p1343
+sa(dp1344
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSDHA290223'
+p1345
+sg4
+S'20081214\xc2\xa007:44 AM EST'
+p1346
+sg6
+S'U.S to build cyclone shelters in Bangladesh'
+p1347
+sa(dp1348
+g2
+S'http://www.reuters.com/article/companyNewsAndPR/idUSJAK18373320081214'
+p1349
+sg4
+S'20081214\xc2\xa007:44 AM EST'
+p1350
+sg6
+S'UPDATE 2-Indonesian president announces cuts in fuel prices'
+p1351
+sa(dp1352
+g2
+S'http://www.reuters.com/article/bondsNews/idUSSP36129920081214'
+p1353
+sg4
+S'20081214\xc2\xa007:43 AM EST'
+p1354
+sg6
+S'UPDATE 3-China eyes 17 pct money supply growth in 2009'
+p1355
+sa(dp1356
+g2
+S'http://www.reuters.com/article/healthNews/idUSTRE4BD0X120081214'
+p1357
+sg4
+S'20081214\xc2\xa007:35 AM EST'
+p1358
+sg6
+S'Indian state to kill 200,000 fowl in bird flu cull'
+p1359
+sa(dp1360
+g2
+S'http://www.reuters.com/article/topNews/idUSTRE4BD0QL20081214'
+p1361
+sg4
+S'20081214\xc2\xa007:31 AM EST'
+p1362
+sg6
+S'TIMELINE: Islamists close in on Somali capital'
+p1363
+sa(dp1364
+g2
+S'http://www.reuters.com/article/pressRelease/idUS53138+14-Dec-2008+PRN20081214'
+p1365
+sg4
+S'20081214\xc2\xa007:30 AM EST'
+p1366
+sg6
+S'Following Is a Test Release'
+p1367
+sa(dp1368
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSLE187207'
+p1369
+sg4
+S'20081214\xc2\xa007:27 AM EST'
+p1370
+sg6
+S'TIMELINE-Islamists close in on Somali capital'
+p1371
+sa(dp1372
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSLE69533'
+p1373
+sg4
+S'20081214\xc2\xa007:24 AM EST'
+p1374
+sg6
+S'FACTBOX-Military and civilian deaths in Iraq'
+p1375
+sa(dp1376
+g2
+S'http://www.reuters.com/article/homepageCrisis/idUSLE374226._CH_.2400'
+p1377
+sg4
+S'20081214\xc2\xa007:23 AM EST'
+p1378
+sg6
+S'Somali president sacks prime minister'
+p1379
+sa(dp1380
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSLE374226'
+p1381
+sg4
+S'20081214\xc2\xa007:23 AM EST'
+p1382
+sg6
+S'Somali president sacks prime minister'
+p1383
+sa(dp1384
+g2
+S'http://www.reuters.com/article/rbssBroadcasting/idUSL246324920081214'
+p1385
+sg4
+S'20081214\xc2\xa007:18 AM EST'
+p1386
+sg6
+S'Setanta in funding talks for UK soccer TV - report'
+p1387
+sa(dp1388
+g2
+S'http://www.reuters.com/article/rbssBanks/idUSLE39964220081214'
+p1389
+sg4
+S'20081214\xc2\xa007:14 AM EST'
+p1390
+sg6
+S'Caixa Catalunya selling 824 bank branches - paper'
+p1391
+sa(dp1392
+g2
+S'http://www.reuters.com/article/rbssAirlines/idUSLE40456420081214'
+p1393
+sg4
+S'20081214\xc2\xa007:11 AM EST'
+p1394
+sg6
+S'Lufthansa resumes talks to buy SAS stake-paper'
+p1395
+sa(dp1396
+g2
+S'http://www.reuters.com/article/reutersEdge/idUSTRE4BD02420081214'
+p1397
+sg4
+S'20081214\xc2\xa007:11 AM EST'
+p1398
+sg6
+S'WITNESS: Living in U.S. is reminder of Asian crisis'
+p1399
+sa(dp1400
+g2
+S'http://www.reuters.com/article/newsMaps/idUSTRE4BD0TF20081214'
+p1401
+sg4
+S'20081214\xc2\xa007:05 AM EST'
+p1402
+sg6
+S'South Africa ANC uses apartheid-style intimidation: rivals'
+p1403
+sa(dp1404
+g2
+S'http://www.reuters.com/article/newsMaps/idUSTRE4BD0V520081214'
+p1405
+sg4
+S'20081214\xc2\xa007:05 AM EST'
+p1406
+sg6
+S'Q+A: What prospects for South African breakaway party?'
+p1407
+sa(dp1408
+g2
+S'http://www.reuters.com/article/rbssEngineeringConstruction/idUSLE40565920081214'
+p1409
+sg4
+S'20081214\xc2\xa007:03 AM EST'
+p1410
+sg6
+S"Egypt's OCI announces share buyback programme"
+p1411
+sa(dp1412
+g2
+S'http://www.reuters.com/article/pressRelease/idUS52275+14-Dec-2008+PRN20081214'
+p1413
+sg4
+S'20081214\xc2\xa007:00 AM EST'
+p1414
+sg6
+S'Following Is a Test Release'
+p1415
+sa(dp1416
+g2
+S'http://www.reuters.com/article/topNews/idUSTRE4BD0UI20081214'
+p1417
+sg4
+S'20081214\xc2\xa006:58 AM EST'
+p1418
+sg6
+S'FACTBOX: Violence targeting aid workers in Somalia'
+p1419
+sa(dp1420
+g2
+S'http://www.reuters.com/article/bondsNews/idUSPEK15098620081214'
+p1421
+sg4
+S'20081214\xc2\xa006:58 AM EST'
+p1422
+sg6
+S"China's premier says stimulus moves not over-media"
+p1423
+sa(dp1424
+g2
+S'http://www.reuters.com/article/companyNewsAndPR/idUSLE40851220081214'
+p1425
+sg4
+S'20081214\xc2\xa006:58 AM EST'
+p1426
+sg6
+S'Q+A - What prospects for South African breakaway party?'
+p1427
+sa(dp1428
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSLE304952'
+p1429
+sg4
+S'20081214\xc2\xa006:53 AM EST'
+p1430
+sg6
+S'FACTBOX-Violence targeting aid workers in Somalia'
+p1431
+sa(dp1432
+g2
+S'http://www.reuters.com/article/rbssFoodProcessing/idUSL246542220081214'
+p1433
+sg4
+S'20081214\xc2\xa006:42 AM EST'
+p1434
+sg6
+S'Premier Foods seeking to raise 700 mln pounds - reports'
+p1435
+sa(dp1436
+g2
+S'http://www.reuters.com/article/GCA-Economy/idUSTRE4BD0T720081214'
+p1437
+sg4
+S'20081214\xc2\xa006:33 AM EST'
+p1438
+sg6
+S'UAE economy poised for abrupt slowdown amid job cuts'
+p1439
+sa(dp1440
+g2
+S'http://www.reuters.com/article/pressRelease/idUS51523+14-Dec-2008+BW20081214'
+p1441
+sg4
+S'20081214\xc2\xa006:32 AM EST'
+p1442
+sg6
+S'Information regarding Gemalto U.S. offer for Wavecom'
+p1443
+sa(dp1444
+g2
+S'http://www.reuters.com/article/pressRelease/idUS51477+14-Dec-2008+PRN20081214'
+p1445
+sg4
+S'20081214\xc2\xa006:30 AM EST'
+p1446
+sg6
+S'Following Is a Test Release'
+p1447
+sa(dp1448
+g2
+S'http://www.reuters.com/article/pressRelease/idUS50458+14-Dec-2008+PRN20081214'
+p1449
+sg4
+S'20081214\xc2\xa006:00 AM EST'
+p1450
+sg6
+S'Following Is a Test Release'
+p1451
+sa(dp1452
+g2
+S'http://www.reuters.com/article/pressRelease/idUS50413+14-Dec-2008+PRN20081214'
+p1453
+sg4
+S'20081214\xc2\xa005:59 AM EST'
+p1454
+sg6
+S'GOOD MORNING -- December 14, 2008'
+p1455
+sa(dp1456
+g2
+S'http://www.reuters.com/article/ousiv/idUSTRE4BD0SC20081214'
+p1457
+sg4
+S'20081214\xc2\xa005:55 AM EST'
+p1458
+sg6
+S'Elad, IDB seek to postpone Las Vegas loan repayment'
+p1459
+sa(dp1460
+g2
+S'http://www.reuters.com/article/rbssIntegratedTelecommunicationsServices/idUSLE56982520081214'
+p1461
+sg4
+S'20081214\xc2\xa005:54 AM EST'
+p1462
+sg6
+S'Elad, IDB seek to postpone Las Vegas loan repayment'
+p1463
+sa(dp1464
+g2
+S'http://www.reuters.com/article/topNews/idUSTRE4BD0S220081214'
+p1465
+sg4
+S'20081214\xc2\xa005:52 AM EST'
+p1466
+sg6
+S'Merkel dampens hopes of fresh German stimulus soon'
+p1467
+sa(dp1468
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSLE395302'
+p1469
+sg4
+S'20081214\xc2\xa005:48 AM EST'
+p1470
+sg6
+S'Egyptian bus plunges into canal, at least 35 dead'
+p1471
+sa(dp1472
+g2
+S'http://www.reuters.com/article/companyNewsAndPR/idUSLE39117720081214'
+p1473
+sg4
+S'20081214\xc2\xa005:47 AM EST'
+p1474
+sg6
+S'Merkel dampens hopes of fresh German stimulus soon'
+p1475
+sa(dp1476
+g2
+S'http://www.reuters.com/article/rbssInvestmentServices/idUSLE38276420081214'
+p1477
+sg4
+S'20081214\xc2\xa005:44 AM EST'
+p1478
+sg6
+S"Kuwait's Dar says studying offers for Aston Martin"
+p1479
+sa(dp1480
+g2
+S'http://www.reuters.com/article/GCA-Oil/idUSTRE4BD0RV20081214'
+p1481
+sg4
+S'20081214\xc2\xa005:34 AM EST'
+p1482
+sg6
+S'Iran says to propose OPEC oil cut of 1.5-2 mln bpd'
+p1483
+sa(dp1484
+g2
+S'http://www.reuters.com/article/pressRelease/idUS48622+14-Dec-2008+PRN20081214'
+p1485
+sg4
+S'20081214\xc2\xa005:30 AM EST'
+p1486
+sg6
+S'Following Is a Test Release'
+p1487
+sa(dp1488
+g2
+S'http://www.reuters.com/article/rbssBanks/idUSLE38416320081214'
+p1489
+sg4
+S'20081214\xc2\xa005:26 AM EST'
+p1490
+sg6
+S'Bank of Spain, CNMV assess Madoff impact - paper'
+p1491
+sa(dp1492
+g2
+S'http://www.reuters.com/article/rbssBanks/idUSLE37309920081214'
+p1493
+sg4
+S'20081214\xc2\xa005:14 AM EST'
+p1494
+sg6
+S"Midroog cuts ratings for Israeli banks' notes"
+p1495
+sa(dp1496
+g2
+S'http://www.reuters.com/article/pressRelease/idUS47105+14-Dec-2008+MW20081214'
+p1497
+sg4
+S'20081214\xc2\xa005:05 AM EST'
+p1498
+sg6
+S' Demelza Hospice Care for Children Calls for Fair VAT Treatment of Charities'
+p1499
+sa(dp1500
+g2
+S'http://www.reuters.com/article/pressRelease/idUS46782+14-Dec-2008+PRN20081214'
+p1501
+sg4
+S'20081214\xc2\xa005:00 AM EST'
+p1502
+sg6
+S'Following Is a Test Release'
+p1503
+sa(dp1504
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSB11305'
+p1505
+sg4
+S'20081214\xc2\xa005:00 AM EST'
+p1506
+sg6
+S'Reuters quote of the day, December 14'
+p1507
+sa(dp1508
+g2
+S'http://www.reuters.com/article/rbssInvestmentServices/idUSLE34205320081214'
+p1509
+sg4
+S'20081214\xc2\xa004:58 AM EST'
+p1510
+sg6
+S"Egypt's EFG-Hermes buys back 5 mln shares"
+p1511
+sa(dp1512
+g2
+S'http://www.reuters.com/article/reutersEdge/idUSTRE4BD0OM20081214'
+p1513
+sg4
+S'20081214\xc2\xa004:57 AM EST'
+p1514
+sg6
+S'Sarkozy shines as EU leader in troubled times'
+p1515
+sa(dp1516
+g2
+S'http://www.reuters.com/article/newsMaps/idUSTRE4BD0OC20081214'
+p1517
+sg4
+S'20081214\xc2\xa004:55 AM EST'
+p1518
+sg6
+S'FACTBOX: Military deaths in Afghanistan'
+p1519
+sa(dp1520
+g2
+S'http://www.reuters.com/article/sportsNews/idUSTRE4BD0LQ20081214'
+p1521
+sg4
+S'20081214\xc2\xa004:50 AM EST'
+p1522
+sg6
+S"Men's slalom in Val d'Isere postponed"
+p1523
+sa(dp1524
+g2
+S'http://www.reuters.com/article/GCA-Oil/idUSTRE4BD0N920081214'
+p1525
+sg4
+S'20081214\xc2\xa004:47 AM EST'
+p1526
+sg6
+S'Soldiers to withdraw after shooting in Sudan oil town'
+p1527
+sa(dp1528
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSB360885'
+p1529
+sg4
+S'20081214\xc2\xa004:44 AM EST'
+p1530
+sg6
+S'Soldiers to withdraw after shooting in Sudan oil town'
+p1531
+sa(dp1532
+g2
+S'http://www.reuters.com/article/homepageCrisis/idUSB360885._CH_.2400'
+p1533
+sg4
+S'20081214\xc2\xa004:44 AM EST'
+p1534
+sg6
+S'Soldiers to withdraw after shooting in Sudan oil town'
+p1535
+sa(dp1536
+g2
+S'http://www.reuters.com/article/newsMaps/idUSTRE4BD0MN20081214'
+p1537
+sg4
+S'20081214\xc2\xa004:43 AM EST'
+p1538
+sg6
+S'FACTBOX: Security developments in Afghanistan, Dec 14'
+p1539
+sa(dp1540
+g2
+S'http://www.reuters.com/article/pressRelease/idUS44281+14-Dec-2008+PRN20081214'
+p1541
+sg4
+S'20081214\xc2\xa004:30 AM EST'
+p1542
+sg6
+S'Following Is a Test Release'
+p1543
+sa(dp1544
+g2
+S'http://www.reuters.com/article/rbssAdvertisingMarketing/idUST14035120081214'
+p1545
+sg4
+S'20081214\xc2\xa004:11 AM EST'
+p1546
+sg6
+S'Dentsu to make push in Russia ad market-source'
+p1547
+sa(dp1548
+g2
+S'http://www.reuters.com/article/pressRelease/idUS42313+14-Dec-2008+PRN20081214'
+p1549
+sg4
+S'20081214\xc2\xa004:00 AM EST'
+p1550
+sg6
+S'Following Is a Test Release'
+p1551
+sa(dp1552
+g2
+S'http://www.reuters.com/article/pressRelease/idUS40345+14-Dec-2008+PRN20081214'
+p1553
+sg4
+S'20081214\xc2\xa003:30 AM EST'
+p1554
+sg6
+S'Following Is a Test Release'
+p1555
+sa(dp1556
+g2
+S'http://www.reuters.com/article/sportsNews/idUSTRE4BD0DZ20081214'
+p1557
+sg4
+S'20081214\xc2\xa003:11 AM EST'
+p1558
+sg6
+S'Clark wins unlikely playoff to take Australian Open title'
+p1559
+sa(dp1560
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSSP347945'
+p1561
+sg4
+S'20081214\xc2\xa003:10 AM EST'
+p1562
+sg6
+S'British PM Brown blames Pakistan militants over Mumbai'
+p1563
+sa(dp1564
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSLE374076'
+p1565
+sg4
+S'20081214\xc2\xa003:03 AM EST'
+p1566
+sg6
+S'Somali president sacks prime minister'
+p1567
+sa(dp1568
+g2
+S'http://www.reuters.com/article/pressRelease/idUS38134+14-Dec-2008+PRN20081214'
+p1569
+sg4
+S'20081214\xc2\xa003:00 AM EST'
+p1570
+sg6
+S'Following Is a Test Release'
+p1571
+sa(dp1572
+g2
+S'http://www.reuters.com/article/companyNewsAndPR/idUSPEK13428220081214'
+p1573
+sg4
+S'20081214\xc2\xa002:53 AM EST'
+p1574
+sg6
+S'UPDATE 1-China eyes 17 pct money supply growth in 2009'
+p1575
+sa(dp1576
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSISL411623'
+p1577
+sg4
+S'20081214\xc2\xa002:45 AM EST'
+p1578
+sg6
+S'British police may seek to question Mumbai gunman'
+p1579
+sa(dp1580
+g2
+S'http://www.reuters.com/article/environmentNews/idUSTRE4BD09520081214'
+p1581
+sg4
+S'20081214\xc2\xa002:39 AM EST'
+p1582
+sg6
+S'Australia brings forward A$500 million green energy fund'
+p1583
+sa(dp1584
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSB370272'
+p1585
+sg4
+S'20081214\xc2\xa002:37 AM EST'
+p1586
+sg6
+S'Australia brings forward A$500 mln green energy fund'
+p1587
+sa(dp1588
+g2
+S'http://www.reuters.com/article/newsMaps/idUSTRE4BD0GE20081214'
+p1589
+sg4
+S'20081214\xc2\xa002:36 AM EST'
+p1590
+sg6
+S'Thai opposition Democrats favored to win PM vote'
+p1591
+sa(dp1592
+g2
+S'http://www.reuters.com/article/newsMaps/idUSTRE4BD0GY20081214'
+p1593
+sg4
+S'20081214\xc2\xa002:36 AM EST'
+p1594
+sg6
+S'FACTBOX: Abhisit Vejjajiva, favorite for Thai PM'
+p1595
+sa(dp1596
+g2
+S'http://www.reuters.com/article/pressRelease/idUS35580+14-Dec-2008+PRN20081214'
+p1597
+sg4
+S'20081214\xc2\xa002:30 AM EST'
+p1598
+sg6
+S'Following Is a Test Release'
+p1599
+sa(dp1600
+g2
+S'http://www.reuters.com/article/OILPRD/idUSLE36809820081214'
+p1601
+sg4
+S'20081214\xc2\xa002:27 AM EST'
+p1602
+sg6
+S"UAE'S Dolphin to issue $1 bln bond in 2009 -MEED"
+p1603
+sa(dp1604
+g2
+S'http://www.reuters.com/article/newsMaps/idUSLD30917820081214'
+p1605
+sg4
+S'20081214\xc2\xa002:22 AM EST'
+p1606
+sg6
+S'India denies any violation of Pakistani airspace'
+p1607
+sa(dp1608
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSSP326786'
+p1609
+sg4
+S'20081214\xc2\xa002:21 AM EST'
+p1610
+sg6
+S'India denies any violation of Pakistani airspace'
+p1611
+sa(dp1612
+g2
+S'http://www.reuters.com/article/businessNews/idUSTRE4BD0FM20081214'
+p1613
+sg4
+S'20081214\xc2\xa002:14 AM EST'
+p1614
+sg6
+S"OPEC's Khelil, a pragmatic leader in testing times"
+p1615
+sa(dp1616
+g2
+S'http://www.reuters.com/article/reutersComService_2_MOLT/idUSTRE4BD0FH20081214'
+p1617
+sg4
+S'20081214\xc2\xa002:13 AM EST'
+p1618
+sg6
+S"OPEC's Khelil, a pragmatic leader in testing times"
+p1619
+sa(dp1620
+g2
+S'http://www.reuters.com/article/pressRelease/idUS33268+14-Dec-2008+PRN20081214'
+p1621
+sg4
+S'20081214\xc2\xa002:00 AM EST'
+p1622
+sg6
+S'Following Is a Test Release'
+p1623
+sa(dp1624
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSSP354511'
+p1625
+sg4
+S'20081214\xc2\xa001:55 AM EST'
+p1626
+sg6
+S'India denies any violation of Pakistani airspace'
+p1627
+sa(dp1628
+g2
+S'http://www.reuters.com/article/newsMaps/idUSTRE4BD0CV20081214'
+p1629
+sg4
+S'20081214\xc2\xa001:52 AM EST'
+p1630
+sg6
+S"UK's Brown blames Pakistani militants for Mumbai"
+p1631
+sa(dp1632
+g2
+S'http://www.reuters.com/article/pressRelease/idUS32049+14-Dec-2008+PRN20081214'
+p1633
+sg4
+S'20081214\xc2\xa001:46 AM EST'
+p1634
+sg6
+S'TimberWest Forest Corp. Announces $150 Million Private Placement and Rights offering...'
+p1635
+sa(dp1636
+g2
+S'http://www.reuters.com/article/rbssWirelessTelecommunicationServices/idUSL75541720081214'
+p1637
+sg4
+S'20081214\xc2\xa001:45 AM EST'
+p1638
+sg6
+S'DIARY - Egypt/Sudan - Dec 14'
+p1639
+sa(dp1640
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSDEL264841'
+p1641
+sg4
+S'20081214\xc2\xa001:44 AM EST'
+p1642
+sg6
+S"UK's Brown blames Pakistani militants for Mumbai"
+p1643
+sa(dp1644
+g2
+S'http://www.reuters.com/article/worldNews/idUSTRE4BD0C820081214'
+p1645
+sg4
+S'20081214\xc2\xa001:41 AM EST'
+p1646
+sg6
+S'Dozens injured in Hong Kong from dropped acid'
+p1647
+sa(dp1648
+g2
+S'http://www.reuters.com/article/newsMaps/idUSTRE4BD0BM20081214'
+p1649
+sg4
+S'20081214\xc2\xa001:35 AM EST'
+p1650
+sg6
+S"North Korea ups border punishments after Kim's illness"
+p1651
+sa(dp1652
+g2
+S'http://www.reuters.com/article/homepageCrisis/idUSSEO137447._CH_.2400'
+p1653
+sg4
+S'20081214\xc2\xa001:31 AM EST'
+p1654
+sg6
+S"N.Korea ups border punishments after Kim's illness"
+p1655
+sa(dp1656
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSSEO137447'
+p1657
+sg4
+S'20081214\xc2\xa001:31 AM EST'
+p1658
+sg6
+S"N.Korea ups border punishments after Kim's illness"
+p1659
+sa(dp1660
+g2
+S'http://www.reuters.com/article/pressRelease/idUS31441+14-Dec-2008+PRN20081214'
+p1661
+sg4
+S'20081214\xc2\xa001:30 AM EST'
+p1662
+sg6
+S'Following Is a Test Release'
+p1663
+sa(dp1664
+g2
+S'http://www.reuters.com/article/pressRelease/idUS30931+14-Dec-2008+PRN20081214'
+p1665
+sg4
+S'20081214\xc2\xa001:00 AM EST'
+p1666
+sg6
+S'Following Is a Test Release'
+p1667
+sa(dp1668
+g2
+S'http://www.reuters.com/article/sportsNews/idUSTRE4BD06L20081214'
+p1669
+sg4
+S'20081214\xc2\xa012:58 AM EST'
+p1670
+sg6
+S"Hawks end Cavaliers' 11-game winning streak"
+p1671
+sa(dp1672
+g2
+S'http://www.reuters.com/article/latestCrisis/idUSISL292087'
+p1673
+sg4
+S'20081214\xc2\xa012:33 AM EST'
+p1674
+sg6
+S'Suicide bomb kills 4 policemen in Afghanistan'
+p1675
+sa(dp1676
+g2
+S'http://www.reuters.com/article/pressRelease/idUS30143+14-Dec-2008+PRN20081214'
+p1677
+sg4
+S'20081214\xc2\xa012:30 AM EST'
+p1678
+sg6
+S'Following Is a Test Release'
+p1679
+sa(dp1680
+g2
+S'http://www.reuters.com/article/sportsNews/idUSTRE4BD09C20081214'
+p1681
+sg4
+S'20081214\xc2\xa012:08 AM EST'
+p1682
+sg6
+S'Goalie Varlamov leads Caps by Canadiens on debut'
+p1683
+sa(dp1684
+g2
+S'http://www.reuters.com/article/pressRelease/idUS28750+14-Dec-2008+BW20081214'
+p1685
+sg4
+S'20081214\xc2\xa012:01 AM EST'
+p1686
+sg6
+S'Census Bureau Daily Feature for Sunday, December 14: Margaret Chase Smith'
+p1687
+sa(dp1688
+g2
+S'http://www.reuters.com/article/companyNewsAndPR/idUSLE35593820081214'
+p1689
+sg4
+S'20081214\xc2\xa012:00 AM EST'
+p1690
+sg6
+S'PRESS DIGEST - British business - Dec 14'
+p1691
+sa(dp1692
+g2
+S'http://www.reuters.com/article/pressRelease/idUS28708+14-Dec-2008+PRN20081214'
+p1693
+sg4
+S'20081214\xc2\xa012:00 AM EST'
+p1694
+sg6
+S'Following Is a Test Release'
+p1695
+sa(dp1696
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=ftpo1228961558087'
+p1697
+sg4
+S'20081214\xc2\xa007:34 PM EST'
+p1698
+sg6
+S'Protests greet new Thai PM'
+p1699
+sa(dp1700
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=WAO1228958972777'
+p1701
+sg4
+S'20081214\xc2\xa002:08 PM EST'
+p1702
+sg6
+S'Bush ducks flying shoes'
+p1703
+sa(dp1704
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=WAO1228958972772'
+p1705
+sg4
+S'20081214\xc2\xa001:19 PM EST'
+p1706
+sg6
+S'Hamas comes of age'
+p1707
+sa(dp1708
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=WAO1228958972767'
+p1709
+sg4
+S'20081214\xc2\xa001:10 PM EST'
+p1710
+sg6
+S'Ice storms devastate north-east US'
+p1711
+sa(dp1712
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=WAO1228958972762'
+p1713
+sg4
+S'20081214\xc2\xa012:52 PM EST'
+p1714
+sg6
+S'Captive doctor freed'
+p1715
+sa(dp1716
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=ftpo1228961558052'
+p1717
+sg4
+S'20081214\xc2\xa012:42 PM EST'
+p1718
+sg6
+S'UK Brown in Mumbai peace bid'
+p1719
+sa(dp1720
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=WAO1228958972757'
+p1721
+sg4
+S'20081214\xc2\xa012:27 PM EST'
+p1722
+sg6
+S'African farmers increase '
+p1723
+sa(dp1724
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=WAO1228958972752'
+p1725
+sg4
+S'20081214\xc2\xa012:14 PM EST'
+p1726
+sg6
+S'S.A. approve elephant culling'
+p1727
+sa(dp1728
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=WAO1228958972742'
+p1729
+sg4
+S'20081214\xc2\xa011:41 AM EST'
+p1730
+sg6
+S'Riots erupt again in Athens'
+p1731
+sa(dp1732
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=WAO1228958972727'
+p1733
+sg4
+S'20081214\xc2\xa011:21 AM EST'
+p1734
+sg6
+S'Bush on secret visit to Iraq'
+p1735
+sa(dp1736
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=ftpo1228961558042'
+p1737
+sg4
+S'20081214\xc2\xa011:21 AM EST'
+p1738
+sg6
+S"China navy's anti piracy drill"
+p1739
+sa(dp1740
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=ftpo1228961558037'
+p1741
+sg4
+S'20081214\xc2\xa010:38 AM EST'
+p1742
+sg6
+S'Giant sandwich attempt'
+p1743
+sa.

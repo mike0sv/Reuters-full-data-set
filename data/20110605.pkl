@@ -1,0 +1,5045 @@
+(lp0
+(dp1
+S'href'
+p2
+S'http://www.reuters.com/article/2011/06/06/philippines-economy-banks-idUSL3E7H606D20110606'
+p3
+sS'ts'
+p4
+S'20110605\xc2\xa011:57PM UTC'
+p5
+sS'title'
+p6
+S'Philippine c.bank lifts bank branching ban in capital'
+p7
+sa(dp8
+g2
+S'http://www.reuters.com/article/2011/06/06/airlines-airbus-a-idUSLDE75500V20110606'
+p9
+sg4
+S'20110605\xc2\xa011:56PM UTC'
+p10
+sg6
+S'Rolls to build new engine for A350 -sources'
+p11
+sa(dp12
+g2
+S'http://www.reuters.com/article/2011/06/06/idUS23997+06-Jun-2011+PRN20110606'
+p13
+sg4
+S'20110605\xc2\xa011:53PM UTC'
+p14
+sg6
+S'The "2011 MTV Movie Awards" Deliver Big Laughs, Big Moments and "First Looks" of This Year\'s Most Highly-Anticipated Films'
+p15
+sa(dp16
+g2
+S'http://www.reuters.com/article/2011/06/06/india-stocks-idUSBMA00988520110606'
+p17
+sg4
+S'20110605\xc2\xa011:50PM UTC'
+p18
+sg6
+S'Indian shares open 0.2 percent lower'
+p19
+sa(dp20
+g2
+S'http://www.reuters.com/article/2011/06/06/beijingleader-bidders-idUSL3E7H609920110606'
+p21
+sg4
+S'20110605\xc2\xa011:48PM UTC'
+p22
+sg6
+S'UPDATE 1-ABB, Schneider bid for up to $700 mln China cleantech firm-sources'
+p23
+sa(dp24
+g2
+S'http://www.reuters.com/article/2011/06/06/airlines-qantas-fuel-idUSWNAS231320110606'
+p25
+sg4
+S'20110605\xc2\xa011:41PM UTC'
+p26
+sg6
+S'Qantas says expect more fare increases to cover fuel costs'
+p27
+sa(dp28
+g2
+S'http://www.reuters.com/article/2011/06/06/idUS23298+06-Jun-2011+BW20110606'
+p29
+sg4
+S'20110605\xc2\xa011:36PM UTC'
+p30
+sg6
+S'Northwest Biotherapeutics Announces Series of Financing Arrangements'
+p31
+sa(dp32
+g2
+S'http://www.reuters.com/article/2011/06/06/markets-japan-stocks-idUSL3E7H607J20110606'
+p33
+sg4
+S'20110605\xc2\xa011:33PM UTC'
+p34
+sg6
+S'Nikkei breaks 9,405 support on U.S. data; Tepco nosedives'
+p35
+sa(dp36
+g2
+S'http://www.reuters.com/article/2011/06/06/idUS23125+06-Jun-2011+PRN20110606'
+p37
+sg4
+S'20110605\xc2\xa011:33PM UTC'
+p38
+sg6
+S'Northwest Biotherapeutics Announces Series of Financing Arrangements'
+p39
+sa(dp40
+g2
+S'http://www.reuters.com/article/2011/06/06/google-china-idUSL3E7H604M20110606'
+p41
+sg4
+S'20110605\xc2\xa011:32PM UTC'
+p42
+sg6
+S'China paper warns Google may pay price for hacking claims'
+p43
+sa(dp44
+g2
+S'http://www.reuters.com/article/2011/06/06/idUS22922+06-Jun-2011+PRN20110606'
+p45
+sg4
+S'20110605\xc2\xa011:30PM UTC'
+p46
+sg6
+S'Following Is a Test Release'
+p47
+sa(dp48
+g2
+S'http://www.reuters.com/article/2011/06/06/olam-idUSL3E7H608N20110606'
+p49
+sg4
+S'20110605\xc2\xa011:28PM UTC'
+p50
+sg6
+S"Singapore's Olam to raise S$740 mln via share placement "
+p51
+sa(dp52
+g2
+S'http://www.reuters.com/article/2011/06/06/film-mtv-idUSN0522919220110606'
+p53
+sg4
+S'20110605\xc2\xa011:24PM UTC'
+p54
+sg6
+S"UPDATE 1-'Twilight' sequel shines brightest at MTV awards"
+p55
+sa(dp56
+g2
+S'http://www.reuters.com/article/2011/06/06/idUS22584+06-Jun-2011+BW20110606'
+p57
+sg4
+S'20110605\xc2\xa011:24PM UTC'
+p58
+sg6
+S'Maloof Money Cup Crowns New Champ: Lutzka Edges Out Busenitz for New York Title and Record $160,000'
+p59
+sa(dp60
+g2
+S'http://www.reuters.com/article/2011/06/06/us-mtv-list-idUSTRE7550BJ20110606'
+p61
+sg4
+S'20110605\xc2\xa011:22PM UTC'
+p62
+sg6
+S'List of winners at MTV Movie Awards'
+p63
+sa(dp64
+g2
+S'http://www.reuters.com/article/2011/06/06/beijingleader-bidders-idUSL3E7H605320110606'
+p65
+sg4
+S'20110605\xc2\xa011:18PM UTC'
+p66
+sg6
+S'ABB, Schneider bid for up to $700 mln China cleantech asset-sources'
+p67
+sa(dp68
+g2
+S'http://www.reuters.com/article/2011/06/06/us-mtv-list-idUSTRE7550BC20110606'
+p69
+sg4
+S'20110605\xc2\xa011:16PM UTC'
+p70
+sg6
+S'List of winners at MTV Movie Awards'
+p71
+sa(dp72
+g2
+S'http://www.reuters.com/article/2011/06/06/us-transcanada-keystone-idUSTRE75261U20110606'
+p73
+sg4
+S'20110605\xc2\xa011:14PM UTC'
+p74
+sg6
+S'TransCanada says Keystone resumes shipping crude oil'
+p75
+sa(dp76
+g2
+S'http://www.reuters.com/article/2011/06/06/film-mtv-list-idUSN0525383820110606'
+p77
+sg4
+S'20110605\xc2\xa011:12PM UTC'
+p78
+sg6
+S'List of winners at MTV Movie Awards'
+p79
+sa(dp80
+g2
+S'http://www.reuters.com/article/2011/06/06/us-airlines-iata-forecast-idUSTRE75506H20110606'
+p81
+sg4
+S'20110605\xc2\xa011:11PM UTC'
+p82
+sg6
+S'Airline profits to tumble in 2011 on fuel, turmoil'
+p83
+sa(dp84
+g2
+S'http://www.reuters.com/article/2011/06/06/pipeline-operations-keystone-idUSN0522592820110606'
+p85
+sg4
+S'20110605\xc2\xa011:10PM UTC'
+p86
+sg6
+S'UPDATE 3-TransCanada says Keystone resumes shipping crude oil'
+p87
+sa(dp88
+g2
+S'http://www.reuters.com/article/2011/06/06/us-peru-election-official-idUSTRE7550AC20110606'
+p89
+sg4
+S'20110605\xc2\xa011:06PM UTC'
+p90
+sg6
+S'Humala barely leads Fujimori: Peru partial results'
+p91
+sa(dp92
+g2
+S'http://www.reuters.com/article/2011/06/06/peru-election-official-idUSLIP00211920110606'
+p93
+sg4
+S'20110605\xc2\xa011:02PM UTC'
+p94
+sg6
+S'Humala barely leads Fujimori -Peru partial results'
+p95
+sa(dp96
+g2
+S'http://www.reuters.com/article/2011/06/06/idUST68OEN90F20110606'
+p97
+sg4
+S'20110605\xc2\xa011:00PM UTC'
+p98
+sg6
+S'TABLE-Fuji <7605.OS>-6-month parent forecast'
+p99
+sa(dp100
+g2
+S'http://www.reuters.com/article/2011/06/06/idUST668CP60P20110606'
+p101
+sg4
+S'20110605\xc2\xa011:00PM UTC'
+p102
+sg6
+S'TABLE-Fuji <7605.OS>-2010/11 parent forecast'
+p103
+sa(dp104
+g2
+S'http://www.reuters.com/article/2011/06/06/idUST64K4KR6M20110606'
+p105
+sg4
+S'20110605\xc2\xa011:00PM UTC'
+p106
+sg6
+S'TABLE-Fuji <7605.OS>-6mth parent results'
+p107
+sa(dp108
+g2
+S'http://www.reuters.com/article/2011/06/06/idUS21117+06-Jun-2011+PRN20110606'
+p109
+sg4
+S'20110605\xc2\xa011:00PM UTC'
+p110
+sg6
+S'Following Is a Test Release'
+p111
+sa(dp112
+g2
+S'http://www.reuters.com/article/2011/06/06/airlines-iag-portugal-idUSWEA456620110606'
+p113
+sg4
+S'20110605\xc2\xa010:58PM UTC'
+p114
+sg6
+S'REFILE-IAG chief expects Portugal TAP sale to go ahead'
+p115
+sa(dp116
+g2
+S'http://www.reuters.com/article/2011/06/06/usa-fed-diamond-idUSN0522942320110606'
+p117
+sg4
+S'20110605\xc2\xa010:54PM UTC'
+p118
+sg6
+S'UPDATE 2-Obama Fed pick withdraws, slams partisan politics'
+p119
+sa(dp120
+g2
+S'http://www.reuters.com/article/2011/06/06/indonesia-factors-idUSL3E7H601L20110606'
+p121
+sg4
+S'20110605\xc2\xa010:51PM UTC'
+p122
+sg6
+S'UPDATE 1-Indonesia-Market Factors to watch - June 6'
+p123
+sa(dp124
+g2
+S'http://www.reuters.com/article/2011/06/06/markets-japan-jgb-idUSL3E7H602820110606'
+p125
+sg4
+S'20110605\xc2\xa010:46PM UTC'
+p126
+sg6
+S'JGB futures hover near 6-mth high, political worries weigh '
+p127
+sa(dp128
+g2
+S'http://www.reuters.com/article/2011/06/06/press-digest-british-business-idUSLDE7540LH20110606'
+p129
+sg4
+S'20110605\xc2\xa010:45PM UTC'
+p130
+sg6
+S'PRESS DIGEST - British business - June 6'
+p131
+sa(dp132
+g2
+S'http://www.reuters.com/article/2011/06/06/refinery-maintenance-cosmo-oil-idUSL3E7H606720110606'
+p133
+sg4
+S'20110605\xc2\xa010:41PM UTC'
+p134
+sg6
+S"Japan's Cosmo Oil adjusts CDU maintenance schedule"
+p135
+sa(dp136
+g2
+S'http://www.reuters.com/article/2011/06/06/us-pakistan-violence-idUSTRE7542OF20110606'
+p137
+sg4
+S'20110605\xc2\xa010:35PM UTC'
+p138
+sg6
+S'Missile strike kills 6 militants in Pakistan'
+p139
+sa(dp140
+g2
+S'http://www.reuters.com/article/2011/06/06/revlon-idUSL3E7H607120110606'
+p141
+sg4
+S'20110605\xc2\xa010:34PM UTC'
+p142
+sg6
+S"UPDATE 1-Fire damages Revlon's Venezuela facility, no injuries"
+p143
+sa(dp144
+g2
+S'http://www.reuters.com/article/2011/06/06/nttdocomo-idUSL3E7H606M20110606'
+p145
+sg4
+S'20110605\xc2\xa010:34PM UTC'
+p146
+sg6
+S'NTT DoCoMo says communications glitch hits 1.72 mln users'
+p147
+sa(dp148
+g2
+S'http://www.reuters.com/article/2011/06/06/idUST60C8NLPE20110606'
+p149
+sg4
+S'20110605\xc2\xa010:30PM UTC'
+p150
+sg6
+S'TABLE-Quest <2332.OS>-2010/11 parent results'
+p151
+sa(dp152
+g2
+S'http://www.reuters.com/article/2011/06/06/idUST684O0M0B20110606'
+p153
+sg4
+S'20110605\xc2\xa010:30PM UTC'
+p154
+sg6
+S'TABLE-Quest <2332.OS>-2010/11 group results'
+p155
+sa(dp156
+g2
+S'http://www.reuters.com/article/2011/06/06/idUS19533+06-Jun-2011+PRN20110606'
+p157
+sg4
+S'20110605\xc2\xa010:30PM UTC'
+p158
+sg6
+S'Following Is a Test Release'
+p159
+sa(dp160
+g2
+S'http://www.reuters.com/article/2011/06/06/markets-thailand-stocks-idUSL3E7H606H20110606'
+p161
+sg4
+S'20110605\xc2\xa010:27PM UTC'
+p162
+sg6
+S'Thai stocks to open lower, outlook weak'
+p163
+sa(dp164
+g2
+S'http://www.reuters.com/article/2011/06/06/idUSL3E7H603Z20110606'
+p165
+sg4
+S'20110605\xc2\xa010:20PM UTC'
+p166
+sg6
+S'UPDATE 1-Cathay Pacific says sees stronger cargo traffic H2'
+p167
+sa(dp168
+g2
+S'http://www.reuters.com/article/2011/06/06/us-golf-pga-idUSTRE75501J20110606'
+p169
+sg4
+S'20110605\xc2\xa010:13PM UTC'
+p170
+sg6
+S'Stricker holds nerve to win Memorial by one shot'
+p171
+sa(dp172
+g2
+S'http://www.reuters.com/article/2011/06/06/jpmorgan-idUSN0523009520110606'
+p173
+sg4
+S'20110605\xc2\xa010:08PM UTC'
+p174
+sg6
+S'JPMorgan may see changes in executive ranks - WSJ'
+p175
+sa(dp176
+g2
+S'http://www.reuters.com/article/2011/06/06/us-peru-election-fujimori-idUSTRE75507R20110606'
+p177
+sg4
+S'20110605\xc2\xa010:07PM UTC'
+p178
+sg6
+S'Fujimori to concede defeat if polls confirmed'
+p179
+sa(dp180
+g2
+S'http://www.reuters.com/article/2011/06/06/us-pakistan-missile-idUSTRE75506U20110606'
+p181
+sg4
+S'20110605\xc2\xa010:02PM UTC'
+p182
+sg6
+S'Missile strike kills 6 militants in Pakistan'
+p183
+sa(dp184
+g2
+S'http://www.reuters.com/article/2011/06/06/peru-election-fujimori-idUSLIP00211820110606'
+p185
+sg4
+S'20110605\xc2\xa010:01PM UTC'
+p186
+sg6
+S'Peru Fujimori to concede defeat if polls confirmed'
+p187
+sa(dp188
+g2
+S'http://www.reuters.com/article/2011/06/06/verizon-pricing-idUSN0515340620110606'
+p189
+sg4
+S'20110605\xc2\xa010:00PM UTC'
+p190
+sg6
+S'Verizon offering more flexible FiOS bundles'
+p191
+sa(dp192
+g2
+S'http://www.reuters.com/article/2011/06/06/idUS17796+06-Jun-2011+PRN20110606'
+p193
+sg4
+S'20110605\xc2\xa010:00PM UTC'
+p194
+sg6
+S'Following Is a Test Release'
+p195
+sa(dp196
+g2
+S'http://www.reuters.com/article/2011/06/06/idUS17780+06-Jun-2011+BW20110606'
+p197
+sg4
+S'20110605\xc2\xa010:00PM UTC'
+p198
+sg6
+S'Mitsubishi Electric to Double Satellite Production Capacity'
+p199
+sa(dp200
+g2
+S'http://www.reuters.com/article/2011/06/06/idUS17774+06-Jun-2011+BW20110606'
+p201
+sg4
+S'20110605\xc2\xa010:00PM UTC'
+p202
+sg6
+S'Research and Markets: Endoscope Products for the Gastrointestinal (GI) and General Surgery (GS) Procedures in the Vietnam Market'
+p203
+sa(dp204
+g2
+S'http://www.reuters.com/article/2011/06/06/idUS17767+06-Jun-2011+BW20110606'
+p205
+sg4
+S'20110605\xc2\xa010:00PM UTC'
+p206
+sg6
+S'Research and Markets: China Alcohol Market Report 2011'
+p207
+sa(dp208
+g2
+S'http://www.reuters.com/article/2011/06/06/idUS17763+06-Jun-2011+BW20110606'
+p209
+sg4
+S'20110605\xc2\xa010:00PM UTC'
+p210
+sg6
+S'Research and Markets: China Fruit Wine Market Report 2011'
+p211
+sa(dp212
+g2
+S'http://www.reuters.com/article/2011/06/06/idUS17757+06-Jun-2011+BW20110606'
+p213
+sg4
+S'20110605\xc2\xa010:00PM UTC'
+p214
+sg6
+S'Research and Markets: China Sports Products Market Report 2011'
+p215
+sa(dp216
+g2
+S'http://www.reuters.com/article/2011/06/06/idUS17752+06-Jun-2011+BW20110606'
+p217
+sg4
+S'20110605\xc2\xa010:00PM UTC'
+p218
+sg6
+S'Research and Markets: Jointown Pharmaceutical Group Co., Ltd. Fundamental Company - Report Including Financial, SWOT, Competitors and Industry Analysis'
+p219
+sa(dp220
+g2
+S'http://www.reuters.com/article/2011/06/06/idUS17747+06-Jun-2011+BW20110606'
+p221
+sg4
+S'20110605\xc2\xa010:00PM UTC'
+p222
+sg6
+S'Research and Markets: Structural Building Materials Market in Vietnam - Business Report 2011'
+p223
+sa(dp224
+g2
+S'http://www.reuters.com/article/2011/06/06/vietnam-press-idUSL3E7H604N20110606'
+p225
+sg4
+S'20110605\xc2\xa09:59PM UTC'
+p226
+sg6
+S'PRESS DIGEST - Vietnam newspapers - June 6'
+p227
+sa(dp228
+g2
+S'http://www.reuters.com/article/2011/06/06/pakistan-missile-idUSSGE75500420110606'
+p229
+sg4
+S'20110605\xc2\xa09:56PM UTC'
+p230
+sg6
+S'US missile strike kills 6 militants in Pakistan'
+p231
+sa(dp232
+g2
+S'http://www.reuters.com/article/2011/06/06/us-chicago-bus-crash-idUSTRE75505220110606'
+p233
+sg4
+S'20110605\xc2\xa09:54PM UTC'
+p234
+sg6
+S'Chicago bus crash sends 20 to area hospitals'
+p235
+sa(dp236
+g2
+S'http://www.reuters.com/article/2011/06/06/health-cigarettes-idUSL3E7H604L20110606'
+p237
+sg4
+S'20110605\xc2\xa09:52PM UTC'
+p238
+sg6
+S'Smokers quit after ban, but numbers ebb - study'
+p239
+sa(dp240
+g2
+S'http://www.reuters.com/article/2011/06/06/idUSL3E7H602L20110606'
+p241
+sg4
+S'20110605\xc2\xa09:52PM UTC'
+p242
+sg6
+S"Manila's Banco de Oro launches Tier 2 notes issue"
+p243
+sa(dp244
+g2
+S'http://www.reuters.com/article/2011/06/06/airlines-iata-forecast-idUSLDE75500E20110606'
+p245
+sg4
+S'20110605\xc2\xa09:51PM UTC'
+p246
+sg6
+S'UPDATE 1-IATA halves airline industry profit forecast'
+p247
+sa(dp248
+g2
+S'http://www.reuters.com/article/2011/06/06/idUS17294+06-Jun-2011+BW20110606'
+p249
+sg4
+S'20110605\xc2\xa09:51PM UTC'
+p250
+sg6
+S"Fire Damages Revlon's Facility in Venezuela"
+p251
+sa(dp252
+g2
+S'http://www.reuters.com/article/2011/06/06/airlines-emissions-singapore-idUSL3E7H603U20110606'
+p253
+sg4
+S'20110605\xc2\xa09:48PM UTC'
+p254
+sg6
+S'Singapore urges uniform response to climate change for aviation'
+p255
+sa(dp256
+g2
+S'http://www.reuters.com/article/2011/06/06/press-digest-finacial-times-idUSLDE7540LG20110606'
+p257
+sg4
+S'20110605\xc2\xa09:39PM UTC'
+p258
+sg6
+S'PRESS DIGEST - Financial Times - June 6'
+p259
+sa(dp260
+g2
+S'http://www.reuters.com/article/2011/06/06/airlines-iata-forecast-idUSWEA456320110606'
+p261
+sg4
+S'20110605\xc2\xa09:39PM UTC'
+p262
+sg6
+S'IATA halves airline industry profit forecast'
+p263
+sa(dp264
+g2
+S'http://www.reuters.com/article/2011/06/06/markets-japan-stocks-idUSL3E7H602S20110606'
+p265
+sg4
+S'20110605\xc2\xa09:37PM UTC'
+p266
+sg6
+S'Nikkei breaks 9,405 support on U.S. data, Tepco nosedives'
+p267
+sa(dp268
+g2
+S'http://www.reuters.com/article/2011/06/06/thailand-press-idUSL3E7H603T20110606'
+p269
+sg4
+S'20110605\xc2\xa09:37PM UTC'
+p270
+sg6
+S'PRESS DIGEST - Thai newspapers - June 6'
+p271
+sa(dp272
+g2
+S'http://www.reuters.com/article/2011/06/06/idUS16323+06-Jun-2011+PRN20110606'
+p273
+sg4
+S'20110605\xc2\xa09:30PM UTC'
+p274
+sg6
+S'Following Is a Test Release'
+p275
+sa(dp276
+g2
+S'http://www.reuters.com/article/2011/06/06/iata-japanairlines-idUSWNAS231020110606'
+p277
+sg4
+S'20110605\xc2\xa09:29PM UTC'
+p278
+sg6
+S'Japan Airlines expects $929 mln operating profit in current FY'
+p279
+sa(dp280
+g2
+S'http://www.reuters.com/article/2011/06/06/petronas-oil-idUSWNAS231120110606'
+p281
+sg4
+S'20110605\xc2\xa09:27PM UTC'
+p282
+sg6
+S'Crude oil prices to range $75-$85 a barrel-Petronas CEO'
+p283
+sa(dp284
+g2
+S'http://www.reuters.com/article/2011/06/06/linc-idUSS9E7GV00T20110606'
+p285
+sg4
+S'20110605\xc2\xa09:24PM UTC'
+p286
+sg6
+S'Linc Energy buys Texas, Louisiana oil fields'
+p287
+sa(dp288
+g2
+S'http://www.reuters.com/article/2011/06/06/idUS15896+06-Jun-2011+PRN20110606'
+p289
+sg4
+S'20110605\xc2\xa09:22PM UTC'
+p290
+sg6
+S'Former Wall Street Financial Advisor to Offer Summer Financial Classes to Maryland Youth'
+p291
+sa(dp292
+g2
+S'http://www.reuters.com/article/2011/06/06/idUS15086+06-Jun-2011+PRN20110606'
+p293
+sg4
+S'20110605\xc2\xa09:18PM UTC'
+p294
+sg6
+S'Akamai to Keynote Interop Tokyo 2011'
+p295
+sa(dp296
+g2
+S'http://www.reuters.com/article/2011/06/06/tesoro-idUSL3E7H600A20110606'
+p297
+sg4
+S'20110605\xc2\xa09:15PM UTC'
+p298
+sg6
+S'TESORO to stay focused on US West Coast for acquisitions -CEO '
+p299
+sa(dp300
+g2
+S'http://www.reuters.com/article/2011/06/06/idUS14650+06-Jun-2011+BW20110606'
+p301
+sg4
+S'20110605\xc2\xa09:15PM UTC'
+p302
+sg6
+S'Research and Markets: Hong Kong Self-Monitoring of Blood Glucose (SMBG) Devices and Strips Market Analysis'
+p303
+sa(dp304
+g2
+S'http://www.reuters.com/article/2011/06/06/iata-jal-quake-idUSL3E7H602M20110606'
+p305
+sg4
+S'20110605\xc2\xa09:12PM UTC'
+p306
+sg6
+S'Japan Airlines says sees some recovery in business travel'
+p307
+sa(dp308
+g2
+S'http://www.reuters.com/article/2011/06/06/airlines-iag-idUSLDE75500520110606'
+p309
+sg4
+S'20110605\xc2\xa09:12PM UTC'
+p310
+sg6
+S'IAG eyes bmi, interested in JAL joint-venture'
+p311
+sa(dp312
+g2
+S'http://www.reuters.com/article/2011/06/06/us-libya-casualty-idUSTRE75504A20110606'
+p313
+sg4
+S'20110605\xc2\xa09:11PM UTC'
+p314
+sg6
+S'Gaddafi aides present car crash baby as NATO victim'
+p315
+sa(dp316
+g2
+S'http://www.reuters.com/article/2011/06/06/idUS14249+06-Jun-2011+BW20110606'
+p317
+sg4
+S'20110605\xc2\xa09:08PM UTC'
+p318
+sg6
+S'Orange Capital and Other Concerned Unitholders Acquire Additional Units in Charter Hall Office REIT (CQO)'
+p319
+sa(dp320
+g2
+S'http://www.reuters.com/article/2011/06/06/idUS14163+06-Jun-2011+BW20110606'
+p321
+sg4
+S'20110605\xc2\xa09:07PM UTC'
+p322
+sg6
+S'Venture Outsource Spring Survey of Decision Makers in Electronics Supply Chain Reveals Some Optimism for Second Half of 2011 though Concerns about Japan Crisis Linger'
+p323
+sa(dp324
+g2
+S'http://www.reuters.com/article/2011/06/06/airlines-qantas-airbus-idUSWNAS230820110606'
+p325
+sg4
+S'20110605\xc2\xa09:05PM UTC'
+p326
+sg6
+S'Qantas says expects minor delay on "a couple" of its A380 orders'
+p327
+sa(dp328
+g2
+S'http://www.reuters.com/article/2011/06/06/idUSL3E7H600620110606'
+p329
+sg4
+S'20110605\xc2\xa09:05PM UTC'
+p330
+sg6
+S'Total CEO says oil market is well supplied'
+p331
+sa(dp332
+g2
+S'http://www.reuters.com/article/2011/06/06/idUSWNAS230920110606'
+p333
+sg4
+S'20110605\xc2\xa09:03PM UTC'
+p334
+sg6
+S'Cathay Pacific says sees stronger cargo traffic H2'
+p335
+sa(dp336
+g2
+S'http://www.reuters.com/article/2011/06/06/idUS13606+06-Jun-2011+HUG20110606'
+p337
+sg4
+S'20110605\xc2\xa09:01PM UTC'
+p338
+sg6
+S'Reuters Global Investment Outlook Summit - 6-9 June - Leading Chief Investment Strategists and Other Top Names to Discuss the Outlook for Investments and Financial Markets'
+p339
+sa(dp340
+g2
+S'http://www.reuters.com/article/2011/06/06/idUS13449+06-Jun-2011+MW20110606'
+p341
+sg4
+S'20110605\xc2\xa09:00PM UTC'
+p342
+sg6
+S' Reuters Global Investment Outlook Summit -- 6-9 June -- Leading Chief Investment Strategists and Other Top Names to'
+p343
+sa(dp344
+g2
+S'http://www.reuters.com/article/2011/06/06/vaccines-prices-gavi-idUSLDE7540JM20110606'
+p345
+sg4
+S'20110605\xc2\xa09:00PM UTC'
+p346
+sg6
+S'Drugmakers cut vaccine prices for poorer nations'
+p347
+sa(dp348
+g2
+S'http://www.reuters.com/article/2011/06/06/idUS13407+06-Jun-2011+PRN20110606'
+p349
+sg4
+S'20110605\xc2\xa09:00PM UTC'
+p350
+sg6
+S'Following Is a Test Release'
+p351
+sa(dp352
+g2
+S'http://www.reuters.com/article/2011/06/06/idUS13375+06-Jun-2011+BW20110606'
+p353
+sg4
+S'20110605\xc2\xa09:00PM UTC'
+p354
+sg6
+S'Research and Markets: Motorist Insight - Aftermarket Channel Analysis in India 2011'
+p355
+sa(dp356
+g2
+S'http://www.reuters.com/article/2011/06/06/idUS13384+06-Jun-2011+BW20110606'
+p357
+sg4
+S'20110605\xc2\xa09:00PM UTC'
+p358
+sg6
+S'Research and Markets: China Wire & Cable Market Report 2011'
+p359
+sa(dp360
+g2
+S'http://www.reuters.com/article/2011/06/06/idUS13380+06-Jun-2011+BW20110606'
+p361
+sg4
+S'20110605\xc2\xa09:00PM UTC'
+p362
+sg6
+S'Research and Markets: China Wine Market Report 2011 - A Comprehensive Analysis on the Market Size and Share of the Wine Industry in China'
+p363
+sa(dp364
+g2
+S'http://www.reuters.com/article/2011/06/06/usa-fed-diamond-idUSN0522915120110606'
+p365
+sg4
+S'20110605\xc2\xa08:56PM UTC'
+p366
+sg6
+S'UPDATE 1-Diamond says will withdraw as Fed nominee'
+p367
+sa(dp368
+g2
+S'http://www.reuters.com/article/2011/06/06/us-airlines-emissions-iata-idUSTRE75502V20110606'
+p369
+sg4
+S'20110605\xc2\xa08:46PM UTC'
+p370
+sg6
+S'IATA chief warns EU over "illegal" carbon plan'
+p371
+sa(dp372
+g2
+S'http://www.reuters.com/article/2011/06/06/idUS12587+06-Jun-2011+PRN20110606'
+p373
+sg4
+S'20110605\xc2\xa08:44PM UTC'
+p374
+sg6
+S'Save Up to 30 Percent During June Student Savings at Wildwater Kingdom!'
+p375
+sa(dp376
+g2
+S'http://www.reuters.com/article/2011/06/06/markets-precious-idUSL3E7H601H20110606'
+p377
+sg4
+S'20110605\xc2\xa08:41PM UTC'
+p378
+sg6
+S'PRECIOUS-Gold steady on US growth fear, weak dollar'
+p379
+sa(dp380
+g2
+S'http://www.reuters.com/article/2011/06/06/idUSWNAS230720110606'
+p381
+sg4
+S'20110605\xc2\xa08:41PM UTC'
+p382
+sg6
+S'Kingfisher Airlines says plans to lease aircraft'
+p383
+sa(dp384
+g2
+S'http://www.reuters.com/article/2011/06/06/markets-philippines-idUSL3E7H311X20110606'
+p385
+sg4
+S'20110605\xc2\xa08:35PM UTC'
+p386
+sg6
+S'Philippines - Market factors to watch - June 6'
+p387
+sa(dp388
+g2
+S'http://www.reuters.com/article/2011/06/06/idUS11880+06-Jun-2011+PRN20110606'
+p389
+sg4
+S'20110605\xc2\xa08:30PM UTC'
+p390
+sg6
+S'Following Is a Test Release'
+p391
+sa(dp392
+g2
+S'http://www.reuters.com/article/2011/06/06/markets-ratings-idoltrustseries-idUSL3E7H601520110606'
+p393
+sg4
+S'20110605\xc2\xa08:26PM UTC'
+p394
+sg6
+S'S&P;: assigns prelim rtgs to IDOL Trust Series 2011-1 RMBS  '
+p395
+sa(dp396
+g2
+S'http://www.reuters.com/article/2011/06/06/markets-ratings-idoltrustseries-idUSL3E7H601420110606'
+p397
+sg4
+S'20110605\xc2\xa08:24PM UTC'
+p398
+sg6
+S"BRIEF-Moody's Assigns (P) Aaa (sf) to IDOL Trust Series 2011-1 RMBS"
+p399
+sa(dp400
+g2
+S'http://www.reuters.com/article/2011/06/06/idUS11237+06-Jun-2011+MW20110606'
+p401
+sg4
+S'20110605\xc2\xa08:19PM UTC'
+p402
+sg6
+S' Keystone Now Operational'
+p403
+sa(dp404
+g2
+S'http://www.reuters.com/article/2011/06/06/pressdigest-idUSL3E7H600G20110606'
+p405
+sg4
+S'20110605\xc2\xa08:10PM UTC'
+p406
+sg6
+S'PRESS DIGEST - MALAYSIA - June 6'
+p407
+sa(dp408
+g2
+S'http://www.reuters.com/article/2011/06/06/prada-idUSL3E7H508E20110606'
+p409
+sg4
+S'20110605\xc2\xa08:10PM UTC'
+p410
+sg6
+S'Prada sets HK$36.5-HK$48 price range for $2.6 bln HK IPO-source'
+p411
+sa(dp412
+g2
+S'http://www.reuters.com/article/2011/06/06/singapore-market-stocks-preopener-idUSL3E7H50BY20110606'
+p413
+sg4
+S'20110605\xc2\xa08:08PM UTC'
+p414
+sg6
+S'Singapore Stocks-May open lower; Olam, Keppel Corp in focus'
+p415
+sa(dp416
+g2
+S'http://www.reuters.com/article/2011/06/06/markets-japan-stocks-idUSL3E7H600520110606'
+p417
+sg4
+S'20110605\xc2\xa08:06PM UTC'
+p418
+sg6
+S'Nikkei falls 0.3 pct after weak U.S. jobs data'
+p419
+sa(dp420
+g2
+S'http://www.reuters.com/article/2011/06/06/khazanah-idUSL3E7H50BZ20110606'
+p421
+sg4
+S'20110605\xc2\xa08:05PM UTC'
+p422
+sg6
+S"Malaysia's Khazanah to list healthcare assets in 3-6 months - report"
+p423
+sa(dp424
+g2
+S'http://www.reuters.com/article/2011/06/06/aquila-vale-idUSS9E7GK01020110606'
+p425
+sg4
+S'20110605\xc2\xa08:05PM UTC'
+p426
+sg6
+S'Aquila Resources says yet to resolve coal dispute with Vale'
+p427
+sa(dp428
+g2
+S'http://www.reuters.com/article/2011/06/06/idUS10035+06-Jun-2011+PRN20110606'
+p429
+sg4
+S'20110605\xc2\xa08:00PM UTC'
+p430
+sg6
+S'Following Is a Test Release'
+p431
+sa(dp432
+g2
+S'http://www.reuters.com/article/2011/06/06/idUS10018+06-Jun-2011+BW20110606'
+p433
+sg4
+S'20110605\xc2\xa08:00PM UTC'
+p434
+sg6
+S'Research and Markets: Australia - Telco Company Profiles - FOXTEL'
+p435
+sa(dp436
+g2
+S'http://www.reuters.com/article/2011/06/06/idUS10011+06-Jun-2011+BW20110606'
+p437
+sg4
+S'20110605\xc2\xa08:00PM UTC'
+p438
+sg6
+S'Research and Markets: Australia - Free-to-Air TV - Broadcasters - 2011'
+p439
+sa(dp440
+g2
+S'http://www.reuters.com/article/2011/06/05/us-markets-forex-idUSTRE74U02L20110605'
+p441
+sg4
+S'20110605\xc2\xa07:56PM UTC'
+p442
+sg6
+S'Dollar flounders after jobs data, euro hits one-month high'
+p443
+sa(dp444
+g2
+S'http://www.reuters.com/article/2011/06/05/usa-fed-diamond-idUSN0522841520110605'
+p445
+sg4
+S'20110605\xc2\xa07:55PM UTC'
+p446
+sg6
+S'Diamond says time to withdraw as Fed nominee'
+p447
+sa(dp448
+g2
+S'http://www.reuters.com/article/2011/06/05/economy-malaysia-indicators-idUSL3E7H50C520110605'
+p449
+sg4
+S'20110605\xc2\xa07:54PM UTC'
+p450
+sg6
+S'TABLE-Malaysia economic indicators - June 6'
+p451
+sa(dp452
+g2
+S'http://www.reuters.com/article/2011/06/05/idUS55079+05-Jun-2011+PRN20110605'
+p453
+sg4
+S'20110605\xc2\xa07:54PM UTC'
+p454
+sg6
+S'Clausen Wins Walmart FLW Tour on Potomac River Presented by National Guard'
+p455
+sa(dp456
+g2
+S'http://www.reuters.com/article/2011/06/05/india-bpcl-expansion-idUSL3E7H50C120110605'
+p457
+sg4
+S'20110605\xc2\xa07:53PM UTC'
+p458
+sg6
+S"RPT-UPDATE 2-India's BPCL plans 170,000 bpd refinery expansions"
+p459
+sa(dp460
+g2
+S'http://www.reuters.com/article/2011/06/05/cuba-china-idUSN0519986820110605'
+p461
+sg4
+S'20110605\xc2\xa07:53PM UTC'
+p462
+sg6
+S'China signs letter of intent to redo Cuba refinery'
+p463
+sa(dp464
+g2
+S'http://www.reuters.com/article/2011/06/05/markets-forex-idUSL3E7H50BU20110605'
+p465
+sg4
+S'20110605\xc2\xa07:52PM UTC'
+p466
+sg6
+S'FOREX-Dollar flounders after jobs data, euro hits one-mth high'
+p467
+sa(dp468
+g2
+S'http://www.reuters.com/article/2011/06/05/idUS54867+05-Jun-2011+PRN20110605'
+p469
+sg4
+S'20110605\xc2\xa07:49PM UTC'
+p470
+sg6
+S'Government of Bahrain sets $16.44 Billion Budget for Two Years'
+p471
+sa(dp472
+g2
+S'http://www.reuters.com/article/2011/06/05/us-film-super-idUSTRE7543FN20110605'
+p473
+sg4
+S'20110605\xc2\xa07:41PM UTC'
+p474
+sg6
+S"Abrams, Spielberg go back to future in 'Super 8'"
+p475
+sa(dp476
+g2
+S'http://www.reuters.com/article/2011/06/05/us-xfactor-idUSTRE7543F520110605'
+p477
+sg4
+S'20110605\xc2\xa07:36PM UTC'
+p478
+sg6
+S'Cheryl Cole seeks visa amid "X-Factor" standoff'
+p479
+sa(dp480
+g2
+S'http://www.reuters.com/article/2011/06/05/idUS54102+05-Jun-2011+PRN20110605'
+p481
+sg4
+S'20110605\xc2\xa07:30PM UTC'
+p482
+sg6
+S'Following Is a Test Release'
+p483
+sa(dp484
+g2
+S'http://www.reuters.com/article/2011/06/05/morocco-protests-idUSLDE7540MR20110605'
+p485
+sg4
+S'20110605\xc2\xa07:27PM UTC'
+p486
+sg6
+S'Morocco softens line against pro-democracy protests'
+p487
+sa(dp488
+g2
+S'http://www.reuters.com/article/2011/06/05/us-nba-finals-haywood-idUSTRE7543E720110605'
+p489
+sg4
+S'20110605\xc2\xa07:27PM UTC'
+p490
+sg6
+S"Mavericks' Haywood out for Game Three against Miami"
+p491
+sa(dp492
+g2
+S'http://www.reuters.com/article/2011/06/05/markets-japan-stocks-idUSL3E7H50B020110605'
+p493
+sg4
+S'20110605\xc2\xa07:26PM UTC'
+p494
+sg6
+S'Nikkei may break 9,405 after weak U.S. jobs data'
+p495
+sa(dp496
+g2
+S'http://www.reuters.com/article/2011/06/05/us-peru-election-idUSTRE75432720110605'
+p497
+sg4
+S'20110605\xc2\xa07:25PM UTC'
+p498
+sg6
+S'Left-winger Humala leads Peru election: quick count'
+p499
+sa(dp500
+g2
+S'http://www.reuters.com/article/2011/06/05/usa-flooding-plains-idUSN0521592420110605'
+p501
+sg4
+S'20110605\xc2\xa07:25PM UTC'
+p502
+sg6
+S'Iowa county evacuates as Missouri River tops levee'
+p503
+sa(dp504
+g2
+S'http://www.reuters.com/article/2011/06/05/us-peru-elections-wallst-idUSTRE75435Y20110605'
+p505
+sg4
+S'20110605\xc2\xa07:23PM UTC'
+p506
+sg6
+S'Instant View: Peruvian markets to sell off if Humala confirmed'
+p507
+sa(dp508
+g2
+S'http://www.reuters.com/article/2011/06/05/us-portugal-election-idUSTRE7532LZ20110605'
+p509
+sg4
+S'20110605\xc2\xa07:20PM UTC'
+p510
+sg6
+S'Portuguese centre-right beats Socialists in vote'
+p511
+sa(dp512
+g2
+S'http://www.reuters.com/article/2011/06/05/peru-election-idUSN0521409420110605'
+p513
+sg4
+S'20110605\xc2\xa07:19PM UTC'
+p514
+sg6
+S'UPDATE 5-Left-winger Humala leads Peru election - quick count'
+p515
+sa(dp516
+g2
+S'http://www.reuters.com/article/2011/06/05/portugal-election-idUSLDE75403H20110605'
+p517
+sg4
+S'20110605\xc2\xa07:15PM UTC'
+p518
+sg6
+S'UPDATE 6-Portuguese centre-right beats Socialists in vote'
+p519
+sa(dp520
+g2
+S'http://www.reuters.com/article/2011/06/05/markets-japan-stocks-orders-idUSL3E7H50BC20110605'
+p521
+sg4
+S'20110605\xc2\xa07:08PM UTC'
+p522
+sg6
+S'Foreign brokers set to buy Japanese stocks'
+p523
+sa(dp524
+g2
+S'http://www.reuters.com/article/2011/06/05/idUS53021+05-Jun-2011+MW20110605'
+p525
+sg4
+S'20110605\xc2\xa07:01PM UTC'
+p526
+sg6
+S" Don't Strip Off Your Biker Leathers This Summer, Swinton Advise Their Customers"
+p527
+sa(dp528
+g2
+S'http://www.reuters.com/article/2011/06/05/idUS53020+05-Jun-2011+MW20110605'
+p529
+sg4
+S'20110605\xc2\xa07:01PM UTC'
+p530
+sg6
+S' Two Fifths Of Swinton Customers Want To See Road Improvements'
+p531
+sa(dp532
+g2
+S'http://www.reuters.com/article/2011/06/05/idUS53019+05-Jun-2011+MW20110605'
+p533
+sg4
+S'20110605\xc2\xa07:01PM UTC'
+p534
+sg6
+S' Over A Third Of Renters Do Not Have Contents Insurance Swinton Reveal'
+p535
+sa(dp536
+g2
+S'http://www.reuters.com/article/2011/06/05/idUS53018+05-Jun-2011+MW20110605'
+p537
+sg4
+S'20110605\xc2\xa07:01PM UTC'
+p538
+sg6
+S" 'Ensure Your Van's Insured' Says Swinton Commercial"
+p539
+sa(dp540
+g2
+S'http://www.reuters.com/article/2011/06/05/allergan-britain-idUSLDE7521G820110605'
+p541
+sg4
+S'20110605\xc2\xa07:01PM UTC'
+p542
+sg6
+S'UK cost body NICE recommends Allergan eye drug'
+p543
+sa(dp544
+g2
+S'http://www.reuters.com/article/2011/06/05/barclays-wealth-idUSLDE75208Q20110605'
+p545
+sg4
+S'20110605\xc2\xa07:01PM UTC'
+p546
+sg6
+S'Invest with your head, not your heart - Barclays'
+p547
+sa(dp548
+g2
+S'http://www.reuters.com/article/2011/06/05/idUS52900+05-Jun-2011+PRN20110605'
+p549
+sg4
+S'20110605\xc2\xa07:00PM UTC'
+p550
+sg6
+S'Following Is a Test Release'
+p551
+sa(dp552
+g2
+S'http://www.reuters.com/article/2011/06/05/us-baseball-rangers-idUSTRE75434820110605'
+p553
+sg4
+S'20110605\xc2\xa06:57PM UTC'
+p554
+sg6
+S'Rangers complete rare sweep of Indians in Cleveland'
+p555
+sa(dp556
+g2
+S'http://www.reuters.com/article/2011/06/05/us-transcanada-keystone-idUSTRE75261U20110605'
+p557
+sg4
+S'20110605\xc2\xa06:56PM UTC'
+p558
+sg6
+S'TransCanada restarting Keystone oil pipeline'
+p559
+sa(dp560
+g2
+S'http://www.reuters.com/article/2011/06/05/peru-election-ipsos-idUSLIP00211720110605'
+p561
+sg4
+S'20110605\xc2\xa06:52PM UTC'
+p562
+sg6
+S'Peru quick count says Humala leads Fujimori -Ipsos'
+p563
+sa(dp564
+g2
+S'http://www.reuters.com/article/2011/06/05/us-greece-idUSTRE7541RM20110605'
+p565
+sg4
+S'20110605\xc2\xa06:51PM UTC'
+p566
+sg6
+S'Greece to start austerity drive as nation seethes'
+p567
+sa(dp568
+g2
+S'http://www.reuters.com/article/2011/06/05/macedonia-elections-idUSCAS53111320110605'
+p569
+sg4
+S'20110605\xc2\xa06:48PM UTC'
+p570
+sg6
+S'UPDATE 3-Macedonian ruling VMRO-DPMNE claims election win'
+p571
+sa(dp572
+g2
+S'http://www.reuters.com/article/2011/06/05/peru-election-quickcounts-idUSLIP00211620110605'
+p573
+sg4
+S'20110605\xc2\xa06:46PM UTC'
+p574
+sg6
+S'Peru quick count says Humala leads Fujimori -CPI'
+p575
+sa(dp576
+g2
+S'http://www.reuters.com/article/2011/06/05/pipeline-operations-keystone-idUSN0522592820110605'
+p577
+sg4
+S'20110605\xc2\xa06:45PM UTC'
+p578
+sg6
+S'UPDATE 1-TransCanada restarting Keystone oil pipeline'
+p579
+sa(dp580
+g2
+S'http://www.reuters.com/article/2011/06/05/greece-idUSLDE7540LE20110605'
+p581
+sg4
+S'20110605\xc2\xa06:42PM UTC'
+p582
+sg6
+S'Greece to start austerity drive as nation seethes'
+p583
+sa(dp584
+g2
+S'http://www.reuters.com/article/2011/06/05/peru-election-quickcounts-idUSLIP00211520110605'
+p585
+sg4
+S'20110605\xc2\xa06:41PM UTC'
+p586
+sg6
+S'Peru quick count says Humala leads Fujimori -Datum'
+p587
+sa(dp588
+g2
+S'http://www.reuters.com/article/2011/06/05/us-usa-germany-idUSTRE75439P20110605'
+p589
+sg4
+S'20110605\xc2\xa06:41PM UTC'
+p590
+sg6
+S'Obama praises Germany ahead of Merkel visit'
+p591
+sa(dp592
+g2
+S'http://www.reuters.com/article/2011/06/05/us-peru-election-contingency-exclusive-idUSTRE75436I20110605'
+p593
+sg4
+S'20110605\xc2\xa06:37PM UTC'
+p594
+sg6
+S'Exclusive: Peru says has economic "contingency plan"'
+p595
+sa(dp596
+g2
+S'http://www.reuters.com/article/2011/06/05/idUS52003+05-Jun-2011+PRN20110605'
+p597
+sg4
+S'20110605\xc2\xa06:36PM UTC'
+p598
+sg6
+S'Zhongpin Inc. Summarizes its Briefings and Discussions During its Tour of Factories Held on May 30 and 31, 2011'
+p599
+sa(dp600
+g2
+S'http://www.reuters.com/article/2011/06/05/us-bahrain-clashes-idUSTRE75439320110605'
+p601
+sg4
+S'20110605\xc2\xa06:33PM UTC'
+p602
+sg6
+S"Bahrain police clash with Shi'ite religious marchers"
+p603
+sa(dp604
+g2
+S'http://www.reuters.com/article/2011/06/05/idUS51702+05-Jun-2011+PRN20110605'
+p605
+sg4
+S'20110605\xc2\xa06:30PM UTC'
+p606
+sg6
+S'Following Is a Test Release'
+p607
+sa(dp608
+g2
+S'http://www.reuters.com/article/2011/06/05/idUS51689+05-Jun-2011+BW20110605'
+p609
+sg4
+S'20110605\xc2\xa06:30PM UTC'
+p610
+sg6
+S'PCIS Introduces Business Intelligence Module for its ClaimsVISION Claims Administration Solution'
+p611
+sa(dp612
+g2
+S'http://www.reuters.com/article/2011/06/05/idUS51648+05-Jun-2011+PRN20110605'
+p613
+sg4
+S'20110605\xc2\xa06:29PM UTC'
+p614
+sg6
+S'16 Low-Income NYC Families Get Keys to New, Affordable Habitat for Humanity Condominium Homes in Bedford-Stuyvesant, Brooklyn'
+p615
+sa(dp616
+g2
+S'http://www.reuters.com/article/2011/06/05/portugal-election-psd-idUSLSB00111620110605'
+p617
+sg4
+S'20110605\xc2\xa06:27PM UTC'
+p618
+sg6
+S'Portugal Social Democrat leader promises strong govt'
+p619
+sa(dp620
+g2
+S'http://www.reuters.com/article/2011/06/05/us-portugal-election-cds-idUSTRE75437O20110605'
+p621
+sg4
+S'20110605\xc2\xa06:22PM UTC'
+p622
+sg6
+S'Portugal CDS party ready to form coalition'
+p623
+sa(dp624
+g2
+S'http://www.reuters.com/article/2011/06/05/us-prayer-perry-texas-idUSTRE75437B20110605'
+p625
+sg4
+S'20110605\xc2\xa06:19PM UTC'
+p626
+sg6
+S"Texas' Perry urges other governors to join him at prayer event"
+p627
+sa(dp628
+g2
+S'http://www.reuters.com/article/2011/06/05/us-usa-flooding-plains-idUSTRE7526YH20110605'
+p629
+sg4
+S'20110605\xc2\xa06:17PM UTC'
+p630
+sg6
+S'Missouri River levees tested as floodwaters rise'
+p631
+sa(dp632
+g2
+S'http://www.reuters.com/article/2011/06/05/idUS51143+05-Jun-2011+PRN20110605'
+p633
+sg4
+S'20110605\xc2\xa06:11PM UTC'
+p634
+sg6
+S'Andy Potts Wins 2011 Escape From Alcatraz\xe2\x84\xa2 Triathlon-- His Fourth Title'
+p635
+sa(dp636
+g2
+S'http://www.reuters.com/article/2011/06/05/portugal-election-cds-idUSLSB00111520110605'
+p637
+sg4
+S'20110605\xc2\xa06:08PM UTC'
+p638
+sg6
+S'Portugal CDS party ready to form coalition govt'
+p639
+sa(dp640
+g2
+S'http://www.reuters.com/article/2011/06/05/pipeline-operations-keystone-idUSWEN395920110605'
+p641
+sg4
+S'20110605\xc2\xa06:07PM UTC'
+p642
+sg6
+S'TransCanada restarting Keystone oil pipeline'
+p643
+sa(dp644
+g2
+S'http://www.reuters.com/article/2011/06/05/japan-diary-idUSL3E7GD1WJ20110605'
+p645
+sg4
+S'20110605\xc2\xa06:00PM UTC'
+p646
+sg6
+S'DIARY-Japan - June 6  '
+p647
+sa(dp648
+g2
+S'http://www.reuters.com/article/2011/06/05/idUS50675+05-Jun-2011+PRN20110605'
+p649
+sg4
+S'20110605\xc2\xa06:00PM UTC'
+p650
+sg6
+S'Following Is a Test Release'
+p651
+sa(dp652
+g2
+S'http://www.reuters.com/article/2011/06/05/idUS50670+05-Jun-2011+PRN20110605'
+p653
+sg4
+S'20110605\xc2\xa06:00PM UTC'
+p654
+sg6
+S'Pharmasset to Present at Two Upcoming Conferences'
+p655
+sa(dp656
+g2
+S'http://www.reuters.com/article/2011/06/05/idUS50518+05-Jun-2011+BW20110605'
+p657
+sg4
+S'20110605\xc2\xa05:52PM UTC'
+p658
+sg6
+S'Panasonic y la UNESCO firman un acuerdo de asociaci\xc3\xb3n estrat\xc3\xa9gica'
+p659
+sa(dp660
+g2
+S'http://www.reuters.com/article/2011/06/05/idUS50516+05-Jun-2011+BW20110605'
+p661
+sg4
+S'20110605\xc2\xa05:52PM UTC'
+p662
+sg6
+S'Panasonic e UNESCO assinam acordo de parceria estrat\xc3\xa9gica'
+p663
+sa(dp664
+g2
+S'http://www.reuters.com/article/2011/06/05/idUS50487+05-Jun-2011+BW20110605'
+p665
+sg4
+S'20110605\xc2\xa05:51PM UTC'
+p666
+sg6
+S'Panasonic und UNESCO unterzeichnen strategischen Gesellschaftsvertrag'
+p667
+sa(dp668
+g2
+S'http://www.reuters.com/article/2011/06/05/idUS50485+05-Jun-2011+BW20110605'
+p669
+sg4
+S'20110605\xc2\xa05:51PM UTC'
+p670
+sg6
+S'Panasonic et l`UNESCO signent un accord de partenariat strat\xc3\xa9gique'
+p671
+sa(dp672
+g2
+S'http://www.reuters.com/article/2011/06/05/us-peru-election-factbox-idUSTRE75435Q20110605'
+p673
+sg4
+S'20110605\xc2\xa05:46PM UTC'
+p674
+sg6
+S"Factbox: Exit polls in Peru's presidential race"
+p675
+sa(dp676
+g2
+S'http://www.reuters.com/article/2011/06/05/peru-election-idUSPOLLSPE20110605'
+p677
+sg4
+S'20110605\xc2\xa05:42PM UTC'
+p678
+sg6
+S"FACTBOX-Exit polls in Peru's presidential race"
+p679
+sa(dp680
+g2
+S'http://www.reuters.com/article/2011/06/05/us-tornadoes-joplin-deaths-idUSTRE75434Y20110605'
+p681
+sg4
+S'20110605\xc2\xa05:32PM UTC'
+p682
+sg6
+S'Death toll from Joplin tornado rises to 141 - officials'
+p683
+sa(dp684
+g2
+S'http://www.reuters.com/article/2011/06/05/idUS50095+05-Jun-2011+PRN20110605'
+p685
+sg4
+S'20110605\xc2\xa05:30PM UTC'
+p686
+sg6
+S'Following Is a Test Release'
+p687
+sa(dp688
+g2
+S'http://www.reuters.com/article/2011/06/05/us-syria-idUSLDE73N02P20110605'
+p689
+sg4
+S'20110605\xc2\xa05:18PM UTC'
+p690
+sg6
+S'Dozens killed in Syria violence, including 4 police'
+p691
+sa(dp692
+g2
+S'http://www.reuters.com/article/2011/06/05/us-egypt-imf-idUSTRE7541AA20110605'
+p693
+sg4
+S'20110605\xc2\xa05:10PM UTC'
+p694
+sg6
+S'Egypt seals $3 billion IMF accord'
+p695
+sa(dp696
+g2
+S'http://www.reuters.com/article/2011/06/05/us-usa-egypt-trade-idUSTRE75432Z20110605'
+p697
+sg4
+S'20110605\xc2\xa05:10PM UTC'
+p698
+sg6
+S'U.S. business looks to support change in Egypt'
+p699
+sa(dp700
+g2
+S'http://www.reuters.com/article/2011/06/05/prosieben-permira-idUSLDE7540LK20110605'
+p701
+sg4
+S'20110605\xc2\xa05:07PM UTC'
+p702
+sg6
+S'Permira not eyeing quick sale of ProSieben - paper'
+p703
+sa(dp704
+g2
+S'http://www.reuters.com/article/2011/06/05/idUS49445+05-Jun-2011+PRN20110605'
+p705
+sg4
+S'20110605\xc2\xa05:00PM UTC'
+p706
+sg6
+S'Following Is a Test Release'
+p707
+sa(dp708
+g2
+S'http://www.reuters.com/article/2011/06/05/peru-election-exitpolls-idUSLIP00211320110605'
+p709
+sg4
+S'20110605\xc2\xa04:57PM UTC'
+p710
+sg6
+S'Peru exit polls say Humala has edge over Fujimori'
+p711
+sa(dp712
+g2
+S'http://www.reuters.com/article/2011/06/05/us-macedonia-elections-idUSTRE75431P20110605'
+p713
+sg4
+S'20110605\xc2\xa04:54PM UTC'
+p714
+sg6
+S'Macedonia ruling VMRO-DPMNE claims election victory'
+p715
+sa(dp716
+g2
+S'http://www.reuters.com/article/2011/06/05/macedonia-elections-idUSLDE7540L320110605'
+p717
+sg4
+S'20110605\xc2\xa04:53PM UTC'
+p718
+sg6
+S'Macedonia ruling VMRO-DPMNE claims election victory'
+p719
+sa(dp720
+g2
+S'http://www.reuters.com/article/2011/06/05/us-tennis-open-sunday-idUSTRE75405G20110605'
+p721
+sg4
+S'20110605\xc2\xa04:52PM UTC'
+p722
+sg6
+S"Nadal's grip on title and Federer tightens"
+p723
+sa(dp724
+g2
+S'http://www.reuters.com/article/2011/06/05/digest-australia-business-idUSL3E7H50A220110605'
+p725
+sg4
+S'20110605\xc2\xa04:52PM UTC'
+p726
+sg6
+S'PRESS DIGEST-Australian Business News - June 6'
+p727
+sa(dp728
+g2
+S'http://www.reuters.com/article/2011/06/05/us-ecoli-usa-idUSTRE7542WA20110605'
+p729
+sg4
+S'20110605\xc2\xa04:51PM UTC'
+p730
+sg6
+S'Four suspected U.S. cases of E.coli linked to Germany'
+p731
+sa(dp732
+g2
+S'http://www.reuters.com/article/2011/06/05/us-tunisia-violence-idUSTRE75430420110605'
+p733
+sg4
+S'20110605\xc2\xa04:47PM UTC'
+p734
+sg6
+S'Death toll from Tunisian clashes reaches 11'
+p735
+sa(dp736
+g2
+S'http://www.reuters.com/article/2011/06/05/us-tognum-daimler-idUSTRE7542ZY20110605'
+p737
+sg4
+S'20110605\xc2\xa04:44PM UTC'
+p738
+sg6
+S'Daimler expects it got majority of Tognum: report'
+p739
+sa(dp740
+g2
+S'http://www.reuters.com/article/2011/06/05/us-tennis-open-nadal-idUSTRE7542YY20110605'
+p741
+sg4
+S'20110605\xc2\xa04:39PM UTC'
+p742
+sg6
+S'Tough journey made victory special, says nervous Nadal'
+p743
+sa(dp744
+g2
+S'http://www.reuters.com/article/2011/06/05/us-palestinians-israel-idUSTRE7541PF20110605'
+p745
+sg4
+S'20110605\xc2\xa04:37PM UTC'
+p746
+sg6
+S'Israeli forces kill 18 protesters: Syrian TV'
+p747
+sa(dp748
+g2
+S'http://www.reuters.com/article/2011/06/05/us-portugal-election-socrates-idUSTRE7542XD20110605'
+p749
+sg4
+S'20110605\xc2\xa04:34PM UTC'
+p750
+sg6
+S'Portugal Socialist PM Socrates resigns as party head'
+p751
+sa(dp752
+g2
+S'http://www.reuters.com/article/2011/06/05/us-cancer-melanoma-idUSTRE7542AM20110605'
+p753
+sg4
+S'20110605\xc2\xa04:32PM UTC'
+p754
+sg6
+S'New melanoma drugs improve chances of survival'
+p755
+sa(dp756
+g2
+S'http://www.reuters.com/article/2011/06/05/us-nba-pistons-coach-idUSTRE7542VZ20110605'
+p757
+sg4
+S'20110605\xc2\xa04:30PM UTC'
+p758
+sg6
+S'Detroit Pistons fire coach Kuester'
+p759
+sa(dp760
+g2
+S'http://www.reuters.com/article/2011/06/05/cancer-melanoma-idUSN0521628820110605'
+p761
+sg4
+S'20110605\xc2\xa04:30PM UTC'
+p762
+sg6
+S'WRAPUP 2-New melanoma drugs improve chances of survival'
+p763
+sa(dp764
+g2
+S'http://www.reuters.com/article/2011/06/05/idUS48547+05-Jun-2011+PRN20110605'
+p765
+sg4
+S'20110605\xc2\xa04:30PM UTC'
+p766
+sg6
+S'Following Is a Test Release'
+p767
+sa(dp768
+g2
+S'http://www.reuters.com/article/2011/06/05/us-strausskahn-france-idUSTRE7542DV20110605'
+p769
+sg4
+S'20110605\xc2\xa04:29PM UTC'
+p770
+sg6
+S'French soul-searching over DSK case grows'
+p771
+sa(dp772
+g2
+S'http://www.reuters.com/article/2011/06/05/portugal-election-socrates-idUSLSB00111420110605'
+p773
+sg4
+S'20110605\xc2\xa04:29PM UTC'
+p774
+sg6
+S'Portugal Socialist PM Socrates resigns as party head'
+p775
+sa(dp776
+g2
+S'http://www.reuters.com/article/2011/06/05/macedonia-elections-idUSCAS23100820110605'
+p777
+sg4
+S'20110605\xc2\xa04:26PM UTC'
+p778
+sg6
+S'Macedonia votes with EU, NATO entry in focus'
+p779
+sa(dp780
+g2
+S'http://www.reuters.com/article/2011/06/05/us-golf-pga-mickelson-idUSTRE7542V620110605'
+p781
+sg4
+S'20110605\xc2\xa04:24PM UTC'
+p782
+sg6
+S'Improved putting gives Mickelson renewed U.S. Open hope'
+p783
+sa(dp784
+g2
+S'http://www.reuters.com/article/2011/06/05/us-greece-economy-events-idUSTRE7542LK20110605'
+p785
+sg4
+S'20110605\xc2\xa04:23PM UTC'
+p786
+sg6
+S"Timeline: Greece's debt crisis"
+p787
+sa(dp788
+g2
+S'http://www.reuters.com/article/2011/06/05/us-tunisia-refugees-idUSTRE7542TR20110605'
+p789
+sg4
+S'20110605\xc2\xa04:21PM UTC'
+p790
+sg6
+S'Tunisia finds 26 more bodies from refugee shipwreck'
+p791
+sa(dp792
+g2
+S'http://www.reuters.com/article/2011/06/05/us-kenya-explosion-idUSTRE7542QJ20110605'
+p793
+sg4
+S'20110605\xc2\xa04:15PM UTC'
+p794
+sg6
+S'One killed in Kenya blast, over 30 injured'
+p795
+sa(dp796
+g2
+S'http://www.reuters.com/article/2011/06/05/us-alaska-musher-missing-idUSTRE7542TD20110605'
+p797
+sg4
+S'20110605\xc2\xa04:11PM UTC'
+p798
+sg6
+S'Troopers, friends search for missing Alaska dog musher'
+p799
+sa(dp800
+g2
+S'http://www.reuters.com/article/2011/06/05/greece-idUSLDE7540L620110605'
+p801
+sg4
+S'20110605\xc2\xa04:10PM UTC'
+p802
+sg6
+S'UPDATE 1-Greek austerity plan draws 80,000 to Athens square'
+p803
+sa(dp804
+g2
+S'http://www.reuters.com/article/2011/06/05/us-greece-protest-idUSTRE7542IS20110605'
+p805
+sg4
+S'20110605\xc2\xa04:10PM UTC'
+p806
+sg6
+S'Greek austerity plan draws 80,000 to Athens square'
+p807
+sa(dp808
+g2
+S'http://www.reuters.com/article/2011/06/05/us-portugal-election-socialists-idUSTRE7542NT20110605'
+p809
+sg4
+S'20110605\xc2\xa04:05PM UTC'
+p810
+sg6
+S'Portugal Socialists concede defeat in general election'
+p811
+sa(dp812
+g2
+S'http://www.reuters.com/article/2011/06/05/idUS47929+05-Jun-2011+BW20110605'
+p813
+sg4
+S'20110605\xc2\xa04:05PM UTC'
+p814
+sg6
+S'Teva Announces Patient Characteristic Data from the Therapy Optimization in Multiple Sclerosis (TOP MS) Study at Consortium of Multiple Sclerosis Centers Meeting'
+p815
+sa(dp816
+g2
+S'http://www.reuters.com/article/2011/06/05/us-tennis-open-federer-idUSTRE7542RJ20110605'
+p817
+sg4
+S'20110605\xc2\xa04:01PM UTC'
+p818
+sg6
+S'Rafa and Roger are back in the game, says Federer'
+p819
+sa(dp820
+g2
+S'http://www.reuters.com/article/2011/06/05/idUS47747+05-Jun-2011+PRN20110605'
+p821
+sg4
+S'20110605\xc2\xa04:00PM UTC'
+p822
+sg6
+S'Following Is a Test Release'
+p823
+sa(dp824
+g2
+S'http://www.reuters.com/article/2011/06/05/us-ecoli-idUSTRE7511UX20110605'
+p825
+sg4
+S'20110605\xc2\xa03:58PM UTC'
+p826
+sg6
+S'Germany says beansprouts may be behind E.coli'
+p827
+sa(dp828
+g2
+S'http://www.reuters.com/article/2011/06/05/kenya-explosion-idUSLDE75405H20110605'
+p829
+sg4
+S'20110605\xc2\xa03:55PM UTC'
+p830
+sg6
+S'UPDATE 3-One killed in Kenya blast, over 30 injured'
+p831
+sa(dp832
+g2
+S'http://www.reuters.com/article/2011/06/05/us-soccer-fifa-warner-idUSTRE7542PU20110605'
+p833
+sg4
+S'20110605\xc2\xa03:52PM UTC'
+p834
+sg6
+S'Warner decides against revealing Blatter emails'
+p835
+sa(dp836
+g2
+S'http://www.reuters.com/article/2011/06/05/us-syria-killings-east-idUSTRE7542PI20110605'
+p837
+sg4
+S'20110605\xc2\xa03:36PM UTC'
+p838
+sg6
+S'Protesters torch party HQ in east Syria, 2 killed'
+p839
+sa(dp840
+g2
+S'http://www.reuters.com/article/2011/06/05/idUS47199+05-Jun-2011+MW20110605'
+p841
+sg4
+S'20110605\xc2\xa03:35PM UTC'
+p842
+sg6
+S' Minister of National Defence Marks the Anniversary of D-Day'
+p843
+sa(dp844
+g2
+S'http://www.reuters.com/article/2011/06/05/syria-killings-east-idUSLDE7540KA20110605'
+p845
+sg4
+S'20110605\xc2\xa03:35PM UTC'
+p846
+sg6
+S'Protesters torch party HQ in east Syria, 2 killed'
+p847
+sa(dp848
+g2
+S'http://www.reuters.com/article/2011/06/05/us-dday-veterans-idUSTRE7541CX20110605'
+p849
+sg4
+S'20110605\xc2\xa03:33PM UTC'
+p850
+sg6
+S'D-Day veterans recall World War Two turning point'
+p851
+sa(dp852
+g2
+S'http://www.reuters.com/article/2011/06/05/us-pakistan-violence-idUSTRE7542OF20110605'
+p853
+sg4
+S'20110605\xc2\xa03:30PM UTC'
+p854
+sg6
+S'Bomb attacks kill 24 in north-west Pakistan'
+p855
+sa(dp856
+g2
+S'http://www.reuters.com/article/2011/06/05/idUS46972+05-Jun-2011+PRN20110605'
+p857
+sg4
+S'20110605\xc2\xa03:30PM UTC'
+p858
+sg6
+S'Following Is a Test Release'
+p859
+sa(dp860
+g2
+S'http://www.reuters.com/article/2011/06/05/us-pakistan-blast-idUSTRE7542JN20110605'
+p861
+sg4
+S'20110605\xc2\xa03:28PM UTC'
+p862
+sg6
+S'Bomb attacks kill 13 in northwest Pakistan'
+p863
+sa(dp864
+g2
+S'http://www.reuters.com/article/2011/06/05/portugal-election-socialists-idUSLSB00111320110605'
+p865
+sg4
+S'20110605\xc2\xa03:23PM UTC'
+p866
+sg6
+S'Portugal Socialists concede defeat in general election'
+p867
+sa(dp868
+g2
+S'http://www.reuters.com/article/2011/06/05/us-yemen-idUSTRE73L1PP20110605'
+p869
+sg4
+S'20110605\xc2\xa03:21PM UTC'
+p870
+sg6
+S"Yemen's Saleh has surgery in Saudi, crowds cheer exit"
+p871
+sa(dp872
+g2
+S'http://www.reuters.com/article/2011/06/05/us-yemen-celebration-idUSTRE7542MZ20110605'
+p873
+sg4
+S'20110605\xc2\xa03:21PM UTC'
+p874
+sg6
+S'Yemenis celebrate Saleh departure'
+p875
+sa(dp876
+g2
+S'http://www.reuters.com/article/2011/06/05/us-libya-idUSTRE7270JP20110605'
+p877
+sg4
+S'20110605\xc2\xa03:11PM UTC'
+p878
+sg6
+S'Britain says rebels must plan for post-Gaddafi Libya'
+p879
+sa(dp880
+g2
+S'http://www.reuters.com/article/2011/06/05/idUS212114884120110605'
+p881
+sg4
+S'20110605\xc2\xa03:07PM UTC'
+p882
+sg6
+S'App discovery startup Appsfire gets $3.6 million investment'
+p883
+sa(dp884
+g2
+S'http://www.reuters.com/article/2011/06/05/us-apple-idUSTRE7542KK20110605'
+p885
+sg4
+S'20110605\xc2\xa03:05PM UTC'
+p886
+sg6
+S"Apple's Jobs to take the stage as iCloud hype grows"
+p887
+sa(dp888
+g2
+S'http://www.reuters.com/article/2011/06/05/greece-economy-events-idUSLDE74A1GO20110605'
+p889
+sg4
+S'20110605\xc2\xa03:03PM UTC'
+p890
+sg6
+S"TIMELINE-Greece's debt crisis"
+p891
+sa(dp892
+g2
+S'http://www.reuters.com/article/2011/06/05/us-global-economy-weekahead-idUSTRE7542K920110605'
+p893
+sg4
+S'20110605\xc2\xa03:03PM UTC'
+p894
+sg6
+S'Fine line between slowdown and stall'
+p895
+sa(dp896
+g2
+S'http://www.reuters.com/article/2011/06/05/portugal-election-polls-idUSLSB00111220110605'
+p897
+sg4
+S'20110605\xc2\xa03:02PM UTC'
+p898
+sg6
+S'Portugal Social Democrats set to win election-exit polls'
+p899
+sa(dp900
+g2
+S'http://www.reuters.com/article/2011/06/05/apple-idUSN0517814220110605'
+p901
+sg4
+S'20110605\xc2\xa03:00PM UTC'
+p902
+sg6
+S"Apple's Job to take the stage as iCloud hype grows"
+p903
+sa(dp904
+g2
+S'http://www.reuters.com/article/2011/06/05/idUS46007+05-Jun-2011+PRN20110605'
+p905
+sg4
+S'20110605\xc2\xa03:00PM UTC'
+p906
+sg6
+S'Following Is a Test Release'
+p907
+sa(dp908
+g2
+S'http://www.reuters.com/article/2011/06/05/bis-clearing-idUSLDE7510HJ20110605'
+p909
+sg4
+S'20110605\xc2\xa03:00PM UTC'
+p910
+sg6
+S'BIS-Banks may need more cash to clear derivatives'
+p911
+sa(dp912
+g2
+S'http://www.reuters.com/article/2011/06/05/idUS45966+05-Jun-2011+BW20110605'
+p913
+sg4
+S'20110605\xc2\xa03:00PM UTC'
+p914
+sg6
+S'PartnerRe Ltd. Provides Initial Estimate of Losses Relating to the April 22-28, 2011 Tornadoes'
+p915
+sa(dp916
+g2
+S'http://www.reuters.com/article/2011/06/05/pakistan-blast-idUSSGE75400320110605'
+p917
+sg4
+S'20110605\xc2\xa02:57PM UTC'
+p918
+sg6
+S'Bomb blast kills 18 people in NW Pakistan'
+p919
+sa(dp920
+g2
+S'http://www.reuters.com/article/2011/06/05/us-wildfire-arizona-idUSTRE7542JD20110605'
+p921
+sg4
+S'20110605\xc2\xa02:41PM UTC'
+p922
+sg6
+S'Major wildfire chars 144,000 acres in eastern Arizona'
+p923
+sa(dp924
+g2
+S'http://www.reuters.com/article/2011/06/05/us-boxoffice-idUSTRE7541MS20110605'
+p925
+sg4
+S'20110605\xc2\xa02:34PM UTC'
+p926
+sg6
+S'New "X-Men" tops class at worldwide box office'
+p927
+sa(dp928
+g2
+S'http://www.reuters.com/article/2011/06/05/egypt-imf-idUSLDE7540AU20110605'
+p929
+sg4
+S'20110605\xc2\xa02:33PM UTC'
+p930
+sg6
+S'UPDATE 3-Egypt seals $3 billion IMF accord'
+p931
+sa(dp932
+g2
+S'http://www.reuters.com/article/2011/06/05/boxoffice-idUSN0524917920110605'
+p933
+sg4
+S'20110605\xc2\xa02:30PM UTC'
+p934
+sg6
+S"UPDATE 2-New 'X-Men' tops class at worldwide box office"
+p935
+sa(dp936
+g2
+S'http://www.reuters.com/article/2011/06/05/idUS45354+05-Jun-2011+PRN20110605'
+p937
+sg4
+S'20110605\xc2\xa02:30PM UTC'
+p938
+sg6
+S'Following Is a Test Release'
+p939
+sa(dp940
+g2
+S'http://www.reuters.com/article/2011/06/05/slovenia-referendum-idUSLDE7540J320110605'
+p941
+sg4
+S'20110605\xc2\xa02:24PM UTC'
+p942
+sg6
+S'Slovenians reject crucial pension reform'
+p943
+sa(dp944
+g2
+S'http://www.reuters.com/article/2011/06/05/us-syria-protests-statue-idUSTRE75414V20110605'
+p945
+sg4
+S'20110605\xc2\xa02:23PM UTC'
+p946
+sg6
+S'Syrian forces injure scores trying to topple statue'
+p947
+sa(dp948
+g2
+S'http://www.reuters.com/article/2011/06/05/us-macedonia-election-idUSTRE7542GH20110605'
+p949
+sg4
+S'20110605\xc2\xa02:22PM UTC'
+p950
+sg6
+S'Macedonia vote ends peacefully after bitter campaign'
+p951
+sa(dp952
+g2
+S'http://www.reuters.com/article/2011/06/05/us-golf-pga-watson-idUSTRE7542G720110605'
+p953
+sg4
+S'20110605\xc2\xa02:19PM UTC'
+p954
+sg6
+S'Watson to be honored at 2012 Memorial tournament'
+p955
+sa(dp956
+g2
+S'http://www.reuters.com/article/2011/06/05/us-airlines-idUSTRE7541FO20110605'
+p957
+sg4
+S'20110605\xc2\xa02:16PM UTC'
+p958
+sg6
+S'Airline profit fears as trade fight looms with Europe'
+p959
+sa(dp960
+g2
+S'http://www.reuters.com/article/2011/06/05/us-climate-fuel-worldbank-idUSTRE7541LO20110605'
+p961
+sg4
+S'20110605\xc2\xa02:16PM UTC'
+p962
+sg6
+S'World Bank to suggest CO2 levy on jet, shipping fuel'
+p963
+sa(dp964
+g2
+S'http://www.reuters.com/article/2011/06/05/airlines-idUSLDE7540I220110605'
+p965
+sg4
+S'20110605\xc2\xa02:13PM UTC'
+p966
+sg6
+S'Airline profit fears as trade fight looms with Europe'
+p967
+sa(dp968
+g2
+S'http://www.reuters.com/article/2011/06/05/us-pope-croatia-idUSTRE7540QI20110605'
+p969
+sg4
+S'20110605\xc2\xa02:12PM UTC'
+p970
+sg6
+S'Stop disintegration of the family in Europe: pope'
+p971
+sa(dp972
+g2
+S'http://www.reuters.com/article/2011/06/05/us-flooding-plains-iowa-idUSTRE7542EH20110605'
+p973
+sg4
+S'20110605\xc2\xa02:05PM UTC'
+p974
+sg6
+S'Levee breach in southwest Iowa forces mandatory evacuation'
+p975
+sa(dp976
+g2
+S'http://www.reuters.com/article/2011/06/05/iraq-bank-idUSLDE7540CA20110605'
+p977
+sg4
+S'20110605\xc2\xa02:05PM UTC'
+p978
+sg6
+S"UPDATE 2-Iraq seeks bank head's arrest, denies witchhunt"
+p979
+sa(dp980
+g2
+S'http://www.reuters.com/article/2011/06/05/idUS44507+05-Jun-2011+PRN20110605'
+p981
+sg4
+S'20110605\xc2\xa02:00PM UTC'
+p982
+sg6
+S'Following Is a Test Release'
+p983
+sa(dp984
+g2
+S'http://www.reuters.com/article/2011/06/05/freeport-idUSN0521996820110605'
+p985
+sg4
+S'20110605\xc2\xa01:48PM UTC'
+p986
+sg6
+S"Freeport shares may rise- Barron's"
+p987
+sa(dp988
+g2
+S'http://www.reuters.com/article/2011/06/05/us-opec-idUSTRE7542AK20110605'
+p989
+sg4
+S'20110605\xc2\xa01:41PM UTC'
+p990
+sg6
+S'Saudi to push OPEC to lift oil output, cut prices'
+p991
+sa(dp992
+g2
+S'http://www.reuters.com/article/2011/06/05/us-tornado-alabama-health-idUSTRE75428V20110605'
+p993
+sg4
+S'20110605\xc2\xa01:37PM UTC'
+p994
+sg6
+S'Alabama residents cope with stress after deadly storms'
+p995
+sa(dp996
+g2
+S'http://www.reuters.com/article/2011/06/05/idUS43315+05-Jun-2011+PRN20110605'
+p997
+sg4
+S'20110605\xc2\xa01:35PM UTC'
+p998
+sg6
+S"The World's First Synchronized FMX Double Back Flip Performed at Nitro Circus Live in Las Vegas"
+p999
+sa(dp1000
+g2
+S'http://www.reuters.com/article/2011/06/05/idUS43169+05-Jun-2011+MW20110605'
+p1001
+sg4
+S'20110605\xc2\xa01:30PM UTC'
+p1002
+sg6
+S' Versartis Long-Term Preclinical Safety Data for VRS-317 Presented at ENDO 2011'
+p1003
+sa(dp1004
+g2
+S'http://www.reuters.com/article/2011/06/05/idUS43164+05-Jun-2011+PRN20110605'
+p1005
+sg4
+S'20110605\xc2\xa01:30PM UTC'
+p1006
+sg6
+S'Following Is a Test Release'
+p1007
+sa(dp1008
+g2
+S'http://www.reuters.com/article/2011/06/05/idUS43162+05-Jun-2011+MW20110605'
+p1009
+sg4
+S'20110605\xc2\xa01:30PM UTC'
+p1010
+sg6
+S' Versartis Long-Term Preclinical Safety Data for VRS-317 Presented at ENDO 2011'
+p1011
+sa(dp1012
+g2
+S'http://www.reuters.com/article/2011/06/05/idUS43086+05-Jun-2011+MW20110605'
+p1013
+sg4
+S'20110605\xc2\xa01:26PM UTC'
+p1014
+sg6
+S' Russian Observation Aircraft Takes to Canadian Skies Under International Treaty'
+p1015
+sa(dp1016
+g2
+S'http://www.reuters.com/article/2011/06/05/idUS42777+05-Jun-2011+BW20110605'
+p1017
+sg4
+S'20110605\xc2\xa01:18PM UTC'
+p1018
+sg6
+S'Phase II Study Evaluates Clinical Benefit of REVLIMID\xc2\xae in Combination Therapy for Patients with Metastatic Castration-Resistant Prostate Cancer (MCRPC)'
+p1019
+sa(dp1020
+g2
+S'http://www.reuters.com/article/2011/06/05/lorillard-idUSN0521721620110605'
+p1021
+sg4
+S'20110605\xc2\xa01:15PM UTC'
+p1022
+sg6
+S"Lorillard a risky near-term investment - Barron's"
+p1023
+sa(dp1024
+g2
+S'http://www.reuters.com/article/2011/06/05/us-peru-election-idUSTRE75328L20110605'
+p1025
+sg4
+S'20110605\xc2\xa01:13PM UTC'
+p1026
+sg6
+S'Acrimonious Peru election headed for photo finish'
+p1027
+sa(dp1028
+g2
+S'http://www.reuters.com/article/2011/06/05/usiminas-idUSN0521715520110605'
+p1029
+sg4
+S'20110605\xc2\xa01:12PM UTC'
+p1030
+sg6
+S"Brazil's CSN unlikely to join Usiminas board -report"
+p1031
+sa(dp1032
+g2
+S'http://www.reuters.com/article/2011/06/05/tennis-open-idUSLDE7540AY20110605'
+p1033
+sg4
+S'20110605\xc2\xa01:06PM UTC'
+p1034
+sg6
+S'Tennis-Open-Nadal beats Federer for sixth French Open title'
+p1035
+sa(dp1036
+g2
+S'http://www.reuters.com/article/2011/06/05/syria-killings-idUSLDE7540HI20110605'
+p1037
+sg4
+S'20110605\xc2\xa01:04PM UTC'
+p1038
+sg6
+S'Syrian forces kill 35 in protest town - residents'
+p1039
+sa(dp1040
+g2
+S'http://www.reuters.com/article/2011/06/05/idUS42096+05-Jun-2011+PRN20110605'
+p1041
+sg4
+S'20110605\xc2\xa01:00PM UTC'
+p1042
+sg6
+S'Following Is a Test Release'
+p1043
+sa(dp1044
+g2
+S'http://www.reuters.com/article/2011/06/05/idUS42086+05-Jun-2011+PRN20110605'
+p1045
+sg4
+S'20110605\xc2\xa01:00PM UTC'
+p1046
+sg6
+S'Great Comebacks\xc2\xae Program Recognizes WOC Nurse Heidi H. Cross at WOCN 43rd Annual Conference'
+p1047
+sa(dp1048
+g2
+S'http://www.reuters.com/article/2011/06/05/idUS42045+05-Jun-2011+BW20110605'
+p1049
+sg4
+S'20110605\xc2\xa01:00PM UTC'
+p1050
+sg6
+S'Exelixis` Cabozantinib Demonstrates Broad Clinical Activity in Multiple Tumor Types'
+p1051
+sa(dp1052
+g2
+S'http://www.reuters.com/article/2011/06/05/us-usa-madoff-auction-idUSTRE75425G20110605'
+p1053
+sg4
+S'20110605\xc2\xa012:59PM UTC'
+p1054
+sg6
+S"Madoff's underwear fetch $200 at Florida auction"
+p1055
+sa(dp1056
+g2
+S'http://www.reuters.com/article/2011/06/05/usa-madoff-auction-idUSN0521746820110605'
+p1057
+sg4
+S'20110605\xc2\xa012:56PM UTC'
+p1058
+sg6
+S"Madoff's underwear fetch $200 at Florida auction"
+p1059
+sa(dp1060
+g2
+S'http://www.reuters.com/article/2011/06/05/idUS41849+05-Jun-2011+PRN20110605'
+p1061
+sg4
+S'20110605\xc2\xa012:51PM UTC'
+p1062
+sg6
+S'Stars Hop to the Official Opening of Playboy Club London'
+p1063
+sa(dp1064
+g2
+S'http://www.reuters.com/article/2011/06/05/us-yemen-rugery-saleh-idUSTRE75424S20110605'
+p1065
+sg4
+S'20110605\xc2\xa012:50PM UTC'
+p1066
+sg6
+S"Yemen's Saleh awake after successful operation: source"
+p1067
+sa(dp1068
+g2
+S'http://www.reuters.com/article/2011/06/05/yemen-rugery-saleh-idUSLDE7540HC20110605'
+p1069
+sg4
+S'20110605\xc2\xa012:50PM UTC'
+p1070
+sg6
+S"Yemen's Saleh awake after successful operation-source"
+p1071
+sa(dp1072
+g2
+S'http://www.reuters.com/article/2011/06/05/hexcel-idUSN054712520110605'
+p1073
+sg4
+S'20110605\xc2\xa012:41PM UTC'
+p1074
+sg6
+S"Hexcel shares to rise further -Barron's"
+p1075
+sa(dp1076
+g2
+S'http://www.reuters.com/article/2011/06/05/refinery-operations-bp-toledo-idUSWEN395720110605'
+p1077
+sg4
+S'20110605\xc2\xa012:38PM UTC'
+p1078
+sg6
+S'BP-Husky Ohio refinery reports flaring -filing'
+p1079
+sa(dp1080
+g2
+S'http://www.reuters.com/article/2011/06/05/us-peru-election-humala-idUSTRE7541AR20110605'
+p1081
+sg4
+S'20110605\xc2\xa012:31PM UTC'
+p1082
+sg6
+S"Time to remember the past, says Peru's jogging Humala"
+p1083
+sa(dp1084
+g2
+S'http://www.reuters.com/article/2011/06/05/us-peru-election-fb-idUSTRE7532G420110605'
+p1085
+sg4
+S'20110605\xc2\xa012:31PM UTC'
+p1086
+sg6
+S"Factbox: Recent polls in Peru's presidential race"
+p1087
+sa(dp1088
+g2
+S'http://www.reuters.com/article/2011/06/05/idUS41119+05-Jun-2011+PRN20110605'
+p1089
+sg4
+S'20110605\xc2\xa012:30PM UTC'
+p1090
+sg6
+S'Following Is a Test Release'
+p1091
+sa(dp1092
+g2
+S'http://www.reuters.com/article/2011/06/05/idUS41089+05-Jun-2011+BW20110605'
+p1093
+sg4
+S'20110605\xc2\xa012:30PM UTC'
+p1094
+sg6
+S'ImmunoGen, Inc. Announces Positive Clinical Data Presented on IMGN901 in the Treatment of Multiple Myeloma'
+p1095
+sa(dp1096
+g2
+S'http://www.reuters.com/article/2011/06/05/cancer-melanoma-roche-idUSN0121283620110605'
+p1097
+sg4
+S'20110605\xc2\xa012:28PM UTC'
+p1098
+sg6
+S'Roche melanoma drug cuts risk of death by 63 pct'
+p1099
+sa(dp1100
+g2
+S'http://www.reuters.com/article/2011/06/05/us-pakistan-kashmiri-idUSTRE7530XS20110605'
+p1101
+sg4
+S'20110605\xc2\xa012:27PM UTC'
+p1102
+sg6
+S'Pakistan minister says Kashmiri is very likely dead'
+p1103
+sa(dp1104
+g2
+S'http://www.reuters.com/article/2011/06/05/us-india-guru-idUSTRE7541XC20110605'
+p1105
+sg4
+S'20110605\xc2\xa012:26PM UTC'
+p1106
+sg6
+S"Indian police break up guru's anti-graft fast"
+p1107
+sa(dp1108
+g2
+S'http://www.reuters.com/article/2011/06/05/us-traceadkins-idUSTRE7541ZF20110605'
+p1109
+sg4
+S'20110605\xc2\xa012:21PM UTC'
+p1110
+sg6
+S"Fire destroys country singer Trace Adkins' home"
+p1111
+sa(dp1112
+g2
+S'http://www.reuters.com/article/2011/06/05/us-soccer-fifa-kissinger-idUSTRE7541YZ20110605'
+p1113
+sg4
+S'20110605\xc2\xa012:20PM UTC'
+p1114
+sg6
+S'Kissinger ponders Blatter\'s offer of FIFA "wise men" role'
+p1115
+sa(dp1116
+g2
+S'http://www.reuters.com/article/2011/06/05/idUS40356+05-Jun-2011+BW20110605'
+p1117
+sg4
+S'20110605\xc2\xa012:14PM UTC'
+p1118
+sg6
+S'Parents Make Public Appeal on Behalf of 5-week-old Daughter Who Needs Lung Transplant to Survive'
+p1119
+sa(dp1120
+g2
+S'http://www.reuters.com/article/2011/06/05/yemen-truce-tribe-idUSLDE7540G320110605'
+p1121
+sg4
+S'20110605\xc2\xa012:09PM UTC'
+p1122
+sg6
+S"Yemen's Ahmar group agrees to abide by truce-opposition"
+p1123
+sa(dp1124
+g2
+S'http://www.reuters.com/article/2011/06/05/us-nintendo-idUSTRE7541WP20110605'
+p1125
+sg4
+S'20110605\xc2\xa012:09PM UTC'
+p1126
+sg6
+S"Hackers attack Nintendo's servers in United States"
+p1127
+sa(dp1128
+g2
+S'http://www.reuters.com/article/2011/06/05/nintendo-idUSN0521697820110605'
+p1129
+sg4
+S'20110605\xc2\xa012:08PM UTC'
+p1130
+sg6
+S"Hackers attack Nintendo's servers in United States"
+p1131
+sa(dp1132
+g2
+S'http://www.reuters.com/article/2011/06/05/health-ecoli-source-idUSLDE7540DL20110605'
+p1133
+sg4
+S'20110605\xc2\xa012:06PM UTC'
+p1134
+sg6
+S'Germany says beansprouts may be behind E.coli'
+p1135
+sa(dp1136
+g2
+S'http://www.reuters.com/article/2011/06/05/us-adoption-gallery-idUSTRE7541LB20110605'
+p1137
+sg4
+S'20110605\xc2\xa012:03PM UTC'
+p1138
+sg6
+S'Heart Gallery photos have inspired adoptions for 10 years'
+p1139
+sa(dp1140
+g2
+S'http://www.reuters.com/article/2011/06/05/us-usa-military-gays-idUSTRE7541VD20110605'
+p1141
+sg4
+S'20110605\xc2\xa012:02PM UTC'
+p1142
+sg6
+S'No opt-out for opponents of gays in military: Gates'
+p1143
+sa(dp1144
+g2
+S'http://www.reuters.com/article/2011/06/05/us-yemen-truce-idUSTRE7541V720110605'
+p1145
+sg4
+S'20110605\xc2\xa012:01PM UTC'
+p1146
+sg6
+S"Yemen's acting leader seeks truce with tribes"
+p1147
+sa(dp1148
+g2
+S'http://www.reuters.com/article/2011/06/05/yemen-truce-idUSLDE7540FM20110605'
+p1149
+sg4
+S'20110605\xc2\xa012:00PM UTC'
+p1150
+sg6
+S"Yemen's acting leader seeks truce with tribes"
+p1151
+sa(dp1152
+g2
+S'http://www.reuters.com/article/2011/06/05/idUS39844+05-Jun-2011+PRN20110605'
+p1153
+sg4
+S'20110605\xc2\xa012:00PM UTC'
+p1154
+sg6
+S'Following Is a Test Release'
+p1155
+sa(dp1156
+g2
+S'http://www.reuters.com/article/2011/06/05/usa-housing-idUSN0521481620110605'
+p1157
+sg4
+S'20110605\xc2\xa011:53AM UTC'
+p1158
+sg6
+S'RPT-White House says needs to deal with housing problems'
+p1159
+sa(dp1160
+g2
+S'http://www.reuters.com/article/2011/06/05/us-usa-housing-idUSTRE7532FP20110605'
+p1161
+sg4
+S'20110605\xc2\xa011:51AM UTC'
+p1162
+sg6
+S'White House says needs to deal with housing problems'
+p1163
+sa(dp1164
+g2
+S'http://www.reuters.com/article/2011/06/05/us-gulf-spending-idUSTRE7541SX20110605'
+p1165
+sg4
+S'20110605\xc2\xa011:49AM UTC'
+p1166
+sg6
+S'Gulf states boost spending in hope of calming unrest'
+p1167
+sa(dp1168
+g2
+S'http://www.reuters.com/article/2011/06/05/boxoffice-chart-idUSN2921331420110605'
+p1169
+sg4
+S'20110605\xc2\xa011:44AM UTC'
+p1170
+sg6
+S'The top films at the North American box office'
+p1171
+sa(dp1172
+g2
+S'http://www.reuters.com/article/2011/06/05/idUS38913+05-Jun-2011+BW20110605'
+p1173
+sg4
+S'20110605\xc2\xa011:34AM UTC'
+p1174
+sg6
+S'SCA`s Tork\xc2\xae Brand Releases Green Business Survey for World Environment Day'
+p1175
+sa(dp1176
+g2
+S'http://www.reuters.com/article/2011/06/05/greece-idUSLDE7540AV20110605'
+p1177
+sg4
+S'20110605\xc2\xa011:32AM UTC'
+p1178
+sg6
+S'Greece to tackle austerity plan to win new bailout'
+p1179
+sa(dp1180
+g2
+S'http://www.reuters.com/article/2011/06/05/idUS38807+05-Jun-2011+MW20110605'
+p1181
+sg4
+S'20110605\xc2\xa011:30AM UTC'
+p1182
+sg6
+S' Minister of National Defence Statement on 2011 Canadian Forces Day'
+p1183
+sa(dp1184
+g2
+S'http://www.reuters.com/article/2011/06/05/idUS38778+05-Jun-2011+PRN20110605'
+p1185
+sg4
+S'20110605\xc2\xa011:30AM UTC'
+p1186
+sg6
+S'Following Is a Test Release'
+p1187
+sa(dp1188
+g2
+S'http://www.reuters.com/article/2011/06/05/us-singapore-defence-idUSTRE7530O920110605'
+p1189
+sg4
+S'20110605\xc2\xa011:28AM UTC'
+p1190
+sg6
+S'China says will not threaten anyone with modern military'
+p1191
+sa(dp1192
+g2
+S'http://www.reuters.com/article/2011/06/05/idUS38713+05-Jun-2011+PRN20110605'
+p1193
+sg4
+S'20110605\xc2\xa011:28AM UTC'
+p1194
+sg6
+S'Rentrak Announces Official Box Office Numbers For Weekend of June 3, 2011'
+p1195
+sa(dp1196
+g2
+S'http://www.reuters.com/article/2011/06/05/us-nhl-stanley-idUSTRE75408L20110605'
+p1197
+sg4
+S'20110605\xc2\xa011:25AM UTC'
+p1198
+sg6
+S'Burrows pounces in OT as Canucks go 2-0 up'
+p1199
+sa(dp1200
+g2
+S'http://www.reuters.com/article/2011/06/05/us-usa-stocks-weekahead-idUSTRE7526LA20110605'
+p1201
+sg4
+S'20110605\xc2\xa011:24AM UTC'
+p1202
+sg6
+S'Market stalls but investors not panicked'
+p1203
+sa(dp1204
+g2
+S'http://www.reuters.com/article/2011/06/05/egypt-imf-funds-idUSWEA456020110605'
+p1205
+sg4
+S'20110605\xc2\xa011:23AM UTC'
+p1206
+sg6
+S'Egypt says to start repaying IMF funds in 3-1/4 yrs'
+p1207
+sa(dp1208
+g2
+S'http://www.reuters.com/article/2011/06/05/usa-stocks-weekahead-idUSN0520205620110605'
+p1209
+sg4
+S'20110605\xc2\xa011:22AM UTC'
+p1210
+sg6
+S'RPT-Wall St Wk Ahead:Market stalls but investors not panicked'
+p1211
+sa(dp1212
+g2
+S'http://www.reuters.com/article/2011/06/05/lloyds-northernrock-idUSLDE7540DC20110605'
+p1213
+sg4
+S'20110605\xc2\xa011:17AM UTC'
+p1214
+sg6
+S'Banks finalising Lloyds branch sale papers-report'
+p1215
+sa(dp1216
+g2
+S'http://www.reuters.com/article/2011/06/05/idUS38310+05-Jun-2011+PRN20110605'
+p1217
+sg4
+S'20110605\xc2\xa011:17AM UTC'
+p1218
+sg6
+S'GE Healthcare and ImaginAb Conclude Master Research Agreement for Imaging with Antibody Fragments'
+p1219
+sa(dp1220
+g2
+S'http://www.reuters.com/article/2011/06/05/us-mtv-idUSTRE7541K320110605'
+p1221
+sg4
+S'20110605\xc2\xa011:14AM UTC'
+p1222
+sg6
+S'MTV film award winners take back seat to new clips'
+p1223
+sa(dp1224
+g2
+S'http://www.reuters.com/article/2011/06/05/india-bpcl-expansion-idUSL3E7H507G20110605'
+p1225
+sg4
+S'20110605\xc2\xa011:10AM UTC'
+p1226
+sg6
+S"UPDATE 2-India's BPCL plans 170,000 bpd refinery expansions"
+p1227
+sa(dp1228
+g2
+S'http://www.reuters.com/article/2011/06/05/us-germany-party-idUSTRE7541ND20110605'
+p1229
+sg4
+S'20110605\xc2\xa011:07AM UTC'
+p1230
+sg6
+S"Facebook blunder leads crowd to teen's birthday"
+p1231
+sa(dp1232
+g2
+S'http://www.reuters.com/article/2011/06/05/us-sudan-kordofan-idUSTRE7541MA20110605'
+p1233
+sg4
+S'20110605\xc2\xa011:04AM UTC'
+p1234
+sg6
+S'Clashes reported in Sudan flashpoint state'
+p1235
+sa(dp1236
+g2
+S'http://www.reuters.com/article/2011/06/05/boxoffice-idUSN0521472620110605'
+p1237
+sg4
+S'20110605\xc2\xa011:01AM UTC'
+p1238
+sg6
+S"New 'X-Men' tops class at North America box office"
+p1239
+sa(dp1240
+g2
+S'http://www.reuters.com/article/2011/06/05/idUS37557+05-Jun-2011+PRN20110605'
+p1241
+sg4
+S'20110605\xc2\xa011:00AM UTC'
+p1242
+sg6
+S'Following Is a Test Release'
+p1243
+sa(dp1244
+g2
+S'http://www.reuters.com/article/2011/06/05/idUS37554+05-Jun-2011+PRN20110605'
+p1245
+sg4
+S'20110605\xc2\xa011:00AM UTC'
+p1246
+sg6
+S'Argos Therapeutics Presents New Phase 2 Data Showing its Arcelis\xe2\x84\xa2 Immunotherapy AGS-003 in Combination with sunitinib Improves Progression-Free Survival (PFS) in Patients with Advanced Renal Cell Carcinoma (RCC)'
+p1247
+sa(dp1248
+g2
+S'http://www.reuters.com/article/2011/06/05/idUS37272+05-Jun-2011+PRN20110605'
+p1249
+sg4
+S'20110605\xc2\xa010:51AM UTC'
+p1250
+sg6
+S'City National Bank of Florida Presents Inaugural Hi-Tides Award to Film Director & Producer Brett Ratner'
+p1251
+sa(dp1252
+g2
+S'http://www.reuters.com/article/2011/06/05/us-weather-idUSTRE7541JW20110605'
+p1253
+sg4
+S'20110605\xc2\xa010:44AM UTC'
+p1254
+sg6
+S'Southern states feel the heat, face thunderstorms'
+p1255
+sa(dp1256
+g2
+S'http://www.reuters.com/article/2011/06/05/us-afghanistan-gates-idUSTRE7530HJ20110605'
+p1257
+sg4
+S'20110605\xc2\xa010:44AM UTC'
+p1258
+sg6
+S'U.S. Afghan withdrawal will be gradual: Gates'
+p1259
+sa(dp1260
+g2
+S'http://www.reuters.com/article/2011/06/05/film-mtv-idUSN0512903520110605'
+p1261
+sg4
+S'20110605\xc2\xa010:37AM UTC'
+p1262
+sg6
+S'MTV film award winners take back seat to new clips'
+p1263
+sa(dp1264
+g2
+S'http://www.reuters.com/article/2011/06/05/idUS36797+05-Jun-2011+BW20110605'
+p1265
+sg4
+S'20110605\xc2\xa010:36AM UTC'
+p1266
+sg6
+S'Cupcake Convertible Car at 60th Annual Sun Fun Festival in Myrtle Beach, S.C.'
+p1267
+sa(dp1268
+g2
+S'http://www.reuters.com/article/2011/06/05/idUS36602+05-Jun-2011+PRN20110605'
+p1269
+sg4
+S'20110605\xc2\xa010:30AM UTC'
+p1270
+sg6
+S'Following Is a Test Release'
+p1271
+sa(dp1272
+g2
+S'http://www.reuters.com/article/2011/06/05/us-motorcycling-prix-idUSTRE7541HW20110605'
+p1273
+sg4
+S'20110605\xc2\xa010:24AM UTC'
+p1274
+sg6
+S'Stoner races away to win Catalan MotoGP'
+p1275
+sa(dp1276
+g2
+S'http://www.reuters.com/article/2011/06/05/chile-copper-protest-idUSN0521298020110605'
+p1277
+sg4
+S'20110605\xc2\xa010:21AM UTC'
+p1278
+sg6
+S'Protest hits Chile key copper mine for second day'
+p1279
+sa(dp1280
+g2
+S'http://www.reuters.com/article/2011/06/05/us-golf-china-idUSTRE7541HK20110605'
+p1281
+sg4
+S'20110605\xc2\xa010:21AM UTC'
+p1282
+sg6
+S'"Rebel" Korean Kim wins China Open'
+p1283
+sa(dp1284
+g2
+S'http://www.reuters.com/article/2011/06/05/us-iraq-bank-idUSTRE75415V20110605'
+p1285
+sg4
+S'20110605\xc2\xa010:18AM UTC'
+p1286
+sg6
+S"Iraq seeks bank head's arrest, denies witchhunt"
+p1287
+sa(dp1288
+g2
+S'http://www.reuters.com/article/2011/06/05/idUS36180+05-Jun-2011+BW20110605'
+p1289
+sg4
+S'20110605\xc2\xa010:17AM UTC'
+p1290
+sg6
+S'Glycominds Announces Top-Line Positive Results for the Second Clinical Trial of gMS\xc2\xaePro/CDMS Blood Test (gMS-Classifier2) were Presented Orally at the 25th Consortium for Multiple Sclerosis 2011 Meeting'
+p1291
+sa(dp1292
+g2
+S'http://www.reuters.com/article/2011/06/05/us-greece-banks-idUSTRE7540TH20110605'
+p1293
+sg4
+S'20110605\xc2\xa010:12AM UTC'
+p1294
+sg6
+S'Greece to ask banks to boost capital ratios: report'
+p1295
+sa(dp1296
+g2
+S'http://www.reuters.com/article/2011/06/05/us-eurozone-germany-greece-kauder-idUSTRE7541GK20110605'
+p1297
+sg4
+S'20110605\xc2\xa010:12AM UTC'
+p1298
+sg6
+S'Merkel ally Kauder says Greece has not done enough'
+p1299
+sa(dp1300
+g2
+S'http://www.reuters.com/article/2011/06/05/us-dday-oklahoma-paintball-idUSTRE7541GB20110605'
+p1301
+sg4
+S'20110605\xc2\xa010:08AM UTC'
+p1302
+sg6
+S'Marking D-Day with massive paintball battle'
+p1303
+sa(dp1304
+g2
+S'http://www.reuters.com/article/2011/06/05/us-mirs-nokiasiemens-idUSTRE7541FY20110605'
+p1305
+sg4
+S'20110605\xc2\xa010:01AM UTC'
+p1306
+sg6
+S"Israel's Mirs picks Nokia Siemens for mobile deal"
+p1307
+sa(dp1308
+g2
+S'http://www.reuters.com/article/2011/06/05/idUS35601+05-Jun-2011+PRN20110605'
+p1309
+sg4
+S'20110605\xc2\xa010:00AM UTC'
+p1310
+sg6
+S'Where Will Your Electrons Come From in 2030?'
+p1311
+sa(dp1312
+g2
+S'http://www.reuters.com/article/2011/06/05/idUS35581+05-Jun-2011+PRN20110605'
+p1313
+sg4
+S'20110605\xc2\xa010:00AM UTC'
+p1314
+sg6
+S'Following Is a Test Release'
+p1315
+sa(dp1316
+g2
+S'http://www.reuters.com/article/2011/06/05/eurozone-germany-greece-kauder-idUSLDE7540BM20110605'
+p1317
+sg4
+S'20110605\xc2\xa09:59AM UTC'
+p1318
+sg6
+S'Merkel ally Kauder says Greece has not done enough'
+p1319
+sa(dp1320
+g2
+S'http://www.reuters.com/article/2011/06/05/idUS35487+05-Jun-2011+BW20110605'
+p1321
+sg4
+S'20110605\xc2\xa09:57AM UTC'
+p1322
+sg6
+S'Second Phase 3 Study of YERVOY (ipilimumab) in Metastatic Melanoma Meets Primary Endpoint of Overall Survival'
+p1323
+sa(dp1324
+g2
+S'http://www.reuters.com/article/2011/06/05/airlines-idUSL3E7H505A20110605'
+p1325
+sg4
+S'20110605\xc2\xa09:55AM UTC'
+p1326
+sg6
+S'WRAPUP 1-Airlines, EU in escalating trade row over emissions'
+p1327
+sa(dp1328
+g2
+S'http://www.reuters.com/article/2011/06/05/alkhaliji-ibq-merger-idUSLDE75401X20110605'
+p1329
+sg4
+S'20110605\xc2\xa09:53AM UTC'
+p1330
+sg6
+S"CORRECTED - UPDATE 2-Qatar's Al Khaliji ends merger talks with rival IBQ"
+p1331
+sa(dp1332
+g2
+S'http://www.reuters.com/article/2011/06/05/us-iraq-energy-attack-idUSTRE7541F120110605'
+p1333
+sg4
+S'20110605\xc2\xa09:52AM UTC'
+p1334
+sg6
+S'Bombs hit Iraq oil tanks in rare southern attack'
+p1335
+sa(dp1336
+g2
+S'http://www.reuters.com/article/2011/06/05/us-cancer-melanoma-bristol-meyers-idUSTRE7541EU20110605'
+p1337
+sg4
+S'20110605\xc2\xa09:50AM UTC'
+p1338
+sg6
+S'Melanoma drug extends life in second large study'
+p1339
+sa(dp1340
+g2
+S'http://www.reuters.com/article/2011/06/05/us-libya-nato-idUSTRE7541EO20110605'
+p1341
+sg4
+S'20110605\xc2\xa09:49AM UTC'
+p1342
+sg6
+S'Factbox: Latest developments in Libyan conflict'
+p1343
+sa(dp1344
+g2
+S'http://www.reuters.com/article/2011/06/05/cancer-melanoma-bristol-meyers-idUSN0519322720110605'
+p1345
+sg4
+S'20110605\xc2\xa09:48AM UTC'
+p1346
+sg6
+S'Melanoma drug extends life in second large study'
+p1347
+sa(dp1348
+g2
+S'http://www.reuters.com/article/2011/06/05/asda-idUSLDE75409V20110605'
+p1349
+sg4
+S'20110605\xc2\xa09:47AM UTC'
+p1350
+sg6
+S'Asda planning Iceland Foods bid-report'
+p1351
+sa(dp1352
+g2
+S'http://www.reuters.com/article/2011/06/05/us-yemen-arabs-idUSTRE7541E520110605'
+p1353
+sg4
+S'20110605\xc2\xa09:47AM UTC'
+p1354
+sg6
+S'Arabs see Yemen as turning point for uprisings'
+p1355
+sa(dp1356
+g2
+S'http://www.reuters.com/article/2011/06/05/idUS34812+05-Jun-2011+PRN20110605'
+p1357
+sg4
+S'20110605\xc2\xa09:36AM UTC'
+p1358
+sg6
+S'Great Comebacks\xc2\xae Program Recognizes National Award Winners'
+p1359
+sa(dp1360
+g2
+S'http://www.reuters.com/article/2011/06/05/idUS34739+05-Jun-2011+PRN20110605'
+p1361
+sg4
+S'20110605\xc2\xa09:35AM UTC'
+p1362
+sg6
+S'McPeak Elected Chairman of ABMC'
+p1363
+sa(dp1364
+g2
+S'http://www.reuters.com/article/2011/06/05/aviva-idUSLDE7540BB20110605'
+p1365
+sg4
+S'20110605\xc2\xa09:33AM UTC'
+p1366
+sg6
+S'Aviva to name John McFarlane chairman-report'
+p1367
+sa(dp1368
+g2
+S'http://www.reuters.com/article/2011/06/05/idUS34659+05-Jun-2011+PRN20110605'
+p1369
+sg4
+S'20110605\xc2\xa09:32AM UTC'
+p1370
+sg6
+S'D-Day Veterans Gather at Pointe du Hoc'
+p1371
+sa(dp1372
+g2
+S'http://www.reuters.com/article/2011/06/05/us-cancer-melanoma-roche-idUSTRE7541CQ20110605'
+p1373
+sg4
+S'20110605\xc2\xa09:32AM UTC'
+p1374
+sg6
+S'Roche melanoma drug cuts risk of death by 63 percent'
+p1375
+sa(dp1376
+g2
+S'http://www.reuters.com/article/2011/06/05/idUS34610+05-Jun-2011+MW20110605'
+p1377
+sg4
+S'20110605\xc2\xa09:31AM UTC'
+p1378
+sg6
+S' Soltoro Initiates Drill Program at Chinipas Gold Property in Chihuahua State, Mexico'
+p1379
+sa(dp1380
+g2
+S'http://www.reuters.com/article/2011/06/05/idUS34563+05-Jun-2011+PRN20110605'
+p1381
+sg4
+S'20110605\xc2\xa09:30AM UTC'
+p1382
+sg6
+S'Following Is a Test Release'
+p1383
+sa(dp1384
+g2
+S'http://www.reuters.com/article/2011/06/05/us-cancer-gist-novartis-idUSTRE7541CC20110605'
+p1385
+sg4
+S'20110605\xc2\xa09:27AM UTC'
+p1386
+sg6
+S'Longer Gleevec use extends GIST patient survival'
+p1387
+sa(dp1388
+g2
+S'http://www.reuters.com/article/2011/06/05/soccer-olympics-iran-idUSLDE7540A120110605'
+p1389
+sg4
+S'20110605\xc2\xa09:25AM UTC'
+p1390
+sg6
+S"Soccer-Iran to complain to FIFA over women's ban"
+p1391
+sa(dp1392
+g2
+S'http://www.reuters.com/article/2011/06/05/idUS34242+05-Jun-2011+PRN20110605'
+p1393
+sg4
+S'20110605\xc2\xa09:18AM UTC'
+p1394
+sg6
+S'Symbion Power Turns On Electricity'
+p1395
+sa(dp1396
+g2
+S'http://www.reuters.com/article/2011/06/05/us-palestinians-israel-violence-idUSTRE7540NV20110605'
+p1397
+sg4
+S'20110605\xc2\xa09:11AM UTC'
+p1398
+sg6
+S'Israeli forces kill six protesters: Syrian TV'
+p1399
+sa(dp1400
+g2
+S'http://www.reuters.com/article/2011/06/05/idUS33987+05-Jun-2011+PRN20110605'
+p1401
+sg4
+S'20110605\xc2\xa09:10AM UTC'
+p1402
+sg6
+S'Novartis Drug Gleevec\xc2\xae Shows Significant Overall Survival Benefit for Patients With GIST After Three Years of Adjuvant Treatment vs. One Year'
+p1403
+sa(dp1404
+g2
+S'http://www.reuters.com/article/2011/06/05/idUS33978+05-Jun-2011+MW20110605'
+p1405
+sg4
+S'20110605\xc2\xa09:10AM UTC'
+p1406
+sg6
+S' Agennix Announces New Data From Talactoferrin Phase II Trials in Non-Small Cell Lung Cancer and in Severe Sepsis'
+p1407
+sa(dp1408
+g2
+S'http://www.reuters.com/article/2011/06/05/idUS33931+05-Jun-2011+BW20110605'
+p1409
+sg4
+S'20110605\xc2\xa09:08AM UTC'
+p1410
+sg6
+S'Genentech Announces Vemurafenib Improved Survival in People With Metastatic Melanoma Who Have BRAF V600 Mutations'
+p1411
+sa(dp1412
+g2
+S'http://www.reuters.com/article/2011/06/05/idUS33923+05-Jun-2011+BW20110605'
+p1413
+sg4
+S'20110605\xc2\xa09:07AM UTC'
+p1414
+sg6
+S'Plexxikon Reports Positive Data from Phase 3 and Phase 2 Trials of Vemurafenib (PLX4032)'
+p1415
+sa(dp1416
+g2
+S'http://www.reuters.com/article/2011/06/05/hmv-idUSLDE7540A320110605'
+p1417
+sg4
+S'20110605\xc2\xa09:02AM UTC'
+p1418
+sg6
+S'HMV poised to ink 2-year deal with lenders-report'
+p1419
+sa(dp1420
+g2
+S'http://www.reuters.com/article/2011/06/05/idUS33734+05-Jun-2011+HUG20110605'
+p1421
+sg4
+S'20110605\xc2\xa09:01AM UTC'
+p1422
+sg6
+S'Novartis drug Glivec\xc2\xae shows significant overall survival benefit for patients with GIST after three years of adjuvant treatment vs. one year'
+p1423
+sa(dp1424
+g2
+S'http://www.reuters.com/article/2011/06/05/idUS33719+05-Jun-2011+GNW20110605'
+p1425
+sg4
+S'20110605\xc2\xa09:01AM UTC'
+p1426
+sg6
+S'Hancock Holding Company Completes Whitney Holding Corporation Merger'
+p1427
+sa(dp1428
+g2
+S'http://www.reuters.com/article/2011/06/05/idUS33716+05-Jun-2011+GNW20110605'
+p1429
+sg4
+S'20110605\xc2\xa09:01AM UTC'
+p1430
+sg6
+S"Endocyte's EC145 Meets Primary Endpoint in Phase 2 Study, Demonstrating 85 Percent..."
+p1431
+sa(dp1432
+g2
+S'http://www.reuters.com/article/2011/06/05/idUS33715+05-Jun-2011+MW20110605'
+p1433
+sg4
+S'20110605\xc2\xa09:00AM UTC'
+p1434
+sg6
+S' McElhanney Starts Second Century with New Vancouver Engineering Vice President'
+p1435
+sa(dp1436
+g2
+S'http://www.reuters.com/article/2011/06/05/iraq-banks-islamic-idUSLDE7540A720110605'
+p1437
+sg4
+S'20110605\xc2\xa09:00AM UTC'
+p1438
+sg6
+S'Iraq to start Islamic services at two state banks'
+p1439
+sa(dp1440
+g2
+S'http://www.reuters.com/article/2011/06/05/markets-stocks-ipos-idUSN0317253320110605'
+p1441
+sg4
+S'20110605\xc2\xa09:00AM UTC'
+p1442
+sg6
+S'RPT-IPO VIEW-Morgan Stanley faces tricky Internet IPO pricings'
+p1443
+sa(dp1444
+g2
+S'http://www.reuters.com/article/2011/06/05/idUS33688+05-Jun-2011+PRN20110605'
+p1445
+sg4
+S'20110605\xc2\xa09:00AM UTC'
+p1446
+sg6
+S'SpiderTech Tape helps propel Chinese superstar Li Na to 2011 French Open title'
+p1447
+sa(dp1448
+g2
+S'http://www.reuters.com/article/2011/06/05/cancer-gist-novartis-idUSN0318182020110605'
+p1449
+sg4
+S'20110605\xc2\xa09:00AM UTC'
+p1450
+sg6
+S'Longer Gleevec use extends GIST patient survival'
+p1451
+sa(dp1452
+g2
+S'http://www.reuters.com/article/2011/06/05/cancer-lung-lilly-idUSN0313824320110605'
+p1453
+sg4
+S'20110605\xc2\xa09:00AM UTC'
+p1454
+sg6
+S'Lilly drug helps keep lung cancer at bay -study'
+p1455
+sa(dp1456
+g2
+S'http://www.reuters.com/article/2011/06/05/idUS33662+05-Jun-2011+PRN20110605'
+p1457
+sg4
+S'20110605\xc2\xa09:00AM UTC'
+p1458
+sg6
+S'NKTR-102 Shows High Response Rate and Sustained Duration of Response in Women with Platinum-Resistant/Refractory Ovarian Cancer Previously Treated with Doxil\xc2\xae'
+p1459
+sa(dp1460
+g2
+S'http://www.reuters.com/article/2011/06/05/idUS33659+05-Jun-2011+PRN20110605'
+p1461
+sg4
+S'20110605\xc2\xa09:00AM UTC'
+p1462
+sg6
+S'DomainAdvisors to Exclusively Broker Sale of Pay.com'
+p1463
+sa(dp1464
+g2
+S'http://www.reuters.com/article/2011/06/05/idUS33657+05-Jun-2011+PRN20110605'
+p1465
+sg4
+S'20110605\xc2\xa09:00AM UTC'
+p1466
+sg6
+S'Following Is a Test Release'
+p1467
+sa(dp1468
+g2
+S'http://www.reuters.com/article/2011/06/05/idUS33649+05-Jun-2011+PRN20110605'
+p1469
+sg4
+S'20110605\xc2\xa09:00AM UTC'
+p1470
+sg6
+S'New Study Released Today Showed Patients With Deadly Form of Lung Cancer Lived Longer Without Disease Worsening'
+p1471
+sa(dp1472
+g2
+S'http://www.reuters.com/article/2011/06/05/idUS33633+05-Jun-2011+BW20110605'
+p1473
+sg4
+S'20110605\xc2\xa09:00AM UTC'
+p1474
+sg6
+S'Mayo Clinic: Flaxseed No Cure for Hot Flashes During Breast Cancer or Menopause'
+p1475
+sa(dp1476
+g2
+S'http://www.reuters.com/article/2011/06/05/us-strausskahn-idUSTRE75418P20110605'
+p1477
+sg4
+S'20110605\xc2\xa08:58AM UTC'
+p1478
+sg6
+S'Strauss-Kahn to plead not guilty in New York on Monday'
+p1479
+sa(dp1480
+g2
+S'http://www.reuters.com/article/2011/06/05/us-strausskahn-factbox-idUSTRE75419Y20110605'
+p1481
+sg4
+S'20110605\xc2\xa08:58AM UTC'
+p1482
+sg6
+S'Factbox: Strauss-Kahn proceedings could last months'
+p1483
+sa(dp1484
+g2
+S'http://www.reuters.com/article/2011/06/05/peru-election-humala-idUSN0521294020110605'
+p1485
+sg4
+S'20110605\xc2\xa08:58AM UTC'
+p1486
+sg6
+S"Time to remember the past, says Peru's jogging Humala"
+p1487
+sa(dp1488
+g2
+S'http://www.reuters.com/article/2011/06/05/strausskahn-idUSN0316787320110605'
+p1489
+sg4
+S'20110605\xc2\xa08:52AM UTC'
+p1490
+sg6
+S'FACTBOX-Strauss-Kahn proceedings could last months'
+p1491
+sa(dp1492
+g2
+S'http://www.reuters.com/article/2011/06/05/aegis-idUSLDE75409H20110605'
+p1493
+sg4
+S'20110605\xc2\xa08:50AM UTC'
+p1494
+sg6
+S'UPDATE 1-Aegis in talks with Ipsos to sell Synovate-report'
+p1495
+sa(dp1496
+g2
+S'http://www.reuters.com/article/2011/06/05/strausskahn-idUSN0316719020110605'
+p1497
+sg4
+S'20110605\xc2\xa08:46AM UTC'
+p1498
+sg6
+S'Strauss-Kahn to plead not guilty in NY on Monday'
+p1499
+sa(dp1500
+g2
+S'http://www.reuters.com/article/2011/06/05/bs-southerncross-idUSLDE75409F20110605'
+p1501
+sg4
+S'20110605\xc2\xa08:44AM UTC'
+p1502
+sg6
+S'Southern Cross to sell 25% of care homes-report'
+p1503
+sa(dp1504
+g2
+S'http://www.reuters.com/article/2011/06/05/india-bpcl-expansion-idUSL3E7H506A20110605'
+p1505
+sg4
+S'20110605\xc2\xa08:42AM UTC'
+p1506
+sg6
+S"India's BPCL plans 60,000 bpd expansion at Bina refinery"
+p1507
+sa(dp1508
+g2
+S'http://www.reuters.com/article/2011/06/05/us-eurozone-germany-greece-idUSTRE75416O20110605'
+p1509
+sg4
+S'20110605\xc2\xa08:31AM UTC'
+p1510
+sg6
+S'New Greek aid could exceed 100 billion euros: media'
+p1511
+sa(dp1512
+g2
+S'http://www.reuters.com/article/2011/06/05/yemen-aden-idUSLDE75409O20110605'
+p1513
+sg4
+S'20110605\xc2\xa08:30AM UTC'
+p1514
+sg6
+S'Fighting returns to south Yemen city of Aden'
+p1515
+sa(dp1516
+g2
+S'http://www.reuters.com/article/2011/06/05/idUS32724+05-Jun-2011+PRN20110605'
+p1517
+sg4
+S'20110605\xc2\xa08:30AM UTC'
+p1518
+sg6
+S'2,350 AIDS/LifeCycle Riders Raise Record $13 + Million, Begin 545-Mile Trek on 30th Anniversary of Aids'
+p1519
+sa(dp1520
+g2
+S'http://www.reuters.com/article/2011/06/05/idUS32718+05-Jun-2011+PRN20110605'
+p1521
+sg4
+S'20110605\xc2\xa08:30AM UTC'
+p1522
+sg6
+S'Following Is a Test Release'
+p1523
+sa(dp1524
+g2
+S'http://www.reuters.com/article/2011/06/05/eurozone-germany-greece-idUSLDE75408S20110605'
+p1525
+sg4
+S'20110605\xc2\xa08:29AM UTC'
+p1526
+sg6
+S'New Greek aid could exceed 100 bln euros-media'
+p1527
+sa(dp1528
+g2
+S'http://www.reuters.com/article/2011/06/05/us-portugal-election-profile-idUSTRE75415N20110605'
+p1529
+sg4
+S'20110605\xc2\xa08:23AM UTC'
+p1530
+sg6
+S'Factbox: Portuguese economy and politics'
+p1531
+sa(dp1532
+g2
+S'http://www.reuters.com/article/2011/06/05/iraq-bank-idUSLDE75405220110605'
+p1533
+sg4
+S'20110605\xc2\xa08:19AM UTC'
+p1534
+sg6
+S'Iraq seeks arrest of bank chief who has fled country'
+p1535
+sa(dp1536
+g2
+S'http://www.reuters.com/article/2011/06/05/syria-protests-statue-idUSLDE75409C20110605'
+p1537
+sg4
+S'20110605\xc2\xa08:18AM UTC'
+p1538
+sg6
+S'Syrian forces injure scores trying to topple statue'
+p1539
+sa(dp1540
+g2
+S'http://www.reuters.com/article/2011/06/05/portugal-election-profile-idUSLDE75406L20110605'
+p1541
+sg4
+S'20110605\xc2\xa08:15AM UTC'
+p1542
+sg6
+S'FACTBOX-Portuguese economy and politics'
+p1543
+sa(dp1544
+g2
+S'http://www.reuters.com/article/2011/06/05/aegis-idUSLDE75408M20110605'
+p1545
+sg4
+S'20110605\xc2\xa08:09AM UTC'
+p1546
+sg6
+S'Aegis in talks with Ipsos to sell Synovate-report'
+p1547
+sa(dp1548
+g2
+S'http://www.reuters.com/article/2011/06/05/us-yemen-surgery-idUSTRE75413820110605'
+p1549
+sg4
+S'20110605\xc2\xa08:06AM UTC'
+p1550
+sg6
+S"Yemen's president in surgery for chest wounds"
+p1551
+sa(dp1552
+g2
+S'http://www.reuters.com/article/2011/06/05/yemen-surgery-idUSLDE75409620110605'
+p1553
+sg4
+S'20110605\xc2\xa08:00AM UTC'
+p1554
+sg6
+S"Yemen's president in surgery for chest wounds"
+p1555
+sa(dp1556
+g2
+S'http://www.reuters.com/article/2011/06/05/idUS31858+05-Jun-2011+MW20110605'
+p1557
+sg4
+S'20110605\xc2\xa08:00AM UTC'
+p1558
+sg6
+S' Message From His Excellency the Right Honourable David Johnston, Governor General and Commander-in-Chief of Canada, on'
+p1559
+sa(dp1560
+g2
+S'http://www.reuters.com/article/2011/06/05/idUS31851+05-Jun-2011+PRN20110605'
+p1561
+sg4
+S'20110605\xc2\xa08:00AM UTC'
+p1562
+sg6
+S'Following Is a Test Release'
+p1563
+sa(dp1564
+g2
+S'http://www.reuters.com/article/2011/06/05/us-prada-ipo-idUSTRE75412C20110605'
+p1565
+sg4
+S'20110605\xc2\xa07:53AM UTC'
+p1566
+sg6
+S"Investors stay wary before Prada's IPO show"
+p1567
+sa(dp1568
+g2
+S'http://www.reuters.com/article/2011/06/05/prada-ipo-idUSLDE75212O20110605'
+p1569
+sg4
+S'20110605\xc2\xa07:50AM UTC'
+p1570
+sg6
+S"IPO VIEW-Investors stay wary before Prada's IPO show"
+p1571
+sa(dp1572
+g2
+S'http://www.reuters.com/article/2011/06/05/idUS31647+05-Jun-2011+PRN20110605'
+p1573
+sg4
+S'20110605\xc2\xa07:49AM UTC'
+p1574
+sg6
+S'Great Lakes Science Center Honors Senator John Glenn'
+p1575
+sa(dp1576
+g2
+S'http://www.reuters.com/article/2011/06/05/us-climate-forests-idUSTRE75411K20110605'
+p1577
+sg4
+S'20110605\xc2\xa07:38AM UTC'
+p1578
+sg6
+S'Rising forest density offsets climate change - study'
+p1579
+sa(dp1580
+g2
+S'http://www.reuters.com/article/2011/06/05/idUS31086+05-Jun-2011+PRN20110605'
+p1581
+sg4
+S'20110605\xc2\xa07:30AM UTC'
+p1582
+sg6
+S'Following Is a Test Release'
+p1583
+sa(dp1584
+g2
+S'http://www.reuters.com/article/2011/06/05/us-wellink-greece-idUSTRE75410K20110605'
+p1585
+sg4
+S'20110605\xc2\xa07:27AM UTC'
+p1586
+sg6
+S"Banks asked to roll over Greek debt, ECB's Wellink says"
+p1587
+sa(dp1588
+g2
+S'http://www.reuters.com/article/2011/06/05/us-jamesarness-idUSTRE7525TJ20110605'
+p1589
+sg4
+S'20110605\xc2\xa07:24AM UTC'
+p1590
+sg6
+S'"Gunsmoke" star James Arness dead at age 88'
+p1591
+sa(dp1592
+g2
+S'http://www.reuters.com/article/2011/06/05/wellink-greece-idUSWEA455620110605'
+p1593
+sg4
+S'20110605\xc2\xa07:24AM UTC'
+p1594
+sg6
+S"Banks asked to roll over Greek debt, ECB's Wellink says"
+p1595
+sa(dp1596
+g2
+S'http://www.reuters.com/article/2011/06/05/us-airlines-emissions-europe-idUSTRE7540T020110605'
+p1597
+sg4
+S'20110605\xc2\xa07:23AM UTC'
+p1598
+sg6
+S'EU must be "firm" in aviation CO2 dispute with China'
+p1599
+sa(dp1600
+g2
+S'http://www.reuters.com/article/2011/06/05/us-airlines-emissions-iata-idUSTRE75410120110605'
+p1601
+sg4
+S'20110605\xc2\xa07:23AM UTC'
+p1602
+sg6
+S'IATA chief warns EU over "illegal" carbon plan'
+p1603
+sa(dp1604
+g2
+S'http://www.reuters.com/article/2011/06/05/us-airlines-emissions-iata-idUSTRE7540ZT20110605'
+p1605
+sg4
+S'20110605\xc2\xa07:20AM UTC'
+p1606
+sg6
+S'IATA chief warns EU over "illegal" carbon plan'
+p1607
+sa(dp1608
+g2
+S'http://www.reuters.com/article/2011/06/05/swatchgroup-idUSLDE6671FF20110605'
+p1609
+sg4
+S'20110605\xc2\xa07:19AM UTC'
+p1610
+sg6
+S'Swatch Group says strong Swiss franc dents sales'
+p1611
+sa(dp1612
+g2
+S'http://www.reuters.com/article/2011/06/05/us-ubs-fraud-idUSTRE7540YQ20110605'
+p1613
+sg4
+S'20110605\xc2\xa07:18AM UTC'
+p1614
+sg6
+S'Former UBS banker facing fraud charges: paper'
+p1615
+sa(dp1616
+g2
+S'http://www.reuters.com/article/2011/06/05/airlines-emissions-iata-idUSLDE75407U20110605'
+p1617
+sg4
+S'20110605\xc2\xa07:13AM UTC'
+p1618
+sg6
+S'IATA chief warns EU over "illegal" carbon plan'
+p1619
+sa(dp1620
+g2
+S'http://www.reuters.com/article/2011/06/05/us-france-napoleon-idUSTRE7540WN20110605'
+p1621
+sg4
+S'20110605\xc2\xa07:08AM UTC'
+p1622
+sg6
+S'Napoleon used years on St Helena to learn English'
+p1623
+sa(dp1624
+g2
+S'http://www.reuters.com/article/2011/06/05/ubs-fraud-idUSLDE75407B20110605'
+p1625
+sg4
+S'20110605\xc2\xa07:03AM UTC'
+p1626
+sg6
+S'Former UBS banker facing fraud charges-paper'
+p1627
+sa(dp1628
+g2
+S'http://www.reuters.com/article/2011/06/05/us-yemen-events-idUSTRE7540V320110605'
+p1629
+sg4
+S'20110605\xc2\xa07:01AM UTC'
+p1630
+sg6
+S"Timeline: Saleh's 33-year rule in Yemen"
+p1631
+sa(dp1632
+g2
+S'http://www.reuters.com/article/2011/06/05/idUS30154+05-Jun-2011+PRN20110605'
+p1633
+sg4
+S'20110605\xc2\xa07:00AM UTC'
+p1634
+sg6
+S'Following Is a Test Release'
+p1635
+sa(dp1636
+g2
+S'http://www.reuters.com/article/2011/06/05/independentnews-idUSLDE75405Z20110605'
+p1637
+sg4
+S'20110605\xc2\xa06:59AM UTC'
+p1638
+sg6
+S'Independent News chairman to step down soon-report'
+p1639
+sa(dp1640
+g2
+S'http://www.reuters.com/article/2011/06/05/islamic-finance-diary-idUSLDE75407Z20110605'
+p1641
+sg4
+S'20110605\xc2\xa06:56AM UTC'
+p1642
+sg6
+S'DIARY-Islamic Finance to Nov 30'
+p1643
+sa(dp1644
+g2
+S'http://www.reuters.com/article/2011/06/05/us-yemen-saleh-return-idUSTRE7540UI20110605'
+p1645
+sg4
+S'20110605\xc2\xa06:55AM UTC'
+p1646
+sg6
+S'Yemen president to return within days: party official'
+p1647
+sa(dp1648
+g2
+S'http://www.reuters.com/article/2011/06/05/yemen-saleh-return-idUSLDE75407P20110605'
+p1649
+sg4
+S'20110605\xc2\xa06:51AM UTC'
+p1650
+sg6
+S'Yemen president to return within days - party official'
+p1651
+sa(dp1652
+g2
+S'http://www.reuters.com/article/2011/06/05/yemen-qaeda-idUSLDE75406Y20110605'
+p1653
+sg4
+S'20110605\xc2\xa06:40AM UTC'
+p1654
+sg6
+S'Yemeni military blames al Qaeda for palace attack'
+p1655
+sa(dp1656
+g2
+S'http://www.reuters.com/article/2011/06/05/idUS29439+05-Jun-2011+PRN20110605'
+p1657
+sg4
+S'20110605\xc2\xa06:30AM UTC'
+p1658
+sg6
+S'Following Is a Test Release'
+p1659
+sa(dp1660
+g2
+S'http://www.reuters.com/article/2011/06/05/saudi-petrorabigh-turnaround-idUSLDE75402I20110605'
+p1661
+sg4
+S'20110605\xc2\xa06:26AM UTC'
+p1662
+sg6
+S'Saudi PetroRabigh says to restart crude unit this week'
+p1663
+sa(dp1664
+g2
+S'http://www.reuters.com/article/2011/06/05/idUS29345+05-Jun-2011+BW20110605'
+p1665
+sg4
+S'20110605\xc2\xa06:25AM UTC'
+p1666
+sg6
+S'PSE and MECIP Sign Malaysia gPROMS Agency Agreement'
+p1667
+sa(dp1668
+g2
+S'http://www.reuters.com/article/2011/06/05/greece-banks-idUSLDE75404020110605'
+p1669
+sg4
+S'20110605\xc2\xa06:23AM UTC'
+p1670
+sg6
+S'Greece to ask banks to boost capital ratios-paper'
+p1671
+sa(dp1672
+g2
+S'http://www.reuters.com/article/2011/06/05/yemen-commanders-idUSLDE75406S20110605'
+p1673
+sg4
+S'20110605\xc2\xa06:23AM UTC'
+p1674
+sg6
+S'Key Yemeni military brass still in country-source'
+p1675
+sa(dp1676
+g2
+S'http://www.reuters.com/article/2011/06/05/us-india-guru-idUSTRE7540KQ20110605'
+p1677
+sg4
+S'20110605\xc2\xa06:18AM UTC'
+p1678
+sg6
+S'India police break anti-graft yoga guru hunger strike'
+p1679
+sa(dp1680
+g2
+S'http://www.reuters.com/article/2011/06/05/us-tennis-open-saturday-idUSTRE7531CA20110605'
+p1681
+sg4
+S'20110605\xc2\xa06:15AM UTC'
+p1682
+sg6
+S'Champion Li puts China on grand slam map'
+p1683
+sa(dp1684
+g2
+S'http://www.reuters.com/article/2011/06/05/us-china-tennis-li-idUSTRE7540SF20110605'
+p1685
+sg4
+S'20110605\xc2\xa06:15AM UTC'
+p1686
+sg6
+S'China anoints champion Li as a legend'
+p1687
+sa(dp1688
+g2
+S'http://www.reuters.com/article/2011/06/05/palestinians-sukuk-idUSLDE75404Q20110605'
+p1689
+sg4
+S'20110605\xc2\xa06:15AM UTC'
+p1690
+sg6
+S'Palestinian authority to issue $50 mln sukuk'
+p1691
+sa(dp1692
+g2
+S'http://www.reuters.com/article/2011/06/05/iraq-energy-mansuriyah-idUSLDE75301N20110605'
+p1693
+sg4
+S'20110605\xc2\xa06:07AM UTC'
+p1694
+sg6
+S'Iraq signs final contract for Mansuriyah gas field'
+p1695
+sa(dp1696
+g2
+S'http://www.reuters.com/article/2011/06/05/us-afghanistan-crash-idUSTRE7540RK20110605'
+p1697
+sg4
+S'20110605\xc2\xa06:04AM UTC'
+p1698
+sg6
+S"Helicopter crashes in Afghanistan's east, two troops killed"
+p1699
+sa(dp1700
+g2
+S'http://www.reuters.com/article/2011/06/05/idUS28640+05-Jun-2011+PRN20110605'
+p1701
+sg4
+S'20110605\xc2\xa06:00AM UTC'
+p1702
+sg6
+S'Following Is a Test Release'
+p1703
+sa(dp1704
+g2
+S'http://www.reuters.com/article/2011/06/05/idUS28621+05-Jun-2011+PRN20110605'
+p1705
+sg4
+S'20110605\xc2\xa05:59AM UTC'
+p1706
+sg6
+S'GOOD MORNING -- June 05, 2011'
+p1707
+sa(dp1708
+g2
+S'http://www.reuters.com/article/2011/06/05/us-wildfires-arizona-idUSTRE75302520110605'
+p1709
+sg4
+S'20110605\xc2\xa05:47AM UTC'
+p1710
+sg6
+S'Wildfire consumes homes in eastern Arizona'
+p1711
+sa(dp1712
+g2
+S'http://www.reuters.com/article/2011/06/05/yemen-taiz-idUSLDE75405T20110605'
+p1713
+sg4
+S'20110605\xc2\xa05:47AM UTC'
+p1714
+sg6
+S'Several injured in Taiz gunfights in Yemen-Jazeera'
+p1715
+sa(dp1716
+g2
+S'http://www.reuters.com/article/2011/06/05/us-palestinians-israel-france-idUSTRE7540PU20110605'
+p1717
+sg4
+S'20110605\xc2\xa05:43AM UTC'
+p1718
+sg6
+S'Netanyahu cool to French plan for negotiations'
+p1719
+sa(dp1720
+g2
+S'http://www.reuters.com/article/2011/06/05/bahrain-budget-idUSLDE75403V20110605'
+p1721
+sg4
+S'20110605\xc2\xa05:41AM UTC'
+p1722
+sg6
+S'Bahrain king approves $16.4 bln spending for 2 yrs'
+p1723
+sa(dp1724
+g2
+S'http://www.reuters.com/article/2011/06/05/idUS27524+05-Jun-2011+PRN20110605'
+p1725
+sg4
+S'20110605\xc2\xa05:30AM UTC'
+p1726
+sg6
+S'Following Is a Test Release'
+p1727
+sa(dp1728
+g2
+S'http://www.reuters.com/article/2011/06/05/syria-israel-golan-idUSLDE75404O20110605'
+p1729
+sg4
+S'20110605\xc2\xa05:23AM UTC'
+p1730
+sg6
+S'Two dead in Golan frontier protest - Syrian TV'
+p1731
+sa(dp1732
+g2
+S'http://www.reuters.com/article/2011/06/05/kenya-explosion-idUSLDE75404Y20110605'
+p1733
+sg4
+S'20110605\xc2\xa05:22AM UTC'
+p1734
+sg6
+S'Explosion in Kenyan capital, petrol station on fire'
+p1735
+sa(dp1736
+g2
+S'http://www.reuters.com/article/2011/06/05/idUS26499+05-Jun-2011+PRN20110605'
+p1737
+sg4
+S'20110605\xc2\xa05:05AM UTC'
+p1738
+sg6
+S"Hitler's Atlantic Wall Heads to New Orleans"
+p1739
+sa(dp1740
+g2
+S'http://www.reuters.com/article/2011/06/05/yemen-grenade-idUSLDE75404C20110605'
+p1741
+sg4
+S'20110605\xc2\xa05:04AM UTC'
+p1742
+sg6
+S'At least two killed in Yemen grenade blast-medics'
+p1743
+sa(dp1744
+g2
+S'http://www.reuters.com/article/2011/06/05/palestinians-israel-violence-idUSLDE75404920110605'
+p1745
+sg4
+S'20110605\xc2\xa05:01AM UTC'
+p1746
+sg6
+S'Israeli forces fire as protesters storm Golan border'
+p1747
+sa(dp1748
+g2
+S'http://www.reuters.com/article/2011/06/05/idUS26259+05-Jun-2011+PRN20110605'
+p1749
+sg4
+S'20110605\xc2\xa05:00AM UTC'
+p1750
+sg6
+S'Following Is a Test Release'
+p1751
+sa(dp1752
+g2
+S'http://www.reuters.com/article/2011/06/05/nomura-bonuses-idUSL3E7H503R20110605'
+p1753
+sg4
+S'20110605\xc2\xa04:54AM UTC'
+p1754
+sg6
+S'Nomura slashes cash bonuses as earnings struggle'
+p1755
+sa(dp1756
+g2
+S'http://www.reuters.com/article/2011/06/05/yemen-grenade-idUSLDE75403X20110605'
+p1757
+sg4
+S'20110605\xc2\xa04:43AM UTC'
+p1758
+sg6
+S'Ten injured in attack on Sanaa military facility - TV'
+p1759
+sa(dp1760
+g2
+S'http://www.reuters.com/article/2011/06/05/macedonia-elections-idUSCAS52423920110605'
+p1761
+sg4
+S'20110605\xc2\xa04:39AM UTC'
+p1762
+sg6
+S'Macedonia begins vote in bitter atmosphere'
+p1763
+sa(dp1764
+g2
+S'http://www.reuters.com/article/2011/06/05/idUS25279+05-Jun-2011+PRN20110605'
+p1765
+sg4
+S'20110605\xc2\xa04:34AM UTC'
+p1766
+sg6
+S'BGI and Collaborators Announce New Clues Found in Tracing the Origin of the Deadly E. coli Strain and Appeal for the Sharing of Additional Data'
+p1767
+sa(dp1768
+g2
+S'http://www.reuters.com/article/2011/06/05/idUS25140+05-Jun-2011+PRN20110605'
+p1769
+sg4
+S'20110605\xc2\xa04:30AM UTC'
+p1770
+sg6
+S'Following Is a Test Release'
+p1771
+sa(dp1772
+g2
+S'http://www.reuters.com/article/2011/06/05/idUS21970+05-Jun-2011+PRN20110605'
+p1773
+sg4
+S'20110605\xc2\xa04:00AM UTC'
+p1774
+sg6
+S'Following Is a Test Release'
+p1775
+sa(dp1776
+g2
+S'http://www.reuters.com/article/2011/06/05/iraq-energy-attack-idUSLDE75401120110605'
+p1777
+sg4
+S'20110605\xc2\xa03:56AM UTC'
+p1778
+sg6
+S'UPDATE 2-Bombs hit Iraq oil tanks in rare southern attack'
+p1779
+sa(dp1780
+g2
+S'http://www.reuters.com/article/2011/06/05/us-egypt-imf-idUSTRE7540K820110605'
+p1781
+sg4
+S'20110605\xc2\xa03:54AM UTC'
+p1782
+sg6
+S'Egypt says about to conclude $3 billion IMF accord'
+p1783
+sa(dp1784
+g2
+S'http://www.reuters.com/article/2011/06/05/airlines-emissions-letter-idUSL3E7H502720110605'
+p1785
+sg4
+S'20110605\xc2\xa03:52AM UTC'
+p1786
+sg6
+S'EU offers solution to China in row over aviation CO2'
+p1787
+sa(dp1788
+g2
+S'http://www.reuters.com/article/2011/06/05/us-yemen-meeting-idUSTRE7540K120110605'
+p1789
+sg4
+S'20110605\xc2\xa03:32AM UTC'
+p1790
+sg6
+S'Yemen acting president to meet military, Saleh sons - report'
+p1791
+sa(dp1792
+g2
+S'http://www.reuters.com/article/2011/06/05/idUS18912+05-Jun-2011+PRN20110605'
+p1793
+sg4
+S'20110605\xc2\xa03:30AM UTC'
+p1794
+sg6
+S'Following Is a Test Release'
+p1795
+sa(dp1796
+g2
+S'http://www.reuters.com/article/2011/06/05/yemen-meeting-idUSLDE75402L20110605'
+p1797
+sg4
+S'20110605\xc2\xa03:28AM UTC'
+p1798
+sg6
+S'Yemen acting president to meet military, Saleh sons - TV'
+p1799
+sa(dp1800
+g2
+S'http://www.reuters.com/article/2011/06/05/us-japan-politics-idUSTRE7540JA20110605'
+p1801
+sg4
+S'20110605\xc2\xa03:26AM UTC'
+p1802
+sg6
+S'Pressure mounts on Japan PM to quit amid coalition talk'
+p1803
+sa(dp1804
+g2
+S'http://www.reuters.com/article/2011/06/05/us-nhl-stanley-burrows-idUSTRE7540J020110605'
+p1805
+sg4
+S'20110605\xc2\xa03:24AM UTC'
+p1806
+sg6
+S'Burrows buries Bruins by showing his Sedin-like skills'
+p1807
+sa(dp1808
+g2
+S'http://www.reuters.com/article/2011/06/05/japan-politics-idUSL3E7H501120110605'
+p1809
+sg4
+S'20110605\xc2\xa03:13AM UTC'
+p1810
+sg6
+S'Pressure mounts on Japan PM to quit amid coalition talk'
+p1811
+sa(dp1812
+g2
+S'http://www.reuters.com/article/2011/06/05/us-yemen-instantview-idUSTRE7540IE20110605'
+p1813
+sg4
+S'20110605\xc2\xa03:12AM UTC'
+p1814
+sg6
+S'Instant view: Yemeni president in Saudi Arabia'
+p1815
+sa(dp1816
+g2
+S'http://www.reuters.com/article/2011/06/05/idUS16384+05-Jun-2011+PRN20110605'
+p1817
+sg4
+S'20110605\xc2\xa03:00AM UTC'
+p1818
+sg6
+S'Following Is a Test Release'
+p1819
+sa(dp1820
+g2
+S'http://www.reuters.com/article/2011/06/05/towerjazz-micron-text-idUSLDE75402320110605'
+p1821
+sg4
+S'20110605\xc2\xa02:40AM UTC'
+p1822
+sg6
+S'TEXT-TowerJazz acquires Micron chip plant in Japan'
+p1823
+sa(dp1824
+g2
+S'http://www.reuters.com/article/2011/06/05/india-rashtriya-funds-idUSL3E7H502B20110605'
+p1825
+sg4
+S'20110605\xc2\xa02:39AM UTC'
+p1826
+sg6
+S"India's Rashtriya Ispat to raise $5 bln debt"
+p1827
+sa(dp1828
+g2
+S'http://www.reuters.com/article/2011/06/05/japan-tepco-loss-idUSL3E7H502520110605'
+p1829
+sg4
+S'20110605\xc2\xa02:34AM UTC'
+p1830
+sg6
+S'Tepco sees Y570 bln net loss 2011/12 excluding compensation-Kyodo'
+p1831
+sa(dp1832
+g2
+S'http://www.reuters.com/article/2011/06/05/idUS15947+05-Jun-2011+PRN20110605'
+p1833
+sg4
+S'20110605\xc2\xa02:30AM UTC'
+p1834
+sg6
+S'Following Is a Test Release'
+p1835
+sa(dp1836
+g2
+S'http://www.reuters.com/article/2011/06/05/qatar-lng-idUSL3E7H502F20110605'
+p1837
+sg4
+S'20110605\xc2\xa02:29AM UTC'
+p1838
+sg6
+S'Qatar LNG capacity to reach 77 mln T by end 2011- Tasweeq'
+p1839
+sa(dp1840
+g2
+S'http://www.reuters.com/article/2011/06/05/iraq-energy-exports-idUSLDE75401T20110605'
+p1841
+sg4
+S'20110605\xc2\xa02:28AM UTC'
+p1842
+sg6
+S'Iraqi oil exports unaffected after oil tank attack-official'
+p1843
+sa(dp1844
+g2
+S'http://www.reuters.com/article/2011/06/05/us-nhl-stanley-boston-idUSTRE7540GG20110605'
+p1845
+sg4
+S'20110605\xc2\xa02:17AM UTC'
+p1846
+sg6
+S"Boston says they're down, but far from dead"
+p1847
+sa(dp1848
+g2
+S'http://www.reuters.com/article/2011/06/05/idUS15697+05-Jun-2011+MW20110605'
+p1849
+sg4
+S'20110605\xc2\xa02:07AM UTC'
+p1850
+sg6
+S' Simply Thick, LLC Announces the Voluntary Recall of Products Manufactured by Thermo Pac, LLC at Their Stone Mountain,'
+p1851
+sa(dp1852
+g2
+S'http://www.reuters.com/article/2011/06/05/idUS15629+05-Jun-2011+PRN20110605'
+p1853
+sg4
+S'20110605\xc2\xa02:00AM UTC'
+p1854
+sg6
+S'Following Is a Test Release'
+p1855
+sa(dp1856
+g2
+S'http://www.reuters.com/article/2011/06/05/us-malaysia-women-idUSTRE7540FL20110605'
+p1857
+sg4
+S'20110605\xc2\xa01:50AM UTC'
+p1858
+sg6
+S'Malaysia\'s "obedient wives" anger rights groups'
+p1859
+sa(dp1860
+g2
+S'http://www.reuters.com/article/2011/06/05/idUS15305+05-Jun-2011+PRN20110605'
+p1861
+sg4
+S'20110605\xc2\xa01:30AM UTC'
+p1862
+sg6
+S'Following Is a Test Release'
+p1863
+sa(dp1864
+g2
+S'http://www.reuters.com/article/2011/06/05/us-adkins-fire-idUSTRE75408V20110605'
+p1865
+sg4
+S'20110605\xc2\xa01:22AM UTC'
+p1866
+sg6
+S'Fire destroys Trace Adkins home near Nashville'
+p1867
+sa(dp1868
+g2
+S'http://www.reuters.com/article/2011/06/05/idUS15063+05-Jun-2011+PRN20110605'
+p1869
+sg4
+S'20110605\xc2\xa01:20AM UTC'
+p1870
+sg6
+S'Spike TV Announces 2011 "Guys Choice" Winners'
+p1871
+sa(dp1872
+g2
+S'http://www.reuters.com/article/2011/06/05/us-pakistan-violence-idUSTRE7540DT20110605'
+p1873
+sg4
+S'20110605\xc2\xa01:04AM UTC'
+p1874
+sg6
+S"Bomb attack kills six near Pakistan's Peshawar"
+p1875
+sa(dp1876
+g2
+S'http://www.reuters.com/article/2011/06/05/idUS14600+05-Jun-2011+MW20110605'
+p1877
+sg4
+S'20110605\xc2\xa01:03AM UTC'
+p1878
+sg6
+S' Waterfront Condos, Lots Sell at J. P. King Real Estate Auction'
+p1879
+sa(dp1880
+g2
+S'http://www.reuters.com/article/2011/06/05/peru-election-idUSN0429465620110605'
+p1881
+sg4
+S'20110605\xc2\xa01:00AM UTC'
+p1882
+sg6
+S'Acrimonious Peru election headed for photo finish'
+p1883
+sa(dp1884
+g2
+S'http://www.reuters.com/article/2011/06/05/idUS14497+05-Jun-2011+PRN20110605'
+p1885
+sg4
+S'20110605\xc2\xa01:00AM UTC'
+p1886
+sg6
+S'Following Is a Test Release'
+p1887
+sa(dp1888
+g2
+S'http://www.reuters.com/article/2011/06/05/idUS14487+05-Jun-2011+BW20110605'
+p1889
+sg4
+S'20110605\xc2\xa01:00AM UTC'
+p1890
+sg6
+S'Acquisition Completed: TowerJazz Nearly Doubles its 2010 Production Capacity with Micron`s Fabrication Facility in Nishiwaki, Japan'
+p1891
+sa(dp1892
+g2
+S'http://www.reuters.com/article/2011/06/05/uk-tennis-open-li-asia-idUSTRE7540DD20110605'
+p1893
+sg4
+S'20110605\xc2\xa012:57AM UTC'
+p1894
+sg6
+S'Li proves Asians no longer "wannabes: ATF'
+p1895
+sa(dp1896
+g2
+S'http://www.reuters.com/article/2011/06/05/us-japan-imf-lagarde-idUSTRE7540BR20110605'
+p1897
+sg4
+S'20110605\xc2\xa012:47AM UTC'
+p1898
+sg6
+S'Lagarde likely to be next IMF chief: report'
+p1899
+sa(dp1900
+g2
+S'http://www.reuters.com/article/2011/06/05/iraq-energy-attack-idUSLDE75400R20110605'
+p1901
+sg4
+S'20110605\xc2\xa012:42AM UTC'
+p1902
+sg6
+S'Storage tank hit by attack in south Iraq oilfields-sources'
+p1903
+sa(dp1904
+g2
+S'http://www.reuters.com/article/2011/06/05/pakistan-violence-idUSL3E7H501F20110605'
+p1905
+sg4
+S'20110605\xc2\xa012:40AM UTC'
+p1906
+sg6
+S"Bomb attack kills six near Pakistan's Peshawar"
+p1907
+sa(dp1908
+g2
+S'http://www.reuters.com/article/2011/06/05/idUS13872+05-Jun-2011+PRN20110605'
+p1909
+sg4
+S'20110605\xc2\xa012:30AM UTC'
+p1910
+sg6
+S'Following Is a Test Release'
+p1911
+sa(dp1912
+g2
+S'http://www.reuters.com/article/2011/06/05/japan-imf-lagarde-idUSL3E7H501E20110605'
+p1913
+sg4
+S'20110605\xc2\xa012:30AM UTC'
+p1914
+sg6
+S'Lagarde likely to be next IMF chief - Nikkei'
+p1915
+sa(dp1916
+g2
+S'http://www.reuters.com/article/2011/06/05/idUS13333+05-Jun-2011+PRN20110605'
+p1917
+sg4
+S'20110605\xc2\xa012:01AM UTC'
+p1918
+sg6
+S'U.S. Census Bureau Daily Feature for June 5'
+p1919
+sa(dp1920
+g2
+S'http://www.reuters.com/article/2011/06/05/idUS13306+05-Jun-2011+PRN20110605'
+p1921
+sg4
+S'20110605\xc2\xa012:00AM UTC'
+p1922
+sg6
+S'Following Is a Test Release'
+p1923
+sa(dp1924
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=20994561'
+p1925
+sg4
+S'20110605\xc2\xa011:41PM UTC'
+p1926
+sg6
+S"Portugal's Socialists out"
+p1927
+sa(dp1928
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=20991580'
+p1929
+sg4
+S'20110605\xc2\xa011:08PM UTC'
+p1930
+sg6
+S'Bomb blasts in Pakistan kill at least 24'
+p1931
+sa(dp1932
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=20989562'
+p1933
+sg4
+S'20110605\xc2\xa09:21PM UTC'
+p1934
+sg6
+S'Peru presidential vote too close to call'
+p1935
+sa(dp1936
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=20988583'
+p1937
+sg4
+S'20110605\xc2\xa07:54PM UTC'
+p1938
+sg6
+S'More than two dozen injured from bomb blast in Nairobi, Kenya'
+p1939
+sa(dp1940
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=21003111'
+p1941
+sg4
+S'20110605\xc2\xa07:35PM UTC'
+p1942
+sg6
+S'Inflation Alert: The Dragon Breathes Again'
+p1943
+sa(dp1944
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=21005720'
+p1945
+sg4
+S'20110605\xc2\xa07:26PM UTC'
+p1946
+sg6
+S'Missouri River threatens floods'
+p1947
+sa(dp1948
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=21005726'
+p1949
+sg4
+S'20110605\xc2\xa07:14PM UTC'
+p1950
+sg6
+S'Arizona wildfire rages on'
+p1951
+sa(dp1952
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=20987208'
+p1953
+sg4
+S'20110605\xc2\xa06:08PM UTC'
+p1954
+sg6
+S"Yemeni government plans for Saleh's return"
+p1955
+sa(dp1956
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=20903872'
+p1957
+sg4
+S'20110605\xc2\xa05:02PM UTC'
+p1958
+sg6
+S"Entrepreneur's Edge: Hint Water"
+p1959
+sa(dp1960
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=20978312'
+p1961
+sg4
+S'20110605\xc2\xa04:12PM UTC'
+p1962
+sg6
+S'Six dead in Peshawar bomb'
+p1963
+sa(dp1964
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=20997619'
+p1965
+sg4
+S'20110605\xc2\xa04:01PM UTC'
+p1966
+sg6
+S'Tepco falls on possible delisting'
+p1967
+sa(dp1968
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=20981796'
+p1969
+sg4
+S'20110605\xc2\xa01:25PM UTC'
+p1970
+sg6
+S'"Music and the Body"'
+p1971
+sa(dp1972
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=20902834'
+p1973
+sg4
+S'20110605\xc2\xa012:02PM UTC'
+p1974
+sg6
+S"Entrepreneur's Edge: Hint Water"
+p1975
+sa(dp1976
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=20984949'
+p1977
+sg4
+S'20110605\xc2\xa011:21AM UTC'
+p1978
+sg6
+S'Pope holds open air mass in Zagreb'
+p1979
+sa(dp1980
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=20984417'
+p1981
+sg4
+S'20110605\xc2\xa010:48AM UTC'
+p1982
+sg6
+S'Pakistanis welcome death of Al Qaeda leader'
+p1983
+sa(dp1984
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=20983909'
+p1985
+sg4
+S'20110605\xc2\xa010:16AM UTC'
+p1986
+sg6
+S'Israeli forces fire on Golan Heights protesters'
+p1987
+sa(dp1988
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=20976699'
+p1989
+sg4
+S'20110605\xc2\xa010:11AM UTC'
+p1990
+sg6
+S'Indian guru removed from protest'
+p1991
+sa(dp1992
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=20982754'
+p1993
+sg4
+S'20110605\xc2\xa08:55AM UTC'
+p1994
+sg6
+S'Vietnamese protest over sea dispute with China'
+p1995
+sa(dp1996
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=20976004'
+p1997
+sg4
+S'20110605\xc2\xa08:47AM UTC'
+p1998
+sg6
+S'Wildfire spreads in U.S. southwest'
+p1999
+sa(dp2000
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=20980281'
+p2001
+sg4
+S'20110605\xc2\xa06:49AM UTC'
+p2002
+sg6
+S'Record radiation levels at Fukushima'
+p2003
+sa(dp2004
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=20971708'
+p2005
+sg4
+S'20110605\xc2\xa06:09AM UTC'
+p2006
+sg6
+S'U.S. mission in Afghanistan'
+p2007
+sa(dp2008
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=20977960'
+p2009
+sg4
+S'20110605\xc2\xa05:03AM UTC'
+p2010
+sg6
+S'Sanaa celebrates Saleh departure'
+p2011
+sa(dp2012
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=20977336'
+p2013
+sg4
+S'20110605\xc2\xa04:35AM UTC'
+p2014
+sg6
+S'D.C. dancers fight for right to groove'
+p2015
+sa(dp2016
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=20973401'
+p2017
+sg4
+S'20110605\xc2\xa04:10AM UTC'
+p2018
+sg6
+S'Aftermath of the attack on Saleh'
+p2019
+sa.

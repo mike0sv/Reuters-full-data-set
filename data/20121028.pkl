@@ -1,0 +1,5385 @@
+(lp0
+(dp1
+S'href'
+p2
+S'http://www.reuters.com/article/2012/10/29/idUS30201+29-Oct-2012+PRN20121029'
+p3
+sS'ts'
+p4
+S'20121028\xc2\xa011:57PM UTC'
+p5
+sS'title'
+p6
+S'IntercontinentalExchange Announces Market Update'
+p7
+sa(dp8
+g2
+S'http://www.reuters.com/article/2012/10/29/press-digest-british-business-oct-idUSL5E8LT07T20121029'
+p9
+sg4
+S'20121028\xc2\xa011:53PM UTC'
+p10
+sg6
+S'British business digest Oct 29'
+p11
+sa(dp12
+g2
+S'http://www.reuters.com/article/2012/10/29/markets-singapore-stocksnews-nol-idUSL3E8LT0WF20121029'
+p13
+sg4
+S'20121028\xc2\xa011:52PM UTC'
+p14
+sg6
+S'STOCKS NEWS SINGAPORE-Brokers raise NOL target after first profit in 7 quarters'
+p15
+sa(dp16
+g2
+S'http://www.reuters.com/article/2012/10/29/us-honda-earnings-shares-idUSBRE89S04520121029'
+p17
+sg4
+S'20121028\xc2\xa011:50PM UTC'
+p18
+sg6
+S'Honda sheds nearly five percent after cutting full-year guidance'
+p19
+sa(dp20
+g2
+S'http://www.reuters.com/article/2012/10/29/idUS171036299320121029'
+p21
+sg4
+S'20121028\xc2\xa011:47PM UTC'
+p22
+sg6
+S'Hong Kong\xe2\x80\x99s anti-foreigner property tax may spread'
+p23
+sa(dp24
+g2
+S'http://www.reuters.com/article/2012/10/29/us-india-modi-idUSBRE89S03X20121029'
+p25
+sg4
+S'20121028\xc2\xa011:41PM UTC'
+p26
+sg6
+S'Narendra Modi: the Indian leader who came in from the cold'
+p27
+sa(dp28
+g2
+S'http://www.reuters.com/article/2012/10/29/india-cbank-msf-idUSI8E8JO02J20121029'
+p29
+sg4
+S'20121028\xc2\xa011:40PM UTC'
+p30
+sg6
+S"Indian banks borrow 2.5 bln rupees via RBI's MSF on Oct 25"
+p31
+sa(dp32
+g2
+S'http://www.reuters.com/article/2012/10/29/markets-ratings-chinapropertydevelopers-idUSWNA856920121029'
+p33
+sg4
+S'20121028\xc2\xa011:37PM UTC'
+p34
+sg6
+S"BRIEF-Moody's: Growing sales, active capital markets positive for China's property developers"
+p35
+sa(dp36
+g2
+S'http://www.reuters.com/article/2012/10/29/us-storm-airlines-hotels-idUSBRE89S03M20121029'
+p37
+sg4
+S'20121028\xc2\xa011:35PM UTC'
+p38
+sg6
+S'U.S. airlines cancel flights, hotels book up before hurricane'
+p39
+sa(dp40
+g2
+S'http://www.reuters.com/article/2012/10/29/us-americanairlines-hurricanesandy-idUSBRE89S03W20121029'
+p41
+sg4
+S'20121028\xc2\xa011:35PM UTC'
+p42
+sg6
+S'American Airlines suspends operations due to Hurricane Sandy'
+p43
+sa(dp44
+g2
+S'http://www.reuters.com/article/2012/10/29/idUSL3E8LT0U720121029'
+p45
+sg4
+S'20121028\xc2\xa011:32PM UTC'
+p46
+sg6
+S'RPT-TABLE-Honda Motor -2012/13 group forecast(SEC)'
+p47
+sa(dp48
+g2
+S'http://www.reuters.com/article/2012/10/29/markets-forex-idUSL3E8LT0TZ20121029'
+p49
+sg4
+S'20121028\xc2\xa011:30PM UTC'
+p50
+sg6
+S'FOREX-Yen well off lows as BOJ meeting approaches'
+p51
+sa(dp52
+g2
+S'http://www.reuters.com/article/2012/10/29/idUS28186+29-Oct-2012+GNW20121029'
+p53
+sg4
+S'20121028\xc2\xa011:30PM UTC'
+p54
+sg6
+S'The NASDAQ Stock Market and Other NASDAQ OMX-Owned U.S. Exchanges Will be Closed on Monday and Pending Confirmation on Tuesday'
+p55
+sa(dp56
+g2
+S'http://www.reuters.com/article/2012/10/29/idUS28136+29-Oct-2012+PRN20121029'
+p57
+sg4
+S'20121028\xc2\xa011:30PM UTC'
+p58
+sg6
+S'Following Is a Test Release'
+p59
+sa(dp60
+g2
+S'http://www.reuters.com/article/2012/10/29/honda-earnings-sales-idUST9E8L500W20121029'
+p61
+sg4
+S'20121028\xc2\xa011:27PM UTC'
+p62
+sg6
+S'Honda scraps global sales forecast over China woes'
+p63
+sa(dp64
+g2
+S'http://www.reuters.com/article/2012/10/29/india-odisha-idUSL3E8LT0UZ20121029'
+p65
+sg4
+S'20121028\xc2\xa011:27PM UTC'
+p66
+sg6
+S"RPT-Indian state's industrial dream mired in delays, protests"
+p67
+sa(dp68
+g2
+S'http://www.reuters.com/article/2012/10/29/markets-malaysia-stocksnews-property-idUSL3E8LT0TQ20121029'
+p69
+sg4
+S'20121028\xc2\xa011:27PM UTC'
+p70
+sg6
+S'STOCKS NEWS MALAYSIA-Hong Leong downgrades property sector'
+p71
+sa(dp72
+g2
+S'http://www.reuters.com/article/2012/10/29/india-modi-idUSL3E8LT0UU20121029'
+p73
+sg4
+S'20121028\xc2\xa011:26PM UTC'
+p74
+sg6
+S'RPT-Narendra Modi: the Indian leader who came in from the cold'
+p75
+sa(dp76
+g2
+S'http://www.reuters.com/article/2012/10/29/idUS27773+29-Oct-2012+BW20121029'
+p77
+sg4
+S'20121028\xc2\xa011:26PM UTC'
+p78
+sg6
+S'Chinese Smartphone Market May See New Leader; Lenovo-Samsung Market Share Gap Less Than 1% in 3Q12'
+p79
+sa(dp80
+g2
+S'http://www.reuters.com/article/2012/10/29/storm-sandy-idUSL1E8LS06O20121029'
+p81
+sg4
+S'20121028\xc2\xa011:23PM UTC'
+p82
+sg6
+S'UPDATE 8-Evacuations, market shutdowns as U.S. braces for storm'
+p83
+sa(dp84
+g2
+S'http://www.reuters.com/article/2012/10/29/morningcall-india-idUSL3E8LT0TT20121029'
+p85
+sg4
+S'20121028\xc2\xa011:21PM UTC'
+p86
+sg6
+S'India morning call-Global markets'
+p87
+sa(dp88
+g2
+S'http://www.reuters.com/article/2012/10/29/idUS27262+29-Oct-2012+BW20121029'
+p89
+sg4
+S'20121028\xc2\xa011:20PM UTC'
+p90
+sg6
+S'NYSE Euronext Statement on Closure of U.S. Markets on Monday Oct. 29 and Pending Confirmation on Tuesday, Oct. 30, 2012'
+p91
+sa(dp92
+g2
+S'http://www.reuters.com/article/2012/10/29/storm-airlines-hotels-idUSL1E8LT15J20121029'
+p93
+sg4
+S'20121028\xc2\xa011:19PM UTC'
+p94
+sg6
+S'US airlines cancel flights, hotels book up before hurricane'
+p95
+sa(dp96
+g2
+S'http://www.reuters.com/article/2012/10/29/americanairlines-hurricanesandy-idUSL3E8LT0TM20121029'
+p97
+sg4
+S'20121028\xc2\xa011:17PM UTC'
+p98
+sg6
+S'American Airlines suspends operations due to Hurricane Sandy'
+p99
+sa(dp100
+g2
+S'http://www.reuters.com/article/2012/10/29/idUS26929+29-Oct-2012+HUG20121029'
+p101
+sg4
+S'20121028\xc2\xa011:16PM UTC'
+p102
+sg6
+S'Thomson Reuters Third-Quarter 2012 Earnings Announcement and Webcast Postponed Due to Expected Severe Weather Conditions'
+p103
+sa(dp104
+g2
+S'http://www.reuters.com/article/2012/10/29/us-markets-nyse-idUSBRE89S03720121029'
+p105
+sg4
+S'20121028\xc2\xa011:15PM UTC'
+p106
+sg6
+S'Stock markets to close on Monday, possibly Tuesday'
+p107
+sa(dp108
+g2
+S'http://www.reuters.com/article/2012/10/29/honda-earnings-idUSL3E8LN2ZH20121029'
+p109
+sg4
+S'20121028\xc2\xa011:15PM UTC'
+p110
+sg6
+S'Honda slashes net profit forecast as China backlash hits'
+p111
+sa(dp112
+g2
+S'http://www.reuters.com/article/2012/10/29/idUS26759+29-Oct-2012+MW20121029'
+p113
+sg4
+S'20121028\xc2\xa011:15PM UTC'
+p114
+sg6
+S' Thomson Reuters Third-Quarter 2012 Earnings Announcement and Webcast Postponed Due to Expected Severe Weather Conditions'
+p115
+sa(dp116
+g2
+S'http://www.reuters.com/article/2012/10/29/india-press-godrejagrovet-idUSL3E8LT0TS20121029'
+p117
+sg4
+S'20121028\xc2\xa011:12PM UTC'
+p118
+sg6
+S'INDIA PRESS-PE firms KRR, Apollo Global eye stake in Godrej Agrovet - Business Standard'
+p119
+sa(dp120
+g2
+S'http://www.reuters.com/article/2012/10/29/idUS26567+29-Oct-2012+GNW20121029'
+p121
+sg4
+S'20121028\xc2\xa011:12PM UTC'
+p122
+sg6
+S'Top News Headlines of the Week (October 22 - October 26, 2012) From China PRnews'
+p123
+sa(dp124
+g2
+S'http://www.reuters.com/article/2012/10/29/idUS26479+29-Oct-2012+PRN20121029'
+p125
+sg4
+S'20121028\xc2\xa011:11PM UTC'
+p126
+sg6
+S"AUO Presents World's Narrowest Border on 4.46-inch Panel Integration Technology"
+p127
+sa(dp128
+g2
+S'http://www.reuters.com/article/2012/10/29/markets-korea-stocks-idUSL3E8LT0O120121029'
+p129
+sg4
+S'20121028\xc2\xa011:10PM UTC'
+p130
+sg6
+S'Seoul shares climb off 7-week low after solid tech earnings'
+p131
+sa(dp132
+g2
+S'http://www.reuters.com/article/2012/10/29/idUS26312+29-Oct-2012+MW20121029'
+p133
+sg4
+S'20121028\xc2\xa011:09PM UTC'
+p134
+sg6
+S' Pacnet Announces Expansion of Its Business in China'
+p135
+sa(dp136
+g2
+S'http://www.reuters.com/article/2012/10/29/progress-petronas-idUSL3E8LT0SC20121029'
+p137
+sg4
+S'20121028\xc2\xa011:05PM UTC'
+p138
+sg6
+S'Petronas agrees to Canada extension on $5.2 bln Progress bid-sources'
+p139
+sa(dp140
+g2
+S'http://www.reuters.com/article/2012/10/29/us-storm-sandy-usa-court-idUSBRE89S03020121029'
+p141
+sg4
+S'20121028\xc2\xa011:04PM UTC'
+p142
+sg6
+S'Undeterred by storm, U.S. top court sticks to schedule'
+p143
+sa(dp144
+g2
+S'http://www.reuters.com/article/2012/10/29/philippines-smprime-earnings-idUSL3E8LT0S020121029'
+p145
+sg4
+S'20121028\xc2\xa011:03PM UTC'
+p146
+sg6
+S"TABLE-Philippines' SM Prime Q3 net profit jumps 16 pct on yr"
+p147
+sa(dp148
+g2
+S'http://www.reuters.com/article/2012/10/29/markets-nyse-idUSL1E8LT1720121029'
+p149
+sg4
+S'20121028\xc2\xa011:03PM UTC'
+p150
+sg6
+S'U.S. stock markets to close on Monday, possibly Tuesday'
+p151
+sa(dp152
+g2
+S'http://www.reuters.com/article/2012/10/29/us-storm-sandy-newyork-businesses-idUSBRE89S02W20121029'
+p153
+sg4
+S'20121028\xc2\xa011:02PM UTC'
+p154
+sg6
+S'City that never sleeps beds down before Hurricane Sandy'
+p155
+sa(dp156
+g2
+S'http://www.reuters.com/article/2012/10/29/markets-malaysia-stocksnews-daibochi-idUSL3E8LT0QI20121029'
+p157
+sg4
+S'20121028\xc2\xa011:02PM UTC'
+p158
+sg6
+S'STOCKS NEWS MALAYSIA-RHB raises Daibochi to outperform'
+p159
+sa(dp160
+g2
+S'http://www.reuters.com/article/2012/10/29/idUS25557+29-Oct-2012+PRN20121029'
+p161
+sg4
+S'20121028\xc2\xa011:00PM UTC'
+p162
+sg6
+S'Following Is a Test Release'
+p163
+sa(dp164
+g2
+S'http://www.reuters.com/article/2012/10/29/idUS25368+29-Oct-2012+PRN20121029'
+p165
+sg4
+S'20121028\xc2\xa010:59PM UTC'
+p166
+sg6
+S'American Airlines Updates Customers On Flight Operations In Mid-Atlantic And Northeast'
+p167
+sa(dp168
+g2
+S'http://www.reuters.com/article/2012/10/29/us-usa-health-meningitis-idUSBRE89M08V20121029'
+p169
+sg4
+S'20121028\xc2\xa010:57PM UTC'
+p170
+sg6
+S'Six new cases reported in meningitis outbreak'
+p171
+sa(dp172
+g2
+S'http://www.reuters.com/article/2012/10/29/us-usa-health-meningitis-fda-idUSBRE89S02Q20121029'
+p173
+sg4
+S'20121028\xc2\xa010:56PM UTC'
+p174
+sg6
+S'U.S. regulator needs new authority over compounding pharmacies: report'
+p175
+sa(dp176
+g2
+S'http://www.reuters.com/article/2012/10/29/markets-india-fx-debt-preopener-idUSL3E8LT0NO20121029'
+p177
+sg4
+S'20121028\xc2\xa010:53PM UTC'
+p178
+sg6
+S'Indian FX/debt factors to watch - Oct 29'
+p179
+sa(dp180
+g2
+S'http://www.reuters.com/article/2012/10/29/storm-sandy-newyork-businesses-idUSL1E8LT10R20121029'
+p181
+sg4
+S'20121028\xc2\xa010:52PM UTC'
+p182
+sg6
+S'City that never sleeps beds down before Hurricane Sandy'
+p183
+sa(dp184
+g2
+S'http://www.reuters.com/article/2012/10/29/usa-health-meningitis-fda-idUSL1E8LT15H20121029'
+p185
+sg4
+S'20121028\xc2\xa010:51PM UTC'
+p186
+sg6
+S'U.S. regulator needs new authority over compounding pharmacies-report'
+p187
+sa(dp188
+g2
+S'http://www.reuters.com/article/2012/10/29/indonesia-market-factors-idUSL3E8LT0AU20121029'
+p189
+sg4
+S'20121028\xc2\xa010:49PM UTC'
+p190
+sg6
+S'Indonesia-Market factors to watch on Oct. 29'
+p191
+sa(dp192
+g2
+S'http://www.reuters.com/article/2012/10/29/singapore-economy-property-idUSL3E8LT0QR20121029'
+p193
+sg4
+S'20121028\xc2\xa010:46PM UTC'
+p194
+sg6
+S'UPDATE 1-Singapore factory prices soar 10.1 pct q/q in Q3'
+p195
+sa(dp196
+g2
+S'http://www.reuters.com/article/2012/10/29/us-usa-economy-spending-idUSBRE89S02G20121029'
+p197
+sg4
+S'20121028\xc2\xa010:40PM UTC'
+p198
+sg6
+S'U.S. to release spending data despite government closure'
+p199
+sa(dp200
+g2
+S'http://www.reuters.com/article/2012/10/29/india-press-realty-idUSL3E8LT0QL20121029'
+p201
+sg4
+S'20121028\xc2\xa010:38PM UTC'
+p202
+sg6
+S'INDIA PRESS-Mumbai property market picking up after slowdown - PTI in Economic Times'
+p203
+sa(dp204
+g2
+S'http://www.reuters.com/article/2012/10/29/markets-ratings-scce-idUSWNA856720121029'
+p205
+sg4
+S'20121028\xc2\xa010:37PM UTC'
+p206
+sg6
+S"BRIEF-Moody's assigns A2 rating to SCCE's EMTN bonds"
+p207
+sa(dp208
+g2
+S'http://www.reuters.com/article/2012/10/29/markets-treasuries-asia-idUSL3E8LT0Q020121029'
+p209
+sg4
+S'20121028\xc2\xa010:36PM UTC'
+p210
+sg6
+S'TREASURIES-Bonds firm in Asia on series of earnings disappointments'
+p211
+sa(dp212
+g2
+S'http://www.reuters.com/article/2012/10/29/press-digest-ft-oct-idUSL5E8LT01L20121029'
+p213
+sg4
+S'20121028\xc2\xa010:36PM UTC'
+p214
+sg6
+S'PRESS DIGEST - FINANCIAL TIMES- OCT 28'
+p215
+sa(dp216
+g2
+S'http://www.reuters.com/article/2012/10/29/usa-economy-spending-idUSL1E8LT16S20121029'
+p217
+sg4
+S'20121028\xc2\xa010:31PM UTC'
+p218
+sg6
+S'U.S. to release spending data despite government closure'
+p219
+sa(dp220
+g2
+S'http://www.reuters.com/article/2012/10/29/idUS23281+29-Oct-2012+PRN20121029'
+p221
+sg4
+S'20121028\xc2\xa010:30PM UTC'
+p222
+sg6
+S'Following Is a Test Release'
+p223
+sa(dp224
+g2
+S'http://www.reuters.com/article/2012/10/29/markets-singapore-stocksnews-mermaid-idUSL3E8LT0NP20121029'
+p225
+sg4
+S'20121028\xc2\xa010:30PM UTC'
+p226
+sg6
+S'STOCKS NEWS SINGAPORE-Mermaid up on Seadrill deal, contract win'
+p227
+sa(dp228
+g2
+S'http://www.reuters.com/article/2012/10/29/us-storm-sandy-nytransport-idUSBRE89S01D20121029'
+p229
+sg4
+S'20121028\xc2\xa010:27PM UTC'
+p230
+sg6
+S'Factbox: U.S. Northeast service suspensions due to Hurricane Sandy'
+p231
+sa(dp232
+g2
+S'http://www.reuters.com/article/2012/10/29/markets-japan-jgb-idUSL3E8LT0MI20121029'
+p233
+sg4
+S'20121028\xc2\xa010:22PM UTC'
+p234
+sg6
+S'JGBs slip, awaiting BOJ meeting on Tuesday'
+p235
+sa(dp236
+g2
+S'http://www.reuters.com/article/2012/10/29/us-usa-campaign-idUSBRE89M11220121029'
+p237
+sg4
+S'20121028\xc2\xa010:21PM UTC'
+p238
+sg6
+S'Hurricane Sandy blows U.S. election off course'
+p239
+sa(dp240
+g2
+S'http://www.reuters.com/article/2012/10/29/usa-campaign-idUSL1E8LS0ZI20121029'
+p241
+sg4
+S'20121028\xc2\xa010:20PM UTC'
+p242
+sg6
+S'UPDATE 4-Hurricane Sandy blows U.S. election off course'
+p243
+sa(dp244
+g2
+S'http://www.reuters.com/article/2012/10/29/us-japan-economy-jojima-idUSBRE89S02020121029'
+p245
+sg4
+S'20121028\xc2\xa010:19PM UTC'
+p246
+sg6
+S'Japan finance minister urges BOJ to seek bold easing versus deflation'
+p247
+sa(dp248
+g2
+S'http://www.reuters.com/article/2012/10/29/markets-malaysia-stocksnews-berjaya-idUSL3E8LT0ME20121029'
+p249
+sg4
+S'20121028\xc2\xa010:17PM UTC'
+p250
+sg6
+S'STOCKS NEWS MALAYSIA-Affin downgrades Berjaya Sports Toto'
+p251
+sa(dp252
+g2
+S'http://www.reuters.com/article/2012/10/29/press-digest-vietnam-idUSL3E8LT03I20121029'
+p253
+sg4
+S'20121028\xc2\xa010:16PM UTC'
+p254
+sg6
+S'PRESS DIGEST-Vietnam newspapers - Oct 29'
+p255
+sa(dp256
+g2
+S'http://www.reuters.com/article/2012/10/29/vodafone-australia-idUSS9E8LF01520121029'
+p257
+sg4
+S'20121028\xc2\xa010:11PM UTC'
+p258
+sg6
+S'Vodafone says to cut 10 pct of Australia staff'
+p259
+sa(dp260
+g2
+S'http://www.reuters.com/article/2012/10/29/japan-economy-jojima-idUSL3E8LT06020121029'
+p261
+sg4
+S'20121028\xc2\xa010:10PM UTC'
+p262
+sg6
+S'UPDATE 1-Japan finmin urges BOJ to seek bold easing vs deflation'
+p263
+sa(dp264
+g2
+S'http://www.reuters.com/article/2012/10/29/markets-oil-idUSL3E8LT07E20121029'
+p265
+sg4
+S'20121028\xc2\xa010:03PM UTC'
+p266
+sg6
+S'Oil slips, US crude stocks could rise on lower refinery runs'
+p267
+sa(dp268
+g2
+S'http://www.reuters.com/article/2012/10/29/thailand-press-3g-idUSL3E8LT0AY20121029'
+p269
+sg4
+S'20121028\xc2\xa010:02PM UTC'
+p270
+sg6
+S'THAILAND PRESS-ICT minister says 3G auction complied with relevant regulations-The Nation'
+p271
+sa(dp272
+g2
+S'http://www.reuters.com/article/2012/10/29/idUS21003+29-Oct-2012+PRN20121029'
+p273
+sg4
+S'20121028\xc2\xa010:00PM UTC'
+p274
+sg6
+S'Following Is a Test Release'
+p275
+sa(dp276
+g2
+S'http://www.reuters.com/article/2012/10/29/idUS20967+29-Oct-2012+PRN20121029'
+p277
+sg4
+S'20121028\xc2\xa010:00PM UTC'
+p278
+sg6
+S'ITG Wins Best Agency Broker Award'
+p279
+sa(dp280
+g2
+S'http://www.reuters.com/article/2012/10/29/idUS20935+29-Oct-2012+BW20121029'
+p281
+sg4
+S'20121028\xc2\xa010:00PM UTC'
+p282
+sg6
+S'CGI Secures Foothold in Thailand with Siam Commercial Bank Signing'
+p283
+sa(dp284
+g2
+S'http://www.reuters.com/article/2012/10/29/idUS20943+29-Oct-2012+BW20121029'
+p285
+sg4
+S'20121028\xc2\xa010:00PM UTC'
+p286
+sg6
+S'Samson Oil & Gas Lodges Quarterly Report and Appendix 5B'
+p287
+sa(dp288
+g2
+S'http://www.reuters.com/article/2012/10/29/idUS20940+29-Oct-2012+BW20121029'
+p289
+sg4
+S'20121028\xc2\xa010:00PM UTC'
+p290
+sg6
+S'Mitsubishi Electric to Launch SiC Module-Equipped CNC Drive Unit'
+p291
+sa(dp292
+g2
+S'http://www.reuters.com/article/2012/10/29/us-storm-sandy-obama-idUSBRE89R0G420121029'
+p293
+sg4
+S'20121028\xc2\xa09:52PM UTC'
+p294
+sg6
+S'Hurricane forces Obama to balance governing, campaigning'
+p295
+sa(dp296
+g2
+S'http://www.reuters.com/article/2012/10/29/storm-sandy-obama-idUSL1E8LS1OR20121029'
+p297
+sg4
+S'20121028\xc2\xa09:47PM UTC'
+p298
+sg6
+S'CORRECTED-UPDATE 2-Hurricane forces Obama to balance governing, campaigning'
+p299
+sa(dp300
+g2
+S'http://www.reuters.com/article/2012/10/29/press-digest-hongkong-idUSL3E8LT05X20121029'
+p301
+sg4
+S'20121028\xc2\xa09:46PM UTC'
+p302
+sg6
+S'PRESS DIGEST-Hong Kong-Oct 29'
+p303
+sa(dp304
+g2
+S'http://www.reuters.com/article/2012/10/29/markets-japan-stocks-idUSL3E8LT05520121029'
+p305
+sg4
+S'20121028\xc2\xa09:46PM UTC'
+p306
+sg6
+S'Nikkei gains as investors pin hopes on BOJ easing'
+p307
+sa(dp308
+g2
+S'http://www.reuters.com/article/2012/10/29/us-nfl-lions-idUSBRE89S00920121029'
+p309
+sg4
+S'20121028\xc2\xa09:37PM UTC'
+p310
+sg6
+S'Lions get win over Seahawks to set stage for Tigers'
+p311
+sa(dp312
+g2
+S'http://www.reuters.com/article/2012/10/29/storm-sandy-earnings-idUSL1E8LS8GN20121029'
+p313
+sg4
+S'20121028\xc2\xa09:37PM UTC'
+p314
+sg6
+S'CORRECTED-US companies delay earnings reports due to hurricane'
+p315
+sa(dp316
+g2
+S'http://www.reuters.com/article/2012/10/29/idUS19180+29-Oct-2012+PRN20121029'
+p317
+sg4
+S'20121028\xc2\xa09:33PM UTC'
+p318
+sg6
+S'Rep. Fattah Expects Federal Emergency Declaration for Pennsylvania'
+p319
+sa(dp320
+g2
+S'http://www.reuters.com/article/2012/10/29/idUS18895+29-Oct-2012+PRN20121029'
+p321
+sg4
+S'20121028\xc2\xa09:30PM UTC'
+p322
+sg6
+S'Following Is a Test Release'
+p323
+sa(dp324
+g2
+S'http://www.reuters.com/article/2012/10/29/idUS18882+29-Oct-2012+PRN20121029'
+p325
+sg4
+S'20121028\xc2\xa09:30PM UTC'
+p326
+sg6
+S'Equitable Gas Company Announces Severe Weather Safety Tips'
+p327
+sa(dp328
+g2
+S'http://www.reuters.com/article/2012/10/29/property-hongkong-stocks-idUSH9E8K700K20121029'
+p329
+sg4
+S'20121028\xc2\xa09:26PM UTC'
+p330
+sg6
+S'HK property shares slide after new curbs, New World Development hammered'
+p331
+sa(dp332
+g2
+S'http://www.reuters.com/article/2012/10/29/australia-whitehaven-idUSL3E8LQ11A20121029'
+p333
+sg4
+S'20121028\xc2\xa09:24PM UTC'
+p334
+sg6
+S"CORRECTED-UPDATE 1-Australia's Whitehaven Coal warns on profit, shares slide"
+p335
+sa(dp336
+g2
+S'http://www.reuters.com/article/2012/10/29/malaysia-press-idUSL3E8LT05620121029'
+p337
+sg4
+S'20121028\xc2\xa09:21PM UTC'
+p338
+sg6
+S'MALAYSIA-PRESS-Malaysian chipmakers expect weak Q4-Star'
+p339
+sa(dp340
+g2
+S'http://www.reuters.com/article/2012/10/29/press-digest-china-idUSL3E8LT04220121029'
+p341
+sg4
+S'20121028\xc2\xa09:17PM UTC'
+p342
+sg6
+S'PRESS DIGEST-China-Oct 29'
+p343
+sa(dp344
+g2
+S'http://www.reuters.com/article/2012/10/29/japan-economy-jojima-idUST9E8L507A20121029'
+p345
+sg4
+S'20121028\xc2\xa09:16PM UTC'
+p346
+sg6
+S"Japan's Jojima: wants bold BOJ moves to beat deflation"
+p347
+sa(dp348
+g2
+S'http://www.reuters.com/article/2012/10/29/us-ereaders-future-idUSBRE89R0JQ20121029'
+p349
+sg4
+S'20121028\xc2\xa09:13PM UTC'
+p350
+sg6
+S'Analysis: E-readers grapple with a future on the shelf'
+p351
+sa(dp352
+g2
+S'http://www.reuters.com/article/2012/10/29/idUS17378+29-Oct-2012+BW20121029'
+p353
+sg4
+S'20121028\xc2\xa09:10PM UTC'
+p354
+sg6
+S'eBaoTech Acquires TekInsure'
+p355
+sa(dp356
+g2
+S'http://www.reuters.com/article/2012/10/29/philippines-press-ayala-idUSL3E8LT02N20121029'
+p357
+sg4
+S'20121028\xc2\xa09:06PM UTC'
+p358
+sg6
+S'PHILIPPINES PRESS-Ayala Corp eyes $1.85 bln PPP projects - Bulletin'
+p359
+sa(dp360
+g2
+S'http://www.reuters.com/article/2012/10/29/philippines-press-jgsummit-idUSL3E8LT01U20121029'
+p361
+sg4
+S'20121028\xc2\xa09:04PM UTC'
+p362
+sg6
+S'PHILIPPINES PRESS-JG Summit seeks more overseas acquisitions - Star'
+p363
+sa(dp364
+g2
+S'http://www.reuters.com/article/2012/10/29/us-usa-health-meningitis-closure-idUSBRE89R0LR20121029'
+p365
+sg4
+S'20121028\xc2\xa09:03PM UTC'
+p366
+sg6
+S'Massachusetts closes third pharmacy since meningitis outbreak'
+p367
+sa(dp368
+g2
+S'http://www.reuters.com/article/2012/10/29/usa-health-meningitis-closure-idUSL1E8LT0PX20121029'
+p369
+sg4
+S'20121028\xc2\xa09:02PM UTC'
+p370
+sg6
+S'UPDATE 1-Massachusetts closes third pharmacy since meningitis outbreak'
+p371
+sa(dp372
+g2
+S'http://www.reuters.com/article/2012/10/29/malaysia-press-idUSL3E8LT03G20121029'
+p373
+sg4
+S'20121028\xc2\xa09:01PM UTC'
+p374
+sg6
+S'MALAYSIA-PRESS-Japanese partner likely for Malaysian carmaker Proton-Business Times'
+p375
+sa(dp376
+g2
+S'http://www.reuters.com/article/2012/10/29/markets-japan-jgb-idUSL3E8LT02Y20121029'
+p377
+sg4
+S'20121028\xc2\xa09:01PM UTC'
+p378
+sg6
+S'JGB market mood turns less positive-Thomson Reuters survey'
+p379
+sa(dp380
+g2
+S'http://www.reuters.com/article/2012/10/29/idUS16524+29-Oct-2012+PRN20121029'
+p381
+sg4
+S'20121028\xc2\xa09:00PM UTC'
+p382
+sg6
+S'Following Is a Test Release'
+p383
+sa(dp384
+g2
+S'http://www.reuters.com/article/2012/10/29/us-china-politics-democracy-idUSBRE89R0JJ20121029'
+p385
+sg4
+S'20121028\xc2\xa08:59PM UTC'
+p386
+sg6
+S'Insight: China grassroots democracy challenge awaits new leaders'
+p387
+sa(dp388
+g2
+S'http://www.reuters.com/article/2012/10/29/markets-hongkong-stocks-preopen-idUSL3E8LQ5D520121029'
+p389
+sg4
+S'20121028\xc2\xa08:58PM UTC'
+p390
+sg6
+S'Hong Kong shares seen higher; local developers in focus'
+p391
+sa(dp392
+g2
+S'http://www.reuters.com/article/2012/10/29/china-politics-democracy-idUSL3E8LO2A820121029'
+p393
+sg4
+S'20121028\xc2\xa08:56PM UTC'
+p394
+sg6
+S'REFILE-INSIGHT-China grassroots democracy challenge awaits new leaders'
+p395
+sa(dp396
+g2
+S'http://www.reuters.com/article/2012/10/29/markets-philippines-stocks-idUSL3E8LN2PB20121029'
+p397
+sg4
+S'20121028\xc2\xa08:56PM UTC'
+p398
+sg6
+S'Philippines - Market factors to watch on Oct. 29'
+p399
+sa(dp400
+g2
+S'http://www.reuters.com/article/2012/10/29/storm-sandy-nytransport-idUSL1E8LS1Z20121029'
+p401
+sg4
+S'20121028\xc2\xa08:54PM UTC'
+p402
+sg6
+S'U.S. Northeast service suspensions due to Hurricane Sandy'
+p403
+sa(dp404
+g2
+S'http://www.reuters.com/article/2012/10/29/singapore-economy-property-idUSS7E8EQ00D20121029'
+p405
+sg4
+S'20121028\xc2\xa08:53PM UTC'
+p406
+sg6
+S'Singapore Q3 private home prices +0.6 pct q/q'
+p407
+sa(dp408
+g2
+S'http://www.reuters.com/article/2012/10/29/us-transfats-idUSBRE89S01920121029'
+p409
+sg4
+S'20121028\xc2\xa08:47PM UTC'
+p410
+sg6
+S'Trans fats raise cholesterol, not blood sugar: study'
+p411
+sa(dp412
+g2
+S'http://www.reuters.com/article/2012/10/29/markets-singapore-stocks-preopener-idUSL3E8LT02G20121029'
+p413
+sg4
+S'20121028\xc2\xa08:46PM UTC'
+p414
+sg6
+S'Singapore Stocks - Factors to watch on Oct 29'
+p415
+sa(dp416
+g2
+S'http://www.reuters.com/article/2012/10/29/markets-precious-idUSL3E8LT01M20121029'
+p417
+sg4
+S'20121028\xc2\xa08:46PM UTC'
+p418
+sg6
+S'PRECIOUS-Gold holds gains, but firm dollar weighs'
+p419
+sa(dp420
+g2
+S'http://www.reuters.com/article/2012/10/29/us-china-dividendtax-idUSBRE89S01620121029'
+p421
+sg4
+S'20121028\xc2\xa08:44PM UTC'
+p422
+sg6
+S'China mulls lower tax levels to boost long-term investment: report'
+p423
+sa(dp424
+g2
+S'http://www.reuters.com/article/2012/10/29/health-transfats-idUSL3E8LT02I20121029'
+p425
+sg4
+S'20121028\xc2\xa08:44PM UTC'
+p426
+sg6
+S'Trans fats raise cholesterol, not blood sugar: study'
+p427
+sa(dp428
+g2
+S'http://www.reuters.com/article/2012/10/29/china-dividendtax-idUSL3E8LT01Q20121029'
+p429
+sg4
+S'20121028\xc2\xa08:42PM UTC'
+p430
+sg6
+S'China mulls lower tax levels to boost long-term investment-report'
+p431
+sa(dp432
+g2
+S'http://www.reuters.com/article/2012/10/29/markets-australia-stocks-idUSL3E8LS0OJ20121029'
+p433
+sg4
+S'20121028\xc2\xa08:41PM UTC'
+p434
+sg6
+S'Australia shares climb; U.S. growth helps miners, banks'
+p435
+sa(dp436
+g2
+S'http://www.reuters.com/article/2012/10/29/us-ukraines-election-poll-idUSBRE89R0F720121029'
+p437
+sg4
+S'20121028\xc2\xa08:39PM UTC'
+p438
+sg6
+S'Ukraine ruling party seems set for election win, nationalist surge seen'
+p439
+sa(dp440
+g2
+S'http://www.reuters.com/article/2012/10/29/idUS14555+29-Oct-2012+PRN20121029'
+p441
+sg4
+S'20121028\xc2\xa08:38PM UTC'
+p442
+sg6
+S"Hurricane Sandy Forces Cancellation of Hawaiian Airlines' JFK Flights"
+p443
+sa(dp444
+g2
+S'http://www.reuters.com/article/2012/10/29/cpic-results-idUSL3E8LQ19920121029'
+p445
+sg4
+S'20121028\xc2\xa08:33PM UTC'
+p446
+sg6
+S'CORRECTED-CPIC says Q3 net profit down 59 pct at 497 mln yuan'
+p447
+sa(dp448
+g2
+S'http://www.reuters.com/article/2012/10/29/shionogi-hiv-gsk-idUSL3E8LS0QM20121029'
+p449
+sg4
+S'20121028\xc2\xa08:32PM UTC'
+p450
+sg6
+S'Shionogi to take 10 pct stake in GSK, Pfizer HIV drug venture'
+p451
+sa(dp452
+g2
+S'http://www.reuters.com/article/2012/10/29/idUS13413+29-Oct-2012+PRN20121029'
+p453
+sg4
+S'20121028\xc2\xa08:30PM UTC'
+p454
+sg6
+S'Following Is a Test Release'
+p455
+sa(dp456
+g2
+S'http://www.reuters.com/article/2012/10/29/us-britain-economy-idUSBRE89S00Q20121029'
+p457
+sg4
+S'20121028\xc2\xa08:26PM UTC'
+p458
+sg6
+S"BoE's Dale says UK growth to falter after Olympic boost: Times"
+p459
+sa(dp460
+g2
+S'http://www.reuters.com/article/2012/10/29/britain-economy-idUSL5E8LT0020121029'
+p461
+sg4
+S'20121028\xc2\xa08:24PM UTC'
+p462
+sg6
+S"BoE's Dale says UK growth to falter after Olympic boost - Times"
+p463
+sa(dp464
+g2
+S'http://www.reuters.com/article/2012/10/29/idUS12937+29-Oct-2012+PRN20121029'
+p465
+sg4
+S'20121028\xc2\xa08:23PM UTC'
+p466
+sg6
+S'Keeping Pets Safe During Hurricane Sandy'
+p467
+sa(dp468
+g2
+S'http://www.reuters.com/article/2012/10/29/us-cancer-plants-idUSBRE89S00M20121029'
+p469
+sg4
+S'20121028\xc2\xa08:20PM UTC'
+p470
+sg6
+S'Plant compounds tied to less stomach cancer in women: study'
+p471
+sa(dp472
+g2
+S'http://www.reuters.com/article/2012/10/29/health-cancer-plants-idUSL3E8LT01320121029'
+p473
+sg4
+S'20121028\xc2\xa08:16PM UTC'
+p474
+sg6
+S'Plant compounds tied to less stomach cancer in women: study'
+p475
+sa(dp476
+g2
+S'http://www.reuters.com/article/2012/10/29/markets-korea-stocks-idUSL3E8LS0PV20121029'
+p477
+sg4
+S'20121028\xc2\xa08:15PM UTC'
+p478
+sg6
+S'Seoul shares tick up on improving U.S. GDP data'
+p479
+sa(dp480
+g2
+S'http://www.reuters.com/article/2012/10/29/us-storm-sandy-energy-idUSBRE89R0IO20121029'
+p481
+sg4
+S'20121028\xc2\xa08:13PM UTC'
+p482
+sg6
+S'Four East Coast refiners shut, cut rates as Sandy nears'
+p483
+sa(dp484
+g2
+S'http://www.reuters.com/article/2012/10/29/idUS11691+29-Oct-2012+PRN20121029'
+p485
+sg4
+S'20121028\xc2\xa08:10PM UTC'
+p486
+sg6
+S'Study Examines Smart Pharma Strategies for Effective Messaging around New Products and the Medical Conditions they Treat'
+p487
+sa(dp488
+g2
+S'http://www.reuters.com/article/2012/10/29/economy-global-weekahead-idUSL3E8LR06K20121029'
+p489
+sg4
+S'20121028\xc2\xa08:08PM UTC'
+p490
+sg6
+S'(RPT) GLOBAL ECONOMY-Poll: Crucial pre-election US payroll report looks weak'
+p491
+sa(dp492
+g2
+S'http://www.reuters.com/article/2012/10/29/markets-japan-stocks-idUSL3E8LT00W20121029'
+p493
+sg4
+S'20121028\xc2\xa08:06PM UTC'
+p494
+sg6
+S'Nikkei rises; expectations of BOJ easing run high'
+p495
+sa(dp496
+g2
+S'http://www.reuters.com/article/2012/10/29/us-finland-election-idUSBRE89R0G920121029'
+p497
+sg4
+S'20121028\xc2\xa08:02PM UTC'
+p498
+sg6
+S'Finnish eurosceptics gain local seats but lose momentum'
+p499
+sa(dp500
+g2
+S'http://www.reuters.com/article/2012/10/29/citigroup-brief-idUSWEN825120121029'
+p501
+sg4
+S'20121028\xc2\xa08:01PM UTC'
+p502
+sg6
+S'BRIEF-Citi appoints new head of global clearing and financial institutions payments'
+p503
+sa(dp504
+g2
+S'http://www.reuters.com/article/2012/10/29/idUS10194+29-Oct-2012+BW20121029'
+p505
+sg4
+S'20121028\xc2\xa08:01PM UTC'
+p506
+sg6
+S'New Report Confirms UK is on the Brink of a Stroke Crisis'
+p507
+sa(dp508
+g2
+S'http://www.reuters.com/article/2012/10/29/lawfirms-performance-survey-idUSL5E8LQ97L20121029'
+p509
+sg4
+S'20121028\xc2\xa08:00PM UTC'
+p510
+sg6
+S'UK legal takeovers help firms maintain earnings - survey'
+p511
+sa(dp512
+g2
+S'http://www.reuters.com/article/2012/10/29/soccer-us-premier-idUSL3E8LS0H220121029'
+p513
+sg4
+S'20121028\xc2\xa08:00PM UTC'
+p514
+sg6
+S'Soccer-NBC grabs U.S. Premier League rights from Fox and ESPN'
+p515
+sa(dp516
+g2
+S'http://www.reuters.com/article/2012/10/29/idUS10136+29-Oct-2012+GNW20121029'
+p517
+sg4
+S'20121028\xc2\xa08:00PM UTC'
+p518
+sg6
+S"Tianjin Broadcast and TV Network Deploys Entropic's Latest c.LINK Ethernet-over-Coax Solution to Increase Speed and Quality of Broadband Service"
+p519
+sa(dp520
+g2
+S'http://www.reuters.com/article/2012/10/29/idUS10055+29-Oct-2012+PRN20121029'
+p521
+sg4
+S'20121028\xc2\xa08:00PM UTC'
+p522
+sg6
+S'Following Is a Test Release'
+p523
+sa(dp524
+g2
+S'http://www.reuters.com/article/2012/10/29/idUS10017+29-Oct-2012+BW20121029'
+p525
+sg4
+S'20121028\xc2\xa08:00PM UTC'
+p526
+sg6
+S'Citi Appoints New Head of Global Clearing and Financial Institutions Payments'
+p527
+sa(dp528
+g2
+S'http://www.reuters.com/article/2012/10/29/idUS10009+29-Oct-2012+BW20121029'
+p529
+sg4
+S'20121028\xc2\xa08:00PM UTC'
+p530
+sg6
+S'Cambrios Applications Engineering Manager Jonathan Westwater to Highlight New Materials Enabling Large Area Touch and OLED Display Innovation at FPD International'
+p531
+sa(dp532
+g2
+S'http://www.reuters.com/article/2012/10/28/brazil-elections-idUSL1E8LS2L220121028'
+p533
+sg4
+S'20121028\xc2\xa07:55PM UTC'
+p534
+sg6
+S'Brazil ruling party wins coveted Sao Paulo mayorship'
+p535
+sa(dp536
+g2
+S'http://www.reuters.com/article/2012/10/28/japan-economy-retail-idUST9E8IO01Y20121028'
+p537
+sg4
+S'20121028\xc2\xa07:53PM UTC'
+p538
+sg6
+S'Japan Sept retail sales rise 0.4 pct year/year'
+p539
+sa(dp540
+g2
+S'http://www.reuters.com/article/2012/10/28/sklubricants-ipo-idUSL3E8LA24T20121028'
+p541
+sg4
+S'20121028\xc2\xa07:50PM UTC'
+p542
+sg6
+S"S.Korea's SK Lubricants picks six banks to advise $1.3 bln IPO-source"
+p543
+sa(dp544
+g2
+S'http://www.reuters.com/article/2012/10/28/shanghaifosun-ipo-idUSH9E8LO00I20121028'
+p545
+sg4
+S'20121028\xc2\xa07:48PM UTC'
+p546
+sg6
+S'RPT-Shanghai Fosun shares priced at HK$11.80/shr for IPO'
+p547
+sa(dp548
+g2
+S'http://www.reuters.com/article/2012/10/28/nrgenergy-results-idUSWEN825020121028'
+p549
+sg4
+S'20121028\xc2\xa07:48PM UTC'
+p550
+sg6
+S'BRIEF-NRG Energy reschedules third quarter earnings call to November 2nd in anticipation of hurricane sandy'
+p551
+sa(dp552
+g2
+S'http://www.reuters.com/article/2012/10/28/shanghaifosun-ipo-idUSH9E8LO0020121028'
+p553
+sg4
+S'20121028\xc2\xa07:47PM UTC'
+p554
+sg6
+S'Shanghai Fosun shares priced at HK$11.80/shr for IPO'
+p555
+sa(dp556
+g2
+S'http://www.reuters.com/article/2012/10/28/idUS59767+28-Oct-2012+BW20121028'
+p557
+sg4
+S'20121028\xc2\xa07:45PM UTC'
+p558
+sg6
+S'NRG Energy, Inc. Reschedules Third Quarter Earnings Call to November 2nd in Anticipation of Hurricane Sandy'
+p559
+sa(dp560
+g2
+S'http://www.reuters.com/article/2012/10/28/markets-japan-stocks-idUSL3E8LS0PB20121028'
+p561
+sg4
+S'20121028\xc2\xa07:43PM UTC'
+p562
+sg6
+S'Nikkei likely to weaken after steep rally; eyes on BOJ'
+p563
+sa(dp564
+g2
+S'http://www.reuters.com/article/2012/10/28/us-china-banks-london-idUSBRE89R0ML20121028'
+p565
+sg4
+S'20121028\xc2\xa07:42PM UTC'
+p566
+sg6
+S'China banks leaving London to escape tougher rules: FT'
+p567
+sa(dp568
+g2
+S'http://www.reuters.com/article/2012/10/28/china-banks-london-idUSL3E8LS0PQ20121028'
+p569
+sg4
+S'20121028\xc2\xa07:41PM UTC'
+p570
+sg6
+S'China banks leaving London to escape tougher rules - FT'
+p571
+sa(dp572
+g2
+S'http://www.reuters.com/article/2012/10/28/storm-sandy-markets-idUSL1E8LS0UI20121028'
+p573
+sg4
+S'20121028\xc2\xa07:39PM UTC'
+p574
+sg6
+S'UPDATE 3-Wall Street to open Monday as storm hobbles New York'
+p575
+sa(dp576
+g2
+S'http://www.reuters.com/article/2012/10/28/greece-corruption-idUSL5E8LS2LM20121028'
+p577
+sg4
+S'20121028\xc2\xa07:36PM UTC'
+p578
+sg6
+S'UPDATE 2-Greek editor arrested over list of Swiss accounts'
+p579
+sa(dp580
+g2
+S'http://www.reuters.com/article/2012/10/28/economy-global-weekahead-idUSL3E8LR06K20121028'
+p581
+sg4
+S'20121028\xc2\xa07:34PM UTC'
+p582
+sg6
+S'(RPT) GLOBAL ECONOMY-Seekers for top U.S. job await payroll fallout'
+p583
+sa(dp584
+g2
+S'http://www.reuters.com/article/2012/10/28/us-storm-sandy-hurricane-idUSBRE89N16J20121028'
+p585
+sg4
+S'20121028\xc2\xa07:31PM UTC'
+p586
+sg6
+S'Evacuations, shutdowns on East Coast before storm'
+p587
+sa(dp588
+g2
+S'http://www.reuters.com/article/2012/10/28/idUS57696+28-Oct-2012+PRN20121028'
+p589
+sg4
+S'20121028\xc2\xa07:30PM UTC'
+p590
+sg6
+S'Following Is a Test Release'
+p591
+sa(dp592
+g2
+S'http://www.reuters.com/article/2012/10/28/idUS57676+28-Oct-2012+BW20121028'
+p593
+sg4
+S'20121028\xc2\xa07:30PM UTC'
+p594
+sg6
+S'Calypso Technology Launches Basel III Solution for Liquidity Management'
+p595
+sa(dp596
+g2
+S'http://www.reuters.com/article/2012/10/28/markets-korea-stocks-idUSL3E8LS0PK20121028'
+p597
+sg4
+S'20121028\xc2\xa07:29PM UTC'
+p598
+sg6
+S'Seoul shares seen flat on strong currency concerns'
+p599
+sa(dp600
+g2
+S'http://www.reuters.com/article/2012/10/28/markets-australia-stocks-idUSL3E8LS0PC20121028'
+p601
+sg4
+S'20121028\xc2\xa07:25PM UTC'
+p602
+sg6
+S'Australia shares edge up, Base Resources slumps'
+p603
+sa(dp604
+g2
+S'http://www.reuters.com/article/2012/10/28/pve-weekly-idUSL3E8LM03M20121028'
+p605
+sg4
+S'20121028\xc2\xa07:24PM UTC'
+p606
+sg6
+S'Asia Private Equity Weekly News, October 29, 2012'
+p607
+sa(dp608
+g2
+S'http://www.reuters.com/article/2012/10/28/us-economy-global-weekahead-idUSBRE89R0GV20121028'
+p609
+sg4
+S'20121028\xc2\xa07:22PM UTC'
+p610
+sg6
+S'Presidential contenders await payroll fallout'
+p611
+sa(dp612
+g2
+S'http://www.reuters.com/article/2012/10/28/idUS57060+28-Oct-2012+PRN20121028'
+p613
+sg4
+S'20121028\xc2\xa07:20PM UTC'
+p614
+sg6
+S'FirstEnergy Utilities Prepare for High Winds, Heavy Rain, Flooding and Snow Related to Hurricane Sandy'
+p615
+sa(dp616
+g2
+S'http://www.reuters.com/article/2012/10/28/markets-japan-stocks-orders-idUSL3E8LS0PE20121028'
+p617
+sg4
+S'20121028\xc2\xa07:19PM UTC'
+p618
+sg6
+S'TABLE-Foreign brokers set to buy and sell Japan stocks in equal amounts'
+p619
+sa(dp620
+g2
+S'http://www.reuters.com/article/2012/10/28/pfizer-brief-idUSWEN824920121028'
+p621
+sg4
+S'20121028\xc2\xa07:11PM UTC'
+p622
+sg6
+S'BRIEF-Pfizer reschedules issuance of third quarter 2012 performance report'
+p623
+sa(dp624
+g2
+S'http://www.reuters.com/article/2012/10/28/idUS56297+28-Oct-2012+BW20121028'
+p625
+sg4
+S'20121028\xc2\xa07:10PM UTC'
+p626
+sg6
+S'Pfizer Reschedules Issuance Of Third Quarter 2012 Performance Report And Associated Conference Call And Webcast to November 1, 2012 Due To Expected Severe Weather Conditions'
+p627
+sa(dp628
+g2
+S'http://www.reuters.com/article/2012/10/28/idUS56066+28-Oct-2012+PRN20121028'
+p629
+sg4
+S'20121028\xc2\xa07:05PM UTC'
+p630
+sg6
+S'Georgia Chapter-PRSA Seminar on November 1'
+p631
+sa(dp632
+g2
+S'http://www.reuters.com/article/2012/10/28/idUS56054+28-Oct-2012+BW20121028'
+p633
+sg4
+S'20121028\xc2\xa07:05PM UTC'
+p634
+sg6
+S'Fiserv Earns SWIFTReady Reconciliation Accreditation for the 13th Consecutive Year'
+p635
+sa(dp636
+g2
+S'http://www.reuters.com/article/2012/10/28/idUS55879+28-Oct-2012+BW20121028'
+p637
+sg4
+S'20121028\xc2\xa07:01PM UTC'
+p638
+sg6
+S'New Report Confirms Europe is on the Brink of a Stroke Crisis'
+p639
+sa(dp640
+g2
+S'http://www.reuters.com/article/2012/10/28/idUS55836+28-Oct-2012+GNW20121028'
+p641
+sg4
+S'20121028\xc2\xa07:00PM UTC'
+p642
+sg6
+S"Fundtech Extends Its SWIFT Service Bureau Operation to Asia Through Strategic Partnership With NEC's Decillion Group"
+p643
+sa(dp644
+g2
+S'http://www.reuters.com/article/2012/10/28/idUS55826+28-Oct-2012+PRN20121028'
+p645
+sg4
+S'20121028\xc2\xa07:00PM UTC'
+p646
+sg6
+S'Following Is a Test Release'
+p647
+sa(dp648
+g2
+S'http://www.reuters.com/article/2012/10/28/idUS55820+28-Oct-2012+PRN20121028'
+p649
+sg4
+S'20121028\xc2\xa07:00PM UTC'
+p650
+sg6
+S'Broadridge Launches Unified Cash and Stock Reconciliations, the Latest Innovation for Operational Control'
+p651
+sa(dp652
+g2
+S'http://www.reuters.com/article/2012/10/28/idUS55809+28-Oct-2012+PRN20121028'
+p653
+sg4
+S'20121028\xc2\xa07:00PM UTC'
+p654
+sg6
+S'Oesterreichische Kontrollbank Strengthens Financial Integration for Austrian Industries With Microsoft BizTalk Server'
+p655
+sa(dp656
+g2
+S'http://www.reuters.com/article/2012/10/28/idUS55804+28-Oct-2012+PRN20121028'
+p657
+sg4
+S'20121028\xc2\xa07:00PM UTC'
+p658
+sg6
+S'Bank SinoPac Adopts Mission-Critical Microsoft Platform'
+p659
+sa(dp660
+g2
+S'http://www.reuters.com/article/2012/10/28/idUS55800+28-Oct-2012+BW20121028'
+p661
+sg4
+S'20121028\xc2\xa07:00PM UTC'
+p662
+sg6
+S'Numerix Extends Its Windows Azure Solutions to Meet Financial Services Industry Needs for Cross-asset Valuation and Risk Management'
+p663
+sa(dp664
+g2
+S'http://www.reuters.com/article/2012/10/28/idUS55795+28-Oct-2012+BW20121028'
+p665
+sg4
+S'20121028\xc2\xa07:00PM UTC'
+p666
+sg6
+S'ACLEDA Bank Plc. Extends Mobile Financial Services to New Segments with Mobiliti Reach from Fiserv'
+p667
+sa(dp668
+g2
+S'http://www.reuters.com/article/2012/10/28/idUS55784+28-Oct-2012+BW20121028'
+p669
+sg4
+S'20121028\xc2\xa07:00PM UTC'
+p670
+sg6
+S'Hilton HHonors and Sumitomo Mitsui Card Company Launch Hilton HHonors VISA Platinum Card'
+p671
+sa(dp672
+g2
+S'http://www.reuters.com/article/2012/10/28/idUS55779+28-Oct-2012+BW20121028'
+p673
+sg4
+S'20121028\xc2\xa07:00PM UTC'
+p674
+sg6
+S'National Grid Selects Bottomline`s SWIFT Access Service for Cloud-Based SWIFT Connectivity'
+p675
+sa(dp676
+g2
+S'http://www.reuters.com/article/2012/10/28/korea-markets-factors-idUSL3E8LS0OV20121028'
+p677
+sg4
+S'20121028\xc2\xa06:59PM UTC'
+p678
+sg6
+S'S.Korea-Market Factors to watch on Oct 29'
+p679
+sa(dp680
+g2
+S'http://www.reuters.com/article/2012/10/28/us-markets-forex-idUSBRE89O07D20121028'
+p681
+sg4
+S'20121028\xc2\xa06:55PM UTC'
+p682
+sg6
+S'Yen steadier as BOJ meeting looms'
+p683
+sa(dp684
+g2
+S'http://www.reuters.com/article/2012/10/28/us-lithuania-election-idUSBRE89R0FC20121028'
+p685
+sg4
+S'20121028\xc2\xa06:49PM UTC'
+p686
+sg6
+S'Lithuania opposition wins vote in austerity backlash'
+p687
+sa(dp688
+g2
+S'http://www.reuters.com/article/2012/10/28/us-storm-sandy-hurricane-northeast-idUSBRE89R0M220121028'
+p689
+sg4
+S'20121028\xc2\xa06:46PM UTC'
+p690
+sg6
+S'Storm sets off frantic rush for supplies across East Coast'
+p691
+sa(dp692
+g2
+S'http://www.reuters.com/article/2012/10/28/nyseeuronext-brief-idUSWEN824820121028'
+p693
+sg4
+S'20121028\xc2\xa06:44PM UTC'
+p694
+sg6
+S'BRIEF-SIFMA says recommends an early close of 12:00pm est on Monday'
+p695
+sa(dp696
+g2
+S'http://www.reuters.com/article/2012/10/28/markets-forex-idUSL3E8LS0OG20121028'
+p697
+sg4
+S'20121028\xc2\xa06:41PM UTC'
+p698
+sg6
+S'FOREX-Yen steadier as BOJ meeting looms'
+p699
+sa(dp700
+g2
+S'http://www.reuters.com/article/2012/10/28/us-nfl-wrapup-idUSBRE89R0M520121028'
+p701
+sg4
+S'20121028\xc2\xa06:38PM UTC'
+p702
+sg6
+S'Falcons celebrate magnificent seven with win over Eagles'
+p703
+sa(dp704
+g2
+S'http://www.reuters.com/article/2012/10/28/storm-sandy-hurricane-northeast-idUSL1E8LS2K520121028'
+p705
+sg4
+S'20121028\xc2\xa06:35PM UTC'
+p706
+sg6
+S'UPDATE 1-Storm sets off frantic rush for supplies across US East Coast'
+p707
+sa(dp708
+g2
+S'http://www.reuters.com/article/2012/10/28/us-baseball-worldseries-verlander-idUSBRE89R0LX20121028'
+p709
+sg4
+S'20121028\xc2\xa06:34PM UTC'
+p710
+sg6
+S"Tigers' Verlander not throwing in the towel"
+p711
+sa(dp712
+g2
+S'http://www.reuters.com/article/2012/10/28/idUS54344+28-Oct-2012+PRN20121028'
+p713
+sg4
+S'20121028\xc2\xa06:30PM UTC'
+p714
+sg6
+S'Following Is a Test Release'
+p715
+sa(dp716
+g2
+S'http://www.reuters.com/article/2012/10/28/entertainment-us-rollingstones-auction-idUSBRE89R0LT20121028'
+p717
+sg4
+S'20121028\xc2\xa06:29PM UTC'
+p718
+sg6
+S'Rolling Stones memorabilia auctioned after divorce'
+p719
+sa(dp720
+g2
+S'http://www.reuters.com/article/2012/10/28/us-usa-health-meningitis-closure-idUSBRE89R0LR20121028'
+p721
+sg4
+S'20121028\xc2\xa06:28PM UTC'
+p722
+sg6
+S'Massachusetts closes third pharmacy since meningitis outbreak'
+p723
+sa(dp724
+g2
+S'http://www.reuters.com/article/2012/10/28/us-storm-sandy-energy-idUSBRE89R0IO20121028'
+p725
+sg4
+S'20121028\xc2\xa06:27PM UTC'
+p726
+sg6
+S'East Coast refineries cut output ahead of Sandy'
+p727
+sa(dp728
+g2
+S'http://www.reuters.com/article/2012/10/28/storm-sandy-phillips66-bayway-idUSL1E8LS2WF20121028'
+p729
+sg4
+S'20121028\xc2\xa06:27PM UTC'
+p730
+sg6
+S'RPT-Phillips 66 begins shutdown of Bayway, NJ refinery'
+p731
+sa(dp732
+g2
+S'http://www.reuters.com/article/2012/10/28/usa-health-meningitis-closure-idUSL1E8LS1ZT20121028'
+p733
+sg4
+S'20121028\xc2\xa06:26PM UTC'
+p734
+sg6
+S'Massachusetts closes third pharmacy since meningitis outbreak'
+p735
+sa(dp736
+g2
+S'http://www.reuters.com/article/2012/10/28/storm-sandy-energy-idUSL1E8LS1OU20121028'
+p737
+sg4
+S'20121028\xc2\xa06:25PM UTC'
+p738
+sg6
+S'UPDATE 2-U.S. East Coast refineries cut output ahead of Sandy'
+p739
+sa(dp740
+g2
+S'http://www.reuters.com/article/2012/10/28/us-storm-sandy-british-airways-idUSBRE89R0LI20121028'
+p741
+sg4
+S'20121028\xc2\xa06:25PM UTC'
+p742
+sg6
+S'British Airways cancels flights to hurricane-hit Northeast'
+p743
+sa(dp744
+g2
+S'http://www.reuters.com/article/2012/10/28/idUS53728+28-Oct-2012+PRN20121028'
+p745
+sg4
+S'20121028\xc2\xa06:19PM UTC'
+p746
+sg6
+S'Pennsylvania Governor Corbett, PEMA Urge Residents to Prepare for Hurricane Sandy'
+p747
+sa(dp748
+g2
+S'http://www.reuters.com/article/2012/10/28/us-usa-campaign-idUSBRE89M11220121028'
+p749
+sg4
+S'20121028\xc2\xa06:18PM UTC'
+p750
+sg6
+S'Hurricane Sandy blows election off course'
+p751
+sa(dp752
+g2
+S'http://www.reuters.com/article/2012/10/28/storm-sandy-british-airways-idUSL5E8LS2LI20121028'
+p753
+sg4
+S'20121028\xc2\xa06:18PM UTC'
+p754
+sg6
+S'British Airways cancels flights to hurricane-hit US Northeast'
+p755
+sa(dp756
+g2
+S'http://www.reuters.com/article/2012/10/28/usa-campaign-idUSL1E8LS0ZI20121028'
+p757
+sg4
+S'20121028\xc2\xa06:18PM UTC'
+p758
+sg6
+S'UPDATE 2-Hurricane Sandy blows U.S. election off course'
+p759
+sa(dp760
+g2
+S'http://www.reuters.com/article/2012/10/28/us-storm-sandy-phillips66-bayway-idUSBRE89R0LE20121028'
+p761
+sg4
+S'20121028\xc2\xa06:16PM UTC'
+p762
+sg6
+S'Phillips 66 begins shutdown of Bayway, NJ refinery'
+p763
+sa(dp764
+g2
+S'http://www.reuters.com/article/2012/10/28/us-storm-sandy-federal-idUSBRE89R0LB20121028'
+p765
+sg4
+S'20121028\xc2\xa06:14PM UTC'
+p766
+sg6
+S'Federal offices in Washington area closed Monday due to storm'
+p767
+sa(dp768
+g2
+S'http://www.reuters.com/article/2012/10/28/storm-sandy-federal-idUSL1E8LS1ZW20121028'
+p769
+sg4
+S'20121028\xc2\xa06:13PM UTC'
+p770
+sg6
+S'U.S. federal offices in Washington area closed Monday due to storm'
+p771
+sa(dp772
+g2
+S'http://www.reuters.com/article/2012/10/28/us-hawaii-tsunami-idUSBRE89R02M20121028'
+p773
+sg4
+S'20121028\xc2\xa06:12PM UTC'
+p774
+sg6
+S'Hawaii tsunami warning canceled after lower than expected waves'
+p775
+sa(dp776
+g2
+S'http://www.reuters.com/article/2012/10/28/us-china-politics-democracy-idUSBRE89R0JJ20121028'
+p777
+sg4
+S'20121028\xc2\xa06:11PM UTC'
+p778
+sg6
+S'Insight: China grassroots democracy challenge awaits new leaders'
+p779
+sa(dp780
+g2
+S'http://www.reuters.com/article/2012/10/28/hawaii-tsunami-idUSL1E8LS09P20121028'
+p781
+sg4
+S'20121028\xc2\xa06:09PM UTC'
+p782
+sg6
+S'UPDATE 1-Hawaii tsunami warning canceled after lower than expected waves'
+p783
+sa(dp784
+g2
+S'http://www.reuters.com/article/2012/10/28/storm-sandy-phillips66-bayway-idUSL1E8LS2WE20121028'
+p785
+sg4
+S'20121028\xc2\xa06:07PM UTC'
+p786
+sg6
+S'Phillips 66 begins shutdown of Bayway, NJ refinery'
+p787
+sa(dp788
+g2
+S'http://www.reuters.com/article/2012/10/28/storm-sandy-idUSL1E8LS06O20121028'
+p789
+sg4
+S'20121028\xc2\xa06:06PM UTC'
+p790
+sg6
+S'UPDATE 6-Evacuations, shutdowns on U.S. East Coast before storm'
+p791
+sa(dp792
+g2
+S'http://www.reuters.com/article/2012/10/28/us-storm-sandy-obama-idUSBRE89R0G420121028'
+p793
+sg4
+S'20121028\xc2\xa06:02PM UTC'
+p794
+sg6
+S'Hurricane forces Obama to balance governing, campaigning'
+p795
+sa(dp796
+g2
+S'http://www.reuters.com/article/2012/10/28/storm-sandy-obama-idUSL1E8LS1OR20121028'
+p797
+sg4
+S'20121028\xc2\xa06:01PM UTC'
+p798
+sg6
+S'UPDATE 1-Hurricane forces Obama to balance governing, campaigning'
+p799
+sa(dp800
+g2
+S'http://www.reuters.com/article/2012/10/28/idUS52351+28-Oct-2012+PRN20121028'
+p801
+sg4
+S'20121028\xc2\xa06:00PM UTC'
+p802
+sg6
+S'Following Is a Test Release'
+p803
+sa(dp804
+g2
+S'http://www.reuters.com/article/2012/10/28/idUS52305+28-Oct-2012+BW20121028'
+p805
+sg4
+S'20121028\xc2\xa06:00PM UTC'
+p806
+sg6
+S'SanDisk Celebrates Japan Milestones'
+p807
+sa(dp808
+g2
+S'http://www.reuters.com/article/2012/10/28/markets-australia-stocks-idUSL3E8LS0MH20121028'
+p809
+sg4
+S'20121028\xc2\xa05:59PM UTC'
+p810
+sg6
+S'Australia shares seen climbing on U.S. growth relief'
+p811
+sa(dp812
+g2
+S'http://www.reuters.com/article/2012/10/28/us-finland-election-idUSBRE89R0G920121028'
+p813
+sg4
+S'20121028\xc2\xa05:45PM UTC'
+p814
+sg6
+S'Finnish eurosceptics gain local seats but lose momentum'
+p815
+sa(dp816
+g2
+S'http://www.reuters.com/article/2012/10/28/us-nfl-london-idUSBRE89R0J920121028'
+p817
+sg4
+S'20121028\xc2\xa05:38PM UTC'
+p818
+sg6
+S'Patriots rout Rams in Wembley meeting'
+p819
+sa(dp820
+g2
+S'http://www.reuters.com/article/2012/10/28/us-ukraines-election-poll-idUSBRE89R0F720121028'
+p821
+sg4
+S'20121028\xc2\xa05:35PM UTC'
+p822
+sg6
+S"Ukraine's ruling party leads in election: exit polls"
+p823
+sa(dp824
+g2
+S'http://www.reuters.com/article/2012/10/28/us-syria-crisis-idUSBRE88J0X720121028'
+p825
+sg4
+S'20121028\xc2\xa05:30PM UTC'
+p826
+sg6
+S'Syria air force bombs cities, truce "practically over"'
+p827
+sa(dp828
+g2
+S'http://www.reuters.com/article/2012/10/28/idUS51159+28-Oct-2012+PRN20121028'
+p829
+sg4
+S'20121028\xc2\xa05:30PM UTC'
+p830
+sg6
+S'Following Is a Test Release'
+p831
+sa(dp832
+g2
+S'http://www.reuters.com/article/2012/10/28/syria-idUSL5E8LS2H820121028'
+p833
+sg4
+S'20121028\xc2\xa05:23PM UTC'
+p834
+sg6
+S"WRAPUP 2-Syria air force bombs cities, truce 'practically over'"
+p835
+sa(dp836
+g2
+S'http://www.reuters.com/article/2012/10/28/us-toyota-china-idUSBRE89R0KB20121028'
+p837
+sg4
+S'20121028\xc2\xa05:22PM UTC'
+p838
+sg6
+S'Analysis: Oh, what a sinking feeling: Toyota misfires with Chinese buyers'
+p839
+sa(dp840
+g2
+S'http://www.reuters.com/article/2012/10/28/idUS50663+28-Oct-2012+PRN20121028'
+p841
+sg4
+S'20121028\xc2\xa05:22PM UTC'
+p842
+sg6
+S'Varian Medical Systems Unveils EDGE\xe2\x84\xa2 Radiosurgery Suite -- A Comprehensive Solution for Non-Invasive Surgical Procedures'
+p843
+sa(dp844
+g2
+S'http://www.reuters.com/article/2012/10/28/idUS50576+28-Oct-2012+PRN20121028'
+p845
+sg4
+S'20121028\xc2\xa05:19PM UTC'
+p846
+sg6
+S'Home Medical Equipment and Service Providers Prepare for Hurricane Sandy'
+p847
+sa(dp848
+g2
+S'http://www.reuters.com/article/2012/10/28/idUS50568+28-Oct-2012+PRN20121028'
+p849
+sg4
+S'20121028\xc2\xa05:18PM UTC'
+p850
+sg6
+S'Dickinson College Names Nancy A. Roseman, Former Williams Dean, 28th President'
+p851
+sa(dp852
+g2
+S'http://www.reuters.com/article/2012/10/28/us-honeywell-forecast-idUSBRE89R0K720121028'
+p853
+sg4
+S'20121028\xc2\xa05:15PM UTC'
+p854
+sg6
+S'Honeywell forecasts growth in corporate jet sales'
+p855
+sa(dp856
+g2
+S'http://www.reuters.com/article/2012/10/28/us-india-odisha-idUSBRE89R0K320121028'
+p857
+sg4
+S'20121028\xc2\xa05:14PM UTC'
+p858
+sg6
+S"Indian state's industrial dream mired in delays, protests"
+p859
+sa(dp860
+g2
+S'http://www.reuters.com/article/2012/10/28/idUS50350+28-Oct-2012+GNW20121028'
+p861
+sg4
+S'20121028\xc2\xa05:13PM UTC'
+p862
+sg6
+S'Identive Group to Hold Third Quarter 2012 Conference Call and Webcast November 1, 2012'
+p863
+sa(dp864
+g2
+S'http://www.reuters.com/article/2012/10/28/idUS50341+28-Oct-2012+PRN20121028'
+p865
+sg4
+S'20121028\xc2\xa05:13PM UTC'
+p866
+sg6
+S'SpaceX Dragon Returns From Space Station With NASA Cargo'
+p867
+sa(dp868
+g2
+S'http://www.reuters.com/article/2012/10/28/dtcc-brief-idUSWEN824720121028'
+p869
+sg4
+S'20121028\xc2\xa05:10PM UTC'
+p870
+sg6
+S'BRIEF-DTCC remains open for operation on October 29'
+p871
+sa(dp872
+g2
+S'http://www.reuters.com/article/2012/10/28/us-korea-fund-idUSBRE89R0JX20121028'
+p873
+sg4
+S'20121028\xc2\xa05:09PM UTC'
+p874
+sg6
+S'South Korea pension fund needs more contributions, new investments'
+p875
+sa(dp876
+g2
+S'http://www.reuters.com/article/2012/10/28/us-ereaders-future-idUSBRE89R0JQ20121028'
+p877
+sg4
+S'20121028\xc2\xa05:07PM UTC'
+p878
+sg6
+S'Analysis: E-readers grapple with a future on the shelf'
+p879
+sa(dp880
+g2
+S'http://www.reuters.com/article/2012/10/28/india-odisha-idUSL3E8L14XF20121028'
+p881
+sg4
+S'20121028\xc2\xa05:01PM UTC'
+p882
+sg6
+S"Indian state's industrial dream mired in delays, protests"
+p883
+sa(dp884
+g2
+S'http://www.reuters.com/article/2012/10/28/idUS49228+28-Oct-2012+BW20121028'
+p885
+sg4
+S'20121028\xc2\xa05:01PM UTC'
+p886
+sg6
+S'DTCC Remains Open for Operation on October 29'
+p887
+sa(dp888
+g2
+S'http://www.reuters.com/article/2012/10/28/india-modi-idUSL3E8LM30P20121028'
+p889
+sg4
+S'20121028\xc2\xa05:00PM UTC'
+p890
+sg6
+S'Narendra Modi: the Indian leader who came in from the cold'
+p891
+sa(dp892
+g2
+S'http://www.reuters.com/article/2012/10/28/idUS49190+28-Oct-2012+PRN20121028'
+p893
+sg4
+S'20121028\xc2\xa05:00PM UTC'
+p894
+sg6
+S'Following Is a Test Release'
+p895
+sa(dp896
+g2
+S'http://www.reuters.com/article/2012/10/28/idUS49174+28-Oct-2012+PRN20121028'
+p897
+sg4
+S'20121028\xc2\xa05:00PM UTC'
+p898
+sg6
+S'Honeywell Global Business Aviation Forecast Sees Three To Four Percent Average Annual Industry Growth In Next Decade'
+p899
+sa(dp900
+g2
+S'http://www.reuters.com/article/2012/10/28/honeywell-forecast-idUSL1E8LQ4RK20121028'
+p901
+sg4
+S'20121028\xc2\xa04:59PM UTC'
+p902
+sg6
+S'Honeywell forecasts growth in corporate jet sales'
+p903
+sa(dp904
+g2
+S'http://www.reuters.com/article/2012/10/28/china-sany-idUSL3E8LR04L20121028'
+p905
+sg4
+S'20121028\xc2\xa04:59PM UTC'
+p906
+sg6
+S'China\'s Sany Heavy poised for economic "golden age"'
+p907
+sa(dp908
+g2
+S'http://www.reuters.com/article/2012/10/28/china-politics-democracy-idUSL3E8LO2A820121028'
+p909
+sg4
+S'20121028\xc2\xa04:59PM UTC'
+p910
+sg6
+S'INSIGHT-China grassroots democracy challenge awaits new leaders'
+p911
+sa(dp912
+g2
+S'http://www.reuters.com/article/2012/10/28/us-storm-sandy-nytransport-idUSBRE89R0JG20121028'
+p913
+sg4
+S'20121028\xc2\xa04:54PM UTC'
+p914
+sg6
+S'FACTBOX: Northeast service suspensions due to Hurricane Sandy'
+p915
+sa(dp916
+g2
+S'http://www.reuters.com/article/2012/10/28/idUS48836+28-Oct-2012+PRN20121028'
+p917
+sg4
+S'20121028\xc2\xa04:53PM UTC'
+p918
+sg6
+S"AVMF urges preparedness for pet owners in hurricane's path"
+p919
+sa(dp920
+g2
+S'http://www.reuters.com/article/2012/10/28/canada-mining-technology-re-idUSL1E8LS2KE20121028'
+p921
+sg4
+S'20121028\xc2\xa04:50PM UTC'
+p922
+sg6
+S"RPT-FEATURE-Miners take 'rail-veyors' and robots to automated future"
+p923
+sa(dp924
+g2
+S'http://www.reuters.com/article/2012/10/28/grain-consolidation-idUSL5E8LS2IU20121028'
+p925
+sg4
+S'20121028\xc2\xa04:48PM UTC'
+p926
+sg6
+S'RPT-Consumers, farmers squeezed as grain giants tighten grip'
+p927
+sa(dp928
+g2
+S'http://www.reuters.com/article/2012/10/28/us-nfl-lions-idUSBRE89R0J620121028'
+p929
+sg4
+S'20121028\xc2\xa04:48PM UTC'
+p930
+sg6
+S'Lions get win over Seahawks to set stage for Tigers'
+p931
+sa(dp932
+g2
+S'http://www.reuters.com/article/2012/10/28/australia-asia-idUSL3E8LS0I520121028'
+p933
+sg4
+S'20121028\xc2\xa04:46PM UTC'
+p934
+sg6
+S'RPT-Australia aims to lift Asia trade to one third of GDP by 2025'
+p935
+sa(dp936
+g2
+S'http://www.reuters.com/article/2012/10/28/entertainment-us-boxoffice-idUSBRE89R0C920121028'
+p937
+sg4
+S'20121028\xc2\xa04:46PM UTC'
+p938
+sg6
+S'"Argo" rises above "Cloud Atlas" as Sandy spooks'
+p939
+sa(dp940
+g2
+S'http://www.reuters.com/article/2012/10/28/idUS48643+28-Oct-2012+PRN20121028'
+p941
+sg4
+S'20121028\xc2\xa04:45PM UTC'
+p942
+sg6
+S'Due to the recent news of Hurricane Sandy arriving to the American East Coast and New York Region, The Thurgood Marshall College Fund 25th Anniversary Awards Gala in New York City, October 29, 2012 at the Hilton Hotel is can'
+p943
+sa(dp944
+g2
+S'http://www.reuters.com/article/2012/10/28/boxoffice-idUSL1E8LS15020121028'
+p945
+sg4
+S'20121028\xc2\xa04:45PM UTC'
+p946
+sg6
+S"UPDATE 1-'Argo' rises above 'Cloud Atlas' as Sandy spooks"
+p947
+sa(dp948
+g2
+S'http://www.reuters.com/article/2012/10/28/us-greece-austerity-idUSBRE89R0J320121028'
+p949
+sg4
+S'20121028\xc2\xa04:44PM UTC'
+p950
+sg6
+S'Greece says EU/IMF lenders refuse to concede on reforms'
+p951
+sa(dp952
+g2
+S'http://www.reuters.com/article/2012/10/28/us-space-spacex-idUSBRE89R0J120121028'
+p953
+sg4
+S'20121028\xc2\xa04:43PM UTC'
+p954
+sg6
+S'SpaceX Dragon cargo capsule splashes down to Earth'
+p955
+sa(dp956
+g2
+S'http://www.reuters.com/article/2012/10/28/greece-austerity-idUSL5E8LS26I20121028'
+p957
+sg4
+S'20121028\xc2\xa04:42PM UTC'
+p958
+sg6
+S'Greece says EU/IMF lenders refuse to concede on reforms'
+p959
+sa(dp960
+g2
+S'http://www.reuters.com/article/2012/10/28/space-spacex-idUSL1E8LS0H320121028'
+p961
+sg4
+S'20121028\xc2\xa04:41PM UTC'
+p962
+sg6
+S'SpaceX Dragon cargo capsule splashes down to Earth'
+p963
+sa(dp964
+g2
+S'http://www.reuters.com/article/2012/10/28/us-tennis-wta-championships-idUSBRE89R0HM20121028'
+p965
+sg4
+S'20121028\xc2\xa04:41PM UTC'
+p966
+sg6
+S"Serena's bid for sanity stings Sharapova in Istanbul"
+p967
+sa(dp968
+g2
+S'http://www.reuters.com/article/2012/10/28/us-tennis-wta-championships-serena-idUSBRE89R0J020121028'
+p969
+sg4
+S'20121028\xc2\xa04:41PM UTC'
+p970
+sg6
+S'I deserve top ranking, says number three Serena'
+p971
+sa(dp972
+g2
+S'http://www.reuters.com/article/2012/10/28/storm-sandy-philadelphia-refinery-idUSL1E8LS2HD20121028'
+p973
+sg4
+S'20121028\xc2\xa04:41PM UTC'
+p974
+sg6
+S'Philadelphia Energy Solutions cuts refinery rates ahead of Sandy-source'
+p975
+sa(dp976
+g2
+S'http://www.reuters.com/article/2012/10/28/idUS48209+28-Oct-2012+BW20121028'
+p977
+sg4
+S'20121028\xc2\xa04:35PM UTC'
+p978
+sg6
+S'Chartis Ready to Help Customers Affected by Hurricane Sandy'
+p979
+sa(dp980
+g2
+S'http://www.reuters.com/article/2012/10/28/us-eu-budget-idUSBRE89R0I320121028'
+p981
+sg4
+S'20121028\xc2\xa04:33PM UTC'
+p982
+sg6
+S'Governments to debate 50 billion euro cut to EU budget'
+p983
+sa(dp984
+g2
+S'http://www.reuters.com/article/2012/10/28/idUS48068+28-Oct-2012+PRN20121028'
+p985
+sg4
+S'20121028\xc2\xa04:30PM UTC'
+p986
+sg6
+S'Following Is a Test Release'
+p987
+sa(dp988
+g2
+S'http://www.reuters.com/article/2012/10/28/idUS48053+28-Oct-2012+MW20121028'
+p989
+sg4
+S'20121028\xc2\xa04:30PM UTC'
+p990
+sg6
+S" NetJets(R)' First Bombardier Global 6000 Jet Unveiled at NBAA 2012"
+p991
+sa(dp992
+g2
+S'http://www.reuters.com/article/2012/10/28/idUS48050+28-Oct-2012+BW20121028'
+p993
+sg4
+S'20121028\xc2\xa04:30PM UTC'
+p994
+sg6
+S'NetJets\xc2\xae` First Bombardier Global 6000 Jet Unveiled at NBAA 2012'
+p995
+sa(dp996
+g2
+S'http://www.reuters.com/article/2012/10/28/sandy-phillips-bayway-idUSL1E8LS2AB20121028'
+p997
+sg4
+S'20121028\xc2\xa04:28PM UTC'
+p998
+sg6
+S'Phillips 66 begins to cut Bayway rates ahead of Sandy-source'
+p999
+sa(dp1000
+g2
+S'http://www.reuters.com/article/2012/10/28/utilities-operations-duke-oconee-idUSL1E8LS2GA20121028'
+p1001
+sg4
+S'20121028\xc2\xa04:28PM UTC'
+p1002
+sg6
+S'Duke S.C. Oconee 1 reactor shut for planned refueling'
+p1003
+sa(dp1004
+g2
+S'http://www.reuters.com/article/2012/10/28/us-lithuania-election-vote-idUSBRE89R0IH20121028'
+p1005
+sg4
+S'20121028\xc2\xa04:21PM UTC'
+p1006
+sg6
+S'Opposition parties take lead in Lithuanian election'
+p1007
+sa(dp1008
+g2
+S'http://www.reuters.com/article/2012/10/28/idUS47766+28-Oct-2012+BW20121028'
+p1009
+sg4
+S'20121028\xc2\xa04:21PM UTC'
+p1010
+sg6
+S'NYSE to Remain Open for Trading While Physical Trading Floor and New York Building Close in Accordance with Actions Taken By City and State Officials'
+p1011
+sa(dp1012
+g2
+S'http://www.reuters.com/article/2012/10/28/idUS47444+28-Oct-2012+PRN20121028'
+p1013
+sg4
+S'20121028\xc2\xa04:12PM UTC'
+p1014
+sg6
+S'Rentrak Announces Worldwide Box Office Results For Weekend Of October 28, 2012'
+p1015
+sa(dp1016
+g2
+S'http://www.reuters.com/article/2012/10/28/us-lithuania-election-vote-idUSBRE89R0IA20121028'
+p1017
+sg4
+S'20121028\xc2\xa04:04PM UTC'
+p1018
+sg6
+S'Opposition parties lead in Lithuanian poll: partial results'
+p1019
+sa(dp1020
+g2
+S'http://www.reuters.com/article/2012/10/28/idUS46983+28-Oct-2012+PRN20121028'
+p1021
+sg4
+S'20121028\xc2\xa04:00PM UTC'
+p1022
+sg6
+S'Following Is a Test Release'
+p1023
+sa(dp1024
+g2
+S'http://www.reuters.com/article/2012/10/28/eu-budget-idUSL5E8LS1X920121028'
+p1025
+sg4
+S'20121028\xc2\xa03:58PM UTC'
+p1026
+sg6
+S'Governments to debate 50 bln euro cut to EU budget'
+p1027
+sa(dp1028
+g2
+S'http://www.reuters.com/article/2012/10/28/idUS46789+28-Oct-2012+PRN20121028'
+p1029
+sg4
+S'20121028\xc2\xa03:54PM UTC'
+p1030
+sg6
+S'Top 25 Team Rankings of the Harris Interactive College Football Poll'
+p1031
+sa(dp1032
+g2
+S'http://www.reuters.com/article/2012/10/28/idUS46487+28-Oct-2012+PRN20121028'
+p1033
+sg4
+S'20121028\xc2\xa03:44PM UTC'
+p1034
+sg6
+S'Additional Line Crews Deployed to Jersey Central Power & Light Service Areas in Advance of Hurricane Sandy'
+p1035
+sa(dp1036
+g2
+S'http://www.reuters.com/article/2012/10/28/us-storm-sandy-hess-portreading-idUSBRE89R0HQ20121028'
+p1037
+sg4
+S'20121028\xc2\xa03:43PM UTC'
+p1038
+sg6
+S'Hess to cut back Port Reading refinery rates ahead of Sandy'
+p1039
+sa(dp1040
+g2
+S'http://www.reuters.com/article/2012/10/28/us-mining-technology-idUSBRE89R06C20121028'
+p1041
+sg4
+S'20121028\xc2\xa03:42PM UTC'
+p1042
+sg6
+S'Miners take "rail-veyors" and robots to automated future'
+p1043
+sa(dp1044
+g2
+S'http://www.reuters.com/article/2012/10/28/idUS46387+28-Oct-2012+GNW20121028'
+p1045
+sg4
+S'20121028\xc2\xa03:41PM UTC'
+p1046
+sg6
+S'Concurrent Use of Sorafenib and Stereotactic Body Radiotherapy for Advanced Liver Cancer Patients is Not Recommended Outside of Clinical Trials'
+p1047
+sa(dp1048
+g2
+S'http://www.reuters.com/article/2012/10/28/storm-sandy-hess-portreading-idUSL1E8LS1TL20121028'
+p1049
+sg4
+S'20121028\xc2\xa03:40PM UTC'
+p1050
+sg6
+S'Hess to cut back Port Reading refinery rates ahead of Sandy'
+p1051
+sa(dp1052
+g2
+S'http://www.reuters.com/article/2012/10/28/idUS46282+28-Oct-2012+GNW20121028'
+p1053
+sg4
+S'20121028\xc2\xa03:39PM UTC'
+p1054
+sg6
+S'Prostate Cancer Patients Report Better Quality of Life in Early Follow-Up After Proton Beam Radiation Therapy Versus Two Other Common Modalities'
+p1055
+sa(dp1056
+g2
+S'http://www.reuters.com/article/2012/10/28/directedge-brief-idUSWEN824620121028'
+p1057
+sg4
+S'20121028\xc2\xa03:30PM UTC'
+p1058
+sg6
+S'BRIEF-Direct edge statement on hurricane sandy'
+p1059
+sa(dp1060
+g2
+S'http://www.reuters.com/article/2012/10/28/idUS45947+28-Oct-2012+PRN20121028'
+p1061
+sg4
+S'20121028\xc2\xa03:30PM UTC'
+p1062
+sg6
+S'Following Is a Test Release'
+p1063
+sa(dp1064
+g2
+S'http://www.reuters.com/article/2012/10/28/us-quake-canada-idUSBRE89R01D20121028'
+p1065
+sg4
+S'20121028\xc2\xa03:25PM UTC'
+p1066
+sg6
+S"7.7 magnitude quake hits Canada's British Columbia"
+p1067
+sa(dp1068
+g2
+S'http://www.reuters.com/article/2012/10/28/idUS45773+28-Oct-2012+GNW20121028'
+p1069
+sg4
+S'20121028\xc2\xa03:25PM UTC'
+p1070
+sg6
+S'Direct Edge Statement on Hurricane Sandy'
+p1071
+sa(dp1072
+g2
+S'http://www.reuters.com/article/2012/10/28/us-refinery-operations-hawaii-idUSBRE89R0HD20121028'
+p1073
+sg4
+S'20121028\xc2\xa03:20PM UTC'
+p1074
+sg6
+S'Hawaii refineries operations normal after weak tsunami'
+p1075
+sa(dp1076
+g2
+S'http://www.reuters.com/article/2012/10/28/idUS45422+28-Oct-2012+BW20121028'
+p1077
+sg4
+S'20121028\xc2\xa03:16PM UTC'
+p1078
+sg6
+S'Military Order of the Purple Heart and Haggar Announce 5th Annual Trade In - Trade Up Event'
+p1079
+sa(dp1080
+g2
+S'http://www.reuters.com/article/2012/10/28/idUS45272+28-Oct-2012+PRN20121028'
+p1081
+sg4
+S'20121028\xc2\xa03:12PM UTC'
+p1082
+sg6
+S'As Hurricane Sandy Nears East Coast Landfall, Verizon Finalizes Storm Preparations'
+p1083
+sa(dp1084
+g2
+S'http://www.reuters.com/article/2012/10/28/us-nigeria-violence-idUSBRE89R04D20121028'
+p1085
+sg4
+S'20121028\xc2\xa03:12PM UTC'
+p1086
+sg6
+S'Suicide bomber kills 8, wounds 100 in Nigerian church'
+p1087
+sa(dp1088
+g2
+S'http://www.reuters.com/article/2012/10/28/americanairlines-brief-idUSWEN824520121028'
+p1089
+sg4
+S'20121028\xc2\xa03:08PM UTC'
+p1090
+sg6
+S'BRIEF-Amtrak says northeast corridor services canceled on Monday, October 29, because of hurricane sandy'
+p1091
+sa(dp1092
+g2
+S'http://www.reuters.com/article/2012/10/28/us-britain-charts-idUSBRE89R0GZ20121028'
+p1093
+sg4
+S'20121028\xc2\xa03:06PM UTC'
+p1094
+sg6
+S'Labrinth, Taylor Swift top UK music charts'
+p1095
+sa(dp1096
+g2
+S'http://www.reuters.com/article/2012/10/28/us-australia-agriculture-idUSBRE89R0GX20121028'
+p1097
+sg4
+S'20121028\xc2\xa03:04PM UTC'
+p1098
+sg6
+S"Analysis: What's eating Australia? Foreign buyers at the farm gate"
+p1099
+sa(dp1100
+g2
+S'http://www.reuters.com/article/2012/10/28/idUS44926+28-Oct-2012+PRN20121028'
+p1101
+sg4
+S'20121028\xc2\xa03:00PM UTC'
+p1102
+sg6
+S'Following Is a Test Release'
+p1103
+sa(dp1104
+g2
+S'http://www.reuters.com/article/2012/10/28/idUS44919+28-Oct-2012+PRN20121028'
+p1105
+sg4
+S'20121028\xc2\xa03:00PM UTC'
+p1106
+sg6
+S'ALS Association-funded Study Identifies Potential Therapeutic Target in RNA Enzyme'
+p1107
+sa(dp1108
+g2
+S'http://www.reuters.com/article/2012/10/28/britain-charts-idUSL5E8LS1KY20121028'
+p1109
+sg4
+S'20121028\xc2\xa03:00PM UTC'
+p1110
+sg6
+S'Labrinth, Taylor Swift top UK music charts'
+p1111
+sa(dp1112
+g2
+S'http://www.reuters.com/article/2012/10/28/france-google-idUSL5E8LS25M20121028'
+p1113
+sg4
+S'20121028\xc2\xa02:59PM UTC'
+p1114
+sg6
+S'Hollande wants search engines to pay for linking articles- paper'
+p1115
+sa(dp1116
+g2
+S'http://www.reuters.com/article/2012/10/28/storm-sandy-nymex-idUSL1E8LS15720121028'
+p1117
+sg4
+S'20121028\xc2\xa02:52PM UTC'
+p1118
+sg6
+S'UPDATE 1-NYMEX floor trading suspended due to Sandy, electronic trade open'
+p1119
+sa(dp1120
+g2
+S'http://www.reuters.com/article/2012/10/28/us-ukraine-election-regions-idUSBRE89R0GU20121028'
+p1121
+sg4
+S'20121028\xc2\xa02:51PM UTC'
+p1122
+sg6
+S"Ukraine leader's party expects majority in parliament"
+p1123
+sa(dp1124
+g2
+S'http://www.reuters.com/article/2012/10/28/ukraine-election-regions-idUSL5E8LS25220121028'
+p1125
+sg4
+S'20121028\xc2\xa02:48PM UTC'
+p1126
+sg6
+S"Ukraine leader's party expects majority in parliament"
+p1127
+sa(dp1128
+g2
+S'http://www.reuters.com/article/2012/10/28/portauthority-brief-idUSWEN824420121028'
+p1129
+sg4
+S'20121028\xc2\xa02:48PM UTC'
+p1130
+sg6
+S'BRIEF-PATH service to be suspended beginning midnight-port authorit of ny and nj'
+p1131
+sa(dp1132
+g2
+S'http://www.reuters.com/article/2012/10/28/storm-sandy-goldman-idUSL1E8LS1N620121028'
+p1133
+sg4
+S'20121028\xc2\xa02:45PM UTC'
+p1134
+sg6
+S'Goldman Sachs says will be open Monday despite storm -internal memo'
+p1135
+sa(dp1136
+g2
+S'http://www.reuters.com/article/2012/10/28/idUS44436+28-Oct-2012+PRN20121028'
+p1137
+sg4
+S'20121028\xc2\xa02:45PM UTC'
+p1138
+sg6
+S'CommVault Changes Its Earnings Release Date To Monday, October 29, 2012'
+p1139
+sa(dp1140
+g2
+S'http://www.reuters.com/article/2012/10/28/idUS44370+28-Oct-2012+PRN20121028'
+p1141
+sg4
+S'20121028\xc2\xa02:43PM UTC'
+p1142
+sg6
+S'Media Alert: CME Group Issues Update About Its New York Trading Floor'
+p1143
+sa(dp1144
+g2
+S'http://www.reuters.com/article/2012/10/28/idUS44359+28-Oct-2012+MW20121028'
+p1145
+sg4
+S'20121028\xc2\xa02:42PM UTC'
+p1146
+sg6
+S' Scorpio Tankers Inc. Conference Call Postponed Due to Hurricane Sandy'
+p1147
+sa(dp1148
+g2
+S'http://www.reuters.com/article/2012/10/28/us-usa-congress-debtceiling-idUSBRE89R0G520121028'
+p1149
+sg4
+S'20121028\xc2\xa02:39PM UTC'
+p1150
+sg6
+S'U.S. Congress may face another debt-limit showdown in 2013'
+p1151
+sa(dp1152
+g2
+S'http://www.reuters.com/article/2012/10/28/idUS44146+28-Oct-2012+MW20121028'
+p1153
+sg4
+S'20121028\xc2\xa02:36PM UTC'
+p1154
+sg6
+S' Canada Closely Monitoring Ukrainian Elections'
+p1155
+sa(dp1156
+g2
+S'http://www.reuters.com/article/2012/10/28/us-storm-sandy-obama-voting-idUSBRE89R0GK20121028'
+p1157
+sg4
+S'20121028\xc2\xa02:35PM UTC'
+p1158
+sg6
+S'Obama sees no hurricane impact on voting "at this point"'
+p1159
+sa(dp1160
+g2
+S'http://www.reuters.com/article/2012/10/28/storm-sandy-obama-voting-idUSL1E8LS15S20121028'
+p1161
+sg4
+S'20121028\xc2\xa02:34PM UTC'
+p1162
+sg6
+S'Obama sees no hurricane impact on voting "at this point"'
+p1163
+sa(dp1164
+g2
+S'http://www.reuters.com/article/2012/10/28/us-tennis-men-basel-idUSBRE89R0CH20121028'
+p1165
+sg4
+S'20121028\xc2\xa02:32PM UTC'
+p1166
+sg6
+S'Del Potro stuns Federer to win Basel title'
+p1167
+sa(dp1168
+g2
+S'http://www.reuters.com/article/2012/10/28/us-tennis-men-federer-paris-idUSBRE89R0GD20121028'
+p1169
+sg4
+S'20121028\xc2\xa02:32PM UTC'
+p1170
+sg6
+S'Federer to skip Paris Masters'
+p1171
+sa(dp1172
+g2
+S'http://www.reuters.com/article/2012/10/28/idUS43934+28-Oct-2012+PRN20121028'
+p1173
+sg4
+S'20121028\xc2\xa02:30PM UTC'
+p1174
+sg6
+S'Following Is a Test Release'
+p1175
+sa(dp1176
+g2
+S'http://www.reuters.com/article/2012/10/28/us-science-hiv-idUSBRE89R0G720121028'
+p1177
+sg4
+S'20121028\xc2\xa02:29PM UTC'
+p1178
+sg6
+S'New test to improve HIV diagnosis in poor countries'
+p1179
+sa(dp1180
+g2
+S'http://www.reuters.com/article/2012/10/28/health-science-hiv-idUSL5E8LQ6B820121028'
+p1181
+sg4
+S'20121028\xc2\xa02:21PM UTC'
+p1182
+sg6
+S'New test to improve HIV diagnosis in poor countries'
+p1183
+sa(dp1184
+g2
+S'http://www.reuters.com/article/2012/10/28/idUS43653+28-Oct-2012+MW20121028'
+p1185
+sg4
+S'20121028\xc2\xa02:21PM UTC'
+p1186
+sg6
+S' Media Advisory: Canada and Israel to Make an Announcement on Cooperation in the Energy Sector'
+p1187
+sa(dp1188
+g2
+S'http://www.reuters.com/article/2012/10/28/usa-congress-debtceiling-idUSL1E8LS0MK20121028'
+p1189
+sg4
+S'20121028\xc2\xa02:18PM UTC'
+p1190
+sg6
+S'U.S. Congress may face another debt-limit showdown in 2013'
+p1191
+sa(dp1192
+g2
+S'http://www.reuters.com/article/2012/10/28/entertainment-us-britain-savile-idUSBRE89Q06G20121028'
+p1193
+sg4
+S'20121028\xc2\xa02:17PM UTC'
+p1194
+sg6
+S'Former UK pop star Gary Glitter held in Savile probe'
+p1195
+sa(dp1196
+g2
+S'http://www.reuters.com/article/2012/10/28/storm-sandy-obama-idUSL1E8LS15120121028'
+p1197
+sg4
+S'20121028\xc2\xa02:16PM UTC'
+p1198
+sg6
+S'Obama warns East Coast to brace for Hurricane Sandy'
+p1199
+sa(dp1200
+g2
+S'http://www.reuters.com/article/2012/10/28/britain-savile-idUSL5E8LS0MH20121028'
+p1201
+sg4
+S'20121028\xc2\xa02:16PM UTC'
+p1202
+sg6
+S'UPDATE 3-Former UK pop star Gary Glitter held in Savile probe'
+p1203
+sa(dp1204
+g2
+S'http://www.reuters.com/article/2012/10/28/idUS43463+28-Oct-2012+PRN20121028'
+p1205
+sg4
+S'20121028\xc2\xa02:16PM UTC'
+p1206
+sg6
+S'Entergy Reschedules Third Quarter Earnings Call In Consideration Of Those Preparing For Hurricane Sandy'
+p1207
+sa(dp1208
+g2
+S'http://www.reuters.com/article/2012/10/28/us-opel-unions-idUSBRE89R0FP20121028'
+p1209
+sg4
+S'20121028\xc2\xa02:12PM UTC'
+p1210
+sg6
+S'Opel restructuring talks could last into 2013: union'
+p1211
+sa(dp1212
+g2
+S'http://www.reuters.com/article/2012/10/28/us-banking-libor-ubs-idUSBRE89R0CX20121028'
+p1213
+sg4
+S'20121028\xc2\xa02:09PM UTC'
+p1214
+sg6
+S'ADVISORY: UBS Singapore traders story withdrawn'
+p1215
+sa(dp1216
+g2
+S'http://www.reuters.com/article/2012/10/28/us-italy-idUSBRE89R0FE20121028'
+p1217
+sg4
+S'20121028\xc2\xa02:09PM UTC'
+p1218
+sg6
+S'Berlusconi threat to topple Monti shows party divisions'
+p1219
+sa(dp1220
+g2
+S'http://www.reuters.com/article/2012/10/28/boxoffice-chart-idUSL1E8LR07W20121028'
+p1221
+sg4
+S'20121028\xc2\xa02:08PM UTC'
+p1222
+sg6
+S'The top films at the North American box office'
+p1223
+sa(dp1224
+g2
+S'http://www.reuters.com/article/2012/10/28/idUS42951+28-Oct-2012+PRN20121028'
+p1225
+sg4
+S'20121028\xc2\xa02:00PM UTC'
+p1226
+sg6
+S'Following Is a Test Release'
+p1227
+sa(dp1228
+g2
+S'http://www.reuters.com/article/2012/10/28/idUS42939+28-Oct-2012+PRN20121028'
+p1229
+sg4
+S'20121028\xc2\xa02:00PM UTC'
+p1230
+sg6
+S"USW Endorses Angus King for Maine's New U.S. Senator"
+p1231
+sa(dp1232
+g2
+S'http://www.reuters.com/article/2012/10/28/idUS42937+28-Oct-2012+PRN20121028'
+p1233
+sg4
+S'20121028\xc2\xa02:00PM UTC'
+p1234
+sg6
+S'Made in IBM Labs: Researchers Demonstrate Initial Steps toward Commercial Fabrication of Carbon Nanotubes as a Successor to Silicon'
+p1235
+sa(dp1236
+g2
+S'http://www.reuters.com/article/2012/10/28/idUS42847+28-Oct-2012+BW20121028'
+p1237
+sg4
+S'20121028\xc2\xa01:58PM UTC'
+p1238
+sg6
+S'Chase to Waive Fees for Customers Coping with Hurricane Sandy'
+p1239
+sa(dp1240
+g2
+S'http://www.reuters.com/article/2012/10/28/storm-sandy-nymex-idUSL1E8LS0Y420121028'
+p1241
+sg4
+S'20121028\xc2\xa01:57PM UTC'
+p1242
+sg6
+S'NYMEX floor trading suspended Monday due to Sandy, electronic trade open'
+p1243
+sa(dp1244
+g2
+S'http://www.reuters.com/article/2012/10/28/us-usa-economy-cliff-idUSBRE89R0EL20121028'
+p1245
+sg4
+S'20121028\xc2\xa01:57PM UTC'
+p1246
+sg6
+S'Analysis:  Fiscal cliff could hit economy harder than many expect'
+p1247
+sa(dp1248
+g2
+S'http://www.reuters.com/article/2012/10/28/opel-unions-idUSL5E8LS1HM20121028'
+p1249
+sg4
+S'20121028\xc2\xa01:46PM UTC'
+p1250
+sg6
+S'Opel restructuring talks could last into 2013 -union'
+p1251
+sa(dp1252
+g2
+S'http://www.reuters.com/article/2012/10/28/us-usa-health-benefits-idUSBRE89R0EP20121028'
+p1253
+sg4
+S'20121028\xc2\xa01:46PM UTC'
+p1254
+sg6
+S'Analysis: Employees to face healthcare sticker shock'
+p1255
+sa(dp1256
+g2
+S'http://www.reuters.com/article/2012/10/28/us-storm-sandy-hurricane-northeast-idUSBRE89R0E920121028'
+p1257
+sg4
+S'20121028\xc2\xa01:37PM UTC'
+p1258
+sg6
+S'Storm sets off frantic rush for supplies across East Coast'
+p1259
+sa(dp1260
+g2
+S'http://www.reuters.com/article/2012/10/28/us-financial-regulation-senate-idUSBRE89R0BZ20121028'
+p1261
+sg4
+S'20121028\xc2\xa01:35PM UTC'
+p1262
+sg6
+S"Top regulators warn on expanding president's powers"
+p1263
+sa(dp1264
+g2
+S'http://www.reuters.com/article/2012/10/28/us-usa-court-dog-sniffs-idUSBRE89R06720121028'
+p1265
+sg4
+S'20121028\xc2\xa01:34PM UTC'
+p1266
+sg6
+S'Will Supreme Court turn up its nose at drug-sniffing dogs?'
+p1267
+sa(dp1268
+g2
+S'http://www.reuters.com/article/2012/10/28/storm-sandy-hurricane-northeast-idUSL1E8LS0VD20121028'
+p1269
+sg4
+S'20121028\xc2\xa01:34PM UTC'
+p1270
+sg6
+S'Storm sets off frantic rush for supplies across US East Coast'
+p1271
+sa(dp1272
+g2
+S'http://www.reuters.com/article/2012/10/28/us-art-bunker-idUSBRE89R08920121028'
+p1273
+sg4
+S'20121028\xc2\xa01:31PM UTC'
+p1274
+sg6
+S'Swiss offer military bunkers as art storage answer'
+p1275
+sa(dp1276
+g2
+S'http://www.reuters.com/article/2012/10/28/idUS41917+28-Oct-2012+PRN20121028'
+p1277
+sg4
+S'20121028\xc2\xa01:30PM UTC'
+p1278
+sg6
+S'Following Is a Test Release'
+p1279
+sa(dp1280
+g2
+S'http://www.reuters.com/article/2012/10/28/idUS41911+28-Oct-2012+PRN20121028'
+p1281
+sg4
+S'20121028\xc2\xa01:30PM UTC'
+p1282
+sg6
+S'Kenny Chesney to Kick-Off 122nd Salvation Army Red Kettle Campaign with LIVE Performance at Dallas Cowboys Thanksgiving Day Game'
+p1283
+sa(dp1284
+g2
+S'http://www.reuters.com/article/2012/10/28/us-poland-innovation-idUSBRE89R04M20121028'
+p1285
+sg4
+S'20121028\xc2\xa01:19PM UTC'
+p1286
+sg6
+S'Poland stumbles on journey from low-cost to hi-tech'
+p1287
+sa(dp1288
+g2
+S'http://www.reuters.com/article/2012/10/28/usa-campaign-idUSL1E8LS0RF20121028'
+p1289
+sg4
+S'20121028\xc2\xa01:13PM UTC'
+p1290
+sg6
+S'Hurricane Sandy blows U.S. election off course'
+p1291
+sa(dp1292
+g2
+S'http://www.reuters.com/article/2012/10/28/us-storm-sandy-energy-idUSBRE89R0D120121028'
+p1293
+sg4
+S'20121028\xc2\xa01:01PM UTC'
+p1294
+sg6
+S'Northeast oil refineries mull rates cuts, shutdowns ahead of Sandy'
+p1295
+sa(dp1296
+g2
+S'http://www.reuters.com/article/2012/10/28/idUS40820+28-Oct-2012+PRN20121028'
+p1297
+sg4
+S'20121028\xc2\xa01:00PM UTC'
+p1298
+sg6
+S'Following Is a Test Release'
+p1299
+sa(dp1300
+g2
+S'http://www.reuters.com/article/2012/10/28/idUS40803+28-Oct-2012+BW20121028'
+p1301
+sg4
+S'20121028\xc2\xa01:00PM UTC'
+p1302
+sg6
+S'Nordson and Henkel Establish Global Alliance on Innovative Consumer Packaging Solutions'
+p1303
+sa(dp1304
+g2
+S'http://www.reuters.com/article/2012/10/28/canada-lear-strike-idUSL1E8LS0VB20121028'
+p1305
+sg4
+S'20121028\xc2\xa012:57PM UTC'
+p1306
+sg6
+S'Canadian workers on strike at Lear plant, a GM supplier'
+p1307
+sa(dp1308
+g2
+S'http://www.reuters.com/article/2012/10/28/us-usa-campaign-poll-idUSBRE89K0A920121028'
+p1309
+sg4
+S'20121028\xc2\xa012:56PM UTC'
+p1310
+sg6
+S'Obama at 49 percent, Romney 46 percent nine days before election: Reuters/Ipsos poll'
+p1311
+sa(dp1312
+g2
+S'http://www.reuters.com/article/2012/10/28/idUS40550+28-Oct-2012+PRN20121028'
+p1313
+sg4
+S'20121028\xc2\xa012:54PM UTC'
+p1314
+sg6
+S'Des Moines Register Romney Endorsement Neglects His 800 Massachusetts Vetoes And Billion-dollar Olympics Loss Without Tax Dollars, Says Robert Weiner, Democratic Strategist'
+p1315
+sa(dp1316
+g2
+S'http://www.reuters.com/article/2012/10/28/us-storm-sandy-insurance-idUSBRE89R0D220121028'
+p1317
+sg4
+S'20121028\xc2\xa012:43PM UTC'
+p1318
+sg6
+S'Insurers prepare for impact of Hurricane Sandy'
+p1319
+sa(dp1320
+g2
+S'http://www.reuters.com/article/2012/10/28/us-usa-statue-liberty-idUSBRE89P14720121028'
+p1321
+sg4
+S'20121028\xc2\xa012:39PM UTC'
+p1322
+sg6
+S"Statue of Liberty's renovated crown to reopen this weekend"
+p1323
+sa(dp1324
+g2
+S'http://www.reuters.com/article/2012/10/28/us-dailymail-papers-idUSBRE89R0CU20121028'
+p1325
+sg4
+S'20121028\xc2\xa012:36PM UTC'
+p1326
+sg6
+S'Daily Mail in talks on future of regional titles'
+p1327
+sa(dp1328
+g2
+S'http://www.reuters.com/article/2012/10/28/storm-sandy-insurance-idUSL1E8LS0T120121028'
+p1329
+sg4
+S'20121028\xc2\xa012:36PM UTC'
+p1330
+sg6
+S'U.S. Insurers prepare for impact of Hurricane Sandy'
+p1331
+sa(dp1332
+g2
+S'http://www.reuters.com/article/2012/10/28/us-bmw-jobs-idUSBRE89R0CQ20121028'
+p1333
+sg4
+S'20121028\xc2\xa012:33PM UTC'
+p1334
+sg6
+S'BMW could endure sales slump without losses -magazine'
+p1335
+sa(dp1336
+g2
+S'http://www.reuters.com/article/2012/10/28/idUS39773+28-Oct-2012+PRN20121028'
+p1337
+sg4
+S'20121028\xc2\xa012:30PM UTC'
+p1338
+sg6
+S'Following Is a Test Release'
+p1339
+sa(dp1340
+g2
+S'http://www.reuters.com/article/2012/10/28/idUS39614+28-Oct-2012+PRN20121028'
+p1341
+sg4
+S'20121028\xc2\xa012:25PM UTC'
+p1342
+sg6
+S'Red Cross Responding to Hurricane Sandy Across Multiple States'
+p1343
+sa(dp1344
+g2
+S'http://www.reuters.com/article/2012/10/28/bmw-jobs-idUSL5E8LS1LN20121028'
+p1345
+sg4
+S'20121028\xc2\xa012:24PM UTC'
+p1346
+sg6
+S'BMW could endure sales slump without losses -magazine'
+p1347
+sa(dp1348
+g2
+S'http://www.reuters.com/article/2012/10/28/us-motor-racing-prix-schumacher-idUSBRE89R0CF20121028'
+p1349
+sg4
+S'20121028\xc2\xa012:24PM UTC'
+p1350
+sg6
+S'India bids Schumacher goodbye'
+p1351
+sa(dp1352
+g2
+S'http://www.reuters.com/article/2012/10/28/us-tunisia-salafis-idUSBRE89R0CB20121028'
+p1353
+sg4
+S'20121028\xc2\xa012:15PM UTC'
+p1354
+sg6
+S'Tunisian Salafis attack alcohol sellers in capital'
+p1355
+sa(dp1356
+g2
+S'http://www.reuters.com/article/2012/10/28/boxoffice-idUSL1E8LS00620121028'
+p1357
+sg4
+S'20121028\xc2\xa012:09PM UTC'
+p1358
+sg6
+S"Ben Affleck's 'Argo' beats Hanks in 'Cloud Atlas'"
+p1359
+sa(dp1360
+g2
+S'http://www.reuters.com/article/2012/10/28/us-spain-catalonia-poll-idUSBRE89R0C120121028'
+p1361
+sg4
+S'20121028\xc2\xa012:02PM UTC'
+p1362
+sg6
+S'Catalans want referendum on independence - poll'
+p1363
+sa(dp1364
+g2
+S'http://www.reuters.com/article/2012/10/28/storm-sandy-energy-idUSL1E8LS0R620121028'
+p1365
+sg4
+S'20121028\xc2\xa012:02PM UTC'
+p1366
+sg6
+S'Northeast US oil refineries mull rates cuts, shutdowns ahead of Sandy'
+p1367
+sa(dp1368
+g2
+S'http://www.reuters.com/article/2012/10/28/dailymail-papers-idUSL5E8LS1QQ20121028'
+p1369
+sg4
+S'20121028\xc2\xa012:01PM UTC'
+p1370
+sg6
+S'Daily Mail in talks on future of regional titles'
+p1371
+sa(dp1372
+g2
+S'http://www.reuters.com/article/2012/10/28/idUS38815+28-Oct-2012+BW20121028'
+p1373
+sg4
+S'20121028\xc2\xa012:01PM UTC'
+p1374
+sg6
+S'Asia-Pacific Health Experts Call for Urgent Action to Prevent a Stroke Crisis'
+p1375
+sa(dp1376
+g2
+S'http://www.reuters.com/article/2012/10/28/idUS38798+28-Oct-2012+PRN20121028'
+p1377
+sg4
+S'20121028\xc2\xa012:00PM UTC'
+p1378
+sg6
+S'Following Is a Test Release'
+p1379
+sa(dp1380
+g2
+S'http://www.reuters.com/article/2012/10/28/us-malaysia-security-lebanon-idUSBRE89R0BT20121028'
+p1381
+sg4
+S'20121028\xc2\xa011:58AM UTC'
+p1382
+sg6
+S'Malaysians arrested in Lebanon for Al Qaeda links'
+p1383
+sa(dp1384
+g2
+S'http://www.reuters.com/article/2012/10/28/us-palestinians-israel-violence-idUSBRE89R00420121028'
+p1385
+sg4
+S'20121028\xc2\xa011:57AM UTC'
+p1386
+sg6
+S'Israel kills Hamas gunman, Gaza salvo hits Israeli city'
+p1387
+sa(dp1388
+g2
+S'http://www.reuters.com/article/2012/10/28/us-sudan-darfur-idUSBRE89R0BL20121028'
+p1389
+sg4
+S'20121028\xc2\xa011:53AM UTC'
+p1390
+sg6
+S"Rebels in Sudan's Darfur say they shelled state capital"
+p1391
+sa(dp1392
+g2
+S'http://www.reuters.com/article/2012/10/28/france-economy-idUSL5E8LS1OJ20121028'
+p1393
+sg4
+S'20121028\xc2\xa011:51AM UTC'
+p1394
+sg6
+S'French bosses urge 30 bln euro cut in payroll tax'
+p1395
+sa(dp1396
+g2
+S'http://www.reuters.com/article/2012/10/28/olympics-belarus-idUSL3E8LS0FL20121028'
+p1397
+sg4
+S'20121028\xc2\xa011:48AM UTC'
+p1398
+sg6
+S'Olympics-Lukashenko fires Belarus sports chiefs for London flop'
+p1399
+sa(dp1400
+g2
+S'http://www.reuters.com/article/2012/10/28/us-storm-sandy-schools-idUSBRE89R0BH20121028'
+p1401
+sg4
+S'20121028\xc2\xa011:46AM UTC'
+p1402
+sg6
+S'New York City mayor orders schools closed, some evacuation'
+p1403
+sa(dp1404
+g2
+S'http://www.reuters.com/article/2012/10/28/nasdaqomx-brief-idUSWEN824320121028'
+p1405
+sg4
+S'20121028\xc2\xa011:46AM UTC'
+p1406
+sg6
+S'BRIEF-NASDAQ still plans to open trading on Monday - spokesman'
+p1407
+sa(dp1408
+g2
+S'http://www.reuters.com/article/2012/10/28/us-pope-synod-idUSBRE89R0B220121028'
+p1409
+sg4
+S'20121028\xc2\xa011:45AM UTC'
+p1410
+sg6
+S'Pope, ending synod, urges lapsed Catholics to return to fold'
+p1411
+sa(dp1412
+g2
+S'http://www.reuters.com/article/2012/10/28/storm-sandy-schools-idUSL1E8LS0RG20121028'
+p1413
+sg4
+S'20121028\xc2\xa011:45AM UTC'
+p1414
+sg6
+S'New York City mayor orders schools closed, some evacuation'
+p1415
+sa(dp1416
+g2
+S'http://www.reuters.com/article/2012/10/28/us-usa-stocks-weekahead-idUSBRE89P19320121028'
+p1417
+sg4
+S'20121028\xc2\xa011:33AM UTC'
+p1418
+sg6
+S'Wall Street Week Ahead: Jobs data, election may overshadow earnings'
+p1419
+sa(dp1420
+g2
+S'http://www.reuters.com/article/2012/10/28/idUS37586+28-Oct-2012+PRN20121028'
+p1421
+sg4
+S'20121028\xc2\xa011:30AM UTC'
+p1422
+sg6
+S'Following Is a Test Release'
+p1423
+sa(dp1424
+g2
+S'http://www.reuters.com/article/2012/10/28/usa-stocks-weekahead-idUSL1E8LR2M920121028'
+p1425
+sg4
+S'20121028\xc2\xa011:28AM UTC'
+p1426
+sg6
+S'UPDATE 1-Wall St Week Ahead: Jobs data, election may overshadow earnings'
+p1427
+sa(dp1428
+g2
+S'http://www.reuters.com/article/2012/10/28/storm-sandy-markets-idUSL1E8LS00I20121028'
+p1429
+sg4
+S'20121028\xc2\xa011:25AM UTC'
+p1430
+sg6
+S'Wall Street makes plans to open Monday even as Sandy bears down'
+p1431
+sa(dp1432
+g2
+S'http://www.reuters.com/article/2012/10/28/us-greece-corruption-idUSBRE89R0AJ20121028'
+p1433
+sg4
+S'20121028\xc2\xa011:23AM UTC'
+p1434
+sg6
+S'Greek editor arrested over list of Swiss accounts'
+p1435
+sa(dp1436
+g2
+S'http://www.reuters.com/article/2012/10/28/greece-corruption-idUSL5E8LS1JL20121028'
+p1437
+sg4
+S'20121028\xc2\xa011:22AM UTC'
+p1438
+sg6
+S'UPDATE 1-Greek editor arrested over list of Swiss accounts'
+p1439
+sa(dp1440
+g2
+S'http://www.reuters.com/article/2012/10/28/us-storm-sandy-nyse-idUSBRE89R0AF20121028'
+p1441
+sg4
+S'20121028\xc2\xa011:21AM UTC'
+p1442
+sg6
+S'NYSE still planning Monday morning open'
+p1443
+sa(dp1444
+g2
+S'http://www.reuters.com/article/2012/10/28/idUS37280+28-Oct-2012+MW20121028'
+p1445
+sg4
+S'20121028\xc2\xa011:21AM UTC'
+p1446
+sg6
+S' San Francisco Fans Go Orange for Orange Chicken(TM)'
+p1447
+sa(dp1448
+g2
+S'http://www.reuters.com/article/2012/10/28/us-syria-crisis-jordan-idUSBRE89R0AC20121028'
+p1449
+sg4
+S'20121028\xc2\xa011:19AM UTC'
+p1450
+sg6
+S'Syrian jihadist spillover haunts Jordan'
+p1451
+sa(dp1452
+g2
+S'http://www.reuters.com/article/2012/10/28/us-myanmar-violence-idUSBRE89R05L20121028'
+p1453
+sg4
+S'20121028\xc2\xa011:17AM UTC'
+p1454
+sg6
+S"Muslim survivors of Myanmar's sectarian violence relive ordeals"
+p1455
+sa(dp1456
+g2
+S'http://www.reuters.com/article/2012/10/28/syria-crisis-jordan-idUSL5E8LPE8Z20121028'
+p1457
+sg4
+S'20121028\xc2\xa011:17AM UTC'
+p1458
+sg6
+S'Syrian jihadist spillover haunts Jordan'
+p1459
+sa(dp1460
+g2
+S'http://www.reuters.com/article/2012/10/28/myanmar-violence-idUSL3E8LS0CD20121028'
+p1461
+sg4
+S'20121028\xc2\xa011:15AM UTC'
+p1462
+sg6
+S"UPDATE 2-Muslim survivors of Myanmar's sectarian violence relive ordeals"
+p1463
+sa(dp1464
+g2
+S'http://www.reuters.com/article/2012/10/28/us-saudi-haj-protest-idUSBRE89R0A720121028'
+p1465
+sg4
+S'20121028\xc2\xa011:02AM UTC'
+p1466
+sg6
+S'Saudi authorities disperse anti-Assad protest in Mecca'
+p1467
+sa(dp1468
+g2
+S'http://www.reuters.com/article/2012/10/28/idUS36558+28-Oct-2012+PRN20121028'
+p1469
+sg4
+S'20121028\xc2\xa011:00AM UTC'
+p1470
+sg6
+S'Following Is a Test Release'
+p1471
+sa(dp1472
+g2
+S'http://www.reuters.com/article/2012/10/28/idUS36548+28-Oct-2012+PRN20121028'
+p1473
+sg4
+S'20121028\xc2\xa011:00AM UTC'
+p1474
+sg6
+S'Accuray Launches New TomoTherapy\xc2\xae H\xe2\x84\xa2 Series Featuring TomoEDGE\xe2\x84\xa2'
+p1475
+sa(dp1476
+g2
+S'http://www.reuters.com/article/2012/10/28/idUS36546+28-Oct-2012+PRN20121028'
+p1477
+sg4
+S'20121028\xc2\xa011:00AM UTC'
+p1478
+sg6
+S'ANADIGICS Third Quarter Earnings Call Rescheduled to 8:30 am ET on Monday, October 29, 2012 In Anticipation of Hurricane Sandy'
+p1479
+sa(dp1480
+g2
+S'http://www.reuters.com/article/2012/10/28/us-syria-crisis-iraq-flights-idUSBRE89R09P20121028'
+p1481
+sg4
+S'20121028\xc2\xa010:58AM UTC'
+p1482
+sg6
+S'Iraq searches Syrian-bound Iran flight, finds no arms'
+p1483
+sa(dp1484
+g2
+S'http://www.reuters.com/article/2012/10/28/us-syria-crisis-turkey-cameraman-idUSBRE89R07B20121028'
+p1485
+sg4
+S'20121028\xc2\xa010:58AM UTC'
+p1486
+sg6
+S'Picture shows captured Turkish journalist in Syria alive'
+p1487
+sa(dp1488
+g2
+S'http://www.reuters.com/article/2012/10/28/nyseeuronext-brief-idUSWEN824220121028'
+p1489
+sg4
+S'20121028\xc2\xa010:55AM UTC'
+p1490
+sg6
+S'BRIEF-NYSE still plans to open for trading on Monday - spokesman'
+p1491
+sa(dp1492
+g2
+S'http://www.reuters.com/article/2012/10/28/us-italy-idUSBRE89R09X20121028'
+p1493
+sg4
+S'20121028\xc2\xa010:50AM UTC'
+p1494
+sg6
+S'Berlusconi threat to topple Monti shows party divisions'
+p1495
+sa(dp1496
+g2
+S'http://www.reuters.com/article/2012/10/28/syria-idUSL5E8LS1EZ20121028'
+p1497
+sg4
+S'20121028\xc2\xa010:46AM UTC'
+p1498
+sg6
+S"WRAPUP 1-Syria airforce bombs cities, truce 'practically over'"
+p1499
+sa(dp1500
+g2
+S'http://www.reuters.com/article/2012/10/28/us-storm-sandy-hurricane-transportaion-idUSBRE89R09720121028'
+p1501
+sg4
+S'20121028\xc2\xa010:42AM UTC'
+p1502
+sg6
+S'New York City to suspend subway, bus, train service ahead of storm: governor'
+p1503
+sa(dp1504
+g2
+S'http://www.reuters.com/article/2012/10/28/storm-sandy-hurricane-transportaion-idUSL1E8LS0JQ20121028'
+p1505
+sg4
+S'20121028\xc2\xa010:40AM UTC'
+p1506
+sg6
+S'UPDATE 1-New York City to suspend subway, bus, train service ahead of storm -governor'
+p1507
+sa(dp1508
+g2
+S'http://www.reuters.com/article/2012/10/28/us-motor-racing-prix-idUSBRE89R06O20121028'
+p1509
+sg4
+S'20121028\xc2\xa010:38AM UTC'
+p1510
+sg6
+S'Vettel wins Indian GP, Alonso second'
+p1511
+sa(dp1512
+g2
+S'http://www.reuters.com/article/2012/10/28/us-cycling-sky-yates-idUSBRE89R09F20121028'
+p1513
+sg4
+S'20121028\xc2\xa010:36AM UTC'
+p1514
+sg6
+S'Yates quits cycling, no link with Armstrong say Team Sky'
+p1515
+sa(dp1516
+g2
+S'http://www.reuters.com/article/2012/10/28/idUS35375+28-Oct-2012+MW20121028'
+p1517
+sg4
+S'20121028\xc2\xa010:30AM UTC'
+p1518
+sg6
+S' Media Advisory/CORRECTION FROM SOURCE: Independent Canadian Observer Mission for Ukrainian Parliamentary Election to Comment on Ob'
+p1519
+sa(dp1520
+g2
+S'http://www.reuters.com/article/2012/10/28/idUS35370+28-Oct-2012+PRN20121028'
+p1521
+sg4
+S'20121028\xc2\xa010:30AM UTC'
+p1522
+sg6
+S'Following Is a Test Release'
+p1523
+sa(dp1524
+g2
+S'http://www.reuters.com/article/2012/10/28/canada-column-markets-idUSL1E8LQ5L220121028'
+p1525
+sg4
+S'20121028\xc2\xa010:29AM UTC'
+p1526
+sg6
+S'BAY STREET-Global growth could lift TSX out of autumn lull'
+p1527
+sa(dp1528
+g2
+S'http://www.reuters.com/article/2012/10/28/storm-sandy-hurricane-transportaion-idUSL1E8LS0IB20121028'
+p1529
+sg4
+S'20121028\xc2\xa010:29AM UTC'
+p1530
+sg6
+S'New York City to suspend subway, bus, train service ahead of storm -governor'
+p1531
+sa(dp1532
+g2
+S'http://www.reuters.com/article/2012/10/28/us-yemen-qaeda-idUSBRE89R09320121028'
+p1533
+sg4
+S'20121028\xc2\xa010:25AM UTC'
+p1534
+sg6
+S'Drone hits suspected al Qaeda target in north Yemen'
+p1535
+sa(dp1536
+g2
+S'http://www.reuters.com/article/2012/10/28/us-ukraine-election-idUSBRE89Q0ED20121028'
+p1537
+sg4
+S'20121028\xc2\xa010:24AM UTC'
+p1538
+sg6
+S"Ukraine votes, Yanukovich's party expected to keep majority"
+p1539
+sa(dp1540
+g2
+S'http://www.reuters.com/article/2012/10/28/yemen-qaeda-idUSL5E8LS1GO20121028'
+p1541
+sg4
+S'20121028\xc2\xa010:04AM UTC'
+p1542
+sg6
+S'Drone hits suspected al Qaeda target in north Yemen'
+p1543
+sa(dp1544
+g2
+S'http://www.reuters.com/article/2012/10/28/idUS34736+28-Oct-2012+PRN20121028'
+p1545
+sg4
+S'20121028\xc2\xa010:00AM UTC'
+p1546
+sg6
+S'Following Is a Test Release'
+p1547
+sa(dp1548
+g2
+S'http://www.reuters.com/article/2012/10/28/idUS34721+28-Oct-2012+GNW20121028'
+p1549
+sg4
+S'20121028\xc2\xa010:00AM UTC'
+p1550
+sg6
+S'Pet Laser Treatments Offers Important Feline Health Benefits, Says Cumming Cat Veterinarian'
+p1551
+sa(dp1552
+g2
+S'http://www.reuters.com/article/2012/10/28/idUS34718+28-Oct-2012+GNW20121028'
+p1553
+sg4
+S'20121028\xc2\xa010:00AM UTC'
+p1554
+sg6
+S'Portland Chiropractor Uses Massage to Enhance Back Pain Treatments'
+p1555
+sa(dp1556
+g2
+S'http://www.reuters.com/article/2012/10/28/idUS34715+28-Oct-2012+GNW20121028'
+p1557
+sg4
+S'20121028\xc2\xa010:00AM UTC'
+p1558
+sg6
+S'Canton Chiropractor Promotes ChiroThin Medical Weight Loss Program'
+p1559
+sa(dp1560
+g2
+S'http://www.reuters.com/article/2012/10/28/idUS34729+28-Oct-2012+GNW20121028'
+p1561
+sg4
+S'20121028\xc2\xa010:00AM UTC'
+p1562
+sg6
+S'Dunedin Weight Loss Patients Find Optimal Results at Raveling Chiropractic Center'
+p1563
+sa(dp1564
+g2
+S'http://www.reuters.com/article/2012/10/28/idUS34725+28-Oct-2012+GNW20121028'
+p1565
+sg4
+S'20121028\xc2\xa010:00AM UTC'
+p1566
+sg6
+S'Veterinary Clinic in Hermitage Warns Pet Owners About Fleas'
+p1567
+sa(dp1568
+g2
+S'http://www.reuters.com/article/2012/10/28/idUS34713+28-Oct-2012+GNW20121028'
+p1569
+sg4
+S'20121028\xc2\xa010:00AM UTC'
+p1570
+sg6
+S'Animal Hospital in Durham Voted "Best in the Triangle 2012"'
+p1571
+sa(dp1572
+g2
+S'http://www.reuters.com/article/2012/10/28/idUS34711+28-Oct-2012+GNW20121028'
+p1573
+sg4
+S'20121028\xc2\xa010:00AM UTC'
+p1574
+sg6
+S'East El Paso Veterinarian Expands Pet Care Services With New Clinic'
+p1575
+sa(dp1576
+g2
+S'http://www.reuters.com/article/2012/10/28/idUS34696+28-Oct-2012+MW20121028'
+p1577
+sg4
+S'20121028\xc2\xa010:00AM UTC'
+p1578
+sg6
+S' Vice-Admiral Maddison Presents Award to Lieutenant-Commander Albert Wong'
+p1579
+sa(dp1580
+g2
+S'http://www.reuters.com/article/2012/10/28/idUS34692+28-Oct-2012+MW20121028'
+p1581
+sg4
+S'20121028\xc2\xa010:00AM UTC'
+p1582
+sg6
+S' Minister MacKay Congratulates Albert Wong: A Chinese Canadian Legend'
+p1583
+sa(dp1584
+g2
+S'http://www.reuters.com/article/2012/10/28/idUS34690+28-Oct-2012+MW20121028'
+p1585
+sg4
+S'20121028\xc2\xa010:00AM UTC'
+p1586
+sg6
+S' Media Advisory/REMINDER: Minister Oliver Highlights Strong Investment and Trade Relationship with India'
+p1587
+sa(dp1588
+g2
+S'http://www.reuters.com/article/2012/10/28/us-pakistan-britain-drugs-idUSBRE89R08S20121028'
+p1589
+sg4
+S'20121028\xc2\xa09:51AM UTC'
+p1590
+sg6
+S'British woman, held in Pakistan on drug charges, has baby'
+p1591
+sa(dp1592
+g2
+S'http://www.reuters.com/article/2012/10/28/us-newscorp-penguin-idUSBRE89R06W20121028'
+p1593
+sg4
+S'20121028\xc2\xa09:51AM UTC'
+p1594
+sg6
+S'News Corp eyes cash bid for Penguin: paper'
+p1595
+sa(dp1596
+g2
+S'http://www.reuters.com/article/2012/10/28/ukraine-election-idUSL5E8LS0L620121028'
+p1597
+sg4
+S'20121028\xc2\xa09:47AM UTC'
+p1598
+sg6
+S"UPDATE 2-Ukraine votes, Yanukovich's party expected to keep majority"
+p1599
+sa(dp1600
+g2
+S'http://www.reuters.com/article/2012/10/28/idUS33890+28-Oct-2012+PRN20121028'
+p1601
+sg4
+S'20121028\xc2\xa09:41AM UTC'
+p1602
+sg6
+S'China Petroleum & Chemical Corporation Announces 2012 Third Quarter Results'
+p1603
+sa(dp1604
+g2
+S'http://www.reuters.com/article/2012/10/28/idUS33809+28-Oct-2012+PRN20121028'
+p1605
+sg4
+S'20121028\xc2\xa09:38AM UTC'
+p1606
+sg6
+S'AARP Offers Tips for Older New Yorkers to Prepare for Hurricane Sandy'
+p1607
+sa(dp1608
+g2
+S'http://www.reuters.com/article/2012/10/28/idUS33565+28-Oct-2012+PRN20121028'
+p1609
+sg4
+S'20121028\xc2\xa09:30AM UTC'
+p1610
+sg6
+S'Following Is a Test Release'
+p1611
+sa(dp1612
+g2
+S'http://www.reuters.com/article/2012/10/28/art-bunker-idUSL6E8II9DK20121028'
+p1613
+sg4
+S'20121028\xc2\xa09:26AM UTC'
+p1614
+sg6
+S'Swiss offer military bunkers as art storage answer'
+p1615
+sa(dp1616
+g2
+S'http://www.reuters.com/article/2012/10/28/china-protest-sinopec-idUSL3E8LS0CK20121028'
+p1617
+sg4
+S'20121028\xc2\xa09:23AM UTC'
+p1618
+sg6
+S'China shelves chemical plant expansion after protests'
+p1619
+sa(dp1620
+g2
+S'http://www.reuters.com/article/2012/10/28/us-safrica-zuma-cartoon-idUSBRE89R08F20121028'
+p1621
+sg4
+S'20121028\xc2\xa09:23AM UTC'
+p1622
+sg6
+S"South Africa's Zuma drops suit over rape cartoon"
+p1623
+sa(dp1624
+g2
+S'http://www.reuters.com/article/2012/10/28/safrica-zuma-cartoon-idUSL5E8LS1B720121028'
+p1625
+sg4
+S'20121028\xc2\xa09:21AM UTC'
+p1626
+sg6
+S"UPDATE 1-South Africa's Zuma drops suit over rape cartoon"
+p1627
+sa(dp1628
+g2
+S'http://www.reuters.com/article/2012/10/28/pressdigest-britain-sunday-idUSL5E8LS1E120121028'
+p1629
+sg4
+S'20121028\xc2\xa09:20AM UTC'
+p1630
+sg6
+S'PRESS DIGEST - Sunday British business - Oct 28'
+p1631
+sa(dp1632
+g2
+S'http://www.reuters.com/article/2012/10/28/us-kenya-security-idUSBRE89R08420121028'
+p1633
+sg4
+S'20121028\xc2\xa09:18AM UTC'
+p1634
+sg6
+S'Two militant suspects killed in police raid on Kenyan coast'
+p1635
+sa(dp1636
+g2
+S'http://www.reuters.com/article/2012/10/28/kenya-security-idUSL5E8LS18C20121028'
+p1637
+sg4
+S'20121028\xc2\xa09:16AM UTC'
+p1638
+sg6
+S'Two militant suspects killed in police raid on Kenyan coast'
+p1639
+sa(dp1640
+g2
+S'http://www.reuters.com/article/2012/10/28/idUS33187+28-Oct-2012+PRN20121028'
+p1641
+sg4
+S'20121028\xc2\xa09:16AM UTC'
+p1642
+sg6
+S'CEIBS Holds 10th Annual China Automotive Industry Forum 2012'
+p1643
+sa(dp1644
+g2
+S'http://www.reuters.com/article/2012/10/28/us-usa-halloween-costumes-idUSBRE89R07Z20121028'
+p1645
+sg4
+S'20121028\xc2\xa09:04AM UTC'
+p1646
+sg6
+S'Ripped-from-headlines costumes popular for Halloween 2012'
+p1647
+sa(dp1648
+g2
+S'http://www.reuters.com/article/2012/10/28/us-lithuania-election-idUSBRE89R07W20121028'
+p1649
+sg4
+S'20121028\xc2\xa09:02AM UTC'
+p1650
+sg6
+S'Left in Lithuania eyes vote win after austerity pain'
+p1651
+sa(dp1652
+g2
+S'http://www.reuters.com/article/2012/10/28/idUS32652+28-Oct-2012+PRN20121028'
+p1653
+sg4
+S'20121028\xc2\xa09:00AM UTC'
+p1654
+sg6
+S'Following Is a Test Release'
+p1655
+sa(dp1656
+g2
+S'http://www.reuters.com/article/2012/10/28/idUS32645+28-Oct-2012+PRN20121028'
+p1657
+sg4
+S'20121028\xc2\xa09:00AM UTC'
+p1658
+sg6
+S'LOC Enterprises introduces the LOC Card\xc2\xae: a universal loyalty card for consumers and merchants'
+p1659
+sa(dp1660
+g2
+S'http://www.reuters.com/article/2012/10/28/idUS32628+28-Oct-2012+BW20121028'
+p1661
+sg4
+S'20121028\xc2\xa09:00AM UTC'
+p1662
+sg6
+S'Sprint Prepares its Network and Emergency Response for Hurricane Sandy and Nor`easter Conditions'
+p1663
+sa(dp1664
+g2
+S'http://www.reuters.com/article/2012/10/28/russia-prokhorov-idUSL1E8LS06Q20121028'
+p1665
+sg4
+S'20121028\xc2\xa08:56AM UTC'
+p1666
+sg6
+S'Prokhorov reassures investors as he focuses on politics'
+p1667
+sa(dp1668
+g2
+S'http://www.reuters.com/article/2012/10/28/us-iba-louisiana-idUSBRE89R07U20121028'
+p1669
+sg4
+S'20121028\xc2\xa08:55AM UTC'
+p1670
+sg6
+S'IBA signs $40 million U.S. cancer facility deal'
+p1671
+sa(dp1672
+g2
+S'http://www.reuters.com/article/2012/10/28/iba-louisiana-idUSL5E8LS1AL20121028'
+p1673
+sg4
+S'20121028\xc2\xa08:52AM UTC'
+p1674
+sg6
+S'IBA signs $40 mln U.S. cancer facility deal'
+p1675
+sa(dp1676
+g2
+S'http://www.reuters.com/article/2012/10/28/idUS32166+28-Oct-2012+MW20121028'
+p1677
+sg4
+S'20121028\xc2\xa08:39AM UTC'
+p1678
+sg6
+S' Media Advisory: Independent Canadian Observer Mission for Ukrainian Parliamentary Election to Comment on Observations'
+p1679
+sa(dp1680
+g2
+S'http://www.reuters.com/article/2012/10/28/us-eurozone-draghi-idUSBRE89R03H20121028'
+p1681
+sg4
+S'20121028\xc2\xa08:33AM UTC'
+p1682
+sg6
+S'ECB\'s Draghi backs Schaeuble\'s "currency commissioner" -Spiegel'
+p1683
+sa(dp1684
+g2
+S'http://www.reuters.com/article/2012/10/28/us-ecb-nowotny-idUSBRE89R06120121028'
+p1685
+sg4
+S'20121028\xc2\xa08:33AM UTC'
+p1686
+sg6
+S"ECB'S Nowotny says Spain has no immediate need of help"
+p1687
+sa(dp1688
+g2
+S'http://www.reuters.com/article/2012/10/28/idUS31843+28-Oct-2012+PRN20121028'
+p1689
+sg4
+S'20121028\xc2\xa08:30AM UTC'
+p1690
+sg6
+S'Following Is a Test Release'
+p1691
+sa(dp1692
+g2
+S'http://www.reuters.com/article/2012/10/28/us-golf-european-idUSBRE89R07L20121028'
+p1693
+sg4
+S'20121028\xc2\xa08:26AM UTC'
+p1694
+sg6
+S'Hanson holds off McIlroy to produce Shanghai surprise'
+p1695
+sa(dp1696
+g2
+S'http://www.reuters.com/article/2012/10/28/chinacnrcorp-earnings-idUSL3E8LO1FD20121028'
+p1697
+sg4
+S'20121028\xc2\xa08:20AM UTC'
+p1698
+sg6
+S'China CNR Corp Q3 net profit up 17 pct'
+p1699
+sa(dp1700
+g2
+S'http://www.reuters.com/article/2012/10/28/us-saudi-rights-idUSBRE89R07F20121028'
+p1701
+sg4
+S'20121028\xc2\xa08:10AM UTC'
+p1702
+sg6
+S'Saudi Arabia should stop prosecuting peaceful protesters: HRW'
+p1703
+sa(dp1704
+g2
+S'http://www.reuters.com/article/2012/10/28/idUS31130+28-Oct-2012+PRN20121028'
+p1705
+sg4
+S'20121028\xc2\xa08:02AM UTC'
+p1706
+sg6
+S'United Airlines Update on Flight Operations, Customer Options Due to Eastern Weather'
+p1707
+sa(dp1708
+g2
+S'http://www.reuters.com/article/2012/10/28/idUS31073+28-Oct-2012+PRN20121028'
+p1709
+sg4
+S'20121028\xc2\xa08:00AM UTC'
+p1710
+sg6
+S'Following Is a Test Release'
+p1711
+sa(dp1712
+g2
+S'http://www.reuters.com/article/2012/10/28/idUS30998+28-Oct-2012+BW20121028'
+p1713
+sg4
+S'20121028\xc2\xa08:00AM UTC'
+p1714
+sg6
+S'IBA and Philips Announce First Installation of Patient-Centered Proton Treatment Room'
+p1715
+sa(dp1716
+g2
+S'http://www.reuters.com/article/2012/10/28/idUS30995+28-Oct-2012+MW20121028'
+p1717
+sg4
+S'20121028\xc2\xa08:00AM UTC'
+p1718
+sg6
+S' Media Advisory/REMINDER: Minister Fantino to Hold Media Teleconference Regarding Ukrainian Elections'
+p1719
+sa(dp1720
+g2
+S'http://www.reuters.com/article/2012/10/28/us-sap-outlook-idUSBRE89R07520121028'
+p1721
+sg4
+S'20121028\xc2\xa07:59AM UTC'
+p1722
+sg6
+S'SAP eyes "long" period of high sales growth: report'
+p1723
+sa(dp1724
+g2
+S'http://www.reuters.com/article/2012/10/28/syria-crisis-turkey-cameraman-idUSL3E8LS0B220121028'
+p1725
+sg4
+S'20121028\xc2\xa07:58AM UTC'
+p1726
+sg6
+S'Picture shows captured Turkish journalist in Syria alive'
+p1727
+sa(dp1728
+g2
+S'http://www.reuters.com/article/2012/10/28/us-ccb-earnings-idUSBRE89R07320121028'
+p1729
+sg4
+S'20121028\xc2\xa07:58AM UTC'
+p1730
+sg6
+S'China CCB quarterly profit beats estimates as interest income rises'
+p1731
+sa(dp1732
+g2
+S'http://www.reuters.com/article/2012/10/28/us-hawaii-tsunami-downgrade-idUSBRE89R06Y20121028'
+p1733
+sg4
+S'20121028\xc2\xa07:54AM UTC'
+p1734
+sg6
+S'Tsunami warning for Hawaii downgraded; evacuation orders lifted'
+p1735
+sa(dp1736
+g2
+S'http://www.reuters.com/article/2012/10/28/hawaii-tsunami-downgrade-idUSL1E8LS07J20121028'
+p1737
+sg4
+S'20121028\xc2\xa07:53AM UTC'
+p1738
+sg6
+S'Tsunami warning for Hawaii downgraded; evacuation orders lifted'
+p1739
+sa(dp1740
+g2
+S'http://www.reuters.com/article/2012/10/28/sap-outlook-idUSL5E8LS12V20121028'
+p1741
+sg4
+S'20121028\xc2\xa07:50AM UTC'
+p1742
+sg6
+S'SAP eyes "long" period of high sales growth-report'
+p1743
+sa(dp1744
+g2
+S'http://www.reuters.com/article/2012/10/28/ccb-earnings-idUSL3E8LQ4HK20121028'
+p1745
+sg4
+S'20121028\xc2\xa07:49AM UTC'
+p1746
+sg6
+S'UPDATE 1-China CCB Q3 profit beats estimates as interest income rises'
+p1747
+sa(dp1748
+g2
+S'http://www.reuters.com/article/2012/10/28/newscorp-penguin-idUSL5E8LS16720121028'
+p1749
+sg4
+S'20121028\xc2\xa07:48AM UTC'
+p1750
+sg6
+S'News Corp eyes cash bid for Penguin -paper'
+p1751
+sa(dp1752
+g2
+S'http://www.reuters.com/article/2012/10/28/myanmar-violence-idUSL3E8LS0AW20121028'
+p1753
+sg4
+S'20121028\xc2\xa07:47AM UTC'
+p1754
+sg6
+S"CORRECTED-Muslim survivors of Myanmar's sectarian violence relive ordeals"
+p1755
+sa(dp1756
+g2
+S'http://www.reuters.com/article/2012/10/28/israel-natgas-idUSL5E8LS12Z20121028'
+p1757
+sg4
+S'20121028\xc2\xa07:44AM UTC'
+p1758
+sg6
+S'Israel losing 1 bln shekels a month waiting for gas -Ratio CEO'
+p1759
+sa(dp1760
+g2
+S'http://www.reuters.com/article/2012/10/28/britain-boe-bean-idUSL9E7MP00J20121028'
+p1761
+sg4
+S'20121028\xc2\xa07:43AM UTC'
+p1762
+sg6
+S"BoE's Bean sees reason for some optimism on UK growth"
+p1763
+sa(dp1764
+g2
+S'http://www.reuters.com/article/2012/10/28/idUS30239+28-Oct-2012+PRN20121028'
+p1765
+sg4
+S'20121028\xc2\xa07:30AM UTC'
+p1766
+sg6
+S'Following Is a Test Release'
+p1767
+sa(dp1768
+g2
+S'http://www.reuters.com/article/2012/10/28/idUS29077+28-Oct-2012+PRN20121028'
+p1769
+sg4
+S'20121028\xc2\xa07:00AM UTC'
+p1770
+sg6
+S'Following Is a Test Release'
+p1771
+sa(dp1772
+g2
+S'http://www.reuters.com/article/2012/10/28/canada-mining-technology-idUSL1E8LMEAI20121028'
+p1773
+sg4
+S'20121028\xc2\xa06:59AM UTC'
+p1774
+sg6
+S"FEATURE-Miners take 'rail-veyors' and robots to automated future"
+p1775
+sa(dp1776
+g2
+S'http://www.reuters.com/article/2012/10/28/chinasouthernairlines-results-idUSL3E8LQ16B20121028'
+p1777
+sg4
+S'20121028\xc2\xa06:53AM UTC'
+p1778
+sg6
+S'China Southern Airlines Q3 net profit down 29 pct at 2.2 bln yuan'
+p1779
+sa(dp1780
+g2
+S'http://www.reuters.com/article/2012/10/28/cpic-results-idUSL3E8LQ19920121028'
+p1781
+sg4
+S'20121028\xc2\xa06:51AM UTC'
+p1782
+sg6
+S'CPIC says Q3 net profit down 59 pct at 497 bln yuan'
+p1783
+sa(dp1784
+g2
+S'http://www.reuters.com/article/2012/10/28/us-india-politics-idUSBRE89R05Q20121028'
+p1785
+sg4
+S'20121028\xc2\xa06:47AM UTC'
+p1786
+sg6
+S'Eyeing elections, India PM adds new blood to cabinet'
+p1787
+sa(dp1788
+g2
+S'http://www.reuters.com/article/2012/10/28/us-spain-eta-arrests-idUSBRE89R05H20121028'
+p1789
+sg4
+S'20121028\xc2\xa06:39AM UTC'
+p1790
+sg6
+S'French police arrest suspected head of ETA'
+p1791
+sa(dp1792
+g2
+S'http://www.reuters.com/article/2012/10/28/idUS27898+28-Oct-2012+PRN20121028'
+p1793
+sg4
+S'20121028\xc2\xa06:30AM UTC'
+p1794
+sg6
+S'Following Is a Test Release'
+p1795
+sa(dp1796
+g2
+S'http://www.reuters.com/article/2012/10/28/ccb-earnings-idUSH9E8KP02P20121028'
+p1797
+sg4
+S'20121028\xc2\xa06:28AM UTC'
+p1798
+sg6
+S'China Construction Bank Q3 rises 12 pct, beats estimates'
+p1799
+sa(dp1800
+g2
+S'http://www.reuters.com/article/2012/10/28/us-golf-pga-malaysia-idUSBRE89R02W20121028'
+p1801
+sg4
+S'20121028\xc2\xa06:16AM UTC'
+p1802
+sg6
+S'Golf: Watney shoots 61 to win in Malaysia, Woods fourth'
+p1803
+sa(dp1804
+g2
+S'http://www.reuters.com/article/2012/10/28/us-motorcycling-australia-stoner-idUSBRE89R05120121028'
+p1805
+sg4
+S'20121028\xc2\xa06:14AM UTC'
+p1806
+sg6
+S'Motorcycling: Stoner laps up fairytale finish Down Under'
+p1807
+sa(dp1808
+g2
+S'http://www.reuters.com/article/2012/10/28/us-golf-pga-malaysia-watney-idUSBRE89R04T20121028'
+p1809
+sg4
+S'20121028\xc2\xa06:11AM UTC'
+p1810
+sg6
+S'Golf: Trio of caddies and sparkling rounds end in Watney win'
+p1811
+sa(dp1812
+g2
+S'http://www.reuters.com/article/2012/10/28/us-lonza-idUSBRE89R04P20121028'
+p1813
+sg4
+S'20121028\xc2\xa06:08AM UTC'
+p1814
+sg6
+S'Lonza chairman rejects takeover talk: paper'
+p1815
+sa(dp1816
+g2
+S'http://www.reuters.com/article/2012/10/28/us-iran-military-idUSBRE89R04J20121028'
+p1817
+sg4
+S'20121028\xc2\xa06:03AM UTC'
+p1818
+sg6
+S'Iran has advanced drone technology: defense minister'
+p1819
+sa(dp1820
+g2
+S'http://www.reuters.com/article/2012/10/28/idUS26597+28-Oct-2012+PRN20121028'
+p1821
+sg4
+S'20121028\xc2\xa06:00AM UTC'
+p1822
+sg6
+S'Following Is a Test Release'
+p1823
+sa(dp1824
+g2
+S'http://www.reuters.com/article/2012/10/28/poland-innovation-idUSL5E8LM7VA20121028'
+p1825
+sg4
+S'20121028\xc2\xa06:00AM UTC'
+p1826
+sg6
+S'FEATURE-Poland stumbles on journey from low-cost to hi-tech'
+p1827
+sa(dp1828
+g2
+S'http://www.reuters.com/article/2012/10/28/idUS26539+28-Oct-2012+PRN20121028'
+p1829
+sg4
+S'20121028\xc2\xa05:59AM UTC'
+p1830
+sg6
+S'GOOD MORNING'
+p1831
+sa(dp1832
+g2
+S'http://www.reuters.com/article/2012/10/28/india-politics-idUSL3E8LP4N120121028'
+p1833
+sg4
+S'20121028\xc2\xa05:54AM UTC'
+p1834
+sg6
+S'REFILE-Eyeing elections, India PM adds new blood to cabinet'
+p1835
+sa(dp1836
+g2
+S'http://www.reuters.com/article/2012/10/28/iran-military-idUSL5E8LS0EO20121028'
+p1837
+sg4
+S'20121028\xc2\xa05:53AM UTC'
+p1838
+sg6
+S'Iran has advanced drone technology: defence minister'
+p1839
+sa(dp1840
+g2
+S'http://www.reuters.com/article/2012/10/28/safrica-zuma-cartoon-idUSL5E8LS0IG20121028'
+p1841
+sg4
+S'20121028\xc2\xa05:46AM UTC'
+p1842
+sg6
+S"S.Africa's Zuma drops suit over rape cartoon - paper"
+p1843
+sa(dp1844
+g2
+S'http://www.reuters.com/article/2012/10/28/lonza-idUSL5E8LS0NO20121028'
+p1845
+sg4
+S'20121028\xc2\xa05:40AM UTC'
+p1846
+sg6
+S'Lonza chairman rejects takeover talk - paper'
+p1847
+sa(dp1848
+g2
+S'http://www.reuters.com/article/2012/10/28/us-usa-campaign-rubio-idUSBRE89R00N20121028'
+p1849
+sg4
+S'20121028\xc2\xa05:39AM UTC'
+p1850
+sg6
+S'Rubio leaves Romney motorcade after daughter in car accident'
+p1851
+sa(dp1852
+g2
+S'http://www.reuters.com/article/2012/10/28/us-usa-campaign-europe-idUSBRE89R04A20121028'
+p1853
+sg4
+S'20121028\xc2\xa05:38AM UTC'
+p1854
+sg6
+S'Close race makes up for waning zeal in expat vote'
+p1855
+sa(dp1856
+g2
+S'http://www.reuters.com/article/2012/10/28/idUS25874+28-Oct-2012+PRN20121028'
+p1857
+sg4
+S'20121028\xc2\xa05:30AM UTC'
+p1858
+sg6
+S'Following Is a Test Release'
+p1859
+sa(dp1860
+g2
+S'http://www.reuters.com/article/2012/10/28/us-grain-consolidation-idUSBRE89R03Z20121028'
+p1861
+sg4
+S'20121028\xc2\xa05:22AM UTC'
+p1862
+sg6
+S'Consumers, farmers squeezed as grain giants tighten grip'
+p1863
+sa(dp1864
+g2
+S'http://www.reuters.com/article/2012/10/28/us-grain-consolidation-fact-idUSBRE89R04320121028'
+p1865
+sg4
+S'20121028\xc2\xa05:22AM UTC'
+p1866
+sg6
+S'Factbox: Major acquisitions in global grain trading'
+p1867
+sa(dp1868
+g2
+S'http://www.reuters.com/article/2012/10/28/us-russia-ship-idUSBRE89R03S20121028'
+p1869
+sg4
+S'20121028\xc2\xa05:05AM UTC'
+p1870
+sg6
+S'Russian ship missing in rough Okhotsk Sea, 11 on board'
+p1871
+sa(dp1872
+g2
+S'http://www.reuters.com/article/2012/10/28/grain-consolidation-idUSL5E8LO8DF20121028'
+p1873
+sg4
+S'20121028\xc2\xa05:04AM UTC'
+p1874
+sg6
+S'Consumers, farmers squeezed as grain giants tighten grip'
+p1875
+sa(dp1876
+g2
+S'http://www.reuters.com/article/2012/10/28/us-syria-crisis-damascus-idUSBRE89R03M20121028'
+p1877
+sg4
+S'20121028\xc2\xa05:03AM UTC'
+p1878
+sg6
+S'Syrian fighter jets bombard suburbs of eastern Damascus'
+p1879
+sa(dp1880
+g2
+S'http://www.reuters.com/article/2012/10/28/idUS25114+28-Oct-2012+PRN20121028'
+p1881
+sg4
+S'20121028\xc2\xa05:00AM UTC'
+p1882
+sg6
+S'Following Is a Test Release'
+p1883
+sa(dp1884
+g2
+S'http://www.reuters.com/article/2012/10/28/usa-campaign-europe-idUSL5E8LPFBT20121028'
+p1885
+sg4
+S'20121028\xc2\xa05:00AM UTC'
+p1886
+sg6
+S'Close race makes up for waning zeal in US expat vote'
+p1887
+sa(dp1888
+g2
+S'http://www.reuters.com/article/2012/10/28/russia-ship-idUSL5E8LS0MD20121028'
+p1889
+sg4
+S'20121028\xc2\xa04:59AM UTC'
+p1890
+sg6
+S'Russian ship missing in rough Okhotsk Sea, 11 on board'
+p1891
+sa(dp1892
+g2
+S'http://www.reuters.com/article/2012/10/28/syria-crisis-damascus-idUSL5E8LS0JB20121028'
+p1893
+sg4
+S'20121028\xc2\xa04:58AM UTC'
+p1894
+sg6
+S'UPDATE 1-Syrian fighter jets bombard suburbs of eastern Damascus'
+p1895
+sa(dp1896
+g2
+S'http://www.reuters.com/article/2012/10/28/britain-savile-idUSL5E8LS0JE20121028'
+p1897
+sg4
+S'20121028\xc2\xa04:56AM UTC'
+p1898
+sg6
+S'British police arrest man in Savile investigation'
+p1899
+sa(dp1900
+g2
+S'http://www.reuters.com/article/2012/10/28/idUS24908+28-Oct-2012+BW20121028'
+p1901
+sg4
+S'20121028\xc2\xa04:50AM UTC'
+p1902
+sg6
+S'NCKU and AD Group Sign Licensing Agreement for Carbon Fiber Mat'
+p1903
+sa(dp1904
+g2
+S'http://www.reuters.com/article/2012/10/28/us-motor-racing-prix-ecclestone-idUSBRE89R03Q20121028'
+p1905
+sg4
+S'20121028\xc2\xa04:46AM UTC'
+p1906
+sg6
+S'Motor racing: France could return in 2013 - Ecclestone'
+p1907
+sa(dp1908
+g2
+S'http://www.reuters.com/article/2012/10/28/syria-crisis-damascus-idUSL5E8LS0IE20121028'
+p1909
+sg4
+S'20121028\xc2\xa04:35AM UTC'
+p1910
+sg6
+S'Syrian fighter jets bombard suburbs of eastern Damascus'
+p1911
+sa(dp1912
+g2
+S'http://www.reuters.com/article/2012/10/28/idUS23842+28-Oct-2012+PRN20121028'
+p1913
+sg4
+S'20121028\xc2\xa04:30AM UTC'
+p1914
+sg6
+S'Following Is a Test Release'
+p1915
+sa(dp1916
+g2
+S'http://www.reuters.com/article/2012/10/28/idUS23831+28-Oct-2012+BW20121028'
+p1917
+sg4
+S'20121028\xc2\xa04:30AM UTC'
+p1918
+sg6
+S'Havok Partners with Communication University of China to Offer Educational Programs for Game Developers'
+p1919
+sa(dp1920
+g2
+S'http://www.reuters.com/article/2012/10/28/us-baseball-japan-ban-idUSBRE89R03F20121028'
+p1921
+sg4
+S'20121028\xc2\xa04:19AM UTC'
+p1922
+sg6
+S'Japan revisits rules after schoolboy sensation eyes MLB'
+p1923
+sa(dp1924
+g2
+S'http://www.reuters.com/article/2012/10/28/us-mallya-kingfisher-interview-idUSBRE89R03B20121028'
+p1925
+sg4
+S'20121028\xc2\xa04:13AM UTC'
+p1926
+sg6
+S'India\'s Mallya will not sell "family silver" for Kingfisher'
+p1927
+sa(dp1928
+g2
+S'http://www.reuters.com/article/2012/10/28/us-mallya-kingfisher-interview-idUSBRE89R03920121028'
+p1929
+sg4
+S'20121028\xc2\xa04:12AM UTC'
+p1930
+sg6
+S'India\'s Mallya will not sell "family silver" for Kingfisher'
+p1931
+sa(dp1932
+g2
+S'http://www.reuters.com/article/2012/10/28/us-indonesia-militants-idUSBRE89Q0CV20121028'
+p1933
+sg4
+S'20121028\xc2\xa04:05AM UTC'
+p1934
+sg6
+S'Indonesia militant arrests show shift to violence'
+p1935
+sa(dp1936
+g2
+S'http://www.reuters.com/article/2012/10/28/indonesia-militants-idUSL5E8LR1YC20121028'
+p1937
+sg4
+S'20121028\xc2\xa04:01AM UTC'
+p1938
+sg6
+S'UPDATE 2-Indonesia militant arrests show shift to violence'
+p1939
+sa(dp1940
+g2
+S'http://www.reuters.com/article/2012/10/28/idUS21051+28-Oct-2012+PRN20121028'
+p1941
+sg4
+S'20121028\xc2\xa04:00AM UTC'
+p1942
+sg6
+S'Following Is a Test Release'
+p1943
+sa(dp1944
+g2
+S'http://www.reuters.com/article/2012/10/28/us-basketball-china-mcgrady-idUSBRE89R03020121028'
+p1945
+sg4
+S'20121028\xc2\xa03:39AM UTC'
+p1946
+sg6
+S'Basketball: McGrady denies money a factor in China move'
+p1947
+sa(dp1948
+g2
+S'http://www.reuters.com/article/2012/10/28/idUS18441+28-Oct-2012+PRN20121028'
+p1949
+sg4
+S'20121028\xc2\xa03:30AM UTC'
+p1950
+sg6
+S'Following Is a Test Release'
+p1951
+sa(dp1952
+g2
+S'http://www.reuters.com/article/2012/10/28/us-motorcycling-yamaha-spies-idUSBRE89R02Q20121028'
+p1953
+sg4
+S'20121028\xc2\xa03:27AM UTC'
+p1954
+sg6
+S'Motorcycling: Nakasuka to replace injured Spies in Valencia'
+p1955
+sa(dp1956
+g2
+S'http://www.reuters.com/article/2012/10/28/us-motorcycling-australia-idUSBRE89R02C20121028'
+p1957
+sg4
+S'20121028\xc2\xa03:13AM UTC'
+p1958
+sg6
+S'Motorcycling: Watchful Lorenzo seals second MotoGP title'
+p1959
+sa(dp1960
+g2
+S'http://www.reuters.com/article/2012/10/28/idUS17292+28-Oct-2012+PRN20121028'
+p1961
+sg4
+S'20121028\xc2\xa03:00AM UTC'
+p1962
+sg6
+S'Following Is a Test Release'
+p1963
+sa(dp1964
+g2
+S'http://www.reuters.com/article/2012/10/28/us-motor-racing-prix-ecclestone-idUSBRE89R02J20121028'
+p1965
+sg4
+S'20121028\xc2\xa02:58AM UTC'
+p1966
+sg6
+S'Motor racing: French GP could return in 2013 - Ecclestone'
+p1967
+sa(dp1968
+g2
+S'http://www.reuters.com/article/2012/10/28/storm-sandy-idUSL1E8LS03X20121028'
+p1969
+sg4
+S'20121028\xc2\xa02:38AM UTC'
+p1970
+sg6
+S'Hurricane Sandy set to make history as it aims at U.S. coast'
+p1971
+sa(dp1972
+g2
+S'http://www.reuters.com/article/2012/10/28/quake-canada-idUSL1E8LS03H20121028'
+p1973
+sg4
+S'20121028\xc2\xa02:37AM UTC'
+p1974
+sg6
+S"UPDATE 3-7.7 magnitude quake hits Canada's British Columbia"
+p1975
+sa(dp1976
+g2
+S'http://www.reuters.com/article/2012/10/28/idUS16744+28-Oct-2012+PRN20121028'
+p1977
+sg4
+S'20121028\xc2\xa02:30AM UTC'
+p1978
+sg6
+S'Following Is a Test Release'
+p1979
+sa(dp1980
+g2
+S'http://www.reuters.com/article/2012/10/28/us-baseball-worldseries-idUSBRE89R01H20121028'
+p1981
+sg4
+S'20121028\xc2\xa02:01AM UTC'
+p1982
+sg6
+S'Baseball: Giants silence Tigers to lead World Series 3-0'
+p1983
+sa(dp1984
+g2
+S'http://www.reuters.com/article/2012/10/28/us-baseball-worldseries-tigers-idUSBRE89R02B20121028'
+p1985
+sg4
+S'20121028\xc2\xa02:01AM UTC'
+p1986
+sg6
+S'Baseball: Tigers turn to clich\xc3\xa9s as World Series sweep looms'
+p1987
+sa(dp1988
+g2
+S'http://www.reuters.com/article/2012/10/28/idUS16111+28-Oct-2012+PRN20121028'
+p1989
+sg4
+S'20121028\xc2\xa02:00AM UTC'
+p1990
+sg6
+S'Following Is a Test Release'
+p1991
+sa(dp1992
+g2
+S'http://www.reuters.com/article/2012/10/28/us-baseball-worldseries-lincecum-idUSBRE89R02620121028'
+p1993
+sg4
+S'20121028\xc2\xa01:42AM UTC'
+p1994
+sg6
+S'Lincecum relishes new bullpen role for Giants'
+p1995
+sa(dp1996
+g2
+S'http://www.reuters.com/article/2012/10/28/us-nba-thunder-trade-idUSBRE89R01X20121028'
+p1997
+sg4
+S'20121028\xc2\xa01:38AM UTC'
+p1998
+sg6
+S'NBA: Harden leaves Thunder for Rockets in multi-player trade'
+p1999
+sa(dp2000
+g2
+S'http://www.reuters.com/article/2012/10/28/idUS15664+28-Oct-2012+PRN20121028'
+p2001
+sg4
+S'20121028\xc2\xa01:30AM UTC'
+p2002
+sg6
+S'Following Is a Test Release'
+p2003
+sa(dp2004
+g2
+S'http://www.reuters.com/article/2012/10/28/idUS15383+28-Oct-2012+PRN20121028'
+p2005
+sg4
+S'20121028\xc2\xa01:00AM UTC'
+p2006
+sg6
+S'Following Is a Test Release'
+p2007
+sa(dp2008
+g2
+S'http://www.reuters.com/article/2012/10/28/idUS15347+28-Oct-2012+PRN20121028'
+p2009
+sg4
+S'20121028\xc2\xa012:57AM UTC'
+p2010
+sg6
+S"#1 New York Times Bestselling Author Wraps Kids in Warm Knits, Partners with World Vision's Knit for Kids and Vogue Knitting LIVE in Chicago"
+p2011
+sa(dp2012
+g2
+S'http://www.reuters.com/article/2012/10/28/idUS15258+28-Oct-2012+PRN20121028'
+p2013
+sg4
+S'20121028\xc2\xa012:43AM UTC'
+p2014
+sg6
+S'The Stars Come Out in Support of the Multiple Myeloma Research Foundation (MMRF) at 15th Anniversary Fall Gala'
+p2015
+sa(dp2016
+g2
+S'http://www.reuters.com/article/2012/10/28/us-australia-asia-idUSBRE89R01V20121028'
+p2017
+sg4
+S'20121028\xc2\xa012:38AM UTC'
+p2018
+sg6
+S'Australia aims to lift Asia trade to one third of GDP by 2025'
+p2019
+sa(dp2020
+g2
+S'http://www.reuters.com/article/2012/10/28/australia-asia-idUSL3E8LS04B20121028'
+p2021
+sg4
+S'20121028\xc2\xa012:31AM UTC'
+p2022
+sg6
+S'Australia aims to lift Asia trade to one third of GDP by 2025'
+p2023
+sa(dp2024
+g2
+S'http://www.reuters.com/article/2012/10/28/idUS15104+28-Oct-2012+PRN20121028'
+p2025
+sg4
+S'20121028\xc2\xa012:30AM UTC'
+p2026
+sg6
+S'Following Is a Test Release'
+p2027
+sa(dp2028
+g2
+S'http://www.reuters.com/article/2012/10/28/crude-fpso-idUSL3E8LR05F20121028'
+p2029
+sg4
+S'20121028\xc2\xa012:17AM UTC'
+p2030
+sg6
+S'CORRECTED-UPDATE 1-Bumi Armada completes 1st FPSO to India, seeks more projects'
+p2031
+sa(dp2032
+g2
+S'http://www.reuters.com/article/2012/10/28/us-japan-oil-refining-idUSBRE89R01Q20121028'
+p2033
+sg4
+S'20121028\xc2\xa012:13AM UTC'
+p2034
+sg6
+S"Japan's JX to shut oil refinery operation in Muroran: Nikkei"
+p2035
+sa(dp2036
+g2
+S'http://www.reuters.com/article/2012/10/28/us-china-tibet-idUSBRE89R01L20121028'
+p2037
+sg4
+S'20121028\xc2\xa012:10AM UTC'
+p2038
+sg6
+S'Seven Tibetans burn themselves in anti-Beijing protests: group'
+p2039
+sa(dp2040
+g2
+S'http://www.reuters.com/article/2012/10/28/idUS14771+28-Oct-2012+PRN20121028'
+p2041
+sg4
+S'20121028\xc2\xa012:01AM UTC'
+p2042
+sg6
+S'U.S. Census Bureau Daily Feature for October 28'
+p2043
+sa(dp2044
+g2
+S'http://www.reuters.com/article/2012/10/28/idUS14757+28-Oct-2012+PRN20121028'
+p2045
+sg4
+S'20121028\xc2\xa012:00AM UTC'
+p2046
+sg6
+S'Following Is a Test Release'
+p2047
+sa(dp2048
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=50451259'
+p2049
+sg4
+S'20121028\xc2\xa011:45PM UTC'
+p2050
+sg6
+S"NBA's David Stern: Obama's hoop skills, the Dream Team and Magic Johnson - Impact Players"
+p2051
+sa(dp2052
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=50450925'
+p2053
+sg4
+S'20121028\xc2\xa011:22PM UTC'
+p2054
+sg6
+S'Halloween-style protest in Tokyo'
+p2055
+sa(dp2056
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=50449465'
+p2057
+sg4
+S'20121028\xc2\xa010:00PM UTC'
+p2058
+sg6
+S'\xe6\xbf\x80\xe6\x88\xa6\xe3\x81\x8c\xe7\xb6\x9a\xe3\x81\x8f\xe3\x82\xaa\xe3\x83\x8f\xe3\x82\xa4\xe3\x82\xaa\xe5\xb7\x9e\xe3\x80\x81\xe7\xb1\xb3\xe5\xa4\xa7\xe7\xb5\xb1\xe9\xa0\x98\xe9\x81\xb8\xe3\x81\xa7\xe4\xb8\xa1\xe5\x80\x99\xe8\xa3\x9c\xe3\x81\x8c\xe3\x81\xbb\xe3\x81\xbc\xe4\xba\x92\xe8\xa7\x92\xef\xbc\x88\xe5\xad\x97\xe5\xb9\x95\xe3\x83\xbb29\xe6\x97\xa5\xef\xbc\x89'
+p2059
+sa(dp2060
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=50449296'
+p2061
+sg4
+S'20121028\xc2\xa09:53PM UTC'
+p2062
+sg6
+S'\xe7\xb1\xb3\xe3\x82\xa2\xe3\x83\x9e\xe3\x82\xbe\xe3\x83\xb3\xe3\x81\x8c\xe3\x83\x96\xe3\x83\xa9\xe3\x83\xb3\xe3\x83\x89\xe5\x93\x81\xe3\x82\x92\xe3\x83\x8d\xe3\x83\x83\xe3\x83\x88\xe3\x81\xa7\xe8\xb2\xa9\xe5\xa3\xb2\xe3\x80\x81\xe3\x83\x95\xe3\x82\xa1\xe3\x83\x83\xe3\x82\xb7\xe3\x83\xa7\xe3\x83\xb3\xe5\x88\x86\xe9\x87\x8e\xe3\x81\xab\xe6\x9c\xac\xe8\x85\xb0\xef\xbc\x88\xe5\xad\x97\xe5\xb9\x95\xe3\x83\xbb27\xe6\x97\xa5\xef\xbc\x89'
+p2063
+sa(dp2064
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=50449108'
+p2065
+sg4
+S'20121028\xc2\xa09:48PM UTC'
+p2066
+sg6
+S'\xe3\x83\x8f\xe3\x83\xaa\xe3\x82\xb1\xe3\x83\xbc\xe3\x83\xb3\xe3\x80\x8c\xe3\x82\xb5\xe3\x83\xb3\xe3\x83\x87\xe3\x82\xa3\xe3\x80\x8d\xe3\x80\x81\xe3\x82\xab\xe3\x83\xaa\xe3\x83\x96\xe6\xb5\xb7\xe6\xb2\xbf\xe5\xb2\xb8\xe3\x81\xab\xe8\xa2\xab\xe5\xae\xb3\xef\xbc\x88\xe5\xad\x97\xe5\xb9\x95\xe3\x83\xbb27\xe6\x97\xa5\xef\xbc\x89'
+p2067
+sa(dp2068
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=50448992'
+p2069
+sg4
+S'20121028\xc2\xa09:44PM UTC'
+p2070
+sg6
+S'\xe3\x82\xb9\xe3\x83\x9a\xe3\x82\xa4\xe3\x83\xb3\xe5\xa4\xb1\xe6\xa5\xad\xe7\x8e\x87\xe3\x80\x81\xe9\x81\x8e\xe5\x8e\xbb\xe6\x9c\x80\xe9\xab\x98\xe3\x81\xae25\xef\xbc\x85\xe3\x81\xab\xe4\xb8\x8a\xe6\x98\x87\xef\xbc\x88\xe5\xad\x97\xe5\xb9\x95\xe3\x83\xbb27\xe6\x97\xa5\xef\xbc\x89'
+p2071
+sa(dp2072
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=50449112'
+p2073
+sg4
+S'20121028\xc2\xa09:37PM UTC'
+p2074
+sg6
+S'Parts of New Jersey, Maryland evacuated ahead of Sandy'
+p2075
+sa(dp2076
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=50469760'
+p2077
+sg4
+S'20121028\xc2\xa08:54PM UTC'
+p2078
+sg6
+S'Superstorm Sandy shuts down bright lights of Broadway'
+p2079
+sa(dp2080
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=50467175'
+p2081
+sg4
+S'20121028\xc2\xa08:09PM UTC'
+p2082
+sg6
+S'Time-lapse animation of Hurricane Sandy'
+p2083
+sa(dp2084
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=50466246'
+p2085
+sg4
+S'20121028\xc2\xa08:00PM UTC'
+p2086
+sg6
+S'Market Pulse: Sentiment sours as Sandy shuts U.S.'
+p2087
+sa(dp2088
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=50444328'
+p2089
+sg4
+S'20121028\xc2\xa05:15PM UTC'
+p2090
+sg6
+S'Battleground Ohio'
+p2091
+sa(dp2092
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=50442233'
+p2093
+sg4
+S'20121028\xc2\xa03:58PM UTC'
+p2094
+sg6
+S'Obama: "This is a serious and big storm"'
+p2095
+sa(dp2096
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=50442728'
+p2097
+sg4
+S'20121028\xc2\xa03:08PM UTC'
+p2098
+sg6
+S"Shelling on day three of Syrian 'ceasefire'"
+p2099
+sa(dp2100
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=50440953'
+p2101
+sg4
+S'20121028\xc2\xa02:19PM UTC'
+p2102
+sg6
+S'Pope prays for Hurricane Sandy victims, Syria'
+p2103
+sa(dp2104
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=50440226'
+p2105
+sg4
+S'20121028\xc2\xa01:28PM UTC'
+p2106
+sg6
+S'Tourists wade in knee-deep water in Venice'
+p2107
+sa(dp2108
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=50437297'
+p2109
+sg4
+S'20121028\xc2\xa011:48AM UTC'
+p2110
+sg6
+S'Ex-pop star arrested amid UK sex abuse probe'
+p2111
+sa(dp2112
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=50436799'
+p2113
+sg4
+S'20121028\xc2\xa011:22AM UTC'
+p2114
+sg6
+S'Klitschko aims for political knockout'
+p2115
+sa(dp2116
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=50367472'
+p2117
+sg4
+S'20121028\xc2\xa011:00AM UTC'
+p2118
+sg6
+S'Taking rescue robots through the paces'
+p2119
+sa(dp2120
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=50427988'
+p2121
+sg4
+S'20121028\xc2\xa010:50AM UTC'
+p2122
+sg6
+S'Indonesians react to militants arrest'
+p2123
+sa(dp2124
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=50435673'
+p2125
+sg4
+S'20121028\xc2\xa010:40AM UTC'
+p2126
+sg6
+S'Snow and wind batter France'
+p2127
+sa(dp2128
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=50435684'
+p2129
+sg4
+S'20121028\xc2\xa010:40AM UTC'
+p2130
+sg6
+S'Muslims stone devil as haj reaches end'
+p2131
+sa(dp2132
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=50434556'
+p2133
+sg4
+S'20121028\xc2\xa010:16AM UTC'
+p2134
+sg6
+S'Hawaii escapes tsunami damage'
+p2135
+sa(dp2136
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=50433560'
+p2137
+sg4
+S'20121028\xc2\xa09:50AM UTC'
+p2138
+sg6
+S'Scientists see healthy future for dissolvable electronics'
+p2139
+sa(dp2140
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=50429409'
+p2141
+sg4
+S'20121028\xc2\xa06:50AM UTC'
+p2142
+sg6
+S'Halloween style protest in Tokyo'
+p2143
+sa(dp2144
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=50429053'
+p2145
+sg4
+S'20121028\xc2\xa06:40AM UTC'
+p2146
+sg6
+S'Cuba clears up as Sandy heads to U.S.'
+p2147
+sa(dp2148
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=50428903'
+p2149
+sg4
+S'20121028\xc2\xa06:27AM UTC'
+p2150
+sg6
+S"'Super typhoon' roars past China"
+p2151
+sa(dp2152
+g2
+S'http://www.reuters.com/news/video/videoStory?storyID=50426769'
+p2153
+sg4
+S'20121028\xc2\xa03:01AM UTC'
+p2154
+sg6
+S'Cameras monitor Eid celebration in Saudi'
+p2155
+sa.
