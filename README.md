@@ -15,11 +15,11 @@ ts = 20070228 11:42 AM EST, t = Chile's CMPC net profit falls 13 pct in 2006, h
 ts = 20070228 11:42 AM EST, t = Toyota Venezuela to halt March ops on currency woes, h= http://www.reuters.com/article/tnBasicIndustries-SP/idUSN2827887820070228
 ```
 
-Each pickle file in `data` represents a day (e.g. 20160102.pkl is for Jan, 2 2016).
+Each pickle file in `data` represents a day (e.g. `20160102.pkl` is for Jan, 2 2016).
 
-One day is composed of `n` news, gathered in a list.
+One day is composed of several news, gathered in a `list`.
 
-Each news is of the form:
+Each news is a `dict` of the form:
 
 ```
 ts: timestamp of the form 20070228 11:46 AM EST
